@@ -1,0 +1,482 @@
+[
+  {
+    "id": "zemmour-education-1",
+    "perso": "zemmour",
+    "sujet": "education",
+    "intitule": "Créer un ministère de l'Instruction publique, du Patrimoine et de la Culture",
+    "detail": "Le programme 2022 prévoit un « grand ministère de l'instruction publique, du patrimoine et de la culture ».",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-education-2",
+    "perso": "zemmour",
+    "sujet": "education",
+    "intitule": "Rétablir les filières littéraire, scientifique et économique au lycée",
+    "detail": "Le programme 2022 propose de revenir aux filières du lycée (littéraire, scientifique, économique).",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-education-3",
+    "perso": "zemmour",
+    "sujet": "education",
+    "intitule": "Recruter 50 000 accompagnants d'élèves en situation de handicap (AESH)",
+    "detail": "Le programme 2022 prévoit le recrutement de 50 000 AESH supplémentaires.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.previssima.fr/actualite/presidentielle-2022-le-programme-deric-zemmour-europe-ecologie-les-verts-en-matiere-de-protection-sociale-infographie.html",
+      "libelle": "Previssima, « Présidentielle 2022 : le programme d'Éric Zemmour en matière de protection sociale »",
+      "date": "2022-03-28"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-education-u",
+    "perso": "zemmour",
+    "sujet": "education",
+    "intitule": "Mettre fin au collège unique",
+    "detail": "Le programme 2022 propose la suppression du collège unique, dans un projet d'assimilation « par le creuset de l'école ».",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-retraites-1",
+    "perso": "zemmour",
+    "sujet": "retraites",
+    "intitule": "Créer un index de l'emploi des seniors dans les entreprises",
+    "detail": "Le programme 2022 prévoit un index pour inciter les entreprises à maintenir les seniors en emploi.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.previssima.fr/actualite/presidentielle-2022-le-programme-deric-zemmour-europe-ecologie-les-verts-en-matiere-de-protection-sociale-infographie.html",
+      "libelle": "Previssima, « Présidentielle 2022 : le programme d'Éric Zemmour en matière de protection sociale »",
+      "date": "2022-03-28"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-retraites-2",
+    "perso": "zemmour",
+    "sujet": "retraites",
+    "intitule": "Exonérer de CSG et de CRDS les pensions inférieures à 1 300 € par mois",
+    "detail": "Le programme 2022 prévoit une exonération totale de CSG et CRDS pour les pensions sous 1 300 € mensuels.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.previssima.fr/actualite/presidentielle-2022-le-programme-deric-zemmour-europe-ecologie-les-verts-en-matiere-de-protection-sociale-infographie.html",
+      "libelle": "Previssima, « Présidentielle 2022 : le programme d'Éric Zemmour en matière de protection sociale »",
+      "date": "2022-03-28"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-retraites-3",
+    "perso": "zemmour",
+    "sujet": "retraites",
+    "intitule": "Porter la pension de réversion de 54 % à 75 %",
+    "detail": "Le programme 2022 propose de relever la part de la pension de réversion du conjoint survivant de 54 % à 75 %.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.previssima.fr/actualite/presidentielle-2022-le-programme-deric-zemmour-europe-ecologie-les-verts-en-matiere-de-protection-sociale-infographie.html",
+      "libelle": "Previssima, « Présidentielle 2022 : le programme d'Éric Zemmour en matière de protection sociale »",
+      "date": "2022-03-28"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-retraites-u",
+    "perso": "zemmour",
+    "sujet": "retraites",
+    "intitule": "Reporter l'âge légal de départ à la retraite à 64 ans",
+    "detail": "Le programme 2022 prévoit de relever l'âge légal de départ à 64 ans.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-pouvoir-achat-1",
+    "perso": "zemmour",
+    "sujet": "pouvoir-achat",
+    "intitule": "Exonérer les heures supplémentaires d'impôt et de charges sociales",
+    "detail": "Le programme 2022 prévoit de défiscaliser et désocialiser les heures supplémentaires.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-pouvoir-achat-2",
+    "perso": "zemmour",
+    "sujet": "pouvoir-achat",
+    "intitule": "Baisser les impôts de production de 30 milliards d'euros",
+    "detail": "Le programme 2022 prévoit une baisse de 30 Md€ des impôts de production (28 Md€ dans le chiffrage ultérieur).",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-pouvoir-achat-3",
+    "perso": "zemmour",
+    "sujet": "pouvoir-achat",
+    "intitule": "Rendre les allocations familiales de nouveau universelles",
+    "detail": "Le programme 2022 propose de supprimer la modulation des allocations familiales selon les revenus.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.previssima.fr/actualite/presidentielle-2022-le-programme-deric-zemmour-europe-ecologie-les-verts-en-matiere-de-protection-sociale-infographie.html",
+      "libelle": "Previssima, « Présidentielle 2022 : le programme d'Éric Zemmour en matière de protection sociale »",
+      "date": "2022-03-28"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-pouvoir-achat-u",
+    "perso": "zemmour",
+    "sujet": "pouvoir-achat",
+    "intitule": "Baisser la CSG pour verser l'équivalent d'un 13e mois aux revenus modestes",
+    "detail": "Le programme 2022 prévoit une baisse de CSG pour les salariés et indépendants modestes, financée selon lui par la fin des aides sociales aux étrangers.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-immigration-1",
+    "perso": "zemmour",
+    "sujet": "immigration",
+    "intitule": "Supprimer le droit du sol",
+    "detail": "Le programme 2022 prévoit la fin du droit du sol pour l'acquisition de la nationalité française.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-immigration-2",
+    "perso": "zemmour",
+    "sujet": "immigration",
+    "intitule": "Supprimer le regroupement familial",
+    "detail": "Le programme 2022 propose la suppression du regroupement familial.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-immigration-3",
+    "perso": "zemmour",
+    "sujet": "immigration",
+    "intitule": "Expulser les étrangers restés un an sans emploi, même en situation régulière",
+    "detail": "Annoncé le 17 septembre 2026 sur BFMTV : un étranger, même en situation régulière, serait expulsé après un an sans travail.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027",
+      "libelle": "Public Sénat, « Éric Zemmour officialise sa candidature à la présidentielle 2027 »",
+      "date": "2026-09-18"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-immigration-u",
+    "perso": "zemmour",
+    "sujet": "immigration",
+    "intitule": "Créer un ministère de la Remigration",
+    "detail": "Le programme 2022 prévoit un « grand ministère de la remigration » chargé de l'expulsion des étrangers jugés indésirables.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-ecologie-1",
+    "perso": "zemmour",
+    "sujet": "ecologie",
+    "intitule": "Annuler la fermeture prévue de 12 réacteurs nucléaires",
+    "detail": "Le programme 2022 prévoit d'annuler la fermeture programmée de 12 réacteurs.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-ecologie-2",
+    "perso": "zemmour",
+    "sujet": "ecologie",
+    "intitule": "Arrêter le développement des éoliennes",
+    "detail": "Le 1er février 2022 sur Twitch, il déclare vouloir arrêter « toutes les éoliennes ».",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.franceinfo.fr/elections/presidentielle/eric-zemmour-j-arrete-toutes-les-eoliennes-on-va-faire-le-maximum-avec-le-nucleaire_4937419.html",
+      "libelle": "franceinfo, « J'arrête toutes les éoliennes (...) on va faire le maximum avec le nucléaire », émission 20h22 sur Twitch",
+      "date": "2022-02-01"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-ecologie-3",
+    "perso": "zemmour",
+    "sujet": "ecologie",
+    "intitule": "Prolonger la durée de vie des réacteurs nucléaires à 60 ans",
+    "detail": "Il propose en 2022 d'étendre la durée d'exploitation des réacteurs existants à 60 ans.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.franceinfo.fr/elections/presidentielle/eric-zemmour-j-arrete-toutes-les-eoliennes-on-va-faire-le-maximum-avec-le-nucleaire_4937419.html",
+      "libelle": "franceinfo, « J'arrête toutes les éoliennes (...) on va faire le maximum avec le nucléaire », émission 20h22 sur Twitch",
+      "date": "2022-02-01"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-ecologie-u",
+    "perso": "zemmour",
+    "sujet": "ecologie",
+    "intitule": "Construire 14 nouveaux réacteurs EPR d'ici 2050",
+    "detail": "En 2022, il demande à EDF de construire 14 EPR à l'horizon 2050.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.franceinfo.fr/elections/presidentielle/eric-zemmour-j-arrete-toutes-les-eoliennes-on-va-faire-le-maximum-avec-le-nucleaire_4937419.html",
+      "libelle": "franceinfo, « J'arrête toutes les éoliennes (...) on va faire le maximum avec le nucléaire », émission 20h22 sur Twitch",
+      "date": "2022-02-01"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-sante-1",
+    "perso": "zemmour",
+    "sujet": "sante",
+    "intitule": "Augmenter de 12 % le salaire des aides-soignants et des infirmiers",
+    "detail": "Le programme 2022 prévoit une revalorisation de 12 % des rémunérations des aides-soignants et infirmiers.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.previssima.fr/actualite/presidentielle-2022-le-programme-deric-zemmour-europe-ecologie-les-verts-en-matiere-de-protection-sociale-infographie.html",
+      "libelle": "Previssima, « Présidentielle 2022 : le programme d'Éric Zemmour en matière de protection sociale »",
+      "date": "2022-03-28"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-sante-2",
+    "perso": "zemmour",
+    "sujet": "sante",
+    "intitule": "Recruter 1 000 médecins salariés pour les déserts médicaux",
+    "detail": "Le programme 2022 prévoit de salarier 1 000 médecins pendant cinq ans pour les zones rurales sous-dotées.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-sante-3",
+    "perso": "zemmour",
+    "sujet": "sante",
+    "intitule": "Supprimer les agences régionales de santé (ARS)",
+    "detail": "Le programme 2022 propose la suppression des ARS.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.previssima.fr/actualite/presidentielle-2022-le-programme-deric-zemmour-europe-ecologie-les-verts-en-matiere-de-protection-sociale-infographie.html",
+      "libelle": "Previssima, « Présidentielle 2022 : le programme d'Éric Zemmour en matière de protection sociale »",
+      "date": "2022-03-28"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-sante-u",
+    "perso": "zemmour",
+    "sujet": "sante",
+    "intitule": "Recruter 40 000 personnels hospitaliers",
+    "detail": "Le programme 2022 prévoit le recrutement de 40 000 personnels à l'hôpital.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.previssima.fr/actualite/presidentielle-2022-le-programme-deric-zemmour-europe-ecologie-les-verts-en-matiere-de-protection-sociale-infographie.html",
+      "libelle": "Previssima, « Présidentielle 2022 : le programme d'Éric Zemmour en matière de protection sociale »",
+      "date": "2022-03-28"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-securite-1",
+    "perso": "zemmour",
+    "sujet": "securite",
+    "intitule": "Abaisser la majorité pénale de 18 à 16 ans",
+    "detail": "Le programme 2022 propose d'abaisser la majorité pénale à 16 ans.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html",
+      "libelle": "Le Monde du Droit, « Présidentielle 2022 : quelles sont les propositions d'Éric Zemmour en matière de justice ? »",
+      "date": "2022-02-15"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-securite-2",
+    "perso": "zemmour",
+    "sujet": "securite",
+    "intitule": "Construire 10 000 places de prison supplémentaires",
+    "detail": "Le programme 2022 prévoit 10 000 places de prison en plus et le recrutement de 3 000 magistrats et 3 000 greffiers.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html",
+      "libelle": "Le Monde du Droit, « Présidentielle 2022 : quelles sont les propositions d'Éric Zemmour en matière de justice ? »",
+      "date": "2022-02-15"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-securite-3",
+    "perso": "zemmour",
+    "sujet": "securite",
+    "intitule": "Instaurer une présomption de légitime défense pour les policiers",
+    "detail": "Le programme 2022 prévoit une « présomption de légitime défense » pour les forces de l'ordre.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-securite-u",
+    "perso": "zemmour",
+    "sujet": "securite",
+    "intitule": "Instaurer des peines planchers pour chaque crime et délit",
+    "detail": "Le programme 2022 prévoit des peines minimales pour tous les crimes et délits, pas seulement en cas de récidive.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html",
+      "libelle": "Le Monde du Droit, « Présidentielle 2022 : quelles sont les propositions d'Éric Zemmour en matière de justice ? »",
+      "date": "2022-02-15"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-europe-1",
+    "perso": "zemmour",
+    "sujet": "europe",
+    "intitule": "Rendre le référendum obligatoire pour ratifier les traités européens",
+    "detail": "Le programme 2022 rend le référendum obligatoire pour ratifier un traité européen, réviser la Constitution ou élargir l'UE.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-europe-2",
+    "perso": "zemmour",
+    "sujet": "europe",
+    "intitule": "Porter le budget de la défense à 70 milliards d'euros en 2030",
+    "detail": "Le programme 2022 fixe un objectif de 70 Md€ de budget de la défense à l'horizon 2030.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-europe-3",
+    "perso": "zemmour",
+    "sujet": "europe",
+    "intitule": "Sortir la France du commandement militaire intégré de l'OTAN",
+    "detail": "Annoncé au meeting de Villepinte du 5 décembre 2021 ; la France resterait membre de l'Alliance.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.vudailleurs.com/zemmour-je-veux-que-la-france-sorte-du-commandement-militaire-integre-de-lotan/",
+      "libelle": "Vudailleurs.com, « Zemmour : « Je veux que la France sorte du commandement militaire intégré de l'Otan » » (meeting de Villepinte)",
+      "date": "2021-12-07"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-europe-u",
+    "perso": "zemmour",
+    "sujet": "europe",
+    "intitule": "Réviser l'article 55 pour faire primer les lois nationales sur le droit européen",
+    "detail": "Le programme 2022 propose de réviser l'article 55 de la Constitution pour que les nouvelles lois nationales priment sur les textes internationaux et européens.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  }
+]

@@ -1,0 +1,242 @@
+{
+  "id": "attal",
+  "nom": "Gabriel Attal",
+  "parti": "Renaissance",
+  "statut": "declare",
+  "statut_note": "Candidat déclaré depuis le 22 mai 2026 (annonce à Mur-de-Barrez, Aveyron, rapportée par franceinfo) ; premier grand meeting le 30 mai 2026 à Paris.",
+  "verifie_le": "2026-10-14",
+  "surnom": "Le jeune premier",
+  "couleur": "#FFD600",
+  "entree": {
+    "replique": "Parce que j'aime profondément la France et que j'aime profondément les Français, j'ai décidé d'être candidat à la présidence de la République",
+    "contexte": "Déclaration de candidature lors d'un déplacement à Mur-de-Barrez (Aveyron).",
+    "date": "2026-05-22",
+    "source": {
+      "url": "https://www.franceinfo.fr/elections/presidentielle/j-aime-passionnement-la-france-et-j-aime-profondement-les-francais-gabriel-attal-se-declare-candidat-a-l-election-presidentielle-de-2027_8020769.html",
+      "libelle": "franceinfo, « Gabriel Attal se déclare candidat à l'élection présidentielle de 2027 »"
+    }
+  },
+  "arguments": {
+    "education": [
+      {
+        "id": "attal-education-1",
+        "nom": "Retour du certificat d'études",
+        "bulle": "Un diplôme avant la 6e",
+        "puissance": 14,
+        "mesure": "attal-education-1"
+      },
+      {
+        "id": "attal-education-2",
+        "nom": "Brevet obligatoire",
+        "bulle": "Pas de lycée sans brevet",
+        "puissance": 16,
+        "mesure": "attal-education-2"
+      },
+      {
+        "id": "attal-education-3",
+        "nom": "Profs mieux payés",
+        "bulle": "Jusqu'à 500 € de plus par mois",
+        "puissance": 18,
+        "mesure": "attal-education-3"
+      }
+    ],
+    "retraites": [
+      {
+        "id": "attal-retraites-1",
+        "nom": "1 000 € au berceau",
+        "bulle": "Une épargne retraite dès la naissance",
+        "puissance": 14,
+        "mesure": "attal-retraites-1"
+      },
+      {
+        "id": "attal-retraites-2",
+        "nom": "Retraites aux partenaires sociaux",
+        "bulle": "Les syndicats et patrons aux manettes",
+        "puissance": 16,
+        "mesure": "attal-retraites-2"
+      },
+      {
+        "id": "attal-retraites-3",
+        "nom": "Référendum sur les retraites",
+        "bulle": "Les Français tranchent par référendum",
+        "puissance": 18,
+        "mesure": "attal-retraites-3"
+      }
+    ],
+    "pouvoir-achat": [
+      {
+        "id": "attal-pouvoir-achat-1",
+        "nom": "Moins de cotisations salariales",
+        "bulle": "Le net se rapproche du brut",
+        "puissance": 14,
+        "mesure": "attal-pouvoir-achat-1"
+      }
+    ],
+    "immigration": [
+      {
+        "id": "attal-immigration-1",
+        "nom": "Priorité au travail",
+        "bulle": "Le travail d'abord pour venir",
+        "puissance": 14,
+        "mesure": "attal-immigration-1"
+      },
+      {
+        "id": "attal-immigration-2",
+        "nom": "Permis à points canadien",
+        "bulle": "La sélection à la canadienne",
+        "puissance": 16,
+        "mesure": "attal-immigration-2"
+      },
+      {
+        "id": "attal-immigration-3",
+        "nom": "Fin de l'accord de 1968",
+        "bulle": "On rouvre le dossier de 1968",
+        "puissance": 18,
+        "mesure": "attal-immigration-3"
+      }
+    ],
+    "ecologie": [
+      {
+        "id": "attal-ecologie-1",
+        "nom": "TVA réduite électrique",
+        "bulle": "La voiture électrique à 5,5 % de TVA",
+        "puissance": 14,
+        "mesure": "attal-ecologie-1"
+      },
+      {
+        "id": "attal-ecologie-2",
+        "nom": "Compte épargne carbone",
+        "bulle": "La taxe carbone revient en travaux",
+        "puissance": 16,
+        "mesure": "attal-ecologie-2"
+      },
+      {
+        "id": "attal-ecologie-3",
+        "nom": "Programmation écologique quinquennale",
+        "bulle": "Un cap climat tous les cinq ans",
+        "puissance": 18,
+        "mesure": "attal-ecologie-3"
+      }
+    ],
+    "sante": [
+      {
+        "id": "attal-sante-1",
+        "nom": "Psy en accès direct",
+        "bulle": "Le psy sans ordonnance",
+        "puissance": 14,
+        "mesure": "attal-sante-1"
+      },
+      {
+        "id": "attal-sante-2",
+        "nom": "Gardes obligatoires",
+        "bulle": "Des médecins de garde le soir",
+        "puissance": 16,
+        "mesure": "attal-sante-2"
+      }
+    ],
+    "securite": [
+      {
+        "id": "attal-securite-1",
+        "nom": "Voile interdit avant 15 ans",
+        "bulle": "Protéger les filles de moins de 15 ans",
+        "puissance": 14,
+        "mesure": "attal-securite-1"
+      },
+      {
+        "id": "attal-securite-2",
+        "nom": "Délit de communautarisme",
+        "bulle": "La loi de la République d'abord",
+        "puissance": 16,
+        "mesure": "attal-securite-2"
+      },
+      {
+        "id": "attal-securite-3",
+        "nom": "Excuse de minorité inversée",
+        "bulle": "À 16 ans, on répond de ses actes",
+        "puissance": 18,
+        "mesure": "attal-securite-3"
+      }
+    ],
+    "europe": [
+      {
+        "id": "attal-europe-1",
+        "nom": "Président européen élu",
+        "bulle": "Un président élu par les Européens",
+        "puissance": 14,
+        "mesure": "attal-europe-1"
+      },
+      {
+        "id": "attal-europe-2",
+        "nom": "Référendum européen simultané",
+        "bulle": "Toute l'Europe vote le même jour",
+        "puissance": 16,
+        "mesure": "attal-europe-2"
+      },
+      {
+        "id": "attal-europe-3",
+        "nom": "Traité de prospérité",
+        "bulle": "Un traité dès le premier sommet",
+        "puissance": 18,
+        "mesure": "attal-europe-3"
+      }
+    ]
+  },
+  "ultimes": {
+    "education": {
+      "id": "attal-education-u",
+      "nom": "Groupes de niveau partout",
+      "bulle": "Chacun son rythme en maths et français",
+      "puissance": 32,
+      "mesure": "attal-education-u"
+    },
+    "retraites": {
+      "id": "attal-retraites-u",
+      "nom": "Fin de l'âge légal",
+      "bulle": "La durée compte, pas l'âge",
+      "puissance": 32,
+      "mesure": "attal-retraites-u"
+    },
+    "pouvoir-achat": {
+      "id": "attal-pouvoir-achat-u",
+      "nom": "Choc des salaires",
+      "bulle": "Un 13e mois pour les classes moyennes",
+      "puissance": 32,
+      "mesure": "attal-pouvoir-achat-u"
+    },
+    "immigration": {
+      "id": "attal-immigration-u",
+      "nom": "Quotas votés au Parlement",
+      "bulle": "Accueillir moins pour accueillir mieux",
+      "puissance": 32,
+      "mesure": "attal-immigration-u"
+    },
+    "ecologie": {
+      "id": "attal-ecologie-u",
+      "nom": "Énergie made in France",
+      "bulle": "Trois quarts d'énergie produite ici",
+      "puissance": 32,
+      "mesure": "attal-ecologie-u"
+    },
+    "sante": {
+      "id": "attal-sante-u",
+      "nom": "Taxe lapin",
+      "bulle": "Rendez-vous raté, rendez-vous payé",
+      "puissance": 32,
+      "mesure": "attal-sante-u"
+    },
+    "securite": {
+      "id": "attal-securite-u",
+      "nom": "Fin du juge d'application",
+      "bulle": "La peine prononcée est exécutée",
+      "puissance": 32,
+      "mesure": "attal-securite-u"
+    },
+    "europe": {
+      "id": "attal-europe-u",
+      "nom": "États-Unis d'Europe",
+      "bulle": "Une seule économie européenne",
+      "puissance": 32,
+      "mesure": "attal-europe-u"
+    }
+  }
+}

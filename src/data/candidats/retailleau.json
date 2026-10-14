@@ -1,0 +1,236 @@
+{
+  "id": "retailleau",
+  "nom": "Bruno Retailleau",
+  "parti": "Les Républicains",
+  "statut": "declare",
+  "statut_note": "Candidat déclaré le 12 février 2026 (vidéo puis 20h de TF1) et désigné candidat LR par les adhérents le 19 avril 2026 (73,8 % selon Wikipédia).",
+  "verifie_le": "2026-10-14",
+  "surnom": "Le Vendéen",
+  "couleur": "#0066CC",
+  "entree": {
+    "replique": "Je serai le Président de l'ordre, de la justice, et de la fierté française",
+    "contexte": "Déclaration de candidature à l'élection présidentielle, publiée sur les réseaux sociaux.",
+    "date": "2026-02-12",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/https-www-publicsenat-fr-actualites-politique-je-serai-le-president-de-lordre-de-la-justice-et-de-la-fierte-francaise-bruno-retailleau-se-declare-candidat-a-la-presidentielle-de-2027",
+      "libelle": "Public Sénat, « Je serai le Président de l'ordre, de la justice et de la fierté française » : Bruno Retailleau se déclare candidat"
+    }
+  },
+  "arguments": {
+    "education": [
+      {
+        "id": "retailleau-education-1",
+        "nom": "1 000 écoles libres",
+        "bulle": "Mille établissements en liberté",
+        "puissance": 14,
+        "mesure": "retailleau-education-1"
+      },
+      {
+        "id": "retailleau-education-2",
+        "nom": "Internats disciplinaires",
+        "bulle": "Un cadre strict pour les perturbateurs",
+        "puissance": 16,
+        "mesure": "retailleau-education-2"
+      },
+      {
+        "id": "retailleau-education-3",
+        "nom": "Contrat avec les parents",
+        "bulle": "Les parents signent pour l'école",
+        "puissance": 18,
+        "mesure": "retailleau-education-3"
+      }
+    ],
+    "retraites": [
+      {
+        "id": "retailleau-retraites-1",
+        "nom": "Capitalisation pour les jeunes",
+        "bulle": "Une part de retraite placée",
+        "puissance": 14,
+        "mesure": "retailleau-retraites-1"
+      },
+      {
+        "id": "retailleau-retraites-2",
+        "nom": "Décote de 7 %",
+        "bulle": "Partir tôt coûte 7 % par an",
+        "puissance": 16,
+        "mesure": "retailleau-retraites-2"
+      },
+      {
+        "id": "retailleau-retraites-3",
+        "nom": "Fin des régimes spéciaux",
+        "bulle": "Un seul régime pour tous",
+        "puissance": 18,
+        "mesure": "retailleau-retraites-3"
+      }
+    ],
+    "pouvoir-achat": [
+      {
+        "id": "retailleau-pouvoir-achat-1",
+        "nom": "Fin des 35 heures",
+        "bulle": "Quatre minutes de plus par jour",
+        "puissance": 14,
+        "mesure": "retailleau-pouvoir-achat-1"
+      },
+      {
+        "id": "retailleau-pouvoir-achat-2",
+        "nom": "Compte social unique",
+        "bulle": "Le travail paie plus que les aides",
+        "puissance": 16,
+        "mesure": "retailleau-pouvoir-achat-2"
+      },
+      {
+        "id": "retailleau-pouvoir-achat-3",
+        "nom": "Revenu d'incitation à l'activité",
+        "bulle": "Quinze heures d'activité par semaine",
+        "puissance": 18,
+        "mesure": "retailleau-pouvoir-achat-3"
+      }
+    ],
+    "immigration": [
+      {
+        "id": "retailleau-immigration-1",
+        "nom": "Fin du droit du sol",
+        "bulle": "Pas Français par hasard",
+        "puissance": 14,
+        "mesure": "retailleau-immigration-1"
+      },
+      {
+        "id": "retailleau-immigration-2",
+        "nom": "Cinq ans avant les aides",
+        "bulle": "Cinq ans de travail avant les aides",
+        "puissance": 16,
+        "mesure": "retailleau-immigration-2"
+      },
+      {
+        "id": "retailleau-immigration-3",
+        "nom": "Asile hors frontières",
+        "bulle": "L'asile se demande de l'extérieur",
+        "puissance": 18,
+        "mesure": "retailleau-immigration-3"
+      }
+    ],
+    "ecologie": [
+      {
+        "id": "retailleau-ecologie-1",
+        "nom": "Stop aux subventions renouvelables",
+        "bulle": "Plus d'argent public pour l'éolien",
+        "puissance": 14,
+        "mesure": "retailleau-ecologie-1"
+      },
+      {
+        "id": "retailleau-ecologie-2",
+        "nom": "Fin des ZFE",
+        "bulle": "Les voitures retrouvent la ville",
+        "puissance": 16,
+        "mesure": "retailleau-ecologie-2"
+      },
+      {
+        "id": "retailleau-ecologie-3",
+        "nom": "Fin du ZAN",
+        "bulle": "Libérer le foncier",
+        "puissance": 18,
+        "mesure": "retailleau-ecologie-3"
+      }
+    ],
+    "sante": [
+
+    ],
+    "securite": [
+      {
+        "id": "retailleau-securite-1",
+        "nom": "Référendum sur la justice",
+        "bulle": "Le peuple vote la politique pénale",
+        "puissance": 14,
+        "mesure": "retailleau-securite-1"
+      },
+      {
+        "id": "retailleau-securite-2",
+        "nom": "Détention provisoire allongée",
+        "bulle": "Les trafiquants restent derrière",
+        "puissance": 16,
+        "mesure": "retailleau-securite-2"
+      },
+      {
+        "id": "retailleau-securite-3",
+        "nom": "Courtes peines rapides",
+        "bulle": "Sanction dès le premier délit",
+        "puissance": 18,
+        "mesure": "retailleau-securite-3"
+      }
+    ],
+    "europe": [
+      {
+        "id": "retailleau-europe-1",
+        "nom": "Europe du décarboné",
+        "bulle": "Le nucléaire reconnu par l'Europe",
+        "puissance": 14,
+        "mesure": "retailleau-europe-1"
+      },
+      {
+        "id": "retailleau-europe-2",
+        "nom": "Revoir l'interdiction 2035",
+        "bulle": "Le thermique pas encore enterré",
+        "puissance": 16,
+        "mesure": "retailleau-europe-2"
+      }
+    ]
+  },
+  "ultimes": {
+    "education": {
+      "id": "retailleau-education-u",
+      "nom": "Examen d'entrée en 6e",
+      "bulle": "Un examen pour entrer au collège",
+      "puissance": 32,
+      "mesure": "retailleau-education-u"
+    },
+    "retraites": {
+      "id": "retailleau-retraites-u",
+      "nom": "Départ entre 63 et 65",
+      "bulle": "63 ans minimum, taux plein à 65",
+      "puissance": 32,
+      "mesure": "retailleau-retraites-u"
+    },
+    "pouvoir-achat": {
+      "id": "retailleau-pouvoir-achat-u",
+      "nom": "Heures sup défiscalisées",
+      "bulle": "Travailler plus sans impôt",
+      "puissance": 32,
+      "mesure": "retailleau-pouvoir-achat-u"
+    },
+    "immigration": {
+      "id": "retailleau-immigration-u",
+      "nom": "Référendum sur l'immigration",
+      "bulle": "Le peuple tranche sur l'immigration",
+      "puissance": 32,
+      "mesure": "retailleau-immigration-u"
+    },
+    "ecologie": {
+      "id": "retailleau-ecologie-u",
+      "nom": "Rebâtir le nucléaire",
+      "bulle": "Priorité à l'atome",
+      "puissance": 32,
+      "mesure": "retailleau-ecologie-u"
+    },
+    "sante": {
+      "id": "retailleau-sante-u",
+      "nom": "Jour de carence obligatoire",
+      "bulle": "Un jour de carence pour tous",
+      "puissance": 32,
+      "mesure": "retailleau-sante-u"
+    },
+    "securite": {
+      "id": "retailleau-securite-u",
+      "nom": "État d'urgence anti-trafics",
+      "bulle": "Boucler les points de deal",
+      "puissance": 32,
+      "mesure": "retailleau-securite-u"
+    },
+    "europe": {
+      "id": "retailleau-europe-u",
+      "nom": "Constitution d'abord",
+      "bulle": "La Constitution au-dessus de Bruxelles",
+      "puissance": 32,
+      "mesure": "retailleau-europe-u"
+    }
+  }
+}

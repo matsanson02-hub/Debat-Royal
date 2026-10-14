@@ -1,0 +1,361 @@
+[
+  {
+    "id": "glucksmann-q-01",
+    "perso": "glucksmann",
+    "sujet": "education",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien de mois durerait le service civique obligatoire proposé par Glucksmann ?",
+    "choix": [
+      "1 mois",
+      "3 mois",
+      "10 mois",
+      "24 mois"
+    ],
+    "bonne": 2,
+    "explication": "Il propose un service civique obligatoire de dix mois, le volet militaire restant volontaire.",
+    "mesure": "glucksmann-education-u",
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "libelle": "LCP, « Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme » (livre « Nous avons encore envie »)",
+      "date": "2026-05-26"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-q-02",
+    "perso": "glucksmann",
+    "sujet": "retraites",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quel critère Glucksmann veut-il utiliser pour moduler l'âge de départ à la retraite ?",
+    "choix": [
+      "L'espérance de vie en bonne santé",
+      "Le niveau de diplôme",
+      "Le nombre d'enfants",
+      "La région de résidence"
+    ],
+    "bonne": 0,
+    "explication": "Dans son livre, il propose de tenir compte de l'espérance de vie en bonne santé : les carrières hachées partiraient plus tôt.",
+    "mesure": "glucksmann-retraites-1",
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "libelle": "LCP, « Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme » (livre « Nous avons encore envie »)",
+      "date": "2026-05-26"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-q-03",
+    "perso": "glucksmann",
+    "sujet": "pouvoir-achat",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quel prélèvement Glucksmann veut-il baisser pour rapprocher le salaire net du brut ?",
+    "choix": [
+      "La TVA",
+      "La taxe foncière",
+      "L'impôt sur les sociétés",
+      "La CSG"
+    ],
+    "bonne": 3,
+    "explication": "Pendant la primaire, il a défendu une baisse de la CSG sur les salaires, critiquée par ses concurrents.",
+    "mesure": "glucksmann-pouvoir-achat-u",
+    "source": {
+      "url": "https://www.france24.com/fr/france/20261011-rapha%C3%ABl-glucksmann-officiellement-candidat-un-cap-clair-et-des-zones-d-ombre",
+      "libelle": "France 24, « Raphaël Glucksmann officiellement candidat du PS, un \"cap clair\" et des zones d'ombre »",
+      "date": "2026-10-11"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-q-04",
+    "perso": "glucksmann",
+    "sujet": "immigration",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quel dispositif Glucksmann propose-t-il pour définir la politique d'immigration ?",
+    "choix": [
+      "Un référendum annuel",
+      "Une convention citoyenne tirée au sort",
+      "Un comité d'experts",
+      "Un vote des maires"
+    ],
+    "bonne": 1,
+    "explication": "Une convention citoyenne représentative, tirée au sort, ferait des propositions transformées en lois par le Parlement.",
+    "mesure": "glucksmann-immigration-u",
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "libelle": "LCP, « Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme » (livre « Nous avons encore envie »)",
+      "date": "2026-05-26"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-q-05",
+    "perso": "glucksmann",
+    "sujet": "ecologie",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Dans le programme européen de Glucksmann (2024), en quelle année sortir du charbon ?",
+    "choix": [
+      "2030",
+      "2045",
+      "2050",
+      "2060"
+    ],
+    "bonne": 0,
+    "explication": "Le programme prévoit la sortie du charbon en 2030, du gaz fossile en 2035 et du pétrole en 2045.",
+    "mesure": "glucksmann-ecologie-u",
+    "source": {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/",
+      "libelle": "Toute l'Europe, « Élections européennes 2024 : le programme de Raphaël Glucksmann et de la liste PS/Place publique »",
+      "date": "2024-05-24"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-q-06",
+    "perso": "glucksmann",
+    "sujet": "securite",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "À qui Glucksmann veut-il confier le choix d'armer la police municipale ?",
+    "choix": [
+      "Aux préfets",
+      "Au ministre de l'Intérieur",
+      "Aux maires",
+      "Aux procureurs"
+    ],
+    "bonne": 2,
+    "explication": "En novembre 2025, il a dit vouloir « faire confiance aux maires », y compris sur la vidéosurveillance encadrée par la loi.",
+    "mesure": "glucksmann-securite-u",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/narcotrafic-raphael-glucksmann-defend-une-politique-sans-naivete-aucune-sur-la-securite",
+      "libelle": "Public Sénat, « Narcotrafic : Raphaël Glucksmann défend \"une politique sans naïveté aucune sur la sécurité\" »",
+      "date": "2025-11-19"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-q-07",
+    "perso": "glucksmann",
+    "sujet": "europe",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quel montant d'avoirs russes gelés Glucksmann veut-il mobiliser pour l'Ukraine ?",
+    "choix": [
+      "2 milliards €",
+      "20 milliards €",
+      "2 000 milliards €",
+      "206 milliards €"
+    ],
+    "bonne": 3,
+    "explication": "Son programme de 2024 prévoyait d'utiliser la totalité des 206 milliards d'euros d'avoirs publics russes gelés.",
+    "mesure": "glucksmann-europe-1",
+    "source": {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/",
+      "libelle": "Toute l'Europe, « Élections européennes 2024 : le programme de Raphaël Glucksmann et de la liste PS/Place publique »",
+      "date": "2024-05-24"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-q-08",
+    "perso": "glucksmann",
+    "sujet": "europe",
+    "categorie": "parcours",
+    "difficulte": 1,
+    "question": "Depuis quelle année Raphaël Glucksmann est-il député européen ?",
+    "choix": [
+      "2009",
+      "2014",
+      "2019",
+      "2024"
+    ],
+    "bonne": 2,
+    "explication": "Élu le 26 mai 2019, il siège au Parlement européen depuis juillet 2019.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "libelle": "Wikipédia, « Raphaël Glucksmann »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-q-09",
+    "perso": "glucksmann",
+    "sujet": "europe",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Quel score a obtenu sa liste PS-Place publique aux européennes de 2024 ?",
+    "choix": [
+      "6,19 %",
+      "13,83 %",
+      "21,5 %",
+      "31,4 %"
+    ],
+    "bonne": 1,
+    "explication": "Sa liste a obtenu 13,83 % des voix en 2024, contre 6,19 % en 2019.",
+    "source": {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/",
+      "libelle": "Toute l'Europe, « Élections européennes 2024 : le programme de Raphaël Glucksmann et de la liste PS/Place publique »",
+      "date": "2024-05-24"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-q-10",
+    "perso": "glucksmann",
+    "sujet": "pouvoir-achat",
+    "categorie": "parcours",
+    "difficulte": 1,
+    "question": "Quel mouvement politique Raphaël Glucksmann a-t-il cofondé en 2018 ?",
+    "choix": [
+      "Génération.s",
+      "Nouvelle Donne",
+      "Place publique",
+      "Les Écologistes"
+    ],
+    "bonne": 2,
+    "explication": "Il a cofondé Place publique à l'automne 2018.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "libelle": "Wikipédia, « Raphaël Glucksmann »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-q-11",
+    "perso": "glucksmann",
+    "sujet": "securite",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Quelle commission spéciale du Parlement européen a-t-il présidée à partir de 2020 ?",
+    "choix": [
+      "Sur les ingérences étrangères",
+      "Sur le Covid-19",
+      "Sur la pêche",
+      "Sur le budget"
+    ],
+    "bonne": 0,
+    "explication": "Il a été élu le 23 septembre 2020 président de la commission spéciale sur l'ingérence étrangère (INGE).",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "libelle": "Wikipédia, « Raphaël Glucksmann »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-q-12",
+    "perso": "glucksmann",
+    "sujet": "europe",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "De quel président géorgien Glucksmann a-t-il été conseiller entre 2009 et 2012 ?",
+    "choix": [
+      "Edouard Chevardnadze",
+      "Mikheil Saakachvili",
+      "Salomé Zourabichvili",
+      "Guiorgui Margvelachvili"
+    ],
+    "bonne": 1,
+    "explication": "Il a conseillé le président géorgien Mikheil Saakachvili de 2009 à 2012.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "libelle": "Wikipédia, « Raphaël Glucksmann »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-q-13",
+    "perso": "glucksmann",
+    "sujet": "education",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Quel documentaire sur le génocide des Tutsi au Rwanda a-t-il coréalisé en 2004 ?",
+    "choix": [
+      "« Hotel Rwanda »",
+      "« Shooting Dogs »",
+      "« Tuez-les tous ! »",
+      "« Les Cent Jours »"
+    ],
+    "bonne": 2,
+    "explication": "Il a coréalisé « Tuez-les tous ! » (2004) avec David Hazan, Pierre Mézerette et Michel Hazanavicius.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "libelle": "Wikipédia, « Raphaël Glucksmann »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-q-14",
+    "perso": "glucksmann",
+    "sujet": "retraites",
+    "categorie": "culte",
+    "difficulte": 2,
+    "question": "Avec quel score Glucksmann a-t-il remporté la primaire sociale-démocrate d'octobre 2026 ?",
+    "choix": [
+      "Environ 51 %",
+      "Environ 66 %",
+      "Environ 80 %",
+      "Il a gagné au 2nd tour"
+    ],
+    "bonne": 1,
+    "explication": "Le 11 octobre 2026, il l'emporte dès le premier tour avec environ 66 % des voix, devant Olivier Faure.",
+    "source": {
+      "url": "https://www.france24.com/fr/france/20261011-rapha%C3%ABl-glucksmann-officiellement-candidat-un-cap-clair-et-des-zones-d-ombre",
+      "libelle": "France 24, « Raphaël Glucksmann officiellement candidat du PS, un \"cap clair\" et des zones d'ombre »",
+      "date": "2026-10-11"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-q-15",
+    "perso": "glucksmann",
+    "sujet": "ecologie",
+    "categorie": "culte",
+    "difficulte": 2,
+    "question": "Sur quelle chaîne Glucksmann a-t-il annoncé sa candidature le 23 août 2026 ?",
+    "choix": [
+      "TF1",
+      "France 2",
+      "BFMTV",
+      "CNews"
+    ],
+    "bonne": 0,
+    "explication": "Il s'est déclaré au journal de 20 heures de TF1, en citant notamment l'urgence écologique parmi ses priorités.",
+    "source": {
+      "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/le-choix-le-plus-important-de-notre-vie-de-citoyen-raphael-glucksmann-candidat-a-l-election-presidentielle-de-2027_8159177.html",
+      "libelle": "franceinfo, « \"Le choix le plus important de notre vie de citoyen\" : Raphaël Glucksmann candidat à l'élection présidentielle de 2027 »",
+      "date": "2026-08-24"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-q-16",
+    "perso": "glucksmann",
+    "sujet": "sante",
+    "categorie": "culte",
+    "difficulte": 2,
+    "question": "Comment Glucksmann a-t-il qualifié le choix de 2027 en se déclarant candidat ?",
+    "choix": [
+      "« Le plus important de notre vie de citoyen »",
+      "« Un simple référendum »",
+      "« Une élection comme une autre »",
+      "« Le dernier vote de la Ve »"
+    ],
+    "bonne": 0,
+    "explication": "Il a déclaré que ce choix était « sans aucun doute le choix le plus important de notre vie de citoyen ».",
+    "source": {
+      "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/le-choix-le-plus-important-de-notre-vie-de-citoyen-raphael-glucksmann-candidat-a-l-election-presidentielle-de-2027_8159177.html",
+      "libelle": "franceinfo, « \"Le choix le plus important de notre vie de citoyen\" : Raphaël Glucksmann candidat à l'élection présidentielle de 2027 »",
+      "date": "2026-08-24"
+    },
+    "statut": "ok"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  { "id": "education", "libelle": "Éducation nationale", "court": "Éducation", "icone": "🎓", "couleur": "#3b82f6",
+    "annonces": ["Abordons l'Éducation nationale !", "Parlons de l'école.", "Place à l'Éducation nationale."] },
+  { "id": "retraites", "libelle": "Retraites", "court": "Retraites", "icone": "👵", "couleur": "#a855f7",
+    "annonces": ["Passons aux retraites.", "Les retraites, maintenant.", "Venons-en aux retraites."] },
+  { "id": "pouvoir-achat", "libelle": "Pouvoir d'achat", "court": "Pouvoir d'achat", "icone": "🛒", "couleur": "#f59e0b",
+    "annonces": ["Parlons pouvoir d'achat !", "Le pouvoir d'achat, sujet numéro un des Français.", "Passons au pouvoir d'achat."] },
+  { "id": "immigration", "libelle": "Immigration", "court": "Immigration", "icone": "🛂", "couleur": "#ef4444",
+    "annonces": ["Abordons l'immigration.", "Passons à l'immigration.", "L'immigration, maintenant."] },
+  { "id": "ecologie", "libelle": "Écologie et énergie", "court": "Écologie", "icone": "🌱", "couleur": "#22c55e",
+    "annonces": ["Place à l'écologie et à l'énergie !", "Parlons climat et énergie.", "Venons-en à l'écologie."] },
+  { "id": "sante", "libelle": "Santé", "court": "Santé", "icone": "🏥", "couleur": "#06b6d4",
+    "annonces": ["Parlons santé.", "Passons à la santé et à l'hôpital.", "La santé, maintenant."] },
+  { "id": "securite", "libelle": "Sécurité et justice", "court": "Sécurité", "icone": "⚖️", "couleur": "#64748b",
+    "annonces": ["Abordons la sécurité et la justice.", "Passons à la sécurité.", "Sécurité et justice, maintenant."] },
+  { "id": "europe", "libelle": "Europe et international", "court": "Europe", "icone": "🇪🇺", "couleur": "#1d4ed8",
+    "annonces": ["Pour finir, l'Europe.", "Parlons Europe et international.", "Passons à l'Europe."] }
+]

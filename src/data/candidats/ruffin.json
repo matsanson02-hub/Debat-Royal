@@ -1,0 +1,63 @@
+{
+  "id": "ruffin",
+  "nom": "François Ruffin",
+  "parti": "Debout !",
+  "statut": "declare",
+  "statut_note": "Candidature officialisée par vidéo et communiqué début avril 2026 (Lyon Mag, 10 avril 2026), d'abord dans l'optique d'une primaire de la gauche non mélenchoniste ; présenté comme candidat par ICI Picardie (30 septembre 2026) et par Public Sénat (14 octobre 2026).",
+  "verifie_le": "2026-10-14",
+  "surnom": "Le reporter picard",
+  "couleur": "#e85d26",
+  "entree": {
+    "replique": "Le SMIC ça m'ira !",
+    "contexte": "Vidéo d'annonce de sa candidature présidentielle, à propos du salaire qu'il se verserait à l'Élysée.",
+    "date": "2026-04-10",
+    "source": { "url": "https://www.lyonmag.com/article/151368/presidentielle-2027-francois-ruffin-candidat-son-premier-meeting-entretien-d-embauche-programme-a-lyon", "libelle": "Lyon Mag, « Présidentielle 2027 : François Ruffin candidat, son premier meeting/entretien d'embauche programmé à Lyon »" }
+  },
+  "arguments": {
+    "education": [
+      { "id": "ruffin-education-1", "nom": "AESH en CDI", "bulle": "Les AESH enfin titulaires !", "puissance": 14, "mesure": "ruffin-education-1" },
+      { "id": "ruffin-education-2", "nom": "350 millions pour les AESH", "bulle": "350 M€ pour les accompagnants !", "puissance": 16, "mesure": "ruffin-education-2" },
+      { "id": "ruffin-education-3", "nom": "Pass Culture collectif", "bulle": "L'art entre à l'école !", "puissance": 18, "mesure": "ruffin-education-3" }
+    ],
+    "retraites": [
+      { "id": "ruffin-retraites-1", "nom": "Bonus pénibilité", "bulle": "4 trimestres pénibles = 1 offert !", "puissance": 14, "mesure": "ruffin-retraites-1" }
+    ],
+    "pouvoir-achat": [
+      { "id": "ruffin-pouvoir-achat-1", "nom": "Salaires indexés", "bulle": "Les prix montent ? Les salaires aussi !", "puissance": 14, "mesure": "ruffin-pouvoir-achat-1" },
+      { "id": "ruffin-pouvoir-achat-2", "nom": "Horaires décalés payés double", "bulle": "Avant 8 h, après 18 h : payé double !", "puissance": 16, "mesure": "ruffin-pouvoir-achat-2" },
+      { "id": "ruffin-pouvoir-achat-3", "nom": "Loyers encadrés partout", "bulle": "Des loyers encadrés partout !", "puissance": 18, "mesure": "ruffin-pouvoir-achat-3" }
+    ],
+    "immigration": [
+      { "id": "ruffin-immigration-1", "nom": "Régulariser les travailleurs", "bulle": "Ceux qui bossent ici restent ici !", "puissance": 14, "mesure": "ruffin-immigration-1" },
+      { "id": "ruffin-immigration-2", "nom": "Médecins étrangers reconnus", "bulle": "Pleins droits pour ceux déjà là !", "puissance": 16, "mesure": "ruffin-immigration-2" }
+    ],
+    "ecologie": [
+      { "id": "ruffin-ecologie-1", "nom": "Leasing social électrique", "bulle": "3 millions de petites électriques !", "puissance": 14, "mesure": "ruffin-ecologie-1" },
+      { "id": "ruffin-ecologie-2", "nom": "Grand chantier rénovation", "bulle": "800 000 rénovations par an !", "puissance": 16, "mesure": "ruffin-ecologie-2" },
+      { "id": "ruffin-ecologie-3", "nom": "Nucléaire prolongé", "bulle": "Six EPR2 sur les rails !", "puissance": 18, "mesure": "ruffin-ecologie-3" }
+    ],
+    "sante": [
+      { "id": "ruffin-sante-1", "nom": "Enquête chlordécone", "bulle": "La vérité sur le chlordécone !", "puissance": 14, "mesure": "ruffin-sante-1" },
+      { "id": "ruffin-sante-2", "nom": "Fraîcheur pour les fragiles", "bulle": "Hôpitaux et Ehpad au frais !", "puissance": 16, "mesure": "ruffin-sante-2" }
+    ],
+    "securite": [
+      { "id": "ruffin-securite-1", "nom": "Parquet indépendant", "bulle": "Les procureurs libérés du ministre !", "puissance": 14, "mesure": "ruffin-securite-1" },
+      { "id": "ruffin-securite-2", "nom": "Fin de la CJR", "bulle": "Les ministres jugés comme tout le monde !", "puissance": 16, "mesure": "ruffin-securite-2" },
+      { "id": "ruffin-securite-3", "nom": "Interdire le plaquage ventral", "bulle": "Stop aux immobilisations létales !", "puissance": 18, "mesure": "ruffin-securite-3" }
+    ],
+    "europe": [
+      { "id": "ruffin-europe-1", "nom": "CECA du numérique", "bulle": "L'État achète de la tech européenne !", "puissance": 14, "mesure": "ruffin-europe-1" },
+      { "id": "ruffin-europe-2", "nom": "Veto diplomatique préservé", "bulle": "Pas de majorité qualifiée !", "puissance": 16, "mesure": "ruffin-europe-2" },
+      { "id": "ruffin-europe-3", "nom": "Erasmus global", "bulle": "Erasmus jusqu'au Brésil et à l'Inde !", "puissance": 18, "mesure": "ruffin-europe-3" }
+    ]
+  },
+  "ultimes": {
+    "education": { "id": "ruffin-education-u", "nom": "Une colo pour chaque élève", "bulle": "Une colo offerte à chaque enfant !", "puissance": 32, "mesure": "ruffin-education-u" },
+    "retraites": { "id": "ruffin-retraites-u", "nom": "Retraite à 60 ans", "bulle": "La retraite à 60 ans !", "puissance": 32, "mesure": "ruffin-retraites-u" },
+    "pouvoir-achat": { "id": "ruffin-pouvoir-achat-u", "nom": "SMIC à 1 600 €", "bulle": "Le SMIC à 1 600 € net !", "puissance": 32, "mesure": "ruffin-pouvoir-achat-u" },
+    "immigration": { "id": "ruffin-immigration-u", "nom": "Non à l'immigration de travail", "bulle": "Former nos soignants ici !", "puissance": 32, "mesure": "ruffin-immigration-u" },
+    "ecologie": { "id": "ruffin-ecologie-u", "nom": "Le train plutôt que l'avion", "bulle": "Moins de 4 h en train ? Pas d'avion !", "puissance": 32, "mesure": "ruffin-ecologie-u" },
+    "securite": { "id": "ruffin-securite-u", "nom": "Ministre mis en examen dehors", "bulle": "Mis en examen ? Dehors !", "puissance": 32, "mesure": "ruffin-securite-u" },
+    "europe": { "id": "ruffin-europe-u", "nom": "Plan des 100", "bulle": "100 produits stratégiques protégés !", "puissance": 32, "mesure": "ruffin-europe-u" }
+  }
+}

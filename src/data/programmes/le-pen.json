@@ -1,0 +1,482 @@
+[
+  {
+    "id": "le-pen-education-1",
+    "perso": "le-pen",
+    "sujet": "education",
+    "intitule": "Recentrer les programmes sur le français, les mathématiques et l'histoire",
+    "detail": "Remettre au cœur des programmes l'enseignement du français, des mathématiques et de l'histoire pour restaurer la transmission des savoirs.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-education-2",
+    "perso": "le-pen",
+    "sujet": "education",
+    "intitule": "Revaloriser les salaires des enseignants et refonder leur formation",
+    "detail": "Mesure du volet « Restaurer notre système éducatif » du programme 2022.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-education-3",
+    "perso": "le-pen",
+    "sujet": "education",
+    "intitule": "Réduire la bureaucratie de l'Éducation nationale pour alléger les classes",
+    "detail": "Supprimer la bureaucratie de l'Éducation nationale afin de réduire les effectifs des classes et d'arrêter les fermetures d'écoles.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-education-u",
+    "perso": "le-pen",
+    "sujet": "education",
+    "intitule": "Uniforme obligatoire à l'école primaire et au collège",
+    "detail": "Rétablir l'autorité de l'institution scolaire par un uniforme au primaire et au collège, en sanctionnant absences et incivilités.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-retraites-1",
+    "perso": "le-pen",
+    "sujet": "retraites",
+    "intitule": "Réindexer les retraites sur l'inflation",
+    "detail": "Indexer les pensions sur l'inflation pour préserver le pouvoir d'achat des retraités.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-retraites-2",
+    "perso": "le-pen",
+    "sujet": "retraites",
+    "intitule": "Minimum vieillesse porté à 1 000 euros par mois",
+    "detail": "Revaloriser le minimum vieillesse à 1 000 € par mois et augmenter les petites retraites.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-retraites-3",
+    "perso": "le-pen",
+    "sujet": "retraites",
+    "intitule": "Restaurer la demi-part fiscale des veuves et des veufs",
+    "detail": "Rétablir la demi-part fiscale supplémentaire en faveur des veuves et veufs.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-retraites-u",
+    "perso": "le-pen",
+    "sujet": "retraites",
+    "intitule": "Retraite à 60 ans pour ceux ayant commencé avant 20 ans (40 annuités)",
+    "detail": "Permettre à ceux qui ont commencé à travailler avant 20 ans de partir à 60 ans avec 40 annuités, et refuser tout allongement de l'âge de départ.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-pouvoir-achat-1",
+    "perso": "le-pen",
+    "sujet": "pouvoir-achat",
+    "intitule": "Hausses de salaires de 10 % exonérées de cotisations patronales",
+    "detail": "Les entreprises pourraient augmenter les salaires de 10 % (jusqu'à 3 SMIC) sans payer de cotisations patronales sur cette hausse.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-pouvoir-achat-2",
+    "perso": "le-pen",
+    "sujet": "pouvoir-achat",
+    "intitule": "Exonérer d'impôt sur le revenu les jeunes actifs jusqu'à 30 ans",
+    "detail": "Exonération d'impôt sur le revenu pour tous les jeunes actifs de moins de 30 ans.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-pouvoir-achat-3",
+    "perso": "le-pen",
+    "sujet": "pouvoir-achat",
+    "intitule": "Renationaliser les autoroutes pour baisser les péages de 15 %",
+    "detail": "Renationaliser les autoroutes pour faire baisser de 15 % le prix des péages.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-pouvoir-achat-u",
+    "perso": "le-pen",
+    "sujet": "pouvoir-achat",
+    "intitule": "TVA sur l'énergie abaissée de 20 % à 5,5 %",
+    "detail": "Baisser la TVA de 20 % à 5,5 % sur les carburants, le fioul, le gaz et l'électricité, considérés comme biens de première nécessité.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-immigration-1",
+    "perso": "le-pen",
+    "sujet": "immigration",
+    "intitule": "Supprimer le droit du sol",
+    "detail": "Supprimer le droit du sol et limiter l'accès à la nationalité à la naturalisation sur critères de mérite et d'assimilation.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-immigration-2",
+    "perso": "le-pen",
+    "sujet": "immigration",
+    "intitule": "Traiter les demandes d'asile uniquement à l'étranger",
+    "detail": "Les demandes de droit d'asile ne seraient plus déposées en France mais uniquement à l'étranger.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-immigration-3",
+    "perso": "le-pen",
+    "sujet": "immigration",
+    "intitule": "Priorité nationale pour le logement social et APL réservées aux Français",
+    "detail": "Annoncé pour 2027 : priorité aux Français pour l'accès au logement social, APL réservées aux Français et priorité aux jeunes Français pour le logement étudiant.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/video-marine-le-pen-candidate-du-rn-a-la-presidentielle-2027-detaille-une-serie-de-propositions-sur-le-logement-qui-sera-un-des-grands-chantiers-de-son-quinquennat-si-elle-est-elue_8190839.html",
+      "libelle": "franceinfo, discours de rentrée de Marine Le Pen à Hénin-Beaumont sur le logement",
+      "date": "2026-09-13"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-immigration-u",
+    "perso": "le-pen",
+    "sujet": "immigration",
+    "intitule": "Référendum pour arrêter l'immigration incontrôlée",
+    "detail": "Donner la parole aux Français par référendum pour arrêter l'immigration incontrôlée et mettre fin au regroupement familial.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-ecologie-1",
+    "perso": "le-pen",
+    "sujet": "ecologie",
+    "intitule": "Supprimer l'objectif « zéro artificialisation nette » (ZAN)",
+    "detail": "Annoncé pour 2027 dans le plan logement : suppression du ZAN, qualifié de « norme idéologique ».",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/video-marine-le-pen-candidate-du-rn-a-la-presidentielle-2027-detaille-une-serie-de-propositions-sur-le-logement-qui-sera-un-des-grands-chantiers-de-son-quinquennat-si-elle-est-elue_8190839.html",
+      "libelle": "franceinfo, discours de rentrée de Marine Le Pen à Hénin-Beaumont sur le logement",
+      "date": "2026-09-13"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-ecologie-2",
+    "perso": "le-pen",
+    "sujet": "ecologie",
+    "intitule": "Sortir du marché européen de l'électricité",
+    "detail": "Quitter le marché européen de l'électricité pour retrouver des prix plus bas.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-ecologie-3",
+    "perso": "le-pen",
+    "sujet": "ecologie",
+    "intitule": "« 100 % Rénov » : prêt à taux zéro pour rénover son logement",
+    "detail": "Annoncé pour 2027 : prêt à taux zéro pour la rénovation, l'électrification du chauffage et la climatisation ; le DPE deviendrait purement indicatif.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/video-marine-le-pen-candidate-du-rn-a-la-presidentielle-2027-detaille-une-serie-de-propositions-sur-le-logement-qui-sera-un-des-grands-chantiers-de-son-quinquennat-si-elle-est-elue_8190839.html",
+      "libelle": "franceinfo, discours de rentrée de Marine Le Pen à Hénin-Beaumont sur le logement",
+      "date": "2026-09-13"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-ecologie-u",
+    "perso": "le-pen",
+    "sujet": "ecologie",
+    "intitule": "Arrêter l'éolien et relancer le nucléaire",
+    "detail": "Arrêter les projets éoliens et démanteler progressivement les parcs existants ; relancer le nucléaire et l'hydroélectricité, investir dans l'hydrogène.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-sante-1",
+    "perso": "le-pen",
+    "sujet": "sante",
+    "intitule": "Supprimer les Agences régionales de santé (ARS)",
+    "detail": "Supprimer les ARS et réduire à 10 % les postes administratifs dans les hôpitaux pour libérer des moyens pour les soignants.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-sante-2",
+    "perso": "le-pen",
+    "sujet": "sante",
+    "intitule": "Arrêter les fermetures de lits hospitaliers et de maternités",
+    "detail": "Stopper les fermetures de lits à l'hôpital public et de maternités.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-sante-3",
+    "perso": "le-pen",
+    "sujet": "sante",
+    "intitule": "Créer des urgences gériatriques dédiées aux aînés",
+    "detail": "Créer des services d'urgences gériatriques dédiés aux personnes âgées.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-sante-u",
+    "perso": "le-pen",
+    "sujet": "sante",
+    "intitule": "Plan d'urgence de 20 milliards d'euros pour la santé",
+    "detail": "Lancer un plan de soutien d'urgence pour la santé de 20 milliards d'euros, incluant la revalorisation des salaires des soignants.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-securite-1",
+    "perso": "le-pen",
+    "sujet": "securite",
+    "intitule": "Présomption de légitime défense pour les forces de l'ordre",
+    "detail": "Instituer une présomption de légitime défense pour les policiers et gendarmes.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-securite-2",
+    "perso": "le-pen",
+    "sujet": "securite",
+    "intitule": "Atteindre 85 000 places de prison en 2027",
+    "detail": "Augmenter le parc pénitentiaire pour atteindre 85 000 places de prison en 2027.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-securite-3",
+    "perso": "le-pen",
+    "sujet": "securite",
+    "intitule": "Doubler le nombre de magistrats",
+    "detail": "Accélérer les procédures judiciaires en engageant le doublement du nombre de magistrats.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-securite-u",
+    "perso": "le-pen",
+    "sujet": "securite",
+    "intitule": "Rétablir les peines planchers",
+    "detail": "Rétablir les peines planchers et supprimer les réductions et aménagements de peine, en particulier pour les violences contre les personnes.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-europe-1",
+    "perso": "le-pen",
+    "sujet": "europe",
+    "intitule": "Baisser de 5 milliards d'euros la contribution française au budget de l'UE",
+    "detail": "Proposition de la campagne 2022 ; Public Sénat note qu'elle contreviendrait au cadre financier pluriannuel 2021-2027.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/sur-l-europe-marine-le-pen-a-t-elle-vraiment-change-202482",
+      "libelle": "Public Sénat, « Sur l'Europe, Marine Le Pen a-t-elle vraiment changé ? »",
+      "date": "2022-04-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-europe-2",
+    "perso": "le-pen",
+    "sujet": "europe",
+    "intitule": "Supériorité du droit constitutionnel français sur le droit européen",
+    "detail": "Inscrire la supériorité du droit constitutionnel français sur le droit européen.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/sur-l-europe-marine-le-pen-a-t-elle-vraiment-change-202482",
+      "libelle": "Public Sénat, « Sur l'Europe, Marine Le Pen a-t-elle vraiment changé ? »",
+      "date": "2022-04-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-europe-3",
+    "perso": "le-pen",
+    "sujet": "europe",
+    "intitule": "Sortir du commandement intégré de l'OTAN",
+    "detail": "Position présentée lors de sa conférence de presse sur la politique étrangère du 13 avril 2022, avec la fin des coopérations militaires avec Berlin.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://lcp.fr/programmes/ca-vous-regarde/le-pen-et-macron-deux-visions-opposees-sur-l-ue-et-l-otan-107132",
+      "libelle": "LCP, « Le Pen et Macron, deux visions opposées sur l'UE et l'OTAN »",
+      "date": "2022-04-13"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-europe-u",
+    "perso": "le-pen",
+    "sujet": "europe",
+    "intitule": "Une « Alliance européenne des nations » pour remplacer l'UE",
+    "detail": "Le manifeste 2022 propose une Alliance européenne des nations ayant vocation à se substituer progressivement à l'Union européenne.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/sur-l-europe-marine-le-pen-a-t-elle-vraiment-change-202482",
+      "libelle": "Public Sénat, « Sur l'Europe, Marine Le Pen a-t-elle vraiment changé ? »",
+      "date": "2022-04-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  }
+]

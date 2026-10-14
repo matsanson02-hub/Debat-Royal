@@ -1,0 +1,208 @@
+{
+  "id": "glucksmann",
+  "nom": "Raphaël Glucksmann",
+  "parti": "Place publique",
+  "statut": "declare",
+  "statut_note": "Candidat déclaré le 23 août 2026 au 20h de TF1, puis vainqueur dès le premier tour de la primaire sociale-démocrate (PS-Place publique) le 11 octobre 2026 avec environ 66 % des voix.",
+  "verifie_le": "2026-10-14",
+  "surnom": "L'essayiste",
+  "couleur": "#E5007D",
+  "entree": {
+    "replique": "Je suis candidat à l'élection présidentielle. Je ne prends pas cette décision à la légère",
+    "contexte": "Annonce de sa candidature au journal de 20 heures de TF1.",
+    "date": "2026-08-23",
+    "source": {
+      "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/le-choix-le-plus-important-de-notre-vie-de-citoyen-raphael-glucksmann-candidat-a-l-election-presidentielle-de-2027_8159177.html",
+      "libelle": "franceinfo, « \"Le choix le plus important de notre vie de citoyen\" : Raphaël Glucksmann candidat à l'élection présidentielle de 2027 »"
+    }
+  },
+  "arguments": {
+    "education": [
+      {
+        "id": "glucksmann-education-1",
+        "nom": "Profs mieux payés",
+        "bulle": "Revaloriser ceux qui enseignent",
+        "puissance": 14,
+        "mesure": "glucksmann-education-1"
+      },
+      {
+        "id": "glucksmann-education-2",
+        "nom": "Mixité dans le privé",
+        "bulle": "Le privé joue aussi la mixité",
+        "puissance": 16,
+        "mesure": "glucksmann-education-2"
+      },
+      {
+        "id": "glucksmann-education-3",
+        "nom": "Passeport pour l'émancipation",
+        "bulle": "Une colo pour chaque enfant",
+        "puissance": 18,
+        "mesure": "glucksmann-education-3"
+      }
+    ],
+    "retraites": [
+      {
+        "id": "glucksmann-retraites-1",
+        "nom": "Espérance de vie en santé",
+        "bulle": "Partir selon sa santé",
+        "puissance": 14,
+        "mesure": "glucksmann-retraites-1"
+      },
+      {
+        "id": "glucksmann-retraites-2",
+        "nom": "Haut Conseil des retraites",
+        "bulle": "Les partenaires sociaux pilotent",
+        "puissance": 16,
+        "mesure": "glucksmann-retraites-2"
+      }
+    ],
+    "pouvoir-achat": [
+      {
+        "id": "glucksmann-pouvoir-achat-1",
+        "nom": "Écarts de salaire plafonnés",
+        "bulle": "Pas plus de 1 à 20 dans la boîte",
+        "puissance": 14,
+        "mesure": "glucksmann-pouvoir-achat-1"
+      },
+      {
+        "id": "glucksmann-pouvoir-achat-2",
+        "nom": "Électricité à prix réglementé",
+        "bulle": "Une facture d'électricité stable",
+        "puissance": 16,
+        "mesure": "glucksmann-pouvoir-achat-2"
+      },
+      {
+        "id": "glucksmann-pouvoir-achat-3",
+        "nom": "Allocation d'autonomie jeunes",
+        "bulle": "Un coup de pouce aux 15-25 ans",
+        "puissance": 18,
+        "mesure": "glucksmann-pouvoir-achat-3"
+      }
+    ],
+    "immigration": [
+      {
+        "id": "glucksmann-immigration-1",
+        "nom": "Sauvetage en Méditerranée",
+        "bulle": "Secourir en mer",
+        "puissance": 14,
+        "mesure": "glucksmann-immigration-1"
+      },
+      {
+        "id": "glucksmann-immigration-2",
+        "nom": "Fin de l'externalisation",
+        "bulle": "L'Europe gère ses frontières elle-même",
+        "puissance": 16,
+        "mesure": "glucksmann-immigration-2"
+      }
+    ],
+    "ecologie": [
+      {
+        "id": "glucksmann-ecologie-1",
+        "nom": "Cap sur les renouvelables",
+        "bulle": "75 % de renouvelables en 2040",
+        "puissance": 14,
+        "mesure": "glucksmann-ecologie-1"
+      },
+      {
+        "id": "glucksmann-ecologie-2",
+        "nom": "Ticket climat",
+        "bulle": "Le train à prix attractif",
+        "puissance": 16,
+        "mesure": "glucksmann-ecologie-2"
+      },
+      {
+        "id": "glucksmann-ecologie-3",
+        "nom": "Écoles rénovées",
+        "bulle": "Des écoles isolées d'ici 2030",
+        "puissance": 18,
+        "mesure": "glucksmann-ecologie-3"
+      }
+    ],
+    "sante": [
+
+    ],
+    "securite": [
+      {
+        "id": "glucksmann-securite-1",
+        "nom": "Contre le blanchiment",
+        "bulle": "Frapper l'argent sale",
+        "puissance": 14,
+        "mesure": "glucksmann-securite-1"
+      }
+    ],
+    "europe": [
+      {
+        "id": "glucksmann-europe-1",
+        "nom": "Avoirs russes pour l'Ukraine",
+        "bulle": "L'argent russe paie la résistance",
+        "puissance": 14,
+        "mesure": "glucksmann-europe-1"
+      },
+      {
+        "id": "glucksmann-europe-2",
+        "nom": "Fonds de défense européen",
+        "bulle": "100 milliards pour se défendre",
+        "puissance": 16,
+        "mesure": "glucksmann-europe-2"
+      },
+      {
+        "id": "glucksmann-europe-3",
+        "nom": "Buy European Act",
+        "bulle": "Acheter européen d'abord",
+        "puissance": 18,
+        "mesure": "glucksmann-europe-3"
+      }
+    ]
+  },
+  "ultimes": {
+    "education": {
+      "id": "glucksmann-education-u",
+      "nom": "Service civique obligatoire",
+      "bulle": "Dix mois au service des autres",
+      "puissance": 32,
+      "mesure": "glucksmann-education-u"
+    },
+    "retraites": {
+      "id": "glucksmann-retraites-u",
+      "nom": "Retour à 62 ans",
+      "bulle": "On abroge la réforme de 2023",
+      "puissance": 32,
+      "mesure": "glucksmann-retraites-u"
+    },
+    "pouvoir-achat": {
+      "id": "glucksmann-pouvoir-achat-u",
+      "nom": "Baisse de la CSG",
+      "bulle": "Plus de net sur la fiche de paie",
+      "puissance": 32,
+      "mesure": "glucksmann-pouvoir-achat-u"
+    },
+    "immigration": {
+      "id": "glucksmann-immigration-u",
+      "nom": "Convention citoyenne immigration",
+      "bulle": "Les citoyens planchent sur l'immigration",
+      "puissance": 32,
+      "mesure": "glucksmann-immigration-u"
+    },
+    "ecologie": {
+      "id": "glucksmann-ecologie-u",
+      "nom": "Sortie des fossiles",
+      "bulle": "Adieu charbon, gaz et pétrole",
+      "puissance": 32,
+      "mesure": "glucksmann-ecologie-u"
+    },
+    "securite": {
+      "id": "glucksmann-securite-u",
+      "nom": "Confiance aux maires",
+      "bulle": "Les maires choisissent leur sécurité",
+      "puissance": 32,
+      "mesure": "glucksmann-securite-u"
+    },
+    "europe": {
+      "id": "glucksmann-europe-u",
+      "nom": "Fin du veto",
+      "bulle": "Une voix ne bloque plus l'Europe",
+      "puissance": 32,
+      "mesure": "glucksmann-europe-u"
+    }
+  }
+}

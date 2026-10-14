@@ -1,0 +1,66 @@
+{
+  "id": "roussel",
+  "nom": "Fabien Roussel",
+  "parti": "Parti communiste français",
+  "statut": "declare",
+  "statut_note": "Candidature annoncée le 6 septembre 2026 au 20h de TF1, après un vote des adhérents du PCF qui l'ont approuvée à 72 % (LCP, 6 septembre 2026) ; listé comme candidat par Public Sénat le 14 octobre 2026.",
+  "verifie_le": "2026-10-14",
+  "surnom": "Le camarade du Nord",
+  "couleur": "#dd0000",
+  "entree": {
+    "replique": "nous voulons plus de Sécu et moins d'obus",
+    "contexte": "Discours à la Fête de l'Humanité 2026, en opposant dépenses sociales et effort d'armement.",
+    "date": "2026-09-15",
+    "source": { "url": "https://www.pcf74.fr/2026/09/fete-de-l-humanite-2026-discours-de-fabien-roussel.html", "libelle": "PCF Haute-Savoie, texte du discours de Fabien Roussel à la Fête de l'Humanité 2026" }
+  },
+  "arguments": {
+    "education": [
+      { "id": "roussel-education-1", "nom": "90 000 profs en plus", "bulle": "Des profs devant chaque classe !", "puissance": 14, "mesure": "roussel-education-1" },
+      { "id": "roussel-education-2", "nom": "Classes allégées", "bulle": "15, 20, 25 : pas un élève de plus !", "puissance": 16, "mesure": "roussel-education-2" },
+      { "id": "roussel-education-3", "nom": "Adieu Parcoursup", "bulle": "Le bac redevient un vrai examen !", "puissance": 18, "mesure": "roussel-education-3" }
+    ],
+    "retraites": [
+      { "id": "roussel-retraites-1", "nom": "Pension plancher au SMIC", "bulle": "Aucune retraite sous le SMIC !", "puissance": 14, "mesure": "roussel-retraites-1" },
+      { "id": "roussel-retraites-2", "nom": "Pension à 75 %", "bulle": "75 % du salaire net à la retraite !", "puissance": 16, "mesure": "roussel-retraites-2" },
+      { "id": "roussel-retraites-3", "nom": "Cotiser sur les dividendes", "bulle": "Les dividendes paient aussi !", "puissance": 18, "mesure": "roussel-retraites-3" }
+    ],
+    "pouvoir-achat": [
+      { "id": "roussel-pouvoir-achat-1", "nom": "Plus 5 % pour tous", "bulle": "Tous les salaires +5 % !", "puissance": 14, "mesure": "roussel-pouvoir-achat-1" },
+      { "id": "roussel-pouvoir-achat-2", "nom": "Échelle mobile des salaires", "bulle": "Les prix montent, les salaires suivent !", "puissance": 16, "mesure": "roussel-pouvoir-achat-2" },
+      { "id": "roussel-pouvoir-achat-3", "nom": "Point d'indice +30 %", "bulle": "Les fonctionnaires revalorisés !", "puissance": 18, "mesure": "roussel-pouvoir-achat-3" }
+    ],
+    "immigration": [
+      { "id": "roussel-immigration-1", "nom": "Fermer les CRA", "bulle": "Fermeture des centres de rétention !", "puissance": 14, "mesure": "roussel-immigration-1" }
+    ],
+    "ecologie": [
+      { "id": "roussel-ecologie-1", "nom": "Sortie des fossiles", "bulle": "Adieu pétrole en quinze ans !", "puissance": 14, "mesure": "roussel-ecologie-1" },
+      { "id": "roussel-ecologie-2", "nom": "Pompes à chaleur", "bulle": "2 millions de pompes à chaleur par an !", "puissance": 16, "mesure": "roussel-ecologie-2" },
+      { "id": "roussel-ecologie-3", "nom": "Voiture électrique populaire", "bulle": "L'électrique à moins de 10 000 € !", "puissance": 18, "mesure": "roussel-ecologie-3" }
+    ],
+    "sante": [
+      { "id": "roussel-sante-1", "nom": "Bras pour les Ehpad", "bulle": "300 000 emplois dans les Ehpad !", "puissance": 14, "mesure": "roussel-sante-1" },
+      { "id": "roussel-sante-2", "nom": "Médecins mieux répartis", "bulle": "Un soin à moins de 30 minutes !", "puissance": 16, "mesure": "roussel-sante-2" },
+      { "id": "roussel-sante-3", "nom": "Fin de la T2A", "bulle": "L'hôpital n'est pas une usine !", "puissance": 18, "mesure": "roussel-sante-3" }
+    ],
+    "securite": [
+      { "id": "roussel-securite-1", "nom": "Loi intégrale violences", "bulle": "3 milliards contre les violences !", "puissance": 14, "mesure": "roussel-securite-1" },
+      { "id": "roussel-securite-2", "nom": "Fraudeurs à la case prison", "bulle": "Fraude fiscale ? Case prison !", "puissance": 16, "mesure": "roussel-securite-2" },
+      { "id": "roussel-securite-3", "nom": "Briser le verrou de Bercy", "bulle": "La justice poursuit la fraude !", "puissance": 18, "mesure": "roussel-securite-3" }
+    ],
+    "europe": [
+      { "id": "roussel-europe-1", "nom": "Reconnaître la Palestine", "bulle": "La Palestine reconnue en actes !", "puissance": 14, "mesure": "roussel-europe-1" },
+      { "id": "roussel-europe-2", "nom": "Boycott des colonies", "bulle": "Pas de produits des colonies !", "puissance": 16, "mesure": "roussel-europe-2" },
+      { "id": "roussel-europe-3", "nom": "Pacte climat européen", "bulle": "900 milliards pour le climat !", "puissance": 18, "mesure": "roussel-europe-3" }
+    ]
+  },
+  "ultimes": {
+    "education": { "id": "roussel-education-u", "nom": "Profs payés +30 %", "bulle": "Salaire des profs : +30 % !", "puissance": 32, "mesure": "roussel-education-u" },
+    "retraites": { "id": "roussel-retraites-u", "nom": "Retraite à 60 ans", "bulle": "La retraite à 60 ans !", "puissance": 32, "mesure": "roussel-retraites-u" },
+    "pouvoir-achat": { "id": "roussel-pouvoir-achat-u", "nom": "SMIC à 1 700 €", "bulle": "Le SMIC à 1 700 € net !", "puissance": 32, "mesure": "roussel-pouvoir-achat-u" },
+    "immigration": { "id": "roussel-immigration-u", "nom": "Régulariser les travailleurs", "bulle": "Qui travaille ici a des papiers !", "puissance": 32, "mesure": "roussel-immigration-u" },
+    "ecologie": { "id": "roussel-ecologie-u", "nom": "Électricité doublée", "bulle": "Deux fois plus d'électricité propre !", "puissance": 32, "mesure": "roussel-ecologie-u" },
+    "sante": { "id": "roussel-sante-u", "nom": "100 000 hospitaliers", "bulle": "100 000 bras pour l'hôpital !", "puissance": 32, "mesure": "roussel-sante-u" },
+    "securite": { "id": "roussel-securite-u", "nom": "Police de proximité", "bulle": "30 000 policiers de proximité !", "puissance": 32, "mesure": "roussel-securite-u" },
+    "europe": { "id": "roussel-europe-u", "nom": "Sortie de l'OTAN", "bulle": "La France quitte l'OTAN !", "puissance": 32, "mesure": "roussel-europe-u" }
+  }
+}

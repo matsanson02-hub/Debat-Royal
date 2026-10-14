@@ -1,0 +1,68 @@
+{
+  "id": "dupont-aignan",
+  "nom": "Nicolas Dupont-Aignan",
+  "parti": "Debout la France",
+  "statut": "declare",
+  "statut_note": "Candidature annoncée le 8 mars 2025 lors d'un meeting à Yerres (Orange/6Medias, 8 mars 2025), campagne relancée le 19 septembre 2026 (AFP) ; listé comme candidat par Public Sénat le 14 octobre 2026. Les 500 parrainages restent à obtenir.",
+  "verifie_le": "2026-10-14",
+  "surnom": "Le marathonien de Yerres",
+  "couleur": "#0b5ea8",
+  "entree": {
+    "replique": "Oui, j'ai le devoir d'être candidat à l'élection présidentielle.",
+    "contexte": "Meeting à Yerres (Essonne) où il annonce sa quatrième candidature à l'Élysée.",
+    "date": "2025-03-08",
+    "source": { "url": "https://actu.orange.fr/france/election-presidentielle-2027-nicolas-dupont-aignan-se-lance-dans-la-course-a-l-elysee-magic-CNT000002hNChM.html", "libelle": "Orange Actu (6Medias), « Élection présidentielle 2027 : Nicolas Dupont-Aignan se lance dans la course à l'Élysée »" }
+  },
+  "arguments": {
+    "education": [
+      { "id": "dupont-aignan-education-1", "nom": "Français et maths renforcés", "bulle": "+30 % d'heures de français et de maths !", "puissance": 14, "mesure": "dupont-aignan-education-1" },
+      { "id": "dupont-aignan-education-2", "nom": "Retour du certificat d'études", "bulle": "Un examen pour entrer au collège !", "puissance": 16, "mesure": "dupont-aignan-education-2" },
+      { "id": "dupont-aignan-education-3", "nom": "Profs payés +15 %", "bulle": "+15 % net pour les profs !", "puissance": 18, "mesure": "dupont-aignan-education-3" }
+    ],
+    "retraites": [
+      { "id": "dupont-aignan-retraites-1", "nom": "Livret retraite bébé", "bulle": "10 000 € pour chaque nouveau-né !", "puissance": 14, "mesure": "dupont-aignan-retraites-1" },
+      { "id": "dupont-aignan-retraites-2", "nom": "Fonds souverain retraites", "bulle": "Un fonds à la norvégienne !", "puissance": 16, "mesure": "dupont-aignan-retraites-2" },
+      { "id": "dupont-aignan-retraites-3", "nom": "ASPA après 10 ans", "bulle": "Le minimum vieillesse se mérite !", "puissance": 18, "mesure": "dupont-aignan-retraites-3" }
+    ],
+    "pouvoir-achat": [
+      { "id": "dupont-aignan-pouvoir-achat-1", "nom": "Heures sup défiscalisées", "bulle": "Travailler plus sans impôt !", "puissance": 14, "mesure": "dupont-aignan-pouvoir-achat-1" },
+      { "id": "dupont-aignan-pouvoir-achat-2", "nom": "Carburant moins taxé", "bulle": "Plus de TVA sur la taxe essence !", "puissance": 16, "mesure": "dupont-aignan-pouvoir-achat-2" },
+      { "id": "dupont-aignan-pouvoir-achat-3", "nom": "Maison familiale sans droits", "bulle": "La maison transmise sans taxe !", "puissance": 18, "mesure": "dupont-aignan-pouvoir-achat-3" }
+    ],
+    "immigration": [
+      { "id": "dupont-aignan-immigration-1", "nom": "Adieu Schengen", "bulle": "10 000 agents aux frontières !", "puissance": 14, "mesure": "dupont-aignan-immigration-1" },
+      { "id": "dupont-aignan-immigration-2", "nom": "Fin de l'AME", "bulle": "L'AME remplacée par des dispensaires !", "puissance": 16, "mesure": "dupont-aignan-immigration-2" },
+      { "id": "dupont-aignan-immigration-3", "nom": "Délit de séjour irrégulier", "bulle": "Le séjour illégal redevient un délit !", "puissance": 18, "mesure": "dupont-aignan-immigration-3" }
+    ],
+    "ecologie": [
+      { "id": "dupont-aignan-ecologie-1", "nom": "MaPrimeRénov' doublée", "bulle": "6 milliards pour isoler !", "puissance": 14, "mesure": "dupont-aignan-ecologie-1" },
+      { "id": "dupont-aignan-ecologie-2", "nom": "Fin des ZFE", "bulle": "Les ZFE au garage !", "puissance": 16, "mesure": "dupont-aignan-ecologie-2" },
+      { "id": "dupont-aignan-ecologie-3", "nom": "Thermique après 2035", "bulle": "Le moteur thermique a un avenir !", "puissance": 18, "mesure": "dupont-aignan-ecologie-3" }
+    ],
+    "sante": [
+      { "id": "dupont-aignan-sante-1", "nom": "Bourse contre déserts médicaux", "bulle": "Études payées, 5 ans à la campagne !", "puissance": 14, "mesure": "dupont-aignan-sante-1" },
+      { "id": "dupont-aignan-sante-2", "nom": "Stop aux fermetures de lits", "bulle": "Plus un lit d'hôpital fermé !", "puissance": 16, "mesure": "dupont-aignan-sante-2" },
+      { "id": "dupont-aignan-sante-3", "nom": "Primes de pénibilité", "bulle": "Les soignants enfin récompensés !", "puissance": 18, "mesure": "dupont-aignan-sante-3" }
+    ],
+    "securite": [
+      { "id": "dupont-aignan-securite-1", "nom": "10 000 policiers en plus", "bulle": "10 000 uniformes de plus !", "puissance": 14, "mesure": "dupont-aignan-securite-1" },
+      { "id": "dupont-aignan-securite-2", "nom": "Légitime défense présumée", "bulle": "Le policier présumé en légitime défense !", "puissance": 16, "mesure": "dupont-aignan-securite-2" },
+      { "id": "dupont-aignan-securite-3", "nom": "Prison en Guyane", "bulle": "600 places au bout du monde !", "puissance": 18, "mesure": "dupont-aignan-securite-3" }
+    ],
+    "europe": [
+      { "id": "dupont-aignan-europe-1", "nom": "Électricité au prix français", "bulle": "Adieu le marché européen de l'électricité !", "puissance": 14, "mesure": "dupont-aignan-europe-1" },
+      { "id": "dupont-aignan-europe-2", "nom": "Fin de la contribution nette", "bulle": "10 milliards rendus à la France !", "puissance": 16, "mesure": "dupont-aignan-europe-2" },
+      { "id": "dupont-aignan-europe-3", "nom": "Non au Mercosur", "bulle": "Le Mercosur ? C'est non !", "puissance": 18, "mesure": "dupont-aignan-europe-3" }
+    ]
+  },
+  "ultimes": {
+    "education": { "id": "dupont-aignan-education-u", "nom": "Uniforme et vouvoiement", "bulle": "Uniforme et vouvoiement pour tous !", "puissance": 32, "mesure": "dupont-aignan-education-u" },
+    "retraites": { "id": "dupont-aignan-retraites-u", "nom": "Retraite 62 ans 9 mois", "bulle": "62 ans et 9 mois, pas un jour de plus !", "puissance": 32, "mesure": "dupont-aignan-retraites-u" },
+    "pouvoir-achat": { "id": "dupont-aignan-pouvoir-achat-u", "nom": "Autoroutes renationalisées", "bulle": "Péages supprimés d'ici 2030 !", "puissance": 32, "mesure": "dupont-aignan-pouvoir-achat-u" },
+    "immigration": { "id": "dupont-aignan-immigration-u", "nom": "Fin du droit du sol", "bulle": "Le droit du sol soumis au référendum !", "puissance": 32, "mesure": "dupont-aignan-immigration-u" },
+    "ecologie": { "id": "dupont-aignan-ecologie-u", "nom": "Nucléaire à 70 %", "bulle": "70 % de nucléaire minimum !", "puissance": 32, "mesure": "dupont-aignan-ecologie-u" },
+    "sante": { "id": "dupont-aignan-sante-u", "nom": "12 000 médecins par an", "bulle": "12 000 médecins formés chaque année !", "puissance": 32, "mesure": "dupont-aignan-sante-u" },
+    "securite": { "id": "dupont-aignan-securite-u", "nom": "40 000 places de prison", "bulle": "40 000 places de prison !", "puissance": 32, "mesure": "dupont-aignan-securite-u" },
+    "europe": { "id": "dupont-aignan-europe-u", "nom": "Référendum sur l'UE", "bulle": "Le peuple décide : dedans ou dehors !", "puissance": 32, "mesure": "dupont-aignan-europe-u" }
+  }
+}

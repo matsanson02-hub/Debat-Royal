@@ -1,0 +1,362 @@
+[
+  {
+    "id": "tondelier-q-01",
+    "perso": "tondelier",
+    "sujet": "education",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "À combien d'élèves par classe Tondelier veut-elle plafonner le primaire d'ici 2032 ?",
+    "choix": [
+      "15",
+      "19",
+      "24",
+      "30"
+    ],
+    "bonne": 1,
+    "explication": "Objectif : 19 élèves par classe d'ici 2032, et 12 en éducation prioritaire.",
+    "mesure": "tondelier-education-u",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-que-proposent-les-candidats-pour-lecole",
+      "libelle": "Public Sénat, « Présidentielle 2027 : que proposent les candidats pour l'école ? »",
+      "date": "2026-08-31"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-q-02",
+    "perso": "tondelier",
+    "sujet": "retraites",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Pour Tondelier, à quel âge partiraient les carrières longues et métiers pénibles ?",
+    "choix": [
+      "55 ans",
+      "58 ans",
+      "62 ans",
+      "60 ans"
+    ],
+    "bonne": 3,
+    "explication": "60 ans pour ceux qui ont commencé avant 20 ans ou exercé un métier pénible, 62 ans pour les autres.",
+    "mesure": "tondelier-retraites-u",
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
+      "libelle": "LCP, « Présidentielle : que proposent les candidats à l'Élysée sur les retraites ? »",
+      "date": "2026-09-16"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-q-03",
+    "perso": "tondelier",
+    "sujet": "pouvoir-achat",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien de jours dure le « congé climatique » payé proposé par Tondelier ?",
+    "choix": [
+      "5 jours par an",
+      "1 jour par an",
+      "15 jours par an",
+      "1 mois par an"
+    ],
+    "bonne": 0,
+    "explication": "Elle propose 5 jours de congé payé par an pour faire face aux vagues de chaleur.",
+    "mesure": "tondelier-pouvoir-achat-3",
+    "source": {
+      "url": "https://www.brut.media/fr/articles/france/politique/presidentielle-tondelier-devoile-ses-propositions-pour-la-sante-environnementale",
+      "libelle": "Brut, « Présidentielle : Tondelier dévoile ses propositions pour la santé environnementale »",
+      "date": "2026-06-02"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-q-04",
+    "perso": "tondelier",
+    "sujet": "immigration",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quel mot Tondelier a-t-elle employé pour la fin du droit du sol à Mayotte ?",
+    "choix": [
+      "« inévitable »",
+      "« infamante »",
+      "« logique »",
+      "« prématurée »"
+    ],
+    "bonne": 1,
+    "explication": "En visite à Mayotte en avril 2024, elle qualifie la mesure d'« infamante ».",
+    "mesure": "tondelier-immigration-1",
+    "source": {
+      "url": "https://marine-oceans.com/actualites/la-fin-du-droit-du-sol-a-mayotte-serait-infamante-juge-lecologiste-marine-tondelier/",
+      "libelle": "Marine & Océans / AFP, « La fin du droit du sol à Mayotte serait “infamante”, juge l'écologiste Marine Tondelier »",
+      "date": "2024-04-18"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-q-05",
+    "perso": "tondelier",
+    "sujet": "ecologie",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien de communautés citoyennes d'énergie Tondelier veut-elle permettre ?",
+    "choix": [
+      "100",
+      "1 000",
+      "10 000",
+      "1 million"
+    ],
+    "bonne": 2,
+    "explication": "Elle propose un cadre pour 10 000 communautés énergétiques citoyennes.",
+    "mesure": "tondelier-ecologie-2",
+    "source": {
+      "url": "https://www.les-energies-renouvelables.eu/article/actualites/energies/tondelier-veut-atteindre-100-de-renouvelables-sans-nucleaire-1096/",
+      "libelle": "ECOinfos, « Tondelier : un mix 100 % renouvelable contre le nucléaire » (Entretiens de Terra Nova)",
+      "date": "2026-07-03"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-q-06",
+    "perso": "tondelier",
+    "sujet": "sante",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Dans la stratégie « 300/30/3 », que désigne le « 300 » ?",
+    "choix": [
+      "300 m maximum jusqu'à un espace vert",
+      "300 arbres par commune",
+      "300 € d'aide santé",
+      "300 nouveaux hôpitaux"
+    ],
+    "bonne": 0,
+    "explication": "Chacun devrait avoir un espace vert à moins de 300 mètres de chez lui.",
+    "mesure": "tondelier-sante-3",
+    "source": {
+      "url": "https://www.brut.media/fr/articles/france/politique/presidentielle-tondelier-devoile-ses-propositions-pour-la-sante-environnementale",
+      "libelle": "Brut, « Présidentielle : Tondelier dévoile ses propositions pour la santé environnementale »",
+      "date": "2026-06-02"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-q-07",
+    "perso": "tondelier",
+    "sujet": "securite",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Que propose Tondelier lors des contrôles d'identité ?",
+    "choix": [
+      "Une amende",
+      "Une photo obligatoire",
+      "Leur suppression totale",
+      "Un récépissé"
+    ],
+    "bonne": 3,
+    "explication": "Elle soutient la demande des associations d'un récépissé à chaque contrôle d'identité.",
+    "mesure": "tondelier-securite-1",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/societe/il-y-a-un-probleme-systemique-dans-la-police-declare-lecologiste-marine-tondelier",
+      "libelle": "Public Sénat, « “Il y a un problème systémique dans la police”, déclare l'écologiste Marine Tondelier »",
+      "date": "2023-07-03"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-q-08",
+    "perso": "tondelier",
+    "sujet": "europe",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "À quelle institution serait rattaché le « haut conseil militaire intégré » des Écologistes ?",
+    "choix": [
+      "À l'OTAN",
+      "À l'ONU",
+      "Au Conseil européen",
+      "Au ministère des Armées"
+    ],
+    "bonne": 2,
+    "explication": "Le programme 2027 le rattache au Conseil européen.",
+    "mesure": "tondelier-europe-u",
+    "source": {
+      "url": "https://www.france24.com/fr/info-en-continu/20260713-2027-les-ecologistes-veulent-instaurer-la-premi%C3%A8re-r%C3%A9publique-%C3%A9cologique-et-citoyenne",
+      "libelle": "France 24 / AFP, « 2027 : les Écologistes veulent instaurer la “Première République écologique et citoyenne” »",
+      "date": "2026-07-13"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-q-09",
+    "perso": "tondelier",
+    "sujet": "securite",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Dans quelle ville Tondelier est-elle conseillère municipale d'opposition depuis 2014 ?",
+    "choix": [
+      "Hénin-Beaumont",
+      "Lille",
+      "Arras",
+      "Calais"
+    ],
+    "bonne": 0,
+    "explication": "Elle siège dans l'opposition au conseil municipal d'Hénin-Beaumont à partir de mars 2014.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "libelle": "Wikipédia, « Marine Tondelier » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-q-10",
+    "perso": "tondelier",
+    "sujet": "education",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Quel livre Marine Tondelier a-t-elle publié en 2017 ?",
+    "choix": [
+      "« Le Suicide français »",
+      "« Rien n'est jamais écrit »",
+      "« Nouvelles du Front »",
+      "« La France insoumise »"
+    ],
+    "bonne": 2,
+    "explication": "« Nouvelles du Front » paraît le 1er mars 2017.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "libelle": "Wikipédia, « Marine Tondelier » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-q-11",
+    "perso": "tondelier",
+    "sujet": "ecologie",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Quand Tondelier a-t-elle été élue secrétaire nationale d'EELV ?",
+    "choix": [
+      "Juin 2017",
+      "Décembre 2022",
+      "Juillet 2024",
+      "Mai 2012"
+    ],
+    "bonne": 1,
+    "explication": "Elle est élue le 10 décembre 2022 au congrès, avec 90,8 % au second tour.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "libelle": "Wikipédia, « Marine Tondelier » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-q-12",
+    "perso": "tondelier",
+    "sujet": "ecologie",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Quel nouveau nom EELV a-t-il adopté en octobre 2023 ?",
+    "choix": [
+      "Les Verts",
+      "Génération écologie",
+      "L'Après",
+      "Les Écologistes"
+    ],
+    "bonne": 3,
+    "explication": "Le parti devient « Les Écologistes » en octobre 2023.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "libelle": "Wikipédia, « Marine Tondelier » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-q-13",
+    "perso": "tondelier",
+    "sujet": "europe",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Depuis 2021, Tondelier siège aussi dans quel conseil régional ?",
+    "choix": [
+      "Hauts-de-France",
+      "Île-de-France",
+      "Grand Est",
+      "Normandie"
+    ],
+    "bonne": 0,
+    "explication": "Elle est élue conseillère régionale des Hauts-de-France en juin 2021.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "libelle": "Wikipédia, « Marine Tondelier » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-q-14",
+    "perso": "tondelier",
+    "sujet": "pouvoir-achat",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Dans quel média Tondelier a-t-elle annoncé sa candidature le 22 octobre 2025 ?",
+    "choix": [
+      "Le Figaro",
+      "Le Nouvel Obs",
+      "Ouest-France",
+      "Libération"
+    ],
+    "bonne": 1,
+    "explication": "« Cette interview est ma déclaration officielle de candidature », dit-elle au Nouvel Obs.",
+    "source": {
+      "url": "https://www.brut.media/fr/articles/france/politique/marine-tondelier-la-patronne-des-ecologistes-officiellement-candidate-a-la-presidentielle-de-2027",
+      "libelle": "Brut, « Marine Tondelier, la patronne des Écologistes, officiellement candidate à la présidentielle de 2027 »",
+      "date": "2025-11-17"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-q-15",
+    "perso": "tondelier",
+    "sujet": "immigration",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Avec quel score les Écologistes l'ont-ils désignée en décembre 2025 ?",
+    "choix": [
+      "51 %",
+      "66 %",
+      "99 %",
+      "86 %"
+    ],
+    "bonne": 3,
+    "explication": "Le 8 décembre 2025, elle obtient 86 % face à Waleed Mouhali (14 %).",
+    "source": {
+      "url": "https://reporterre.net/Presidentielle-2027-Marine-Tondelier-representera-Les-Ecologistes-a-la-primaire-de-la-gauche",
+      "libelle": "Reporterre, « Présidentielle 2027 : Marine Tondelier représentera Les Écologistes à la primaire de la gauche »",
+      "date": "2025-12-08"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-q-16",
+    "perso": "tondelier",
+    "sujet": "retraites",
+    "categorie": "culte",
+    "difficulte": 3,
+    "question": "« On ne peut pas aimer son pays et accepter… » quoi, selon Tondelier ?",
+    "choix": [
+      "qu'il recule",
+      "qu'il s'abîme ainsi",
+      "qu'il se divise",
+      "qu'il oublie"
+    ],
+    "bonne": 1,
+    "explication": "Phrase prononcée pour expliquer sa candidature à la présidentielle, en octobre 2025.",
+    "source": {
+      "url": "https://www.brut.media/fr/articles/france/politique/marine-tondelier-la-patronne-des-ecologistes-officiellement-candidate-a-la-presidentielle-de-2027",
+      "libelle": "Brut, « Marine Tondelier, la patronne des Écologistes, officiellement candidate à la présidentielle de 2027 »",
+      "date": "2025-11-17"
+    },
+    "statut": "ok"
+  }
+]

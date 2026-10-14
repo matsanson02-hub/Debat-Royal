@@ -1,0 +1,2173 @@
+[
+  {
+    "id": "macron",
+    "nom": "Emmanuel Macron",
+    "parti": "Renaissance",
+    "role": "Président de la République (2017-2027)",
+    "couleur": "#f5c400",
+    "rarete": "legendaire",
+    "effet": "attaque",
+    "surnom": "Le Maître du « en même temps »",
+    "entree": {
+      "replique": "Car, il n'y a pas de planète B.",
+      "contexte": "Déclaration télévisée depuis l'Élysée après l'annonce du retrait des États-Unis de l'accord de Paris sur le climat.",
+      "date": "2017-06-01",
+      "source": {
+        "url": "https://www.elysee.fr/emmanuel-macron/2017/06/01/declaration-suite-a-la-sortie-des-etats-unis-de-laccord-de-paris",
+        "libelle": "Élysée – Déclaration suite à la sortie des États-Unis de l'accord de Paris"
+      }
+    },
+    "questions": [
+      {
+        "id": "macron-q-01",
+        "perso": "macron",
+        "sujet": "pouvoir-achat",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "Quel ministère Emmanuel Macron a-t-il dirigé avant de fonder En Marche ?",
+        "choix": [
+          "L'Intérieur",
+          "L'Économie",
+          "La Culture",
+          "Les Affaires étrangères"
+        ],
+        "bonne": 1,
+        "explication": "Il a été ministre de l'Économie, de l'Industrie et du Numérique d'août 2014 à août 2016.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Emmanuel_Macron",
+          "libelle": "Wikipédia – Emmanuel Macron",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "macron-q-02",
+        "perso": "macron",
+        "sujet": "europe",
+        "categorie": "culte",
+        "difficulte": 2,
+        "question": "Dans quelle ville Emmanuel Macron a-t-il lancé En Marche en avril 2016 ?",
+        "choix": [
+          "Paris",
+          "Lyon",
+          "Le Touquet",
+          "Amiens"
+        ],
+        "bonne": 3,
+        "explication": "Le mouvement En Marche ! a été lancé le 6 avril 2016 à Amiens, sa ville natale.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Renaissance_(parti_fran%C3%A7ais)",
+          "libelle": "Wikipédia – Renaissance (parti)",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "macron-q-03",
+        "perso": "macron",
+        "sujet": "retraites",
+        "categorie": "programme",
+        "difficulte": 1,
+        "question": "À quel âge la réforme des retraites de 2023 porte-t-elle l'âge légal de départ ?",
+        "choix": [
+          "62 ans",
+          "63 ans",
+          "64 ans",
+          "65 ans"
+        ],
+        "bonne": 2,
+        "explication": "La loi promulguée le 14 avril 2023 relève progressivement l'âge légal de 62 à 64 ans.",
+        "source": {
+          "url": "https://www.vie-publique.fr/loi/287993-loi-14-avril-2023-financement-rectificative-securite-sociale-retraites",
+          "libelle": "Vie publique – Réforme des retraites 2023",
+          "date": "2023-04-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "macron-q-04",
+        "perso": "macron",
+        "sujet": "europe",
+        "categorie": "parcours",
+        "difficulte": 3,
+        "question": "Où Emmanuel Macron a-t-il prononcé son grand discours sur l'Europe le 26 septembre 2017 ?",
+        "choix": [
+          "À la Sorbonne",
+          "Au Parlement européen",
+          "À Aix-la-Chapelle",
+          "À Athènes"
+        ],
+        "bonne": 0,
+        "explication": "Son discours « Initiative pour l'Europe » a été prononcé à la Sorbonne, à Paris.",
+        "source": {
+          "url": "https://www.elysee.fr/emmanuel-macron/2017/09/26/initiative-pour-l-europe-discours-d-emmanuel-macron-pour-une-europe-souveraine-unie-democratique",
+          "libelle": "Élysée – Discours de la Sorbonne",
+          "date": "2017-09-26"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "macron-q-05",
+        "perso": "macron",
+        "sujet": "europe",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "Quel jour Emmanuel Macron a-t-il annoncé la dissolution de l'Assemblée nationale en 2024 ?",
+        "choix": [
+          "Le 26 mai",
+          "Le 9 juin",
+          "Le 30 juin",
+          "Le 7 juillet"
+        ],
+        "bonne": 1,
+        "explication": "Il l'a annoncée le soir des élections européennes, le 9 juin 2024.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Dissolution_de_l%27Assembl%C3%A9e_nationale_fran%C3%A7aise_de_2024",
+          "libelle": "Wikipédia – Dissolution de 2024",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "hollande",
+    "nom": "François Hollande",
+    "parti": "Parti socialiste",
+    "role": "Président de la République (2012-2017)",
+    "couleur": "#e4007c",
+    "rarete": "legendaire",
+    "effet": "bouclier",
+    "surnom": "Monsieur Normal",
+    "entree": {
+      "replique": "Cet adversaire, c'est le monde de la finance.",
+      "contexte": "Meeting de campagne présidentielle au Bourget, premier grand discours du candidat socialiste.",
+      "date": "2012-01-22",
+      "source": {
+        "url": "https://www.europe1.fr/node/449343",
+        "libelle": "Europe 1 – discours du Bourget"
+      }
+    },
+    "questions": [
+      {
+        "id": "hollande-q-01",
+        "perso": "hollande",
+        "sujet": "pouvoir-achat",
+        "categorie": "culte",
+        "difficulte": 1,
+        "question": "Quel était le slogan de campagne de François Hollande en 2012 ?",
+        "choix": [
+          "Ensemble, tout devient possible",
+          "La France forte",
+          "Le changement, c'est maintenant",
+          "La force tranquille"
+        ],
+        "bonne": 2,
+        "explication": "« Le changement, c'est maintenant » était le slogan de sa campagne présidentielle de 2012.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+          "libelle": "Wikipédia – François Hollande",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "hollande-q-02",
+        "perso": "hollande",
+        "sujet": "pouvoir-achat",
+        "categorie": "programme",
+        "difficulte": 2,
+        "question": "Quel taux d'imposition Hollande proposait-il en 2012 sur les revenus au-delà d'un million d'euros ?",
+        "choix": [
+          "45 %",
+          "75 %",
+          "60 %",
+          "90 %"
+        ],
+        "bonne": 1,
+        "explication": "Il a proposé en février 2012 une tranche à 75 % pour les revenus supérieurs à un million d'euros par an.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Taxe_%C3%A0_75_%25",
+          "libelle": "Wikipédia – Taxe à 75 %",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "hollande-q-03",
+        "perso": "hollande",
+        "sujet": "ecologie",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "Quelle conférence sur le climat la France a-t-elle accueillie en 2015 sous Hollande ?",
+        "choix": [
+          "La COP21",
+          "La COP15",
+          "La COP26",
+          "Le sommet de Rio"
+        ],
+        "bonne": 0,
+        "explication": "La COP21, tenue au Bourget, a abouti à l'accord de Paris adopté le 12 décembre 2015.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Accord_de_Paris_sur_le_climat",
+          "libelle": "Wikipédia – Accord de Paris",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "hollande-q-04",
+        "perso": "hollande",
+        "sujet": "europe",
+        "categorie": "parcours",
+        "difficulte": 3,
+        "question": "De quel conseil général François Hollande était-il président avant d'entrer à l'Élysée ?",
+        "choix": [
+          "Gironde",
+          "Haute-Vienne",
+          "Dordogne",
+          "Corrèze"
+        ],
+        "bonne": 3,
+        "explication": "Il a présidé le conseil général de la Corrèze de 2008 à 2012.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+          "libelle": "Wikipédia – François Hollande",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "hollande-q-05",
+        "perso": "hollande",
+        "sujet": "europe",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "Qu'a annoncé François Hollande le 1er décembre 2016 ?",
+        "choix": [
+          "Une dissolution",
+          "Un référendum",
+          "Qu'il ne se représentait pas",
+          "Un remaniement"
+        ],
+        "bonne": 2,
+        "explication": "Il a annoncé renoncer à briguer un second mandat, une première pour un président de la Ve République.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+          "libelle": "Wikipédia – François Hollande",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "sarkozy",
+    "nom": "Nicolas Sarkozy",
+    "parti": "Les Républicains",
+    "role": "Président de la République (2007-2012)",
+    "couleur": "#1f4e9c",
+    "rarete": "legendaire",
+    "effet": "attaque",
+    "surnom": "L'Hyperprésident",
+    "entree": {
+      "replique": "Je défendrai l'indépendance et l'identité de la France.",
+      "contexte": "Discours de prise de fonction à l'Élysée lors de son investiture.",
+      "date": "2007-05-16",
+      "source": {
+        "url": "https://www.elysee.fr/la-presidence/l-investiture-de-nicolas-sarkozy",
+        "libelle": "Élysée – L'investiture de Nicolas Sarkozy"
+      }
+    },
+    "questions": [
+      {
+        "id": "sarkozy-q-01",
+        "perso": "sarkozy",
+        "sujet": "pouvoir-achat",
+        "categorie": "culte",
+        "difficulte": 1,
+        "question": "Quelle formule résume la promesse phare de Nicolas Sarkozy en 2007 ?",
+        "choix": [
+          "Le changement, c'est maintenant",
+          "Travailler plus pour gagner plus",
+          "La France pour tous",
+          "Une France apaisée"
+        ],
+        "bonne": 1,
+        "explication": "« Travailler plus pour gagner plus » fut le leitmotiv de sa campagne de 2007, traduit par la défiscalisation des heures supplémentaires.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Nicolas_Sarkozy",
+          "libelle": "Wikipédia – Nicolas Sarkozy",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "sarkozy-q-02",
+        "perso": "sarkozy",
+        "sujet": "retraites",
+        "categorie": "programme",
+        "difficulte": 2,
+        "question": "La réforme des retraites de 2010 relève l'âge légal de départ de 60 ans à…",
+        "choix": [
+          "61 ans",
+          "64 ans",
+          "65 ans",
+          "62 ans"
+        ],
+        "bonne": 3,
+        "explication": "La loi du 9 novembre 2010 porte progressivement l'âge légal de 60 à 62 ans.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/R%C3%A9forme_des_retraites_en_France_en_2010",
+          "libelle": "Wikipédia – Réforme des retraites de 2010",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "sarkozy-q-03",
+        "perso": "sarkozy",
+        "sujet": "securite",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "Quel ministère Nicolas Sarkozy obtient-il en 2002 dans le gouvernement Raffarin ?",
+        "choix": [
+          "L'Intérieur",
+          "La Défense",
+          "La Justice",
+          "L'Économie"
+        ],
+        "bonne": 0,
+        "explication": "Il devient ministre de l'Intérieur en mai 2002, poste qu'il retrouvera de 2005 à 2007.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Nicolas_Sarkozy",
+          "libelle": "Wikipédia – Nicolas Sarkozy",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "sarkozy-q-04",
+        "perso": "sarkozy",
+        "sujet": "europe",
+        "categorie": "parcours",
+        "difficulte": 3,
+        "question": "Quand la France a-t-elle exercé la présidence du Conseil de l'UE sous Sarkozy ?",
+        "choix": [
+          "1er semestre 2008",
+          "2nd semestre 2009",
+          "2nd semestre 2008",
+          "1er semestre 2011"
+        ],
+        "bonne": 2,
+        "explication": "La présidence française du Conseil de l'Union européenne s'est déroulée de juillet à décembre 2008.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_fran%C3%A7aise_du_Conseil_de_l%27Union_europ%C3%A9enne_en_2008",
+          "libelle": "Wikipédia – Présidence française de l'UE 2008",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "sarkozy-q-05",
+        "perso": "sarkozy",
+        "sujet": "securite",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "De quelle ville Nicolas Sarkozy a-t-il été maire de 1983 à 2002 ?",
+        "choix": [
+          "Levallois-Perret",
+          "Neuilly-sur-Seine",
+          "Boulogne-Billancourt",
+          "Versailles"
+        ],
+        "bonne": 1,
+        "explication": "Élu en 1983 à 28 ans, il a été maire de Neuilly-sur-Seine jusqu'en 2002.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Nicolas_Sarkozy",
+          "libelle": "Wikipédia – Nicolas Sarkozy",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "dati",
+    "nom": "Rachida Dati",
+    "parti": "Les Républicains",
+    "role": "Maire du 7e arrondissement de Paris, ministre de la Culture (2024-2026)",
+    "couleur": "#0066cc",
+    "rarete": "epique",
+    "effet": "vol_combo",
+    "surnom": "La Lionne du 7e",
+    "entree": null,
+    "questions": [
+      {
+        "id": "dati-q-01",
+        "perso": "dati",
+        "sujet": "securite",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "Quel ministère Rachida Dati a-t-elle dirigé de 2007 à 2009 ?",
+        "choix": [
+          "L'Intérieur",
+          "La Culture",
+          "La Justice",
+          "Le Logement"
+        ],
+        "bonne": 2,
+        "explication": "Elle a été garde des Sceaux, ministre de la Justice, de mai 2007 à juin 2009.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Rachida_Dati",
+          "libelle": "Wikipédia – Rachida Dati",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "dati-q-02",
+        "perso": "dati",
+        "sujet": "securite",
+        "categorie": "programme",
+        "difficulte": 3,
+        "question": "Quelle mesure phare porte la loi Dati du 10 août 2007 contre la récidive ?",
+        "choix": [
+          "Les peines planchers",
+          "La rétention de sûreté",
+          "Le bracelet électronique",
+          "La suppression des juges d'instruction"
+        ],
+        "bonne": 0,
+        "explication": "La loi du 10 août 2007 instaure des peines minimales (« peines planchers ») pour les récidivistes.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Loi_du_10_ao%C3%BBt_2007_renfor%C3%A7ant_la_lutte_contre_la_r%C3%A9cidive_des_majeurs_et_des_mineurs",
+          "libelle": "Wikipédia – Loi du 10 août 2007 sur la récidive",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "dati-q-03",
+        "perso": "dati",
+        "sujet": "education",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "De quel arrondissement de Paris Rachida Dati est-elle maire depuis 2008 ?",
+        "choix": [
+          "Le 16e",
+          "Le 7e",
+          "Le 8e",
+          "Le 15e"
+        ],
+        "bonne": 1,
+        "explication": "Elle est maire du 7e arrondissement depuis 2008, réélue au premier tour en mars 2026.",
+        "source": {
+          "url": "https://snrtnews.com/fr/article/municipales-a-paris-rachida-dati-reelue-maire-du-viie-arrondissement-148205",
+          "libelle": "SNRTnews – Dati réélue maire du VIIe",
+          "date": "2026-03-15"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "dati-q-04",
+        "perso": "dati",
+        "sujet": "education",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "Quel ministère Rachida Dati a-t-elle rejoint en janvier 2024 ?",
+        "choix": [
+          "La Justice",
+          "Les Sports",
+          "Les Affaires européennes",
+          "La Culture"
+        ],
+        "bonne": 3,
+        "explication": "Nommée ministre de la Culture dans le gouvernement Attal, elle démissionne en février 2026 pour les municipales.",
+        "source": {
+          "url": "https://www.brut.media/fr/articles/municipales-la-ministre-de-la-culture-rachida-dati-demissionne-pour-se-consacrer-a-paris",
+          "libelle": "Brut – Dati démissionne pour se consacrer à Paris",
+          "date": "2026-02-25"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "dati-q-05",
+        "perso": "dati",
+        "sujet": "pouvoir-achat",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "Qui a battu Rachida Dati au second tour des municipales de Paris en mars 2026 ?",
+        "choix": [
+          "Anne Hidalgo",
+          "Pierre-Yves Bournazel",
+          "Emmanuel Grégoire",
+          "Sarah Knafo"
+        ],
+        "bonne": 2,
+        "explication": "Emmanuel Grégoire (gauche) l'a emporté au second tour le 22 mars 2026.",
+        "source": {
+          "url": "https://www.publicsenat.fr/actualites/politique/on-a-fait-tout-ce-quil-fallait-faire-pour-perdre-rachida-dati-anatomie-dune-cuisante-defaite-a-paris",
+          "libelle": "Public Sénat – Anatomie d'une défaite à Paris",
+          "date": "2026-03-23"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "bardella",
+    "nom": "Jordan Bardella",
+    "parti": "Rassemblement national",
+    "role": "Président du Rassemblement national, député européen",
+    "couleur": "#0d378a",
+    "rarete": "epique",
+    "effet": "attaque",
+    "surnom": "Le Jeune Premier",
+    "entree": null,
+    "questions": [
+      {
+        "id": "bardella-q-01",
+        "perso": "bardella",
+        "sujet": "europe",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "Depuis novembre 2022, Jordan Bardella préside quel parti ?",
+        "choix": [
+          "Reconquête",
+          "Les Républicains",
+          "Le Rassemblement national",
+          "Debout la France"
+        ],
+        "bonne": 2,
+        "explication": "Il a été élu président du RN le 5 novembre 2022, succédant à Marine Le Pen.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+          "libelle": "Wikipédia – Jordan Bardella",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "bardella-q-02",
+        "perso": "bardella",
+        "sujet": "europe",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "Quel score a obtenu la liste menée par Bardella aux européennes de 2024 ?",
+        "choix": [
+          "Environ 23 %",
+          "Environ 31 %",
+          "Environ 27 %",
+          "Environ 38 %"
+        ],
+        "bonne": 1,
+        "explication": "La liste RN est arrivée en tête avec 31,37 % des suffrages le 9 juin 2024.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lections_europ%C3%A9ennes_de_2024_en_France",
+          "libelle": "Wikipédia – Européennes 2024 en France",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "bardella-q-03",
+        "perso": "bardella",
+        "sujet": "europe",
+        "categorie": "culte",
+        "difficulte": 2,
+        "question": "Quel âge avait Jordan Bardella quand il a mené la liste RN aux européennes de 2019 ?",
+        "choix": [
+          "23 ans",
+          "27 ans",
+          "30 ans",
+          "20 ans"
+        ],
+        "bonne": 0,
+        "explication": "Né en septembre 1995, il avait 23 ans lors du scrutin de mai 2019, où sa liste est arrivée en tête.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+          "libelle": "Wikipédia – Jordan Bardella",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "bardella-q-04",
+        "perso": "bardella",
+        "sujet": "pouvoir-achat",
+        "categorie": "programme",
+        "difficulte": 3,
+        "question": "En 2024, à quel taux le RN proposait-il de baisser la TVA sur l'énergie ?",
+        "choix": [
+          "10 %",
+          "0 %",
+          "15 %",
+          "5,5 %"
+        ],
+        "bonne": 3,
+        "explication": "Le programme des législatives 2024 prévoyait de passer la TVA de 20 % à 5,5 % sur carburants, électricité, gaz et fioul.",
+        "source": {
+          "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/baisser-la-tva-de-20-a-55-pour-les-carburants-lelectricite-le-gaz-et-le-fioul-domestique",
+          "libelle": "Institut Montaigne – Législatives 2024, programme RN",
+          "date": "2024-06-25"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "bardella-q-05",
+        "perso": "bardella",
+        "sujet": "europe",
+        "categorie": "culte",
+        "difficulte": 2,
+        "question": "Quel est le titre du livre publié par Jordan Bardella à l'automne 2024 ?",
+        "choix": [
+          "Ce que veulent les Français",
+          "Ce que je cherche",
+          "La France forte",
+          "Le Grand Réveil"
+        ],
+        "bonne": 1,
+        "explication": "Son livre « Ce que je cherche » est paru chez Fayard en novembre 2024.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+          "libelle": "Wikipédia – Jordan Bardella",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "juppe",
+    "nom": "Alain Juppé",
+    "parti": "Les Républicains",
+    "role": "Premier ministre (1995-1997), membre du Conseil constitutionnel",
+    "couleur": "#3d7cc9",
+    "rarete": "epique",
+    "effet": "bouclier",
+    "surnom": "Le Meilleur d'entre nous",
+    "entree": null,
+    "questions": [
+      {
+        "id": "juppe-q-01",
+        "perso": "juppe",
+        "sujet": "europe",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "Sous quel président Alain Juppé a-t-il été Premier ministre de 1995 à 1997 ?",
+        "choix": [
+          "François Mitterrand",
+          "Jacques Chirac",
+          "Nicolas Sarkozy",
+          "Valéry Giscard d'Estaing"
+        ],
+        "bonne": 1,
+        "explication": "Jacques Chirac l'a nommé à Matignon en mai 1995, jusqu'aux législatives de 1997.",
+        "source": {
+          "url": "https://www.info.gouv.fr/les-anciens-premiers-et-premieres-ministres-de-la-ve-republique/alain-juppe",
+          "libelle": "info.gouv.fr – Alain Juppé",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "juppe-q-02",
+        "perso": "juppe",
+        "sujet": "sante",
+        "categorie": "programme",
+        "difficulte": 2,
+        "question": "Le « plan Juppé » de novembre 1995 visait principalement à réformer…",
+        "choix": [
+          "L'école",
+          "Le code du travail",
+          "La Sécurité sociale",
+          "La fiscalité locale"
+        ],
+        "bonne": 2,
+        "explication": "Ce plan de réforme de la Sécurité sociale a déclenché les grandes grèves de novembre-décembre 1995.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Plan_Jupp%C3%A9_de_1995",
+          "libelle": "Wikipédia – Plan Juppé de 1995",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "juppe-q-03",
+        "perso": "juppe",
+        "sujet": "ecologie",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "De quelle grande ville Alain Juppé a-t-il été le maire ?",
+        "choix": [
+          "Toulouse",
+          "Bordeaux",
+          "Lyon",
+          "Nantes"
+        ],
+        "bonne": 1,
+        "explication": "Il a été maire de Bordeaux de 1995 à 2004 puis de 2006 à 2019.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Alain_Jupp%C3%A9",
+          "libelle": "Wikipédia – Alain Juppé",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "juppe-q-04",
+        "perso": "juppe",
+        "sujet": "europe",
+        "categorie": "culte",
+        "difficulte": 2,
+        "question": "Par qui Alain Juppé a-t-il été battu au second tour de la primaire de la droite en 2016 ?",
+        "choix": [
+          "Nicolas Sarkozy",
+          "Bruno Le Maire",
+          "Jean-François Copé",
+          "François Fillon"
+        ],
+        "bonne": 3,
+        "explication": "François Fillon l'a emporté largement au second tour, le 27 novembre 2016.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Primaire_fran%C3%A7aise_de_la_droite_et_du_centre_de_2016",
+          "libelle": "Wikipédia – Primaire de la droite et du centre 2016",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "juppe-q-05",
+        "perso": "juppe",
+        "sujet": "securite",
+        "categorie": "parcours",
+        "difficulte": 3,
+        "question": "Quelle institution Alain Juppé a-t-il rejointe en 2019 ?",
+        "choix": [
+          "Le Conseil constitutionnel",
+          "La Cour des comptes",
+          "Le Conseil d'État",
+          "Le Sénat"
+        ],
+        "bonne": 0,
+        "explication": "Nommé par le président de l'Assemblée nationale, il siège au Conseil constitutionnel depuis mars 2019.",
+        "source": {
+          "url": "https://www.conseil-constitutionnel.fr/le-conseil-constitutionnel/les-membres-du-conseil",
+          "libelle": "Conseil constitutionnel – Les membres",
+          "date": "2026-10-14"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "hidalgo",
+    "nom": "Anne Hidalgo",
+    "parti": "Parti socialiste",
+    "role": "Maire de Paris (2014-2026)",
+    "couleur": "#e4378a",
+    "rarete": "rare",
+    "effet": "soin",
+    "surnom": "La Capitaine des quais de Seine",
+    "entree": {
+      "replique": "Je veux que tous les enfants de France aient la même chance que celle qui m'a été donnée",
+      "contexte": "Déclaration de candidature à l'élection présidentielle de 2022, sur les quais de Seine à Rouen.",
+      "date": "2021-09-12",
+      "source": {
+        "url": "https://www.tendanceouest.com/actualite-387618-presidentielle-2022-a-rouen-la-socialiste-anne-hidalgo-a-officialise-sa-candidature",
+        "libelle": "Tendance Ouest (AFP) — À Rouen, Anne Hidalgo officialise sa candidature"
+      }
+    },
+    "questions": [
+      {
+        "id": "hidalgo-q-01",
+        "perso": "hidalgo",
+        "sujet": "ecologie",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "En 2014, Anne Hidalgo devient la première femme élue à quelle fonction ?",
+        "choix": [
+          "Présidente de la région Île-de-France",
+          "Maire de Paris",
+          "Première secrétaire du PS",
+          "Présidente de l'Assemblée nationale"
+        ],
+        "bonne": 1,
+        "explication": "Élue le 5 avril 2014, elle est la première femme maire de Paris ; elle est réélue en 2020.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Anne_Hidalgo",
+          "libelle": "Wikipédia — Anne Hidalgo",
+          "date": "2014-04-05"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "hidalgo-q-02",
+        "perso": "hidalgo",
+        "sujet": "ecologie",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "De 2001 à 2014, Anne Hidalgo est la première adjointe de quel maire de Paris ?",
+        "choix": [
+          "Jacques Chirac",
+          "Jean Tiberi",
+          "Bertrand Delanoë",
+          "Jean-Paul Huchon"
+        ],
+        "bonne": 2,
+        "explication": "Elle est première adjointe de Bertrand Delanoë pendant ses deux mandats, avant de lui succéder en 2014.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Anne_Hidalgo",
+          "libelle": "Wikipédia — Anne Hidalgo",
+          "date": "2001-03-25"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "hidalgo-q-03",
+        "perso": "hidalgo",
+        "sujet": "ecologie",
+        "categorie": "parcours",
+        "difficulte": 3,
+        "question": "En 2016, Anne Hidalgo devient la première femme à présider quel réseau international de villes ?",
+        "choix": [
+          "Le C40",
+          "Le Conseil de l'Europe",
+          "L'Association des maires de France",
+          "L'ONU-Habitat"
+        ],
+        "bonne": 0,
+        "explication": "Le 8 août 2016, elle prend la présidence du C40, réseau de grandes villes engagées pour le climat, et y est réélue en 2018.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Anne_Hidalgo",
+          "libelle": "Wikipédia — Anne Hidalgo",
+          "date": "2016-08-08"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "hidalgo-q-04",
+        "perso": "hidalgo",
+        "sujet": "ecologie",
+        "categorie": "culte",
+        "difficulte": 1,
+        "question": "Le 17 juillet 2024, quelques jours avant les Jeux olympiques, Anne Hidalgo se baigne… où ?",
+        "choix": [
+          "Dans le canal Saint-Martin",
+          "Dans le lac du bois de Vincennes",
+          "Dans la Marne",
+          "Dans la Seine"
+        ],
+        "bonne": 3,
+        "explication": "Elle se baigne dans la Seine pour démontrer l'amélioration de la qualité de l'eau avant les épreuves olympiques.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Anne_Hidalgo",
+          "libelle": "Wikipédia — Anne Hidalgo",
+          "date": "2024-07-17"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "hidalgo-q-05",
+        "perso": "hidalgo",
+        "sujet": "pouvoir-achat",
+        "categorie": "programme",
+        "difficulte": 2,
+        "question": "Candidate du PS à la présidentielle 2022, quel score obtient Anne Hidalgo au premier tour ?",
+        "choix": [
+          "Environ 6 %",
+          "Moins de 2 %",
+          "Environ 11 %",
+          "Environ 4 %"
+        ],
+        "bonne": 1,
+        "explication": "Avec environ 1,7 % des voix, elle réalise le plus bas score du PS à une élection présidentielle.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Anne_Hidalgo",
+          "libelle": "Wikipédia — Anne Hidalgo",
+          "date": "2022-04-10"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "pecresse",
+    "nom": "Valérie Pécresse",
+    "parti": "Les Républicains",
+    "role": "Présidente de la région Île-de-France (2015-…)",
+    "couleur": "#0066cc",
+    "rarete": "rare",
+    "effet": "bouclier",
+    "surnom": "La Reine du Passe Navigo",
+    "entree": {
+      "replique": "Je vais ressortir le Kärcher de la cave.",
+      "contexte": "Entretien au quotidien La Provence pendant sa campagne présidentielle, en déplacement dans le Vaucluse et les Bouches-du-Rhône.",
+      "date": "2022-01-05",
+      "source": {
+        "url": "https://www.lecourrierdelatlas.com/valerie-pecresse-ressort-le-karcher/",
+        "libelle": "Le Courrier de l'Atlas — Valérie Pécresse ressort le Kärcher (d'après La Provence)"
+      }
+    },
+    "questions": [
+      {
+        "id": "pecresse-q-01",
+        "perso": "pecresse",
+        "sujet": "education",
+        "categorie": "programme",
+        "difficulte": 2,
+        "question": "Ministre de l'Enseignement supérieur dès 2007, Valérie Pécresse fait voter une loi sur…",
+        "choix": [
+          "La gratuité des cantines",
+          "Le service national universel",
+          "La suppression du bac",
+          "L'autonomie des universités (LRU)"
+        ],
+        "bonne": 3,
+        "explication": "La loi relative aux libertés et responsabilités des universités (LRU) est adoptée dès 2007, au début de son passage au ministère (2007-2011).",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_P%C3%A9cresse",
+          "libelle": "Wikipédia — Valérie Pécresse",
+          "date": "2007-08-10"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "pecresse-q-02",
+        "perso": "pecresse",
+        "sujet": "pouvoir-achat",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "De 2011 à 2012, Valérie Pécresse cumule quel ministère avec le rôle de porte-parole du gouvernement ?",
+        "choix": [
+          "Le Budget",
+          "L'Intérieur",
+          "La Santé",
+          "Les Affaires étrangères"
+        ],
+        "bonne": 0,
+        "explication": "Elle est ministre du Budget, des Comptes publics et de la Réforme de l'État et porte-parole du gouvernement du 29 juin 2011 au 10 mai 2012.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_P%C3%A9cresse",
+          "libelle": "Wikipédia — Valérie Pécresse",
+          "date": "2011-06-29"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "pecresse-q-03",
+        "perso": "pecresse",
+        "sujet": "ecologie",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "En décembre 2015, Valérie Pécresse remporte la région Île-de-France face à quel socialiste ?",
+        "choix": [
+          "Jean-Paul Huchon",
+          "Claude Bartolone",
+          "Benoît Hamon",
+          "Julien Bayou"
+        ],
+        "bonne": 1,
+        "explication": "Au second tour des régionales de 2015, elle bat Claude Bartolone ; elle est réélue présidente de région en 2021.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_P%C3%A9cresse",
+          "libelle": "Wikipédia — Valérie Pécresse",
+          "date": "2015-12-13"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "pecresse-q-04",
+        "perso": "pecresse",
+        "sujet": "securite",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "Au second tour du congrès LR de décembre 2021, qui Valérie Pécresse bat-elle pour être candidate ?",
+        "choix": [
+          "Xavier Bertrand",
+          "Michel Barnier",
+          "Éric Ciotti",
+          "Laurent Wauquiez"
+        ],
+        "bonne": 2,
+        "explication": "Le 4 décembre 2021, elle l'emporte face à Éric Ciotti avec 60,95 % des voix et devient candidate LR à la présidentielle.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_P%C3%A9cresse",
+          "libelle": "Wikipédia — Valérie Pécresse",
+          "date": "2021-12-04"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "pecresse-q-05",
+        "perso": "pecresse",
+        "sujet": "securite",
+        "categorie": "culte",
+        "difficulte": 3,
+        "question": "À la présidentielle 2022, avec 4,78 % des voix, à quelle place termine Valérie Pécresse ?",
+        "choix": [
+          "Troisième",
+          "Quatrième",
+          "Septième",
+          "Cinquième"
+        ],
+        "bonne": 3,
+        "explication": "Elle termine cinquième du premier tour, le plus bas score de sa famille politique à une présidentielle.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_P%C3%A9cresse",
+          "libelle": "Wikipédia — Valérie Pécresse",
+          "date": "2022-04-10"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "valls",
+    "nom": "Manuel Valls",
+    "parti": "Sans étiquette (ex-Parti socialiste)",
+    "role": "Premier ministre (2014-2016)",
+    "couleur": "#c2185b",
+    "rarete": "rare",
+    "effet": "attaque",
+    "surnom": "Le Catalan de Matignon",
+    "entree": {
+      "replique": "J'aime l'entreprise",
+      "contexte": "Discours du Premier ministre à l'université d'été du Medef à Jouy-en-Josas, au lendemain de la formation de son deuxième gouvernement.",
+      "date": "2014-08-27",
+      "source": {
+        "url": "https://www.economiematin.fr/?p=36920",
+        "libelle": "Économie Matin — Manuel Valls, super star de l'université d'été du Medef"
+      }
+    },
+    "questions": [
+      {
+        "id": "valls-q-01",
+        "perso": "valls",
+        "sujet": "securite",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "De 2001 à 2012, Manuel Valls est maire de quelle ville de l'Essonne ?",
+        "choix": [
+          "Corbeil-Essonnes",
+          "Massy",
+          "Évry",
+          "Grigny"
+        ],
+        "bonne": 2,
+        "explication": "Il est maire d'Évry de 2001 à 2012 et démissionne après sa nomination au ministère de l'Intérieur.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Manuel_Valls",
+          "libelle": "Wikipédia — Manuel Valls",
+          "date": "2001-03-18"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "valls-q-02",
+        "perso": "valls",
+        "sujet": "retraites",
+        "categorie": "culte",
+        "difficulte": 2,
+        "question": "Quel article de la Constitution le gouvernement Valls utilise-t-il pour la loi Macron (2015) et la loi Travail (2016) ?",
+        "choix": [
+          "L'article 16",
+          "L'article 49.3",
+          "L'article 11",
+          "L'article 89"
+        ],
+        "bonne": 1,
+        "explication": "Le gouvernement Valls engage sa responsabilité via l'article 49, alinéa 3, pour faire adopter ces deux textes sans vote.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Manuel_Valls",
+          "libelle": "Wikipédia — Manuel Valls",
+          "date": "2015-02-17"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "valls-q-03",
+        "perso": "valls",
+        "sujet": "pouvoir-achat",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "Qui bat Manuel Valls au second tour de la primaire de la gauche, en janvier 2017 ?",
+        "choix": [
+          "Benoît Hamon",
+          "Arnaud Montebourg",
+          "Vincent Peillon",
+          "François Hollande"
+        ],
+        "bonne": 0,
+        "explication": "Le 29 janvier 2017, Benoît Hamon l'emporte avec 58,69 % des voix contre 41,31 % pour Manuel Valls.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Manuel_Valls",
+          "libelle": "Wikipédia — Manuel Valls",
+          "date": "2017-01-29"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "valls-q-04",
+        "perso": "valls",
+        "sujet": "europe",
+        "categorie": "culte",
+        "difficulte": 2,
+        "question": "En 2019, Manuel Valls se présente aux municipales de quelle grande ville étrangère ?",
+        "choix": [
+          "Madrid",
+          "Bruxelles",
+          "Lisbonne",
+          "Barcelone"
+        ],
+        "bonne": 3,
+        "explication": "Sa liste arrive quatrième à Barcelone en mai 2019 ; il siège au conseil municipal de la ville jusqu'en 2021.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Manuel_Valls",
+          "libelle": "Wikipédia — Manuel Valls",
+          "date": "2019-05-26"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "valls-q-05",
+        "perso": "valls",
+        "sujet": "securite",
+        "categorie": "parcours",
+        "difficulte": 3,
+        "question": "En décembre 2024, Manuel Valls revient au gouvernement comme ministre d'État chargé de…",
+        "choix": [
+          "L'Intérieur",
+          "La Justice",
+          "Les Outre-mer",
+          "Les Affaires européennes"
+        ],
+        "bonne": 2,
+        "explication": "Il est ministre d'État, ministre des Outre-mer dans le gouvernement Bayrou puis Lecornu I, du 23 décembre 2024 au 12 octobre 2025.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Manuel_Valls",
+          "libelle": "Wikipédia — Manuel Valls",
+          "date": "2024-12-23"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "hamon",
+    "nom": "Benoît Hamon",
+    "parti": "Génération·s (ex-Parti socialiste)",
+    "role": "Ministre de l'Éducation nationale (2014)",
+    "couleur": "#d6336c",
+    "rarete": "rare",
+    "effet": "vol_combo",
+    "surnom": "Monsieur Revenu Universel",
+    "entree": {
+      "replique": "Le revenu universel est la nouvelle protection sociale",
+      "contexte": "Titre de son entretien au journal Le Monde pendant la primaire de la gauche, consacré à sa proposition phare.",
+      "date": "2017-01-04",
+      "source": {
+        "url": "https://basicincome.org/news/2017/01/france-hamon-becomes-socialist-party-presidential-candidate-following-basic-income-focused-campaign/",
+        "libelle": "Basic Income Earth Network — référence à l'entretien du Monde (C. Pietralunga, B. Bonnefous)"
+      }
+    },
+    "questions": [
+      {
+        "id": "hamon-q-01",
+        "perso": "hamon",
+        "sujet": "pouvoir-achat",
+        "categorie": "programme",
+        "difficulte": 2,
+        "question": "La « loi Hamon » sur la consommation (2014) a introduit en France…",
+        "choix": [
+          "Le chèque énergie",
+          "L'action de groupe",
+          "Le prélèvement à la source",
+          "Le bouclier tarifaire"
+        ],
+        "bonne": 1,
+        "explication": "La loi du 17 mars 2014 relative à la consommation crée l'action de groupe, qui permet aux consommateurs d'agir ensemble en justice.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Beno%C3%AEt_Hamon",
+          "libelle": "Wikipédia — Benoît Hamon",
+          "date": "2014-03-17"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "hamon-q-02",
+        "perso": "hamon",
+        "sujet": "education",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "D'avril à août 2014, Benoît Hamon dirige quel ministère ?",
+        "choix": [
+          "L'Économie",
+          "Le Travail",
+          "La Culture",
+          "L'Éducation nationale"
+        ],
+        "bonne": 3,
+        "explication": "Il est ministre de l'Éducation nationale, de l'Enseignement supérieur et de la Recherche du 2 avril au 26 août 2014.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Beno%C3%AEt_Hamon",
+          "libelle": "Wikipédia — Benoît Hamon",
+          "date": "2014-04-02"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "hamon-q-03",
+        "perso": "hamon",
+        "sujet": "pouvoir-achat",
+        "categorie": "programme",
+        "difficulte": 1,
+        "question": "Quelle mesure phare porte Benoît Hamon pendant la campagne présidentielle de 2017 ?",
+        "choix": [
+          "Le revenu universel d'existence",
+          "La retraite à 65 ans",
+          "La TVA sociale",
+          "La suppression de la taxe d'habitation"
+        ],
+        "bonne": 0,
+        "explication": "Le revenu universel d'existence est la proposition centrale de sa campagne de la primaire puis de la présidentielle 2017.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Beno%C3%AEt_Hamon",
+          "libelle": "Wikipédia — Benoît Hamon",
+          "date": "2016-12-08"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "hamon-q-04",
+        "perso": "hamon",
+        "sujet": "pouvoir-achat",
+        "categorie": "culte",
+        "difficulte": 1,
+        "question": "En janvier 2017, Benoît Hamon remporte la primaire de la gauche face à…",
+        "choix": [
+          "Arnaud Montebourg",
+          "Martine Aubry",
+          "Manuel Valls",
+          "Jean-Luc Mélenchon"
+        ],
+        "bonne": 2,
+        "explication": "Il bat Manuel Valls au second tour le 29 janvier 2017 avec 58,69 % des voix.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Beno%C3%AEt_Hamon",
+          "libelle": "Wikipédia — Benoît Hamon",
+          "date": "2017-01-29"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "hamon-q-05",
+        "perso": "hamon",
+        "sujet": "europe",
+        "categorie": "parcours",
+        "difficulte": 3,
+        "question": "Après avoir quitté le PS en 2017, Benoît Hamon fonde quel mouvement ?",
+        "choix": [
+          "Place publique",
+          "Génération·s",
+          "Nouvelle Donne",
+          "La Gauche républicaine et socialiste"
+        ],
+        "bonne": 1,
+        "explication": "Il fonde Génération·s, dont la liste obtient 3,27 % aux européennes de 2019.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Beno%C3%AEt_Hamon",
+          "libelle": "Wikipédia — Benoît Hamon",
+          "date": "2017-07-01"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "poutou",
+    "nom": "Philippe Poutou",
+    "parti": "NPA-L'Anticapitaliste",
+    "role": "Candidat à l'élection présidentielle (2012, 2017, 2022)",
+    "couleur": "#c62828",
+    "rarete": "commune",
+    "effet": "vol_combo",
+    "surnom": "Le Mécano de Blanquefort",
+    "entree": null,
+    "questions": [
+      {
+        "id": "poutou-q-01",
+        "perso": "poutou",
+        "sujet": "pouvoir-achat",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "Sous quelle étiquette Philippe Poutou se présente-t-il aux présidentielles de 2012, 2017 et 2022 ?",
+        "choix": [
+          "Lutte ouvrière",
+          "La France insoumise",
+          "Parti communiste français",
+          "Nouveau Parti anticapitaliste (NPA)"
+        ],
+        "bonne": 3,
+        "explication": "Il est le candidat du NPA aux trois élections, avec respectivement 1,15 %, 1,09 % et 0,76 % des voix.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Philippe_Poutou",
+          "libelle": "Wikipédia — Philippe Poutou",
+          "date": "2012-04-22"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "poutou-q-02",
+        "perso": "poutou",
+        "sujet": "pouvoir-achat",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "Philippe Poutou a été ouvrier dans l'usine de quel constructeur, à Blanquefort ?",
+        "choix": [
+          "Renault",
+          "Peugeot",
+          "Ford",
+          "Toyota"
+        ],
+        "bonne": 2,
+        "explication": "Ouvrier et syndicaliste CGT à l'usine Ford de Blanquefort, il milite contre sa fermeture, intervenue en 2019.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Philippe_Poutou",
+          "libelle": "Wikipédia — Philippe Poutou",
+          "date": "2019-10-01"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "poutou-q-03",
+        "perso": "poutou",
+        "sujet": "pouvoir-achat",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "En 2020, Philippe Poutou est élu conseiller municipal de quelle ville ?",
+        "choix": [
+          "Bordeaux",
+          "Toulouse",
+          "Marseille",
+          "Lille"
+        ],
+        "bonne": 0,
+        "explication": "Sa liste « Bordeaux en luttes » obtient 9,39 % au second tour et trois sièges ; il siège jusqu'en 2026.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Philippe_Poutou",
+          "libelle": "Wikipédia — Philippe Poutou",
+          "date": "2020-06-28"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "poutou-q-04",
+        "perso": "poutou",
+        "sujet": "pouvoir-achat",
+        "categorie": "programme",
+        "difficulte": 2,
+        "question": "Quel était le slogan de campagne de Philippe Poutou à la présidentielle de 2017 ?",
+        "choix": [
+          "« L'humain d'abord »",
+          "« Nos vies, pas leurs profits »",
+          "« Le changement, c'est maintenant »",
+          "« La force tranquille »"
+        ],
+        "bonne": 1,
+        "explication": "« Nos vies, pas leurs profits » est le slogan de sa campagne de 2017 ; en 2012, c'était « Aux capitalistes de payer leurs crises ».",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Philippe_Poutou",
+          "libelle": "Wikipédia — Philippe Poutou",
+          "date": "2017-04-23"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "poutou-q-05",
+        "perso": "poutou",
+        "sujet": "pouvoir-achat",
+        "categorie": "parcours",
+        "difficulte": 3,
+        "question": "Aux législatives de 2024, sous l'étiquette du Nouveau Front populaire, Philippe Poutou est candidat dans…",
+        "choix": [
+          "La Gironde",
+          "Les Bouches-du-Rhône",
+          "La Seine-Saint-Denis",
+          "L'Aude"
+        ],
+        "bonne": 3,
+        "explication": "Candidat dans la 1re circonscription de l'Aude, il arrive deuxième au premier tour puis est battu au second.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Philippe_Poutou",
+          "libelle": "Wikipédia — Philippe Poutou",
+          "date": "2024-07-07"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "lassalle",
+    "nom": "Jean Lassalle",
+    "parti": "Résistons !",
+    "role": "Député des Pyrénées-Atlantiques (2002-2022)",
+    "couleur": "#2e7d32",
+    "rarete": "commune",
+    "effet": "soin",
+    "surnom": "Le Berger de la vallée d'Aspe",
+    "entree": null,
+    "questions": [
+      {
+        "id": "lassalle-q-01",
+        "perso": "lassalle",
+        "sujet": "ecologie",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "De 1977 à 2017, Jean Lassalle est maire de quelle commune des Pyrénées-Atlantiques ?",
+        "choix": [
+          "Lourdios-Ichère",
+          "Oloron-Sainte-Marie",
+          "Pau",
+          "Bayonne"
+        ],
+        "bonne": 0,
+        "explication": "Il est maire de Lourdios-Ichère, petit village de la vallée de Barétous voisin de la vallée d'Aspe, pendant quarante ans.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+          "libelle": "Wikipédia — Jean Lassalle",
+          "date": "1977-03-26"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "lassalle-q-02",
+        "perso": "lassalle",
+        "sujet": "pouvoir-achat",
+        "categorie": "culte",
+        "difficulte": 2,
+        "question": "En 2006, Jean Lassalle mène une grève de la faim pour empêcher…",
+        "choix": [
+          "La fermeture d'une école",
+          "Le transfert d'une usine de la vallée d'Aspe",
+          "La construction d'une autoroute",
+          "La fermeture d'un hôpital"
+        ],
+        "bonne": 1,
+        "explication": "Il s'oppose au transfert de l'usine Toyal vers Lacq ; le projet est abandonné après l'intervention du gouvernement.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+          "libelle": "Wikipédia — Jean Lassalle",
+          "date": "2006-03-07"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "lassalle-q-03",
+        "perso": "lassalle",
+        "sujet": "pouvoir-achat",
+        "categorie": "culte",
+        "difficulte": 1,
+        "question": "En 2013, comment Jean Lassalle parcourt-il la France pour recueillir la parole des citoyens ?",
+        "choix": [
+          "À vélo",
+          "À cheval",
+          "À pied",
+          "En tracteur"
+        ],
+        "bonne": 2,
+        "explication": "D'avril à décembre 2013, il marche plus de 5 000 km et recueille des témoignages dans les « Cahiers de l'Espoir ».",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+          "libelle": "Wikipédia — Jean Lassalle",
+          "date": "2013-04-10"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "lassalle-q-04",
+        "perso": "lassalle",
+        "sujet": "securite",
+        "categorie": "culte",
+        "difficulte": 1,
+        "question": "En juin 2003, que fait Jean Lassalle dans l'hémicycle pour défendre une gendarmerie de sa vallée ?",
+        "choix": [
+          "Il chante une chanson béarnaise",
+          "Il lit un poème",
+          "Il refuse de quitter la tribune",
+          "Il apporte un mouton"
+        ],
+        "bonne": 0,
+        "explication": "Il entonne « Aqueros Mountagnos » en interrompant le ministre de l'Intérieur ; la gendarmerie près du tunnel du Somport est maintenue.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+          "libelle": "Wikipédia — Jean Lassalle",
+          "date": "2003-06-01"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "lassalle-q-05",
+        "perso": "lassalle",
+        "sujet": "pouvoir-achat",
+        "categorie": "parcours",
+        "difficulte": 3,
+        "question": "Quel score Jean Lassalle obtient-il au premier tour de la présidentielle de 2022 ?",
+        "choix": [
+          "Environ 1 %",
+          "Environ 7 %",
+          "Environ 5 %",
+          "Environ 3 %"
+        ],
+        "bonne": 3,
+        "explication": "Il obtient 3,13 % en 2022, contre 1,21 % en 2017.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+          "libelle": "Wikipédia — Jean Lassalle",
+          "date": "2022-04-10"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "loiseau",
+    "nom": "Nathalie Loiseau",
+    "parti": "Horizons",
+    "role": "Députée européenne (2019-…)",
+    "couleur": "#1e88e5",
+    "rarete": "commune",
+    "effet": "bouclier",
+    "surnom": "L'Oiseau de Strasbourg",
+    "entree": {
+      "replique": "Ce qu'ils annoncent, c'est l'Europe en marche arrière.",
+      "contexte": "Premier grand meeting de campagne de la liste de la majorité aux européennes, aux Docks d'Aubervilliers.",
+      "date": "2019-03-30",
+      "source": {
+        "url": "https://www.publicsenat.fr/actualites/politique/europeennes-nathalie-loiseau-appelle-a-ce-que-l-europe-prenne-son-envol-139733",
+        "libelle": "Public Sénat — Européennes : Nathalie Loiseau appelle à ce que l'Europe « prenne son envol »"
+      }
+    },
+    "questions": [
+      {
+        "id": "loiseau-q-01",
+        "perso": "loiseau",
+        "sujet": "education",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "De 2012 à 2017, Nathalie Loiseau dirige quelle école ?",
+        "choix": [
+          "Sciences Po Paris",
+          "L'École polytechnique",
+          "L'École nationale d'administration (ENA)",
+          "L'École normale supérieure"
+        ],
+        "bonne": 2,
+        "explication": "Elle est directrice de l'ENA du 3 octobre 2012 au 21 juin 2017, sans en être ancienne élève.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Nathalie_Loiseau",
+          "libelle": "Wikipédia — Nathalie Loiseau",
+          "date": "2012-10-03"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "loiseau-q-02",
+        "perso": "loiseau",
+        "sujet": "europe",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "De 2017 à 2019, Nathalie Loiseau est ministre chargée de…",
+        "choix": [
+          "Les Affaires européennes",
+          "La Culture",
+          "Les Sports",
+          "L'Égalité femmes-hommes"
+        ],
+        "bonne": 0,
+        "explication": "Ministre chargée des Affaires européennes de juin 2017 à mars 2019, elle démissionne pour conduire la liste de la majorité aux européennes.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Nathalie_Loiseau",
+          "libelle": "Wikipédia — Nathalie Loiseau",
+          "date": "2017-06-21"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "loiseau-q-03",
+        "perso": "loiseau",
+        "sujet": "europe",
+        "categorie": "culte",
+        "difficulte": 1,
+        "question": "Quel mot servait de slogan à la liste conduite par Nathalie Loiseau aux européennes de 2019 ?",
+        "choix": [
+          "Envie d'Europe",
+          "Besoin d'Europe",
+          "Ensemble",
+          "Renaissance"
+        ],
+        "bonne": 3,
+        "explication": "« Renaissance » est le slogan de la liste LREM-MoDem et alliés en 2019 ; le nom sera repris plus tard par le parti présidentiel.",
+        "source": {
+          "url": "https://www.publicsenat.fr/actualites/politique/europeennes-nathalie-loiseau-appelle-a-ce-que-l-europe-prenne-son-envol-139733",
+          "libelle": "Public Sénat — meeting d'Aubervilliers",
+          "date": "2019-03-30"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "loiseau-q-04",
+        "perso": "loiseau",
+        "sujet": "europe",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "Aux européennes de 2019, à quelle place arrive la liste menée par Nathalie Loiseau ?",
+        "choix": [
+          "Première",
+          "Deuxième, derrière le RN",
+          "Troisième, derrière le RN et EELV",
+          "Quatrième"
+        ],
+        "bonne": 1,
+        "explication": "Avec environ 22,4 % des voix, sa liste termine deuxième, juste derrière celle du Rassemblement national.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Nathalie_Loiseau",
+          "libelle": "Wikipédia — Nathalie Loiseau",
+          "date": "2019-05-26"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "loiseau-q-05",
+        "perso": "loiseau",
+        "sujet": "securite",
+        "categorie": "parcours",
+        "difficulte": 3,
+        "question": "De 2019 à 2024, quelle sous-commission du Parlement européen Nathalie Loiseau préside-t-elle ?",
+        "choix": [
+          "Droits de l'homme",
+          "Fiscalité",
+          "Santé publique",
+          "Sécurité et défense"
+        ],
+        "bonne": 3,
+        "explication": "Elle préside la sous-commission sécurité et défense (SEDE) du 10 juillet 2019 au 15 juillet 2024.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Nathalie_Loiseau",
+          "libelle": "Wikipédia — Nathalie Loiseau",
+          "date": "2019-07-10"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "lavrilleux",
+    "nom": "Jérôme Lavrilleux",
+    "parti": "UMP (jusqu'en 2014)",
+    "role": "Député européen (2014-2019)",
+    "couleur": "#3949ab",
+    "rarete": "commune",
+    "effet": "soin",
+    "surnom": "Le Chef de cabinet de Saint-Quentin",
+    "entree": null,
+    "questions": [
+      {
+        "id": "lavrilleux-q-01",
+        "perso": "lavrilleux",
+        "sujet": "securite",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "À partir de 2004, Jérôme Lavrilleux est le directeur de cabinet de quel responsable politique ?",
+        "choix": [
+          "Nicolas Sarkozy",
+          "Jean-François Copé",
+          "François Fillon",
+          "Xavier Bertrand"
+        ],
+        "bonne": 1,
+        "explication": "Il devient en 2004 directeur de cabinet de Jean-François Copé, et le reste jusqu'à sa démission en juin 2014.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Lavrilleux",
+          "libelle": "Wikipédia — Jérôme Lavrilleux",
+          "date": "2004-01-01"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "lavrilleux-q-02",
+        "perso": "lavrilleux",
+        "sujet": "europe",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "Dans quelle circonscription Jérôme Lavrilleux est-il élu député européen en 2014 ?",
+        "choix": [
+          "Île-de-France",
+          "Est",
+          "Sud-Est",
+          "Nord-Ouest"
+        ],
+        "bonne": 3,
+        "explication": "Élu le 25 mai 2014 dans la circonscription Nord-Ouest, il siège au Parlement européen jusqu'en 2019.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Lavrilleux",
+          "libelle": "Wikipédia — Jérôme Lavrilleux",
+          "date": "2014-05-25"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "lavrilleux-q-03",
+        "perso": "lavrilleux",
+        "sujet": "securite",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "De 2002 à 2014, Jérôme Lavrilleux est conseiller général de quel département ?",
+        "choix": [
+          "L'Aisne",
+          "La Somme",
+          "L'Oise",
+          "Le Nord"
+        ],
+        "bonne": 0,
+        "explication": "Il est conseiller général de l'Aisne, élu dans le canton de Saint-Quentin-Nord.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Lavrilleux",
+          "libelle": "Wikipédia — Jérôme Lavrilleux",
+          "date": "2002-07-29"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "lavrilleux-q-04",
+        "perso": "lavrilleux",
+        "sujet": "securite",
+        "categorie": "parcours",
+        "difficulte": 3,
+        "question": "De 1995 à 2004, Jérôme Lavrilleux dirige le cabinet du maire de quelle ville ?",
+        "choix": [
+          "Laon",
+          "Meaux",
+          "Saint-Quentin",
+          "Soissons"
+        ],
+        "bonne": 2,
+        "explication": "Il est directeur de cabinet de Pierre André, maire de Saint-Quentin, avant de rejoindre Jean-François Copé.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Lavrilleux",
+          "libelle": "Wikipédia — Jérôme Lavrilleux",
+          "date": "1995-01-01"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "lavrilleux-q-05",
+        "perso": "lavrilleux",
+        "sujet": "europe",
+        "categorie": "parcours",
+        "difficulte": 3,
+        "question": "Au Parlement européen (2014-2019), dans quel groupe politique siège Jérôme Lavrilleux ?",
+        "choix": [
+          "Renew Europe",
+          "Les Verts/ALE",
+          "Le Parti populaire européen (PPE)",
+          "Socialistes et démocrates (S&D)"
+        ],
+        "bonne": 2,
+        "explication": "Élu sur la liste UMP, il siège au sein du groupe du Parti populaire européen (PPE).",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Lavrilleux",
+          "libelle": "Wikipédia — Jérôme Lavrilleux",
+          "date": "2014-07-01"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "royal",
+    "nom": "Ségolène Royal",
+    "parti": "Parti socialiste",
+    "role": "Présidente de la région Poitou-Charentes (2004-2014)",
+    "couleur": "#ff8080",
+    "rarete": "epique",
+    "effet": "soin",
+    "surnom": "L'Ambassadrice des Pôles",
+    "entree": {
+      "replique": "La France présidente",
+      "contexte": "Slogan de sa nouvelle affiche de campagne pour l'élection présidentielle de 2007.",
+      "date": "2007-03-28",
+      "source": {
+        "url": "https://mediaclip.ina.fr/en/i21302776-segolene-royale-and-france-president.html",
+        "libelle": "INA – Ségolène Royal et « La France présidente » (France Télévisions, 28 mars 2007)"
+      }
+    },
+    "questions": [
+      {
+        "id": "royal-q-01",
+        "perso": "royal",
+        "sujet": "ecologie",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "Quel ministère Ségolène Royal a-t-elle dirigé de 2014 à 2017 ?",
+        "choix": [
+          "Éducation nationale",
+          "Environnement, Énergie et Mer",
+          "Santé",
+          "Justice"
+        ],
+        "bonne": 1,
+        "explication": "Elle a été ministre de l'Environnement, de l'Énergie et de la Mer du 2 avril 2014 au 17 mai 2017.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+          "libelle": "Wikipédia – Ségolène Royal",
+          "date": "2014-04-02"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "royal-q-02",
+        "perso": "royal",
+        "sujet": "education",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "De 1997 à 2000, Ségolène Royal a été ministre déléguée chargée de quel domaine ?",
+        "choix": [
+          "La Famille",
+          "Les Universités",
+          "Le Sport",
+          "L'Enseignement scolaire"
+        ],
+        "bonne": 3,
+        "explication": "Elle a été ministre déléguée à l'Enseignement scolaire du 4 juin 1997 au 27 mars 2000, dans le gouvernement Jospin.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+          "libelle": "Wikipédia – Ségolène Royal",
+          "date": "1997-06-04"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "royal-q-03",
+        "perso": "royal",
+        "sujet": "ecologie",
+        "categorie": "programme",
+        "difficulte": 3,
+        "question": "La loi de transition énergétique de 2015 visait à ramener la part du nucléaire à combien en 2025 ?",
+        "choix": [
+          "50 %",
+          "25 %",
+          "75 %",
+          "0 %"
+        ],
+        "bonne": 0,
+        "explication": "La loi relative à la transition énergétique pour la croissance verte (17 août 2015), portée par Ségolène Royal, visait 50 % de nucléaire en 2025.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+          "libelle": "Wikipédia – Ségolène Royal",
+          "date": "2015-08-17"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "royal-q-04",
+        "perso": "royal",
+        "sujet": "pouvoir-achat",
+        "categorie": "programme",
+        "difficulte": 2,
+        "question": "Combien de propositions comptait le « pacte présidentiel » de Ségolène Royal en 2007 ?",
+        "choix": [
+          "20",
+          "60",
+          "100",
+          "150"
+        ],
+        "bonne": 2,
+        "explication": "Son pacte présidentiel comptait 100 propositions, rédigées notamment à partir de débats participatifs organisés avec Désirs d'avenir.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+          "libelle": "Wikipédia – Ségolène Royal",
+          "date": "2007-02-11"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "royal-q-05",
+        "perso": "royal",
+        "sujet": "europe",
+        "categorie": "culte",
+        "difficulte": 3,
+        "question": "Au congrès de Reims (2008), qui l'emporte de justesse face à elle pour diriger le PS ?",
+        "choix": [
+          "François Hollande",
+          "Benoît Hamon",
+          "Bertrand Delanoë",
+          "Martine Aubry"
+        ],
+        "bonne": 3,
+        "explication": "Martine Aubry est désignée Première secrétaire le 25 novembre 2008 avec 50,04 % contre 49,96 % pour Ségolène Royal.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+          "libelle": "Wikipédia – Ségolène Royal",
+          "date": "2008-11-25"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "strauss-kahn",
+    "nom": "Dominique Strauss-Kahn",
+    "parti": "Parti socialiste",
+    "role": "Directeur général du Fonds monétaire international (2007-2011)",
+    "couleur": "#ff8080",
+    "rarete": "epique",
+    "effet": "vol_combo",
+    "surnom": "Le Grand Argentier",
+    "entree": null,
+    "questions": [
+      {
+        "id": "strauss-kahn-q-01",
+        "perso": "strauss-kahn",
+        "sujet": "europe",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "Quelle institution Dominique Strauss-Kahn a-t-il dirigée de 2007 à 2011 ?",
+        "choix": [
+          "La Banque mondiale",
+          "Le FMI",
+          "La BCE",
+          "L'OMC"
+        ],
+        "bonne": 1,
+        "explication": "Élu le 28 septembre 2007, il a été directeur général du Fonds monétaire international du 1er novembre 2007 au 18 mai 2011.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Dominique_Strauss-Kahn",
+          "libelle": "Wikipédia – Dominique Strauss-Kahn",
+          "date": "2007-09-28"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "strauss-kahn-q-02",
+        "perso": "strauss-kahn",
+        "sujet": "pouvoir-achat",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "Quel ministère DSK a-t-il occupé dans le gouvernement Jospin (1997-1999) ?",
+        "choix": [
+          "Affaires étrangères",
+          "Intérieur",
+          "Économie, Finances et Industrie",
+          "Travail"
+        ],
+        "bonne": 2,
+        "explication": "Il a été ministre de l'Économie, des Finances et de l'Industrie du 4 juin 1997 au 2 novembre 1999.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Dominique_Strauss-Kahn",
+          "libelle": "Wikipédia – Dominique Strauss-Kahn",
+          "date": "1997-06-04"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "strauss-kahn-q-03",
+        "perso": "strauss-kahn",
+        "sujet": "pouvoir-achat",
+        "categorie": "programme",
+        "difficulte": 2,
+        "question": "Quelle réforme du gouvernement Jospin, mise en œuvre par Martine Aubry, DSK a-t-il contribué à inspirer ?",
+        "choix": [
+          "Les 35 heures",
+          "La CSG",
+          "Le RSA",
+          "La retraite à 60 ans"
+        ],
+        "bonne": 0,
+        "explication": "Il a nourri le programme économique du PS comprenant les 35 heures, dont la mise en œuvre a été confiée à Martine Aubry.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Dominique_Strauss-Kahn",
+          "libelle": "Wikipédia – Dominique Strauss-Kahn",
+          "date": "1997-06-04"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "strauss-kahn-q-04",
+        "perso": "strauss-kahn",
+        "sujet": "securite",
+        "categorie": "parcours",
+        "difficulte": 3,
+        "question": "De quelle ville du Val-d'Oise DSK a-t-il été maire de 1995 à 1997 ?",
+        "choix": [
+          "Cergy",
+          "Argenteuil",
+          "Pontoise",
+          "Sarcelles"
+        ],
+        "bonne": 3,
+        "explication": "Il a été maire de Sarcelles du 23 juin 1995 au 3 juin 1997, puis a cédé le mandat à François Pupponi.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Dominique_Strauss-Kahn",
+          "libelle": "Wikipédia – Dominique Strauss-Kahn",
+          "date": "1995-06-23"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "strauss-kahn-q-05",
+        "perso": "strauss-kahn",
+        "sujet": "europe",
+        "categorie": "culte",
+        "difficulte": 3,
+        "question": "À quelle place DSK termine-t-il la primaire socialiste de novembre 2006 ?",
+        "choix": [
+          "Premier",
+          "Deuxième",
+          "Troisième",
+          "Quatrième"
+        ],
+        "bonne": 1,
+        "explication": "Le 16 novembre 2006, il arrive deuxième avec 20,69 %, derrière Ségolène Royal (60,65 %).",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Dominique_Strauss-Kahn",
+          "libelle": "Wikipédia – Dominique Strauss-Kahn",
+          "date": "2006-11-16"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "bayrou",
+    "nom": "François Bayrou",
+    "parti": "Mouvement démocrate (MoDem)",
+    "role": "Premier ministre (2024-2025)",
+    "couleur": "#ff9900",
+    "rarete": "rare",
+    "effet": "bouclier",
+    "surnom": "Le Béarnais du Centre",
+    "entree": {
+      "replique": "La France de toutes nos forces",
+      "contexte": "Slogan principal de sa campagne présidentielle de 2007.",
+      "date": "2007-04-23",
+      "source": {
+        "url": "https://www.wsws.org/francais/News/2007/avril07/230407_bayrou.shtml",
+        "libelle": "World Socialist Web Site (article du 23 avril 2007)"
+      }
+    },
+    "questions": [
+      {
+        "id": "bayrou-q-01",
+        "perso": "bayrou",
+        "sujet": "education",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "Quel ministère François Bayrou a-t-il dirigé de 1993 à 1997 ?",
+        "choix": [
+          "Défense",
+          "Agriculture",
+          "Éducation nationale",
+          "Économie"
+        ],
+        "bonne": 2,
+        "explication": "Il a été ministre de l'Éducation nationale du 30 mars 1993 au 2 juin 1997.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Bayrou",
+          "libelle": "Wikipédia – François Bayrou",
+          "date": "1993-03-30"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "bayrou-q-02",
+        "perso": "bayrou",
+        "sujet": "securite",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "De quelle ville François Bayrou a-t-il été maire de 2014 à 2026 ?",
+        "choix": [
+          "Pau",
+          "Bayonne",
+          "Tarbes",
+          "Biarritz"
+        ],
+        "bonne": 0,
+        "explication": "Il a été maire de Pau du 4 avril 2014 au 27 mars 2026.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Bayrou",
+          "libelle": "Wikipédia – François Bayrou",
+          "date": "2014-04-04"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "bayrou-q-03",
+        "perso": "bayrou",
+        "sujet": "europe",
+        "categorie": "culte",
+        "difficulte": 2,
+        "question": "Quel score François Bayrou obtient-il au 1er tour de la présidentielle de 2007 ?",
+        "choix": [
+          "9,1 %",
+          "12,4 %",
+          "18,6 %",
+          "23,2 %"
+        ],
+        "bonne": 2,
+        "explication": "Il obtient 18,6 % et termine troisième en 2007 (contre 6,8 % en 2002 et 9,1 % en 2012).",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Bayrou",
+          "libelle": "Wikipédia – François Bayrou",
+          "date": "2007-04-22"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "bayrou-q-04",
+        "perso": "bayrou",
+        "sujet": "pouvoir-achat",
+        "categorie": "programme",
+        "difficulte": 2,
+        "question": "Quelle fonction François Bayrou occupe-t-il de 2020 à 2025 ?",
+        "choix": [
+          "Haut-commissaire au Plan",
+          "Défenseur des droits",
+          "Président du Sénat",
+          "Commissaire européen"
+        ],
+        "bonne": 0,
+        "explication": "Il a été Haut-commissaire au Plan du 3 septembre 2020 au 5 mars 2025.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Bayrou",
+          "libelle": "Wikipédia – François Bayrou",
+          "date": "2020-09-03"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "bayrou-q-05",
+        "perso": "bayrou",
+        "sujet": "securite",
+        "categorie": "culte",
+        "difficulte": 3,
+        "question": "Qui succède à François Bayrou à Matignon en septembre 2025 ?",
+        "choix": [
+          "Gabriel Attal",
+          "Michel Barnier",
+          "Élisabeth Borne",
+          "Sébastien Lecornu"
+        ],
+        "bonne": 3,
+        "explication": "Premier ministre du 13 décembre 2024 au 9 septembre 2025, il est remplacé par Sébastien Lecornu après l'échec d'un vote de confiance.",
+        "source": {
+          "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Bayrou",
+          "libelle": "Wikipédia – François Bayrou",
+          "date": "2025-09-09"
+        },
+        "statut": "ok"
+      }
+    ]
+  }
+]

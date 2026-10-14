@@ -1,0 +1,12 @@
+[
+  { "id": "mairie", "nom": "Débat de la mairie", "seuil": 0, "niveauIA": "facile", "urneRecompense": "urne-bois", "parrainagesPalier": 0,
+    "decor": { "fond": "#5b3a29", "accent": "#e2b46b", "sol": "#7a5236" } },
+  { "id": "locale", "nom": "Plateau de la chaîne locale", "seuil": 300, "niveauIA": "facile", "urneRecompense": "urne-bois", "parrainagesPalier": 10,
+    "decor": { "fond": "#1e3a5f", "accent": "#5ec8f2", "sol": "#244a73" } },
+  { "id": "info", "nom": "Plateau des chaînes info", "seuil": 800, "niveauIA": "normal", "urneRecompense": "urne-argent", "parrainagesPalier": 15,
+    "decor": { "fond": "#3a0d16", "accent": "#ff3b4f", "sol": "#521522" } },
+  { "id": "vingt-heures", "nom": "Journal de 20 h", "seuil": 1500, "niveauIA": "normal", "urneRecompense": "urne-argent", "parrainagesPalier": 20,
+    "decor": { "fond": "#0c1a4a", "accent": "#4c7dff", "sol": "#13246a" } },
+  { "id": "entre-deux-tours", "nom": "Débat de l'entre-deux-tours", "seuil": 2500, "niveauIA": "difficile", "urneRecompense": "urne-or", "parrainagesPalier": 40,
+    "decor": { "fond": "#081236", "accent": "#ffcc33", "sol": "#0e1d55" } }
+]

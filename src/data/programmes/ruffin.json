@@ -1,0 +1,462 @@
+[
+  {
+    "id": "ruffin-education-1",
+    "perso": "ruffin",
+    "sujet": "education",
+    "intitule": "Embaucher directement les AESH en CDI",
+    "detail": "Proposition de loi sur les « métiers du lien » : recrutement direct des AESH en CDI, temps plein de 1 607 heures annuelles, chaque heure d'accompagnement pondérée par 1,2 pour la préparation.",
+    "millesime": 2020,
+    "source": {
+      "url": "https://francoisruffin.fr/pour-la-reconnaissance-des-metiers-du-lien/",
+      "libelle": "François Ruffin, « Pour la reconnaissance des métiers du lien »",
+      "date": "2020-10-12"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-education-2",
+    "perso": "ruffin",
+    "sujet": "education",
+    "intitule": "350 millions d'euros de plus pour les AESH",
+    "detail": "Amendement au budget 2022 : hausse de 350 M€ des crédits pour améliorer les conditions de travail des AESH, en prenant en compte leur temps de travail réel.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.lemediasocial.fr/handicap-les-propositions-de-francois-ruffin-pour-ameliorer-les-salaires-des-aesh_jFGeyk",
+      "libelle": "Le Media social, « Handicap : les propositions de François Ruffin pour améliorer les salaires des AESH »",
+      "date": "2021-10-20"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-education-3",
+    "perso": "ruffin",
+    "sujet": "education",
+    "intitule": "Renforcer la part collective du Pass Culture pour les projets scolaires",
+    "detail": "Cahier « temps des loisirs » : rétablir et augmenter la part collective du Pass Culture (éducation artistique et culturelle), passée de 97 M€ en 2024 à moins de 62 M€ prévus en 2026.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://nouspresident.fr/temps-loisirs/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour renouer avec le temps des loisirs » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-education-u",
+    "perso": "ruffin",
+    "sujet": "education",
+    "intitule": "Un séjour en colonie financé pour chaque élève",
+    "detail": "Cahier « temps des loisirs » : garantir à chaque enfant « au moins un séjour collectif, en colos, financé pendant la scolarité obligatoire », sans démarche des familles.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://nouspresident.fr/temps-loisirs/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour renouer avec le temps des loisirs » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-retraites-1",
+    "perso": "ruffin",
+    "sujet": "retraites",
+    "intitule": "Un trimestre bonus pour quatre trimestres en métier pénible",
+    "detail": "Cahier « travailleurs essentiels » : « pour quatre trimestres cotisés dans un métier exposé à la pénibilité, un trimestre supplémentaire de retraite sera accordé », en remplacement du C3P.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour les travailleurs essentiels » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-retraites-2",
+    "perso": "ruffin",
+    "sujet": "retraites",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "ruffin-retraites-3",
+    "perso": "ruffin",
+    "sujet": "retraites",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "ruffin-retraites-u",
+    "perso": "ruffin",
+    "sujet": "retraites",
+    "intitule": "La retraite à 60 ans",
+    "detail": "Cahier « travailleurs essentiels » : la campagne cite « le SMIC à 1600€ ou la retraite à 60 ans » parmi ses mesures fortes ; les modalités (durée de cotisation) ne sont pas détaillées.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour les travailleurs essentiels » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-pouvoir-achat-1",
+    "perso": "ruffin",
+    "sujet": "pouvoir-achat",
+    "intitule": "Indexer les salaires sur l'inflation",
+    "detail": "Cahier « travailleurs essentiels » : indexer les salaires sur l'inflation, comme avant 1982, et remettre les minima de branche au niveau du SMIC.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour les travailleurs essentiels » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-pouvoir-achat-2",
+    "perso": "ruffin",
+    "sujet": "pouvoir-achat",
+    "intitule": "Payer double les heures avant 8 h et après 18 h",
+    "detail": "Cahier « travailleurs essentiels » : rémunérer double les heures travaillées avant 8 h et après 18 h, une mesure qui concernerait 2,7 millions de salariés.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour les travailleurs essentiels » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-pouvoir-achat-3",
+    "perso": "ruffin",
+    "sujet": "pouvoir-achat",
+    "intitule": "Généraliser l'encadrement des loyers à tout le territoire",
+    "detail": "Cahier logement : généraliser l'encadrement des loyers à toute la France, en visant les loyers dépassant de 20 % le loyer médian.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Face à la crise du logement » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-pouvoir-achat-u",
+    "perso": "ruffin",
+    "sujet": "pouvoir-achat",
+    "intitule": "Porter le SMIC à 1 600 euros net",
+    "detail": "Cahier « travailleurs essentiels » : un « SMIC à 1600€ » présenté comme une mesure forte pour revaloriser le travail.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour les travailleurs essentiels » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-immigration-1",
+    "perso": "ruffin",
+    "sujet": "immigration",
+    "intitule": "Régulariser les travailleurs étrangers déjà présents",
+    "detail": "En 2022, il soutenait la régularisation des personnes déjà en France travaillant dans les métiers en tension, tout en refusant « une immigration choisie qui vienne combler les manques ».",
+    "millesime": 2022,
+    "source": {
+      "url": "https://www.sudradio.fr/linvite-politique/je-refuse-une-immigration-choisie-qui-vienne-combler-les-manques-estime-francois-ruffin",
+      "libelle": "Sud Radio, « Je refuse une immigration choisie qui vienne combler les manques »",
+      "date": "2022-11-03"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-immigration-2",
+    "perso": "ruffin",
+    "sujet": "immigration",
+    "intitule": "Pleins droits pour les médecins étrangers déjà en France",
+    "detail": "Avril 2026 : les médecins étrangers déjà présents en France doivent avoir « les plein droits » et être « pleinement reconnus ».",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-limmigration-nouveau-clivage-a-gauche",
+      "libelle": "Public Sénat, « Présidentielle : l'immigration, nouveau clivage à gauche »",
+      "date": "2026-05-11"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-immigration-3",
+    "perso": "ruffin",
+    "sujet": "immigration",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "ruffin-immigration-u",
+    "perso": "ruffin",
+    "sujet": "immigration",
+    "intitule": "Ne pas recourir à l'immigration de travail, notamment pour les soignants",
+    "detail": "Sur France 2 le 28 avril 2026 : « Moi, je suis hostile à l'immigration pour le travail » ; la France ne doit pas recruter de médecins à l'étranger.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-limmigration-nouveau-clivage-a-gauche",
+      "libelle": "Public Sénat, « Présidentielle : l'immigration, nouveau clivage à gauche »",
+      "date": "2026-05-11"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-ecologie-1",
+    "perso": "ruffin",
+    "sujet": "ecologie",
+    "intitule": "Leasing social pour 3 millions de petites voitures électriques",
+    "detail": "Cahier écologie : équiper « 3 millions d'automobilistes des classes moyennes et populaires » en petites voitures électriques produites en France au cours du quinquennat.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour un travaillisme écologique » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-ecologie-2",
+    "perso": "ruffin",
+    "sujet": "ecologie",
+    "intitule": "800 000 rénovations d'ampleur de logements par an",
+    "detail": "Cahier écologie : atteindre progressivement 800 000 rénovations d'ampleur par an, avec un budget de l'État dédié à la rénovation multiplié par 4.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour un travaillisme écologique » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-ecologie-3",
+    "perso": "ruffin",
+    "sujet": "ecologie",
+    "intitule": "Poursuivre les six EPR2 et prolonger les centrales existantes",
+    "detail": "Cahier écologie : prolonger les centrales tant que l'Autorité de sûreté nucléaire valide leur sûreté et « poursuivre la construction des six réacteurs EPR2 ».",
+    "millesime": 2027,
+    "source": {
+      "url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour un travaillisme écologique » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-ecologie-u",
+    "perso": "ruffin",
+    "sujet": "ecologie",
+    "intitule": "Interdire les vols intérieurs si le train fait le trajet en moins de 4 h",
+    "detail": "Cahier écologie (proposition soumise à référendum) : interdire les vols intérieurs là où existe une alternative en train de moins de 4 heures, et réduire de moitié le trafic aérien.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour un travaillisme écologique » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-sante-1",
+    "perso": "ruffin",
+    "sujet": "sante",
+    "intitule": "Une enquête épidémiologique sur le chlordécone payée par l'État",
+    "detail": "Il demande que l'État finance une enquête épidémiologique sur les effets du chlordécone et des pesticides des bananeraies sur les ouvriers agricoles de Martinique.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://francoisruffin.fr/letat-doit-payer-une-enquete-epidemiologique/",
+      "libelle": "François Ruffin, « L'État doit payer une enquête épidémiologique ! »",
+      "date": "2025-05-05"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-sante-2",
+    "perso": "ruffin",
+    "sujet": "sante",
+    "intitule": "Climatiser les lieux publics accueillant des personnes vulnérables",
+    "detail": "Cahier écologie : climatisation des lieux publics accueillant des personnes vulnérables (écoles, hôpitaux, Ehpad) et protections gratuites contre la chaleur pour les plus fragiles.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour un travaillisme écologique » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-sante-3",
+    "perso": "ruffin",
+    "sujet": "sante",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "ruffin-sante-u",
+    "perso": "ruffin",
+    "sujet": "sante",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "ruffin-securite-1",
+    "perso": "ruffin",
+    "sujet": "securite",
+    "intitule": "Mettre fin à la nomination des procureurs par le gouvernement",
+    "detail": "Cahier « séparer l'argent de l'État » : abroger le pouvoir de nomination des magistrats du parquet par le gouvernement ; aucun ministre ne pourra intervenir dans leur carrière.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://nouspresident.fr/separation-argent-etat/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour séparer l'argent de l'État » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-securite-2",
+    "perso": "ruffin",
+    "sujet": "securite",
+    "intitule": "Supprimer la Cour de justice de la République",
+    "detail": "Cahier « séparer l'argent de l'État » : suppression de la Cour de justice de la République et fin de l'inviolabilité pénale et civile complète du président.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://nouspresident.fr/separation-argent-etat/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour séparer l'argent de l'État » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-securite-3",
+    "perso": "ruffin",
+    "sujet": "securite",
+    "intitule": "Interdire le plaquage ventral lors des interpellations",
+    "detail": "Proposition de loi après l'affaire Chouviat : interdire le pliage et le décubitus ventral pour toutes les interpellations (article unique).",
+    "millesime": 2020,
+    "source": {
+      "url": "https://francoisruffin.fr/affaire-chouviat-une-proposition-de-loi-pour-linterdiction-du-decubitus-ventral/",
+      "libelle": "François Ruffin, « Affaire Chouviat : une proposition de loi pour l'interdiction du plaquage ventral »",
+      "date": "2020-01-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-securite-u",
+    "perso": "ruffin",
+    "sujet": "securite",
+    "intitule": "Un ministre mis en examen quitte immédiatement le gouvernement",
+    "detail": "Cahier « séparer l'argent de l'État » : « un ministre mis en examen quittera immédiatement le Gouvernement ».",
+    "millesime": 2027,
+    "source": {
+      "url": "https://nouspresident.fr/separation-argent-etat/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour séparer l'argent de l'État » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-europe-1",
+    "perso": "ruffin",
+    "sujet": "europe",
+    "intitule": "Une « CECA du numérique » et l'État client de la tech européenne",
+    "detail": "Doctrine européenne (février 2026) : créer une « CECA du numérique » et faire de l'État « le premier client de la technologie européenne », en cessant de recourir aux GAFAM.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://legrandcontinent.eu/fr/2026/02/25/pour-une-declaration-dindependance-la-doctrine-ruffin-sur-leurope/",
+      "libelle": "Le Grand Continent, « Pour une déclaration d'indépendance : la doctrine Ruffin sur l'Europe » (texte de F. Ruffin)",
+      "date": "2026-02-25"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-europe-2",
+    "perso": "ruffin",
+    "sujet": "europe",
+    "intitule": "Refuser la majorité qualifiée en politique étrangère européenne",
+    "detail": "Doctrine européenne (février 2026) : la France doit s'opposer « avec fermeté » au passage à la majorité qualifiée en politique étrangère.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://legrandcontinent.eu/fr/2026/02/25/pour-une-declaration-dindependance-la-doctrine-ruffin-sur-leurope/",
+      "libelle": "Le Grand Continent, « Pour une déclaration d'indépendance : la doctrine Ruffin sur l'Europe » (texte de F. Ruffin)",
+      "date": "2026-02-25"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-europe-3",
+    "perso": "ruffin",
+    "sujet": "europe",
+    "intitule": "Un « Erasmus global » ouvert au Brésil, à l'Inde, au Nigeria",
+    "detail": "Doctrine européenne (février 2026) : un « Erasmus global » élargi « au Brésil, à l'Inde, au Nigéria », ouvert aussi aux non-étudiants.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://legrandcontinent.eu/fr/2026/02/25/pour-une-declaration-dindependance-la-doctrine-ruffin-sur-leurope/",
+      "libelle": "Le Grand Continent, « Pour une déclaration d'indépendance : la doctrine Ruffin sur l'Europe » (texte de F. Ruffin)",
+      "date": "2026-02-25"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-europe-u",
+    "perso": "ruffin",
+    "sujet": "europe",
+    "intitule": "Droits de douane et quotas sur 100 produits stratégiques",
+    "detail": "Doctrine européenne (février 2026) : faire basculer la politique commerciale « du libre-échange vers la protection », avec un « plan des 100 » produits stratégiques protégés.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://legrandcontinent.eu/fr/2026/02/25/pour-une-declaration-dindependance-la-doctrine-ruffin-sur-leurope/",
+      "libelle": "Le Grand Continent, « Pour une déclaration d'indépendance : la doctrine Ruffin sur l'Europe » (texte de F. Ruffin)",
+      "date": "2026-02-25"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  }
+]

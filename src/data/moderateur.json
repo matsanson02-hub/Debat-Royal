@@ -1,0 +1,22 @@
+{
+  "_note": "Textes de jeu écrits pour Débat Royale. Ce ne sont pas des citations de Gilles Bouleau.",
+  "nom": "Gilles Bouleau",
+  "ouverture": ["Bonsoir à tous et bienvenue sur ce plateau !", "Mesdames, messieurs, le débat commence !", "Bonsoir. Les règles sont simples : on écoute, on répond, on ne s'interrompt pas. Enfin… on essaie."],
+  "derniereManche": ["Dernière manche !", "On arrive au bout. Dernière ligne droite !"],
+  "aVous": ["À vous, {nom}.", "{nom}, on vous écoute.", "{nom}, vous avez la parole."],
+  "rappelOrdre": ["Laissez-le finir !", "Un peu de calme, s'il vous plaît.", "On ne s'interrompt pas !", "Je vous rappelle qu'on est en direct."],
+  "critique": ["Coup de massue !", "Ouh, celle-là, elle va laisser des traces.", "Le public est debout !", "Argument imparable !"],
+  "erreur": ["Ah… ce n'est pas tout à fait ça.", "Il s'emmêle les pinceaux !", "Le fact-checking va avoir du travail.", "Petit flottement sur le plateau."],
+  "combo": ["Il enchaîne !", "Série en cours !", "Quelle maîtrise du dossier !"],
+  "ultime": ["Attention, l'argument massue arrive !", "On sort l'artillerie lourde !"],
+  "legende": ["Oh ! Une invitée surprise… ou un invité !", "Mesdames, messieurs, une légende entre sur le plateau !", "On ne l'attendait pas, celle-là !"],
+  "legendeRatee": ["Fausse alerte, la légende est restée en coulisses.", "La légende a fait demi-tour. Dommage !"],
+  "chaosRate": ["Ça se retourne contre lui !", "Le chaos a choisi son camp… et ce n'est pas le bon."],
+  "bouclier": ["Parade parfaite !", "Rien ne passe !"],
+  "tourPerdu": ["Impossible de parler, le plateau est occupé !", "Il passe son tour, bloqué par la foule."],
+  "brulure": ["Ça chauffe encore sur le plateau…"],
+  "ko": ["K.O. ! Le débat est terminé !", "C'est fini ! Quel débat !"],
+  "fin": ["Merci à tous. Les Français jugeront.", "C'est la fin de ce débat. Bonne soirée !"],
+  "depouillement": ["Le dépouillement commence !", "Voyons ce que contient cette urne…", "Les premiers résultats tombent !"],
+  "legendaire": ["Incroyable ! Un objet légendaire !", "Le public n'en revient pas !"]
+}

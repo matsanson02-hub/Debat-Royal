@@ -1,0 +1,263 @@
+{
+  "id": "le-pen",
+  "nom": "Marine Le Pen",
+  "parti": "Rassemblement national",
+  "statut": "declare",
+  "statut_note": "Candidate déclarée depuis le 7 juillet 2026 (TF1), après l'arrêt d'appel ramenant sa peine d'inéligibilité ferme à 15 mois, déjà purgée ; un pourvoi en cassation est en cours et Jordan Bardella reste l'option de repli du RN (RTS, 7 juillet 2026).",
+  "verifie_le": "2026-10-14",
+  "surnom": "La Patronne",
+  "couleur": "#0d378a",
+  "entree": {
+    "replique": "Ce soir, je suis candidate à l'élection présidentielle",
+    "contexte": "Annonce de sa candidature lors d'une interview sur TF1, le soir de la décision de la cour d'appel de Paris.",
+    "date": "2026-07-07",
+    "source": {
+      "url": "https://www.rts.ch/info/monde/2026/article/marine-le-pen-sera-candidate-a-la-presidentielle-de-2027-29297057.html",
+      "libelle": "RTS, « Marine Le Pen sera candidate à la présidentielle de 2027 »"
+    }
+  },
+  "arguments": {
+    "education": [
+      {
+        "id": "le-pen-education-1",
+        "nom": "Français, maths, histoire",
+        "bulle": "Retour aux fondamentaux !",
+        "puissance": 14,
+        "mesure": "le-pen-education-1"
+      },
+      {
+        "id": "le-pen-education-2",
+        "nom": "Profs mieux payés",
+        "bulle": "Des profs mieux payés et mieux formés !",
+        "puissance": 16,
+        "mesure": "le-pen-education-2"
+      },
+      {
+        "id": "le-pen-education-3",
+        "nom": "Moins de bureaucratie scolaire",
+        "bulle": "Moins de bureaux, plus de classes !",
+        "puissance": 18,
+        "mesure": "le-pen-education-3"
+      }
+    ],
+    "retraites": [
+      {
+        "id": "le-pen-retraites-1",
+        "nom": "Pensions indexées sur l'inflation",
+        "bulle": "Les retraites suivent l'inflation !",
+        "puissance": 14,
+        "mesure": "le-pen-retraites-1"
+      },
+      {
+        "id": "le-pen-retraites-2",
+        "nom": "Minimum vieillesse à 1 000 €",
+        "bulle": "1 000 € de minimum vieillesse !",
+        "puissance": 16,
+        "mesure": "le-pen-retraites-2"
+      },
+      {
+        "id": "le-pen-retraites-3",
+        "nom": "Demi-part des veuves",
+        "bulle": "La demi-part des veuves revient !",
+        "puissance": 18,
+        "mesure": "le-pen-retraites-3"
+      }
+    ],
+    "pouvoir-achat": [
+      {
+        "id": "le-pen-pouvoir-achat-1",
+        "nom": "+10 % sans charges",
+        "bulle": "+10 % de salaire sans charges patronales !",
+        "puissance": 14,
+        "mesure": "le-pen-pouvoir-achat-1"
+      },
+      {
+        "id": "le-pen-pouvoir-achat-2",
+        "nom": "Zéro impôt avant 30 ans",
+        "bulle": "Pas d'impôt sur le revenu avant 30 ans !",
+        "puissance": 16,
+        "mesure": "le-pen-pouvoir-achat-2"
+      },
+      {
+        "id": "le-pen-pouvoir-achat-3",
+        "nom": "Péages moins chers",
+        "bulle": "Autoroutes renationalisées, péages -15 % !",
+        "puissance": 18,
+        "mesure": "le-pen-pouvoir-achat-3"
+      }
+    ],
+    "immigration": [
+      {
+        "id": "le-pen-immigration-1",
+        "nom": "Fin du droit du sol",
+        "bulle": "La nationalité, ça se mérite !",
+        "puissance": 14,
+        "mesure": "le-pen-immigration-1"
+      },
+      {
+        "id": "le-pen-immigration-2",
+        "nom": "Asile demandé à l'étranger",
+        "bulle": "L'asile se demande depuis l'étranger !",
+        "puissance": 16,
+        "mesure": "le-pen-immigration-2"
+      },
+      {
+        "id": "le-pen-immigration-3",
+        "nom": "Priorité nationale au logement",
+        "bulle": "Les HLM d'abord pour les Français !",
+        "puissance": 18,
+        "mesure": "le-pen-immigration-3"
+      }
+    ],
+    "ecologie": [
+      {
+        "id": "le-pen-ecologie-1",
+        "nom": "Fin du ZAN",
+        "bulle": "On supprime le ZAN !",
+        "puissance": 14,
+        "mesure": "le-pen-ecologie-1"
+      },
+      {
+        "id": "le-pen-ecologie-2",
+        "nom": "Sortie du marché de l'électricité",
+        "bulle": "Adieu le marché européen de l'électricité !",
+        "puissance": 16,
+        "mesure": "le-pen-ecologie-2"
+      },
+      {
+        "id": "le-pen-ecologie-3",
+        "nom": "Prêt 100 % Rénov",
+        "bulle": "Un prêt à taux zéro pour rénover !",
+        "puissance": 18,
+        "mesure": "le-pen-ecologie-3"
+      }
+    ],
+    "sante": [
+      {
+        "id": "le-pen-sante-1",
+        "nom": "Suppression des ARS",
+        "bulle": "On supprime les ARS !",
+        "puissance": 14,
+        "mesure": "le-pen-sante-1"
+      },
+      {
+        "id": "le-pen-sante-2",
+        "nom": "Stop aux fermetures de lits",
+        "bulle": "Plus aucun lit fermé !",
+        "puissance": 16,
+        "mesure": "le-pen-sante-2"
+      },
+      {
+        "id": "le-pen-sante-3",
+        "nom": "Urgences gériatriques",
+        "bulle": "Des urgences pour nos aînés !",
+        "puissance": 18,
+        "mesure": "le-pen-sante-3"
+      }
+    ],
+    "securite": [
+      {
+        "id": "le-pen-securite-1",
+        "nom": "Légitime défense présumée",
+        "bulle": "Présomption de légitime défense !",
+        "puissance": 14,
+        "mesure": "le-pen-securite-1"
+      },
+      {
+        "id": "le-pen-securite-2",
+        "nom": "85 000 places de prison",
+        "bulle": "85 000 places de prison !",
+        "puissance": 16,
+        "mesure": "le-pen-securite-2"
+      },
+      {
+        "id": "le-pen-securite-3",
+        "nom": "Deux fois plus de magistrats",
+        "bulle": "On double le nombre de magistrats !",
+        "puissance": 18,
+        "mesure": "le-pen-securite-3"
+      }
+    ],
+    "europe": [
+      {
+        "id": "le-pen-europe-1",
+        "nom": "Contribution UE allégée",
+        "bulle": "5 milliards de moins pour Bruxelles !",
+        "puissance": 14,
+        "mesure": "le-pen-europe-1"
+      },
+      {
+        "id": "le-pen-europe-2",
+        "nom": "Droit français d'abord",
+        "bulle": "La Constitution française au-dessus !",
+        "puissance": 16,
+        "mesure": "le-pen-europe-2"
+      },
+      {
+        "id": "le-pen-europe-3",
+        "nom": "Sortie du commandement de l'OTAN",
+        "bulle": "Hors du commandement intégré de l'OTAN !",
+        "puissance": 18,
+        "mesure": "le-pen-europe-3"
+      }
+    ]
+  },
+  "ultimes": {
+    "education": {
+      "id": "le-pen-education-u",
+      "nom": "Uniforme à l'école",
+      "bulle": "L'uniforme à l'école !",
+      "puissance": 32,
+      "mesure": "le-pen-education-u"
+    },
+    "retraites": {
+      "id": "le-pen-retraites-u",
+      "nom": "60 ans pour les carrières longues",
+      "bulle": "Commencé avant 20 ans ? Retraite à 60 ans !",
+      "puissance": 32,
+      "mesure": "le-pen-retraites-u"
+    },
+    "pouvoir-achat": {
+      "id": "le-pen-pouvoir-achat-u",
+      "nom": "TVA énergie à 5,5 %",
+      "bulle": "TVA à 5,5 % sur l'essence et l'électricité !",
+      "puissance": 32,
+      "mesure": "le-pen-pouvoir-achat-u"
+    },
+    "immigration": {
+      "id": "le-pen-immigration-u",
+      "nom": "Référendum immigration",
+      "bulle": "Un référendum sur l'immigration !",
+      "puissance": 32,
+      "mesure": "le-pen-immigration-u"
+    },
+    "ecologie": {
+      "id": "le-pen-ecologie-u",
+      "nom": "Stop éoliennes, oui nucléaire",
+      "bulle": "Stop aux éoliennes, vive le nucléaire !",
+      "puissance": 32,
+      "mesure": "le-pen-ecologie-u"
+    },
+    "sante": {
+      "id": "le-pen-sante-u",
+      "nom": "Plan santé 20 milliards",
+      "bulle": "20 milliards d'urgence pour la santé !",
+      "puissance": 32,
+      "mesure": "le-pen-sante-u"
+    },
+    "securite": {
+      "id": "le-pen-securite-u",
+      "nom": "Peines planchers",
+      "bulle": "Le retour des peines planchers !",
+      "puissance": 32,
+      "mesure": "le-pen-securite-u"
+    },
+    "europe": {
+      "id": "le-pen-europe-u",
+      "nom": "Alliance européenne des nations",
+      "bulle": "Une Europe des nations !",
+      "puissance": 32,
+      "mesure": "le-pen-europe-u"
+    }
+  }
+}

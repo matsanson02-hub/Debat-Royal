@@ -1,0 +1,228 @@
+{
+  "id": "bertrand",
+  "nom": "Xavier Bertrand",
+  "parti": "Nous France (Les Républicains)",
+  "statut": "a_verifier",
+  "statut_note": "Il a confirmé le 27 août 2026 qu'il serait candidat (« Je le serai »), en indépendant, mais n'a pas encore fait de déclaration officielle ; il l'annonce pour la fin de l'année 2026 (LCP, 27/08/2026).",
+  "verifie_le": "2026-10-14",
+  "surnom": "Le président des Hauts",
+  "couleur": "#0066CC",
+  "entree": {
+    "replique": "Je serai un candidat à la place, pas un candidat de plus, et avec un projet.",
+    "contexte": "Interrogé le 27 août 2026, il confirme qu'il sera candidat à la présidentielle 2027, en indépendant.",
+    "date": "2026-08-27",
+    "source": {
+      "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
+      "libelle": "LCP, « 2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle »"
+    }
+  },
+  "arguments": {
+    "education": [
+      {
+        "id": "bertrand-education-1",
+        "nom": "Hors de l'école",
+        "bulle": "L'antisémitisme hors de l'école",
+        "puissance": 14,
+        "mesure": "bertrand-education-1"
+      },
+      {
+        "id": "bertrand-education-2",
+        "nom": "Tenue unique au lycée",
+        "bulle": "Même tenue pour tous les élèves",
+        "puissance": 16,
+        "mesure": "bertrand-education-2"
+      }
+    ],
+    "retraites": [
+      {
+        "id": "bertrand-retraites-1",
+        "nom": "Pilier capitalisation",
+        "bulle": "Un étage de capitalisation",
+        "puissance": 14,
+        "mesure": "bertrand-retraites-1"
+      }
+    ],
+    "pouvoir-achat": [
+      {
+        "id": "bertrand-pouvoir-achat-1",
+        "nom": "Heures sup exonérées",
+        "bulle": "Au-delà de 35 h, zéro impôt",
+        "puissance": 14,
+        "mesure": "bertrand-pouvoir-achat-1"
+      },
+      {
+        "id": "bertrand-pouvoir-achat-2",
+        "nom": "Dividendes partagés",
+        "bulle": "Pas de dividendes sans salariés",
+        "puissance": 16,
+        "mesure": "bertrand-pouvoir-achat-2"
+      },
+      {
+        "id": "bertrand-pouvoir-achat-3",
+        "nom": "Congés rachetables",
+        "bulle": "Une semaine de congés monnayable",
+        "puissance": 18,
+        "mesure": "bertrand-pouvoir-achat-3"
+      }
+    ],
+    "immigration": [
+      {
+        "id": "bertrand-immigration-1",
+        "nom": "Immigration familiale divisée",
+        "bulle": "Immigration familiale ÷ 3",
+        "puissance": 14,
+        "mesure": "bertrand-immigration-1"
+      },
+      {
+        "id": "bertrand-immigration-2",
+        "nom": "Fin des régularisations",
+        "bulle": "Entrée illégale, pas de papiers",
+        "puissance": 16,
+        "mesure": "bertrand-immigration-2"
+      },
+      {
+        "id": "bertrand-immigration-3",
+        "nom": "3 000 places de rétention",
+        "bulle": "3 000 places de rétention",
+        "puissance": 18,
+        "mesure": "bertrand-immigration-3"
+      }
+    ],
+    "ecologie": [
+      {
+        "id": "bertrand-ecologie-1",
+        "nom": "Frein aux éoliennes",
+        "bulle": "Les éoliennes ne s'imposent plus",
+        "puissance": 14,
+        "mesure": "bertrand-ecologie-1"
+      },
+      {
+        "id": "bertrand-ecologie-2",
+        "nom": "Fin du plafond nucléaire",
+        "bulle": "Plus de plafond pour l'atome",
+        "puissance": 16,
+        "mesure": "bertrand-ecologie-2"
+      },
+      {
+        "id": "bertrand-ecologie-3",
+        "nom": "Soleil et mer",
+        "bulle": "Cap sur le solaire et la mer",
+        "puissance": 18,
+        "mesure": "bertrand-ecologie-3"
+      }
+    ],
+    "sante": [
+      {
+        "id": "bertrand-sante-1",
+        "nom": "Plan attractivité hôpital",
+        "bulle": "L'hôpital doit attirer à nouveau",
+        "puissance": 14,
+        "mesure": "bertrand-sante-1"
+      }
+    ],
+    "securite": [
+      {
+        "id": "bertrand-securite-1",
+        "nom": "Majorité pénale à 15 ans",
+        "bulle": "Majorité pénale à 15 ans",
+        "puissance": 14,
+        "mesure": "bertrand-securite-1"
+      },
+      {
+        "id": "bertrand-securite-2",
+        "nom": "20 000 places de prison",
+        "bulle": "20 000 places de prison en plus",
+        "puissance": 16,
+        "mesure": "bertrand-securite-2"
+      },
+      {
+        "id": "bertrand-securite-3",
+        "nom": "Retour des courtes peines",
+        "bulle": "Même un mois de prison compte",
+        "puissance": 18,
+        "mesure": "bertrand-securite-3"
+      }
+    ],
+    "europe": [
+      {
+        "id": "bertrand-europe-1",
+        "nom": "Fin des accords du Touquet",
+        "bulle": "Le Touquet, c'est terminé",
+        "puissance": 14,
+        "mesure": "bertrand-europe-1"
+      },
+      {
+        "id": "bertrand-europe-2",
+        "nom": "Soutien à l'Ukraine",
+        "bulle": "Ce qui est promis est livré",
+        "puissance": 16,
+        "mesure": "bertrand-europe-2"
+      },
+      {
+        "id": "bertrand-europe-3",
+        "nom": "Agriculture protégée",
+        "bulle": "Nos fermes hors des marchandages",
+        "puissance": 18,
+        "mesure": "bertrand-europe-3"
+      }
+    ]
+  },
+  "ultimes": {
+    "education": {
+      "id": "bertrand-education-u",
+      "nom": "Révolution par les territoires",
+      "bulle": "L'école pilotée au plus près",
+      "puissance": 32,
+      "mesure": "bertrand-education-u"
+    },
+    "retraites": {
+      "id": "bertrand-retraites-u",
+      "nom": "Cap sur 64 ans",
+      "bulle": "64 ans, sauf pour les métiers usants",
+      "puissance": 32,
+      "mesure": "bertrand-retraites-u"
+    },
+    "pouvoir-achat": {
+      "id": "bertrand-pouvoir-achat-u",
+      "nom": "Prime au travail",
+      "bulle": "1 500 € net minimum à temps plein",
+      "puissance": 32,
+      "mesure": "bertrand-pouvoir-achat-u"
+    },
+    "immigration": {
+      "id": "bertrand-immigration-u",
+      "nom": "Quotas par référendum",
+      "bulle": "Des quotas votés chaque année",
+      "puissance": 32,
+      "mesure": "bertrand-immigration-u"
+    },
+    "ecologie": {
+      "id": "bertrand-ecologie-u",
+      "nom": "Nouveaux réacteurs",
+      "bulle": "De nouveaux réacteurs, vite",
+      "puissance": 32,
+      "mesure": "bertrand-ecologie-u"
+    },
+    "sante": {
+      "id": "bertrand-sante-u",
+      "nom": "Fin de l'AME",
+      "bulle": "L'AME supprimée",
+      "puissance": 32,
+      "mesure": "bertrand-sante-u"
+    },
+    "securite": {
+      "id": "bertrand-securite-u",
+      "nom": "Peine automatique",
+      "bulle": "Toucher un policier, c'est la prison",
+      "puissance": 32,
+      "mesure": "bertrand-securite-u"
+    },
+    "europe": {
+      "id": "bertrand-europe-u",
+      "nom": "Pas une virgule de plus",
+      "bulle": "Bruxelles, pas une virgule de plus",
+      "puissance": 32,
+      "mesure": "bertrand-europe-u"
+    }
+  }
+}

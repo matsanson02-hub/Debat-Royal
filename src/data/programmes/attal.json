@@ -1,0 +1,470 @@
+[
+  {
+    "id": "attal-education-1",
+    "perso": "attal",
+    "sujet": "education",
+    "intitule": "Rétablir un certificat d'études pour entrer en 6e",
+    "detail": "Les élèves n'ayant pas le niveau suivraient une « année passerelle » avant le collège.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-retour-du-certificat-d-etudes-revalorisation-des-salaires-ce-que-propose",
+      "libelle": "LCP, « Présidentielle : retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école » (d'après un entretien au Monde)",
+      "date": "2026-08-25"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-education-2",
+    "perso": "attal",
+    "sujet": "education",
+    "intitule": "Rendre le brevet obligatoire pour passer en seconde",
+    "detail": "Mesure décidée quand il était ministre de l'Éducation puis abandonnée, qu'il propose de rétablir.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-retour-du-certificat-d-etudes-revalorisation-des-salaires-ce-que-propose",
+      "libelle": "LCP, « Présidentielle : retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école » (d'après un entretien au Monde)",
+      "date": "2026-08-25"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-education-3",
+    "perso": "attal",
+    "sujet": "education",
+    "intitule": "Augmenter les enseignants de 200 € net/mois, jusqu'à 500 € en milieu de carrière",
+    "detail": "Revalorisation financée notamment grâce à la baisse démographique ; objectif de moins de 20 élèves par classe en primaire.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-retour-du-certificat-d-etudes-revalorisation-des-salaires-ce-que-propose",
+      "libelle": "LCP, « Présidentielle : retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école » (d'après un entretien au Monde)",
+      "date": "2026-08-25"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-education-u",
+    "perso": "attal",
+    "sujet": "education",
+    "intitule": "Généraliser les groupes de niveau en français et en mathématiques au collège",
+    "detail": "Reprise du « choc des savoirs » lancé comme ministre puis abandonné, pour un « collège plus individualisé ».",
+    "millesime": 2027,
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-retour-du-certificat-d-etudes-revalorisation-des-salaires-ce-que-propose",
+      "libelle": "LCP, « Présidentielle : retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école » (d'après un entretien au Monde)",
+      "date": "2026-08-25"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-retraites-1",
+    "perso": "attal",
+    "sujet": "retraites",
+    "intitule": "Verser 1 000 € par l'État à chaque naissance sur un compte retraite bloqué",
+    "detail": "Le compte, abondable par la famille avec avantages fiscaux, serait débloqué au moment de la retraite.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/un-an-pour-convaincre-pour-son-premier-grand-meeting-gabriel-attal-mise-sur-lespoir-et-joue-sa-difference-avec-edouard-philippe",
+      "libelle": "Public Sénat, « Un an pour convaincre » : premier grand meeting de Gabriel Attal à Paris",
+      "date": "2026-05-30"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-retraites-2",
+    "perso": "attal",
+    "sujet": "retraites",
+    "intitule": "Confier la gestion du système de retraite aux partenaires sociaux",
+    "detail": "Syndicats et patronat géreraient le système, comme ils gèrent déjà les retraites complémentaires.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/un-an-pour-convaincre-pour-son-premier-grand-meeting-gabriel-attal-mise-sur-lespoir-et-joue-sa-difference-avec-edouard-philippe",
+      "libelle": "Public Sénat, « Un an pour convaincre » : premier grand meeting de Gabriel Attal à Paris",
+      "date": "2026-05-30"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-retraites-3",
+    "perso": "attal",
+    "sujet": "retraites",
+    "intitule": "Soumettre la réforme des retraites à référendum",
+    "detail": "Proposé en juin 2025 aux Échos pour un système « universel, libre et productif », à défaut de laisser la présidentielle trancher.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/pas-d-age-legal-part-de-capitalisation-referendum-gabriel-attal-presente-son-projet-de-reforme-des-retraites-4870252d72ee8d922a4ad4e68629d711",
+      "libelle": "Boursorama (AFP), « Pas d'âge légal, part de capitalisation, référendum : Gabriel Attal présente son projet de réforme des retraites » (entretien aux Échos)",
+      "date": "2025-06-30"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-retraites-u",
+    "perso": "attal",
+    "sujet": "retraites",
+    "intitule": "Supprimer l'âge légal de départ et fonder la retraite sur la durée de cotisation",
+    "detail": "Il juge que l'âge légal « n'est plus le débat » et veut changer de système avec une part de capitalisation.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/un-an-pour-convaincre-pour-son-premier-grand-meeting-gabriel-attal-mise-sur-lespoir-et-joue-sa-difference-avec-edouard-philippe",
+      "libelle": "Public Sénat, « Un an pour convaincre » : premier grand meeting de Gabriel Attal à Paris",
+      "date": "2026-05-30"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-pouvoir-achat-1",
+    "perso": "attal",
+    "sujet": "pouvoir-achat",
+    "intitule": "Supprimer la part salariale de la cotisation vieillesse (40 milliards d'euros)",
+    "detail": "Présenté en juin 2025 comme un « choc » de 40 milliards d'euros de hausse des salaires nets.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/pas-d-age-legal-part-de-capitalisation-referendum-gabriel-attal-presente-son-projet-de-reforme-des-retraites-4870252d72ee8d922a4ad4e68629d711",
+      "libelle": "Boursorama (AFP), « Pas d'âge légal, part de capitalisation, référendum : Gabriel Attal présente son projet de réforme des retraites » (entretien aux Échos)",
+      "date": "2025-06-30"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-pouvoir-achat-2",
+    "perso": "attal",
+    "sujet": "pouvoir-achat",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "attal-pouvoir-achat-3",
+    "perso": "attal",
+    "sujet": "pouvoir-achat",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "attal-pouvoir-achat-u",
+    "perso": "attal",
+    "sujet": "pouvoir-achat",
+    "intitule": "Un « choc de salaires » équivalent à un 13e mois pour les classes moyennes",
+    "detail": "Objectif : +250 € net par mois pour un salarié au salaire médian (2 200 €), via des baisses de cotisations financées par des économies sur le modèle social.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://attalpresident.fr/actualites/dans-le-telegramme-gabriel-attal-veut-un-choc-de-salaires-et-instaurer-le-droit-au-brut",
+      "libelle": "attalpresident.fr (site de campagne), « Dans Le Télégramme, Gabriel Attal veut un choc de salaires et instaurer le droit au brut »",
+      "date": "2026-07-22"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-immigration-1",
+    "perso": "attal",
+    "sujet": "immigration",
+    "intitule": "Faire de l'immigration de travail le premier motif d'immigration",
+    "detail": "Priorité au travail devant l'immigration familiale et étudiante ; il rejette « l'immigration zéro ».",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.21news.be/immigration-gabriel-attal-veut-des-quotas-par-metier-et-par-origine-geographique/",
+      "libelle": "21 News, « Immigration : Gabriel Attal veut des quotas par métier et par origine géographique » (invité de CNews le 10 août 2026)",
+      "date": "2026-08-11"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-immigration-2",
+    "perso": "attal",
+    "sujet": "immigration",
+    "intitule": "Importer le permis à points canadien pour sélectionner l'immigration",
+    "detail": "Système de sélection par points inspiré du Canada, présenté avec les quotas en août 2026.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.lejdd.fr/politique/immigration-gabriel-attal-propose-des-quotas-par-metier-et-par-origine-geographique-180879",
+      "libelle": "Le JDD, « Immigration : Gabriel Attal propose des quotas par métier et par origine géographique »",
+      "date": "2026-08-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-immigration-3",
+    "perso": "attal",
+    "sujet": "immigration",
+    "intitule": "Dénoncer l'accord franco-algérien de 1968",
+    "detail": "Dans une tribune au Figaro, il jugeait que l'accord était « devenu une filière d'immigration à part entière ».",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.europe1.fr/politique/gabriel-attal-appelle-denoncer-laccord-franco-algerien-de-1968-238850",
+      "libelle": "Europe 1, « Gabriel Attal appelle à dénoncer l'accord franco-algérien de 1968 » (tribune au Figaro)",
+      "date": "2025-01-10"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-immigration-u",
+    "perso": "attal",
+    "sujet": "immigration",
+    "intitule": "Quotas d'immigration votés par le Parlement, par métier et par origine",
+    "detail": "Tous les deux ans, les partenaires sociaux identifient les besoins ; le Parlement vote des quotas par métier, secteur et origine géographique.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.21news.be/immigration-gabriel-attal-veut-des-quotas-par-metier-et-par-origine-geographique/",
+      "libelle": "21 News, « Immigration : Gabriel Attal veut des quotas par métier et par origine géographique » (invité de CNews le 10 août 2026)",
+      "date": "2026-08-11"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-ecologie-1",
+    "perso": "attal",
+    "sujet": "ecologie",
+    "intitule": "Baisser la TVA sur les voitures électriques de 20 % à 5,5 %",
+    "detail": "La baisse remplacerait la prime à la conversion ; l'offre de location serait étendue aux électriques d'occasion.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.france24.com/fr/info-en-continu/20250721-attal-propose-une-nouvelle-donne-%C3%A9cologique-en-m%C3%AAme-temps-qu-%C3%A9conomique",
+      "libelle": "France 24 (AFP), « Attal propose une \"nouvelle donne\" écologique en même temps qu'économique »",
+      "date": "2025-07-21"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-ecologie-2",
+    "perso": "attal",
+    "sujet": "ecologie",
+    "intitule": "Créer un « compte épargne carbone-transition »",
+    "detail": "L'équivalent des taxes carbone payées par les Français serait isolé sur un compte pour financer par exemple la rénovation des logements.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.france24.com/fr/info-en-continu/20250721-attal-propose-une-nouvelle-donne-%C3%A9cologique-en-m%C3%AAme-temps-qu-%C3%A9conomique",
+      "libelle": "France 24 (AFP), « Attal propose une \"nouvelle donne\" écologique en même temps qu'économique »",
+      "date": "2025-07-21"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-ecologie-3",
+    "perso": "attal",
+    "sujet": "ecologie",
+    "intitule": "Voter une loi de programmation écologique tous les cinq ans",
+    "detail": "Issue des « conventions thématiques » de Renaissance présentées en juillet 2025.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.france24.com/fr/info-en-continu/20250721-attal-propose-une-nouvelle-donne-%C3%A9cologique-en-m%C3%AAme-temps-qu-%C3%A9conomique",
+      "libelle": "France 24 (AFP), « Attal propose une \"nouvelle donne\" écologique en même temps qu'économique »",
+      "date": "2025-07-21"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-ecologie-u",
+    "perso": "attal",
+    "sujet": "ecologie",
+    "intitule": "Produire en France les trois quarts de l'énergie consommée",
+    "detail": "Objectif fixé « dans les prochaines années » grâce à un mix nucléaire et renouvelables (projet « nouvelle donne » de Renaissance).",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.france24.com/fr/info-en-continu/20250721-attal-propose-une-nouvelle-donne-%C3%A9cologique-en-m%C3%AAme-temps-qu-%C3%A9conomique",
+      "libelle": "France 24 (AFP), « Attal propose une \"nouvelle donne\" écologique en même temps qu'économique »",
+      "date": "2025-07-21"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-sante-1",
+    "perso": "attal",
+    "sujet": "sante",
+    "intitule": "Permettre l'accès direct aux psychologues sans passer par un médecin",
+    "detail": "Annonce de la déclaration de politique générale de 2024 pour réformer le dispositif « Mon soutien psy ».",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.lequotidiendumedecin.fr/sante-societe/politique-de-sante/gardes-obligatoires-taxe-lapins-acces-direct-aux-psychologues-les-annonces-choc-de-gabriel-attal-sur",
+      "libelle": "Le Quotidien du médecin, « Gardes obligatoires, taxe lapins, accès direct aux psychologues : les annonces choc de Gabriel Attal » (déclaration de politique générale)",
+      "date": "2024-01-30"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-sante-2",
+    "perso": "attal",
+    "sujet": "sante",
+    "intitule": "Pouvoir rétablir les gardes obligatoires pour les médecins libéraux",
+    "detail": "Annoncée en 2024 comme une option si l'accès aux soins non programmés n'était pas organisé dans les territoires.",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.lequotidiendumedecin.fr/sante-societe/politique-de-sante/gardes-obligatoires-taxe-lapins-acces-direct-aux-psychologues-les-annonces-choc-de-gabriel-attal-sur",
+      "libelle": "Le Quotidien du médecin, « Gardes obligatoires, taxe lapins, accès direct aux psychologues : les annonces choc de Gabriel Attal » (déclaration de politique générale)",
+      "date": "2024-01-30"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-sante-3",
+    "perso": "attal",
+    "sujet": "sante",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "attal-sante-u",
+    "perso": "attal",
+    "sujet": "sante",
+    "intitule": "Instaurer une « taxe lapin » pour les rendez-vous médicaux non honorés",
+    "detail": "Annoncée comme Premier ministre lors de sa déclaration de politique générale de janvier 2024.",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.lequotidiendumedecin.fr/sante-societe/politique-de-sante/gardes-obligatoires-taxe-lapins-acces-direct-aux-psychologues-les-annonces-choc-de-gabriel-attal-sur",
+      "libelle": "Le Quotidien du médecin, « Gardes obligatoires, taxe lapins, accès direct aux psychologues : les annonces choc de Gabriel Attal » (déclaration de politique générale)",
+      "date": "2024-01-30"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-securite-1",
+    "perso": "attal",
+    "sujet": "securite",
+    "intitule": "Interdire le voile dans l'espace public pour les mineures de moins de 15 ans",
+    "detail": "Proposition de Renaissance, assortie d'un délit de contrainte au port du voile visant les parents.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.franceinfo.fr/politique/gabriel-attal/gabriel-attal-veut-interdire-le-port-du-voile-pour-les-mineures-de-moins-de-15-ans-et-creer-un-delit-de-communautarisme_7263732.html",
+      "libelle": "franceinfo, « Gabriel Attal veut interdire le port du voile pour les mineures de moins de 15 ans et créer un délit de communautarisme »",
+      "date": "2025-05-21"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-securite-2",
+    "perso": "attal",
+    "sujet": "securite",
+    "intitule": "Créer un « délit de communautarisme »",
+    "detail": "Prévu dans une seconde loi séparatisme « contre l'entrisme islamiste », pour sanctionner l'imposition de règles contraires aux lois de la République.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.franceinfo.fr/politique/gabriel-attal/gabriel-attal-veut-interdire-le-port-du-voile-pour-les-mineures-de-moins-de-15-ans-et-creer-un-delit-de-communautarisme_7263732.html",
+      "libelle": "franceinfo, « Gabriel Attal veut interdire le port du voile pour les mineures de moins de 15 ans et créer un délit de communautarisme »",
+      "date": "2025-05-21"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-securite-3",
+    "perso": "attal",
+    "sujet": "securite",
+    "intitule": "Inverser l'excuse de minorité pour les récidivistes de plus de 16 ans",
+    "detail": "Mesure de sa proposition de loi de 2025 sur les mineurs délinquants : le juge doit motiver l'application de l'excuse de minorité.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://lcp.fr/actualites/delinquance-des-mineurs-que-contient-la-proposition-de-loi-de-gabriel-attal-que-le",
+      "libelle": "LCP, « Délinquance des mineurs : que contient la proposition de loi de Gabriel Attal »",
+      "date": "2025-05-13"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-securite-u",
+    "perso": "attal",
+    "sujet": "securite",
+    "intitule": "Supprimer le juge d'application des peines",
+    "detail": "Proposé après la permission de sortie d'un détenu de Vendin-le-Vieil, pour que les peines prononcées soient exécutées.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.europe1.fr/politique/je-propose-de-supprimer-le-juge-dapplication-des-peines-assure-gabriel-attal-872862",
+      "libelle": "Europe 1, « \"Je propose de supprimer le juge d'application des peines\", assure Gabriel Attal »",
+      "date": "2025-11-26"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-europe-1",
+    "perso": "attal",
+    "sujet": "europe",
+    "intitule": "Élire au suffrage universel un président de cette union européenne fédérale",
+    "detail": "Avec un parlement composé des eurodéputés des pays participants ; défense, migrations et justice resteraient nationales.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-veut-construire-les-etats-unis-deurope-proposition-choc-pour-relancer-lideal-europeen",
+      "libelle": "Public Sénat, « Gabriel Attal veut construire \"les Etats-Unis d'Europe\" »",
+      "date": "2026-09-17"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-europe-2",
+    "perso": "attal",
+    "sujet": "europe",
+    "intitule": "Organiser un « premier référendum européen » simultané",
+    "detail": "Vote organisé le même jour dans tous les pays participant au projet fédéral.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-veut-construire-les-etats-unis-deurope-proposition-choc-pour-relancer-lideal-europeen",
+      "libelle": "Public Sénat, « Gabriel Attal veut construire \"les Etats-Unis d'Europe\" »",
+      "date": "2026-09-17"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-europe-3",
+    "perso": "attal",
+    "sujet": "europe",
+    "intitule": "Proposer un « traité de prospérité économique et d'urgence écologique »",
+    "detail": "Première étape du projet fédéral, à présenter dès le premier Conseil européen du mandat.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-veut-construire-les-etats-unis-deurope-proposition-choc-pour-relancer-lideal-europeen",
+      "libelle": "Public Sénat, « Gabriel Attal veut construire \"les Etats-Unis d'Europe\" »",
+      "date": "2026-09-17"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "attal-europe-u",
+    "perso": "attal",
+    "sujet": "europe",
+    "intitule": "Construire les « États-Unis d'Europe » avec un noyau dur de pays",
+    "detail": "« Saut fédéral » économique : convergence fiscale, droit du travail commun, union bancaire, grands projets communs (IA, espace, énergie).",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-veut-construire-les-etats-unis-deurope-proposition-choc-pour-relancer-lideal-europeen",
+      "libelle": "Public Sénat, « Gabriel Attal veut construire \"les Etats-Unis d'Europe\" »",
+      "date": "2026-09-17"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  }
+]

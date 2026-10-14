@@ -1,0 +1,450 @@
+[
+  {
+    "id": "glucksmann-education-1",
+    "perso": "glucksmann",
+    "sujet": "education",
+    "intitule": "Augmenter substantiellement le salaire des enseignants",
+    "detail": "Avec plus de personnels devant les élèves et moins de postes administratifs ; aucun montant n'est chiffré.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "libelle": "LCP, « Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme » (livre « Nous avons encore envie »)",
+      "date": "2026-05-26"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-education-2",
+    "perso": "glucksmann",
+    "sujet": "education",
+    "intitule": "Imposer un principe de mixité sociale aux écoles privées",
+    "detail": "Mesure présentée dans son livre « Nous avons encore envie » (2026).",
+    "millesime": 2027,
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "libelle": "LCP, « Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme » (livre « Nous avons encore envie »)",
+      "date": "2026-05-26"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-education-3",
+    "perso": "glucksmann",
+    "sujet": "education",
+    "intitule": "Un « passeport pour l'émancipation » : un séjour collectif pour chaque enfant",
+    "detail": "Il rappelle que les colonies de vacances accueillent « trois fois moins » de jeunes qu'au début des années 1980.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "libelle": "LCP, « Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme » (livre « Nous avons encore envie »)",
+      "date": "2026-05-26"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-education-u",
+    "perso": "glucksmann",
+    "sujet": "education",
+    "intitule": "Instaurer un service civique obligatoire de dix mois pour tous les jeunes",
+    "detail": "Missions en Ehpad, établissements scolaires, services publics ou d'intérêt général ; le volet militaire resterait volontaire.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "libelle": "LCP, « Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme » (livre « Nous avons encore envie »)",
+      "date": "2026-05-26"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-retraites-1",
+    "perso": "glucksmann",
+    "sujet": "retraites",
+    "intitule": "Moduler l'âge de départ selon l'espérance de vie en bonne santé",
+    "detail": "Les carrières les plus hachées partiraient plus tôt, ceux qui ont une espérance de vie en bonne santé plus longue plus tard.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "libelle": "LCP, « Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme » (livre « Nous avons encore envie »)",
+      "date": "2026-05-26"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-retraites-2",
+    "perso": "glucksmann",
+    "sujet": "retraites",
+    "intitule": "Créer un Haut Conseil du pilotage des retraites",
+    "detail": "Les partenaires sociaux y seraient majoritaires ; aucune capitalisation n'est prévue.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.senioractu.com/Raphael-Glucksmann-remporte-la-primaire-au-premier-tour-ce-qu-il-prevoit-pour-votre-depart-a-la-retraite-votre-pension_a28149.html",
+      "libelle": "Senioractu, « Raphaël Glucksmann remporte la primaire au premier tour : ce qu'il prévoit pour votre départ à la retraite » (débat BFMTV du 4 octobre 2026)",
+      "date": "2026-10-11"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-retraites-3",
+    "perso": "glucksmann",
+    "sujet": "retraites",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "glucksmann-retraites-u",
+    "perso": "glucksmann",
+    "sujet": "retraites",
+    "intitule": "Abroger la réforme de 2023 et revenir à un âge légal de 62 ans",
+    "detail": "Lors du débat BFMTV de la primaire (4 octobre 2026), il exclut un retour à 60 ans : « ça sera 62 ».",
+    "millesime": 2027,
+    "source": {
+      "url": "https://lcp.fr/actualites/glucksmann-faure-royal-maurel-guedj-quelles-differences-entre-les-candidats-a-la",
+      "libelle": "LCP, « Glucksmann, Faure, Royal, Maurel, Guedj : quelles différences entre les candidats à la primaire socialiste ? »",
+      "date": "2026-10-09"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-pouvoir-achat-1",
+    "perso": "glucksmann",
+    "sujet": "pouvoir-achat",
+    "intitule": "Interdire les écarts de salaire supérieurs à 1 à 20 dans une même entreprise",
+    "detail": "Mesure du programme des européennes 2024 de la liste PS-Place publique.",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/",
+      "libelle": "Toute l'Europe, « Élections européennes 2024 : le programme de Raphaël Glucksmann et de la liste PS/Place publique »",
+      "date": "2024-05-24"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-pouvoir-achat-2",
+    "perso": "glucksmann",
+    "sujet": "pouvoir-achat",
+    "intitule": "Réformer le marché européen de l'électricité pour des prix réglementés",
+    "detail": "Objectif du programme 2024 : des prix « réglementés, stables et raisonnables ».",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/",
+      "libelle": "Toute l'Europe, « Élections européennes 2024 : le programme de Raphaël Glucksmann et de la liste PS/Place publique »",
+      "date": "2024-05-24"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-pouvoir-achat-3",
+    "perso": "glucksmann",
+    "sujet": "pouvoir-achat",
+    "intitule": "Créer une allocation d'autonomie pour les 15-25 ans",
+    "detail": "Mesure du programme européen 2024 de la liste conduite par Raphaël Glucksmann.",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/",
+      "libelle": "Toute l'Europe, « Élections européennes 2024 : le programme de Raphaël Glucksmann et de la liste PS/Place publique »",
+      "date": "2024-05-24"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-pouvoir-achat-u",
+    "perso": "glucksmann",
+    "sujet": "pouvoir-achat",
+    "intitule": "Baisser la CSG sur les salaires pour augmenter le salaire net",
+    "detail": "Proposition défendue pendant la primaire socialiste, critiquée par ses concurrents ; pas de chiffrage publié.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.france24.com/fr/france/20261011-rapha%C3%ABl-glucksmann-officiellement-candidat-un-cap-clair-et-des-zones-d-ombre",
+      "libelle": "France 24, « Raphaël Glucksmann officiellement candidat du PS, un \"cap clair\" et des zones d'ombre »",
+      "date": "2026-10-11"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-immigration-1",
+    "perso": "glucksmann",
+    "sujet": "immigration",
+    "intitule": "Relancer les opérations européennes de sauvetage en Méditerranée",
+    "detail": "Mesure du programme des européennes 2024.",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/",
+      "libelle": "Toute l'Europe, « Élections européennes 2024 : le programme de Raphaël Glucksmann et de la liste PS/Place publique »",
+      "date": "2024-05-24"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-immigration-2",
+    "perso": "glucksmann",
+    "sujet": "immigration",
+    "intitule": "Mettre fin aux accords d'externalisation migratoire avec des pays tiers",
+    "detail": "Mesure du programme des européennes 2024.",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/",
+      "libelle": "Toute l'Europe, « Élections européennes 2024 : le programme de Raphaël Glucksmann et de la liste PS/Place publique »",
+      "date": "2024-05-24"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-immigration-3",
+    "perso": "glucksmann",
+    "sujet": "immigration",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "glucksmann-immigration-u",
+    "perso": "glucksmann",
+    "sujet": "immigration",
+    "intitule": "Confier l'immigration à une convention citoyenne tirée au sort",
+    "detail": "Ses propositions deviendraient des lois votées par le Parlement : « nous l'assumerons », écrit-il à propos du débat migratoire.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "libelle": "LCP, « Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme » (livre « Nous avons encore envie »)",
+      "date": "2026-05-26"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-ecologie-1",
+    "perso": "glucksmann",
+    "sujet": "ecologie",
+    "intitule": "Atteindre 45 % de renouvelables en 2030 et 75 % en 2040 dans l'UE",
+    "detail": "Objectif du « Pacte vert phase 2 » porté aux européennes de 2024.",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/",
+      "libelle": "Toute l'Europe, « Élections européennes 2024 : le programme de Raphaël Glucksmann et de la liste PS/Place publique »",
+      "date": "2024-05-24"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-ecologie-2",
+    "perso": "glucksmann",
+    "sujet": "ecologie",
+    "intitule": "Créer un « ticket climat » pour rendre le train moins cher",
+    "detail": "Il pourrait être financé par une taxe sur le kérosène des avions.",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/",
+      "libelle": "Toute l'Europe, « Élections européennes 2024 : le programme de Raphaël Glucksmann et de la liste PS/Place publique »",
+      "date": "2024-05-24"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-ecologie-3",
+    "perso": "glucksmann",
+    "sujet": "ecologie",
+    "intitule": "Rénover toutes les écoles européennes d'ici 2030",
+    "detail": "Volet du grand plan de rénovation des bâtiments du programme européen 2024.",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/",
+      "libelle": "Toute l'Europe, « Élections européennes 2024 : le programme de Raphaël Glucksmann et de la liste PS/Place publique »",
+      "date": "2024-05-24"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-ecologie-u",
+    "perso": "glucksmann",
+    "sujet": "ecologie",
+    "intitule": "Sortir du charbon en 2030, du gaz fossile en 2035 et du pétrole en 2045",
+    "detail": "Le nucléaire est conservé comme énergie de « transition » dans ce programme européen de 2024.",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/",
+      "libelle": "Toute l'Europe, « Élections européennes 2024 : le programme de Raphaël Glucksmann et de la liste PS/Place publique »",
+      "date": "2024-05-24"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-sante-1",
+    "perso": "glucksmann",
+    "sujet": "sante",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "glucksmann-sante-2",
+    "perso": "glucksmann",
+    "sujet": "sante",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "glucksmann-sante-3",
+    "perso": "glucksmann",
+    "sujet": "sante",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "glucksmann-sante-u",
+    "perso": "glucksmann",
+    "sujet": "sante",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "glucksmann-securite-1",
+    "perso": "glucksmann",
+    "sujet": "securite",
+    "intitule": "Cibler le blanchiment de l'argent de la drogue, notamment via les cryptomonnaies",
+    "detail": "Pour lutter contre le narcotrafic, il vise les « cryptomonnaies, qui servent à laver l'argent des trafiquants ».",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/narcotrafic-raphael-glucksmann-defend-une-politique-sans-naivete-aucune-sur-la-securite",
+      "libelle": "Public Sénat, « Narcotrafic : Raphaël Glucksmann défend \"une politique sans naïveté aucune sur la sécurité\" »",
+      "date": "2025-11-19"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-securite-2",
+    "perso": "glucksmann",
+    "sujet": "securite",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "glucksmann-securite-3",
+    "perso": "glucksmann",
+    "sujet": "securite",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "glucksmann-securite-u",
+    "perso": "glucksmann",
+    "sujet": "securite",
+    "intitule": "Confier aux maires l'armement de la police municipale et la vidéosurveillance",
+    "detail": "Il veut « faire confiance aux maires », avec un usage de la vidéosurveillance « encadré par la loi ».",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/narcotrafic-raphael-glucksmann-defend-une-politique-sans-naivete-aucune-sur-la-securite",
+      "libelle": "Public Sénat, « Narcotrafic : Raphaël Glucksmann défend \"une politique sans naïveté aucune sur la sécurité\" »",
+      "date": "2025-11-19"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-europe-1",
+    "perso": "glucksmann",
+    "sujet": "europe",
+    "intitule": "Utiliser les 206 milliards d'euros d'avoirs russes gelés pour l'Ukraine",
+    "detail": "Il s'agit de mobiliser le capital et pas seulement les intérêts ; position réaffirmée pendant la primaire de 2026.",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/",
+      "libelle": "Toute l'Europe, « Élections européennes 2024 : le programme de Raphaël Glucksmann et de la liste PS/Place publique »",
+      "date": "2024-05-24"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-europe-2",
+    "perso": "glucksmann",
+    "sujet": "europe",
+    "intitule": "Créer un fonds européen de défense de 100 milliards d'euros",
+    "detail": "Destiné aux industries de défense, éventuellement financé par un nouvel emprunt commun européen.",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/",
+      "libelle": "Toute l'Europe, « Élections européennes 2024 : le programme de Raphaël Glucksmann et de la liste PS/Place publique »",
+      "date": "2024-05-24"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-europe-3",
+    "perso": "glucksmann",
+    "sujet": "europe",
+    "intitule": "Adopter un « Buy European Act » (défense, transition verte, numérique)",
+    "detail": "Priorité aux producteurs européens dans les marchés et aides publics.",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/",
+      "libelle": "Toute l'Europe, « Élections européennes 2024 : le programme de Raphaël Glucksmann et de la liste PS/Place publique »",
+      "date": "2024-05-24"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "glucksmann-europe-u",
+    "perso": "glucksmann",
+    "sujet": "europe",
+    "intitule": "Supprimer le droit de veto des États membres au Conseil de l'UE",
+    "detail": "Fin de l'unanimité (politique étrangère, défense, fiscalité), déjà au programme 2024 et repris dans son livre de 2026.",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/",
+      "libelle": "Toute l'Europe, « Élections européennes 2024 : le programme de Raphaël Glucksmann et de la liste PS/Place publique »",
+      "date": "2024-05-24"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  }
+]

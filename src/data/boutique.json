@@ -1,0 +1,14 @@
+{
+  "_note": "Version 1 : achats simulés (mode démo). Voir src/lib/paiement.ts pour brancher Stripe plus tard.",
+  "offresDuJour": [
+    { "id": "offre-argent", "type": "urne", "urne": "urne-argent", "prix": { "paluches": 300 }, "libelle": "Urne en argent à prix cassé" },
+    { "id": "offre-or", "type": "urne", "urne": "urne-or", "prix": { "paluches": 950 }, "libelle": "Urne en or en promo" },
+    { "id": "offre-bois-x3", "type": "lot", "urne": "urne-bois", "quantite": 3, "prix": { "paluches": 250 }, "libelle": "3 urnes en bois" }
+  ],
+  "sachets": [
+    { "id": "sachet-petit", "nom": "Poignée de Parrainages", "quantite": 80, "prixAffiche": "1,99 €" },
+    { "id": "sachet-moyen", "nom": "Liasse de Parrainages", "quantite": 500, "prixAffiche": "9,99 €" },
+    { "id": "sachet-grand", "nom": "Carton de Parrainages", "quantite": 1200, "prixAffiche": "19,99 €" },
+    { "id": "sachet-geant", "nom": "Camion de Parrainages", "quantite": 2800, "prixAffiche": "39,99 €" }
+  ]
+}

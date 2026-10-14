@@ -1,0 +1,215 @@
+{
+  "id": "tondelier",
+  "nom": "Marine Tondelier",
+  "parti": "Les Écologistes",
+  "statut": "declare",
+  "statut_note": "Candidate déclarée depuis le 22 octobre 2025 ; la primaire unitaire de la gauche ayant été abandonnée, elle reste la candidate des Écologistes jusqu'au vote des adhérents du 10 au 13 décembre 2026 entre sa candidature et un ralliement (Public Sénat, 21/09/2026).",
+  "verifie_le": "2026-10-14",
+  "surnom": "La veste verte",
+  "couleur": "#2E9B48",
+  "entree": {
+    "replique": "Cette interview est ma déclaration officielle de candidature à l'élection présidentielle",
+    "contexte": "Annonce de sa candidature à la présidentielle 2027 dans un entretien au Nouvel Obs.",
+    "date": "2025-10-22",
+    "source": {
+      "url": "https://www.brut.media/fr/articles/france/politique/marine-tondelier-la-patronne-des-ecologistes-officiellement-candidate-a-la-presidentielle-de-2027",
+      "libelle": "Brut, « Marine Tondelier, la patronne des Écologistes, officiellement candidate à la présidentielle de 2027 »"
+    }
+  },
+  "arguments": {
+    "education": [
+      {
+        "id": "tondelier-education-1",
+        "nom": "Profs + 15 %",
+        "bulle": "+15 % pour les profs",
+        "puissance": 14,
+        "mesure": "tondelier-education-1"
+      },
+      {
+        "id": "tondelier-education-2",
+        "nom": "AESH en catégorie B",
+        "bulle": "Un vrai statut pour les AESH",
+        "puissance": 16,
+        "mesure": "tondelier-education-2"
+      },
+      {
+        "id": "tondelier-education-3",
+        "nom": "Écoles refuges climatiques",
+        "bulle": "Des écoles au frais l'été",
+        "puissance": 18,
+        "mesure": "tondelier-education-3"
+      }
+    ],
+    "retraites": [
+
+    ],
+    "pouvoir-achat": [
+      {
+        "id": "tondelier-pouvoir-achat-1",
+        "nom": "ISF climatique",
+        "bulle": "Un ISF qui taxe le CO2",
+        "puissance": 14,
+        "mesure": "tondelier-pouvoir-achat-1"
+      },
+      {
+        "id": "tondelier-pouvoir-achat-2",
+        "nom": "Train moins cher",
+        "bulle": "Le train moins cher que l'avion",
+        "puissance": 16,
+        "mesure": "tondelier-pouvoir-achat-2"
+      },
+      {
+        "id": "tondelier-pouvoir-achat-3",
+        "nom": "Congé climatique",
+        "bulle": "5 jours off quand il fait trop chaud",
+        "puissance": 18,
+        "mesure": "tondelier-pouvoir-achat-3"
+      }
+    ],
+    "immigration": [
+      {
+        "id": "tondelier-immigration-1",
+        "nom": "Droit du sol à Mayotte",
+        "bulle": "Le droit du sol reste à Mayotte",
+        "puissance": 14,
+        "mesure": "tondelier-immigration-1"
+      }
+    ],
+    "ecologie": [
+      {
+        "id": "tondelier-ecologie-1",
+        "nom": "Prêt vert à taux zéro",
+        "bulle": "Taux zéro pour les renouvelables",
+        "puissance": 14,
+        "mesure": "tondelier-ecologie-1"
+      },
+      {
+        "id": "tondelier-ecologie-2",
+        "nom": "10 000 communautés énergétiques",
+        "bulle": "10 000 coopératives d'énergie",
+        "puissance": 16,
+        "mesure": "tondelier-ecologie-2"
+      },
+      {
+        "id": "tondelier-ecologie-3",
+        "nom": "Sortie des pesticides",
+        "bulle": "Zéro pesticide de synthèse en 2050",
+        "puissance": 18,
+        "mesure": "tondelier-ecologie-3"
+      }
+    ],
+    "sante": [
+      {
+        "id": "tondelier-sante-1",
+        "nom": "Pubs malbouffe interdites",
+        "bulle": "Pas de pub malbouffe avant 21 h",
+        "puissance": 14,
+        "mesure": "tondelier-sante-1"
+      },
+      {
+        "id": "tondelier-sante-2",
+        "nom": "Stop aux PFAS",
+        "bulle": "Les polluants éternels bannis",
+        "puissance": 16,
+        "mesure": "tondelier-sante-2"
+      },
+      {
+        "id": "tondelier-sante-3",
+        "nom": "Stratégie 300/30/3",
+        "bulle": "3 arbres sous chaque fenêtre",
+        "puissance": 18,
+        "mesure": "tondelier-sante-3"
+      }
+    ],
+    "securite": [
+      {
+        "id": "tondelier-securite-1",
+        "nom": "Récépissé de contrôle",
+        "bulle": "Un reçu à chaque contrôle",
+        "puissance": 14,
+        "mesure": "tondelier-securite-1"
+      },
+      {
+        "id": "tondelier-securite-2",
+        "nom": "Réformer la loi de 2017",
+        "bulle": "Revoir la loi sur les tirs",
+        "puissance": 16,
+        "mesure": "tondelier-securite-2"
+      },
+      {
+        "id": "tondelier-securite-3",
+        "nom": "Justice indépendante",
+        "bulle": "Une justice vraiment indépendante",
+        "puissance": 18,
+        "mesure": "tondelier-securite-3"
+      }
+    ],
+    "europe": [
+      {
+        "id": "tondelier-europe-1",
+        "nom": "Garanties pour l'Ukraine",
+        "bulle": "L'Europe garante de la paix",
+        "puissance": 14,
+        "mesure": "tondelier-europe-1"
+      }
+    ]
+  },
+  "ultimes": {
+    "education": {
+      "id": "tondelier-education-u",
+      "nom": "19 élèves par classe",
+      "bulle": "19 élèves par classe, max",
+      "puissance": 32,
+      "mesure": "tondelier-education-u"
+    },
+    "retraites": {
+      "id": "tondelier-retraites-u",
+      "nom": "62 ans, 60 si usé",
+      "bulle": "60 ans pour les métiers durs",
+      "puissance": 32,
+      "mesure": "tondelier-retraites-u"
+    },
+    "pouvoir-achat": {
+      "id": "tondelier-pouvoir-achat-u",
+      "nom": "Hausse du SMIC",
+      "bulle": "Le SMIC augmente, les salaires suivent",
+      "puissance": 32,
+      "mesure": "tondelier-pouvoir-achat-u"
+    },
+    "immigration": {
+      "id": "tondelier-immigration-u",
+      "nom": "Régularisation des travailleurs",
+      "bulle": "Qui travaille ici a des papiers",
+      "puissance": 32,
+      "mesure": "tondelier-immigration-u"
+    },
+    "ecologie": {
+      "id": "tondelier-ecologie-u",
+      "nom": "100 % renouvelable",
+      "bulle": "Cap sur le 100 % renouvelable",
+      "puissance": 32,
+      "mesure": "tondelier-ecologie-u"
+    },
+    "sante": {
+      "id": "tondelier-sante-u",
+      "nom": "Cantines sans ultra-transformés",
+      "bulle": "Cantines sans ultra-transformés",
+      "puissance": 32,
+      "mesure": "tondelier-sante-u"
+    },
+    "securite": {
+      "id": "tondelier-securite-u",
+      "nom": "Police de proximité",
+      "bulle": "Le retour de la police de quartier",
+      "puissance": 32,
+      "mesure": "tondelier-securite-u"
+    },
+    "europe": {
+      "id": "tondelier-europe-u",
+      "nom": "Conseil militaire européen",
+      "bulle": "Une défense pilotée par l'Europe",
+      "puissance": 32,
+      "mesure": "tondelier-europe-u"
+    }
+  }
+}

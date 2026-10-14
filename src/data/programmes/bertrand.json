@@ -1,0 +1,462 @@
+[
+  {
+    "id": "bertrand-education-1",
+    "perso": "bertrand",
+    "sujet": "education",
+    "intitule": "Retirer de l'école les élèves auteurs d'actes antisémites",
+    "detail": "Sur France Inter le 5 novembre 2023, il propose de les placer dans des structures d'encadrement comme l'EPIDE ou des centres éducatifs fermés.",
+    "millesime": 2023,
+    "source": {
+      "url": "https://fr.timesofisrael.com/xavier-bertrand-propose-de-retirer-des-ecoles-les-jeunes-radicalises-et-antisemites/",
+      "libelle": "The Times of Israël (éd. française), « Xavier Bertrand propose de retirer des écoles les jeunes radicalisés et antisémites » (entretien France Inter du 5/11/2023)",
+      "date": "2023-11-07"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-education-2",
+    "perso": "bertrand",
+    "sujet": "education",
+    "intitule": "Expérimenter une tenue unique dans des lycées professionnels",
+    "detail": "Comme président de région, il lance en 2024 une tenue unique dans deux lycées professionnels, financée par la Région avec 50 % de l'État.",
+    "millesime": 2024,
+    "source": {
+      "url": "https://generation.hautsdefrance.fr/crepy-en-valois-xavier-bertrand-remet-la-tenue-unique-aux-eleves/",
+      "libelle": "Région Hauts-de-France, « Crépy-en-Valois : Xavier Bertrand remet la tenue unique aux élèves »",
+      "date": "2024-09-02"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-education-3",
+    "perso": "bertrand",
+    "sujet": "education",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "bertrand-education-u",
+    "perso": "bertrand",
+    "sujet": "education",
+    "intitule": "Confier aux territoires la mise en œuvre de la politique éducative",
+    "detail": "Dans sa « révolution par les territoires », l'État fixe les grands objectifs de l'éducation et les acteurs locaux les mettent en œuvre.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://infos-dijon.com/news/vie-locale/vie-locale/presidentielle-le-grand-oral-du-parti-radical-1791756000.html",
+      "libelle": "Infos Dijon, « Présidentielle : le grand oral du Parti radical » (université de rentrée, Dijon)",
+      "date": "2026-10-12"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-retraites-1",
+    "perso": "bertrand",
+    "sujet": "retraites",
+    "intitule": "Développer la retraite par capitalisation en complément de la répartition",
+    "detail": "En 2026, il fait partie des candidats de droite et du centre favorables à l'introduction de la capitalisation.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.journaldunet.com/business/action-publique/1553921-propositions-de-capitalisation-pour-la-retraite-dans-la-campagne-presidentielle-2027/",
+      "libelle": "Journal du Net, « La retraite par capitalisation a le vent en poupe dans la campagne présidentielle 2027 »",
+      "date": "2026-08-21"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-retraites-2",
+    "perso": "bertrand",
+    "sujet": "retraites",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "bertrand-retraites-3",
+    "perso": "bertrand",
+    "sujet": "retraites",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "bertrand-retraites-u",
+    "perso": "bertrand",
+    "sujet": "retraites",
+    "intitule": "Porter progressivement l'âge de départ à 64 ans, sauf pour les métiers usants",
+    "detail": "En octobre 2021, il propose « deux années de travail en plus » d'ici la fin de la décennie, mais « pas pour ceux qui sont usés par le boulot ».",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.connaissancedesenergies.org/afp/election-presidentielle-xavier-bertrand-tacle-tout-va-ses-reflexions-sur-lenergie-211004",
+      "libelle": "Connaissance des Énergies / AFP, « Élection présidentielle : Xavier Bertrand tacle le tout-va… » (entretien franceinfo)",
+      "date": "2021-10-04"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-pouvoir-achat-1",
+    "perso": "bertrand",
+    "sujet": "pouvoir-achat",
+    "intitule": "Défiscaliser et désocialiser les heures travaillées au-delà de 35 heures",
+    "detail": "Les heures au-delà de 35 heures seraient exonérées d'impôt sur le revenu et de cotisations, comme en 2007.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.nousfrance.fr/2021/10/pour-une-societe-du-travail/",
+      "libelle": "Nous France (site de Xavier Bertrand), « Pour une société du travail » (discours de Saint-Denis)",
+      "date": "2021-10-02"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-pouvoir-achat-2",
+    "perso": "bertrand",
+    "sujet": "pouvoir-achat",
+    "intitule": "Conditionner les dividendes au partage de la valeur avec les salariés",
+    "detail": "Dans les entreprises de plus de 250 salariés, pas de dividendes sans participation, intéressement ou actions gratuites pour les salariés.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.nousfrance.fr/2021/10/pour-une-societe-du-travail/",
+      "libelle": "Nous France (site de Xavier Bertrand), « Pour une société du travail » (discours de Saint-Denis)",
+      "date": "2021-10-02"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-pouvoir-achat-3",
+    "perso": "bertrand",
+    "sujet": "pouvoir-achat",
+    "intitule": "Permettre aux salariés de revendre une semaine de congés payés",
+    "detail": "Les salariés pourraient revendre à leur employeur une semaine de congés payés et une partie de leurs RTT.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.nousfrance.fr/2021/10/pour-une-societe-du-travail/",
+      "libelle": "Nous France (site de Xavier Bertrand), « Pour une société du travail » (discours de Saint-Denis)",
+      "date": "2021-10-02"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-pouvoir-achat-u",
+    "perso": "bertrand",
+    "sujet": "pouvoir-achat",
+    "intitule": "Créer une « prime au travail » : au moins 1 500 € net pour tout temps plein",
+    "detail": "Prime versée sur la fiche de paie aux salariés gagnant moins de 2 000 € net, coût estimé à 5 Md€ par an.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.nousfrance.fr/2021/10/pour-une-societe-du-travail/",
+      "libelle": "Nous France (site de Xavier Bertrand), « Pour une société du travail » (discours de Saint-Denis)",
+      "date": "2021-10-02"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-immigration-1",
+    "perso": "bertrand",
+    "sujet": "immigration",
+    "intitule": "Diviser par trois l'immigration familiale d'ici 2027",
+    "detail": "Regroupement familial remplacé par une procédure unique, avec un « passeport républicain » (examen de langue et de valeurs).",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.nousfrance.fr/2021/11/immigration-reprenons-le-controle/",
+      "libelle": "Nous France (site de Xavier Bertrand), « Immigration : reprenons le contrôle » (propositions présentées près de Calais)",
+      "date": "2021-11-04"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-immigration-2",
+    "perso": "bertrand",
+    "sujet": "immigration",
+    "intitule": "Ne plus régulariser aucun étranger entré illégalement en France",
+    "detail": "Fin du système de régularisation actuel et abrogation de la circulaire de novembre 2012.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.nousfrance.fr/2021/11/immigration-reprenons-le-controle/",
+      "libelle": "Nous France (site de Xavier Bertrand), « Immigration : reprenons le contrôle » (propositions présentées près de Calais)",
+      "date": "2021-11-04"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-immigration-3",
+    "perso": "bertrand",
+    "sujet": "immigration",
+    "intitule": "Créer 3 000 places de rétention supplémentaires près des aéroports",
+    "detail": "Places de rétention administrative créées pendant le quinquennat pour faciliter les éloignements.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.nousfrance.fr/2021/11/immigration-reprenons-le-controle/",
+      "libelle": "Nous France (site de Xavier Bertrand), « Immigration : reprenons le contrôle » (propositions présentées près de Calais)",
+      "date": "2021-11-04"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-immigration-u",
+    "perso": "bertrand",
+    "sujet": "immigration",
+    "intitule": "Instaurer des quotas annuels d'immigration via une révision constitutionnelle",
+    "detail": "Quotas annuels par catégorie (hors asile), après une révision de la Constitution par référendum prévue à l'automne 2022.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.nousfrance.fr/2021/11/immigration-reprenons-le-controle/",
+      "libelle": "Nous France (site de Xavier Bertrand), « Immigration : reprenons le contrôle » (propositions présentées près de Calais)",
+      "date": "2021-11-04"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-ecologie-1",
+    "perso": "bertrand",
+    "sujet": "ecologie",
+    "intitule": "Changer la loi pour ne plus imposer de projets éoliens",
+    "detail": "En avril 2021, il veut « changer les textes car on ne peut plus imposer des projets éoliens comme aujourd'hui ».",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.linfodurable.fr/2022-xavier-bertrand-defend-le-nucleaire-energie-davenir-25206",
+      "libelle": "L'Info Durable / AFP, « 2022 : Xavier Bertrand défend le nucléaire, “énergie d'avenir” »",
+      "date": "2021-04-18"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-ecologie-2",
+    "perso": "bertrand",
+    "sujet": "ecologie",
+    "intitule": "Supprimer le plafonnement du nucléaire à 50 % de l'électricité",
+    "detail": "En octobre 2021, il veut revenir sur les textes plafonnant la part du nucléaire pour garder l'indépendance énergétique.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.connaissancedesenergies.org/afp/election-presidentielle-xavier-bertrand-tacle-tout-va-ses-reflexions-sur-lenergie-211004",
+      "libelle": "Connaissance des Énergies / AFP, « Élection présidentielle : Xavier Bertrand tacle le tout-va… » (entretien franceinfo)",
+      "date": "2021-10-04"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-ecologie-3",
+    "perso": "bertrand",
+    "sujet": "ecologie",
+    "intitule": "Mettre autant l'accent sur le photovoltaïque et les énergies marines",
+    "detail": "En avril 2021, il demande de donner au photovoltaïque et aux énergies marines la même priorité que l'éolien.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.linfodurable.fr/2022-xavier-bertrand-defend-le-nucleaire-energie-davenir-25206",
+      "libelle": "L'Info Durable / AFP, « 2022 : Xavier Bertrand défend le nucléaire, “énergie d'avenir” »",
+      "date": "2021-04-18"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-ecologie-u",
+    "perso": "bertrand",
+    "sujet": "ecologie",
+    "intitule": "Décider dès l'été 2022 la construction de nouveaux réacteurs nucléaires",
+    "detail": "« C'est dès l'été 2022 que je prendrai la décision de lancer de nouveaux réacteurs », déclare-t-il en avril 2021.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.linfodurable.fr/2022-xavier-bertrand-defend-le-nucleaire-energie-davenir-25206",
+      "libelle": "L'Info Durable / AFP, « 2022 : Xavier Bertrand défend le nucléaire, “énergie d'avenir” »",
+      "date": "2021-04-18"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-sante-1",
+    "perso": "bertrand",
+    "sujet": "sante",
+    "intitule": "Lancer un plan massif sur l'attractivité des métiers de l'hôpital",
+    "detail": "Il défend fin 2021 « un plan massif sur l'attractivité des métiers » hospitaliers.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.lequotidiendumedecin.fr/actus-medicales/politique-de-sante/xavier-bertrand-supprimer-laide-medicale-detat",
+      "libelle": "Le Quotidien du médecin, « Xavier Bertrand : “Supprimer l'aide médicale d'État” »",
+      "date": "2021-12-03"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-sante-2",
+    "perso": "bertrand",
+    "sujet": "sante",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "bertrand-sante-3",
+    "perso": "bertrand",
+    "sujet": "sante",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "bertrand-sante-u",
+    "perso": "bertrand",
+    "sujet": "sante",
+    "intitule": "Supprimer l'aide médicale d'État (AME)",
+    "detail": "Position titrée par Le Quotidien du médecin en décembre 2021 ; son programme immigration limitait l'AME des adultes aux soins urgents et vitaux.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.lequotidiendumedecin.fr/actus-medicales/politique-de-sante/xavier-bertrand-supprimer-laide-medicale-detat",
+      "libelle": "Le Quotidien du médecin, « Xavier Bertrand : “Supprimer l'aide médicale d'État” »",
+      "date": "2021-12-03"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-securite-1",
+    "perso": "bertrand",
+    "sujet": "securite",
+    "intitule": "Abaisser la majorité pénale à 15 ans",
+    "detail": "Proposition présentée à Saint-Quentin le 15 septembre 2021, avec des peines minimales pour les crimes et délits les plus graves.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/aisne/xavier-bertrand-a-saint-quentin-dans-l-aisne-pour-presenter-ses-propositions-sur-le-theme-de-la-securite-2251381.html",
+      "libelle": "France 3 Hauts-de-France, « Xavier Bertrand à Saint-Quentin pour présenter ses propositions sur le thème de la sécurité »",
+      "date": "2021-09-15"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-securite-2",
+    "perso": "bertrand",
+    "sujet": "securite",
+    "intitule": "Construire 20 000 places de prison supplémentaires",
+    "detail": "Présentée comme « une priorité nationale » dans son discours sécurité de septembre 2021.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/aisne/xavier-bertrand-a-saint-quentin-dans-l-aisne-pour-presenter-ses-propositions-sur-le-theme-de-la-securite-2251381.html",
+      "libelle": "France 3 Hauts-de-France, « Xavier Bertrand à Saint-Quentin pour présenter ses propositions sur le thème de la sécurité »",
+      "date": "2021-09-15"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-securite-3",
+    "perso": "bertrand",
+    "sujet": "securite",
+    "intitule": "Rétablir les courtes peines de prison, même inférieures à un mois",
+    "detail": "Il veut rétablir les courtes peines d'emprisonnement « même inférieures à un mois ».",
+    "millesime": 2021,
+    "source": {
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/aisne/xavier-bertrand-a-saint-quentin-dans-l-aisne-pour-presenter-ses-propositions-sur-le-theme-de-la-securite-2251381.html",
+      "libelle": "France 3 Hauts-de-France, « Xavier Bertrand à Saint-Quentin pour présenter ses propositions sur le thème de la sécurité »",
+      "date": "2021-09-15"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-securite-u",
+    "perso": "bertrand",
+    "sujet": "securite",
+    "intitule": "Prison automatique pour qui agresse policiers, gendarmes, pompiers ou maires",
+    "detail": "Il propose une peine plancher d'un an pour ces agressions : « la peine de prison doit être automatique ».",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.lessurligneurs.eu/pour-xavier-bertrand-lr-si-on-sen-prend-a-un-policier-a-un-gendarme-a-un-pompier-ou-un-maire-la-peine-de-prison-doit-etre-automatique/",
+      "libelle": "Les Surligneurs, « Pour Xavier Bertrand, si on s'en prend à un policier… la peine de prison doit être automatique » (propos sur franceinfo, 18/04/2021)",
+      "date": "2021-04-20"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-europe-1",
+    "perso": "bertrand",
+    "sujet": "europe",
+    "intitule": "Dénoncer les accords du Touquet avec le Royaume-Uni",
+    "detail": "En mai 2026, il demande de dénoncer ce traité de 2003 sur les contrôles à la frontière franco-britannique.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://lcp.fr/actualites/accords-du-touquet-la-manche-est-en-train-de-devenir-un-cimetiere-marin-a-ciel-ouvert",
+      "libelle": "LCP, « Accords du Touquet : “La Manche est en train de devenir un cimetière marin à ciel ouvert” »",
+      "date": "2026-05-07"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-europe-2",
+    "perso": "bertrand",
+    "sujet": "europe",
+    "intitule": "Livrer à l'Ukraine les armes promises et rétablir le rapport de force",
+    "detail": "En février 2024, il juge qu'il y a « une urgence absolue à rétablir le rapport de force avec la Russie de Poutine ».",
+    "millesime": 2024,
+    "source": {
+      "url": "https://www.boursorama.com/actualite-economique/actualites/guerre-en-ukraine-il-y-a-une-urgence-absolue-a-retablir-le-rapport-de-force-avec-la-russie-de-poutine-estime-xavier-bertrand-9b5d09bf36af035837e07e23287c55d6",
+      "libelle": "Boursorama (avec Media Services), « Guerre en Ukraine : “il y a une urgence absolue à rétablir le rapport de force avec la Russie de Poutine”, estime Xavier Bertrand » (franceinfo)",
+      "date": "2024-02-28"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-europe-3",
+    "perso": "bertrand",
+    "sujet": "europe",
+    "intitule": "Ne plus faire de l'agriculture une variable d'ajustement des traités commerciaux",
+    "detail": "En octobre 2021, il veut mieux protéger la production alimentaire dans les accords commerciaux internationaux.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.reussir.fr/xavier-bertrand-sur-agriculture-je-transcrirai-les-normes-europeennes-sans-une-virgule-de-plus",
+      "libelle": "Réussir, « Xavier Bertrand sur l'agriculture : je transcrirai les normes européennes sans une virgule de plus »",
+      "date": "2021-10-07"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-europe-u",
+    "perso": "bertrand",
+    "sujet": "europe",
+    "intitule": "Transposer les normes européennes sans surtransposition",
+    "detail": "Il s'engage à transposer les normes européennes « sans une virgule de plus » en droit français.",
+    "millesime": 2021,
+    "source": {
+      "url": "https://www.reussir.fr/xavier-bertrand-sur-agriculture-je-transcrirai-les-normes-europeennes-sans-une-virgule-de-plus",
+      "libelle": "Réussir, « Xavier Bertrand sur l'agriculture : je transcrirai les normes européennes sans une virgule de plus »",
+      "date": "2021-10-07"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  }
+]

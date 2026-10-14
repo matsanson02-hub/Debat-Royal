@@ -1,0 +1,14 @@
+[
+  { "id": "urne-bois", "nom": "Urne en bois", "prix": { "paluches": 100 }, "objets": 3, "couleur": "#a8743f",
+    "chances": { "commune": 0.80, "rare": 0.18, "epique": 0.02, "legendaire": 0 } },
+  { "id": "urne-argent", "nom": "Urne en argent", "prix": { "paluches": 400 }, "objets": 5, "couleur": "#c7d2e0",
+    "chances": { "commune": 0.60, "rare": 0.30, "epique": 0.09, "legendaire": 0.01 } },
+  { "id": "urne-or", "nom": "Urne en or", "prix": { "paluches": 1200, "parrainages": 60 }, "objets": 7, "garanti": "rare", "couleur": "#ffcc33",
+    "chances": { "commune": 0.40, "rare": 0.38, "epique": 0.18, "legendaire": 0.04 } },
+  { "id": "urne-royale", "nom": "Urne Royale", "prix": { "parrainages": 250 }, "objets": 8, "garanti": "legendaire", "couleur": "#b46cff",
+    "chances": { "commune": 0.20, "rare": 0.40, "epique": 0.28, "legendaire": 0.12 } },
+  { "id": "urne-depart-bois", "nom": "Urne de départ (bois)", "prix": {}, "objets": 3, "garanti": "rare", "couleur": "#a8743f", "cachee": true,
+    "chances": { "commune": 0.80, "rare": 0.18, "epique": 0.02, "legendaire": 0 } },
+  { "id": "urne-depart-argent", "nom": "Urne de départ (argent)", "prix": {}, "objets": 5, "garanti": "rare", "couleur": "#c7d2e0", "cachee": true,
+    "chances": { "commune": 0.60, "rare": 0.30, "epique": 0.09, "legendaire": 0.01 } }
+]

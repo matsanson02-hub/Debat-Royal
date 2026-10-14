@@ -1,0 +1,384 @@
+[
+  {
+    "id": "philippe-q-01",
+    "perso": "philippe",
+    "sujet": "education",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "De combien Philippe veut-il augmenter la rémunération moyenne des enseignants sur le quinquennat ?",
+    "choix": [
+      "5 %",
+      "10 %",
+      "20 %",
+      "50 %"
+    ],
+    "bonne": 2,
+    "explication": "Il propose +20 % sur le quinquennat pour atteindre au moins la moyenne européenne, notamment en milieu de carrière.",
+    "mesure": "philippe-education-u",
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-salaires-des-enseignants-sanctions-pour-les-parents-ce-que-propose",
+      "libelle": "LCP, « Salaires des enseignants, sanctions pour les parents… Ce que propose Édouard Philippe pour l'école »",
+      "date": "2026-08-24"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "philippe-q-02",
+    "perso": "philippe",
+    "sujet": "retraites",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quelle durée de cotisation Philippe vise-t-il, avec un départ à 65 ans ?",
+    "choix": [
+      "40 ans",
+      "42 ans",
+      "43 ans",
+      "45 ans"
+    ],
+    "bonne": 3,
+    "explication": "Il propose de porter progressivement l'âge de départ à 65 ans et la durée de cotisation à 45 ans en moins de dix ans.",
+    "mesure": "philippe-retraites-u",
+    "source": {
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "libelle": "Site de campagne « Avec Édouard 2027 », « Pour une France plus prospère »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "philippe-q-03",
+    "perso": "philippe",
+    "sujet": "pouvoir-achat",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quel montant pour l'allocation familiale unique proposée par Philippe dès le 1er enfant ?",
+    "choix": [
+      "350 €",
+      "150 €",
+      "500 €",
+      "1 000 €"
+    ],
+    "bonne": 0,
+    "explication": "Il propose une allocation familiale unique de 350 € dès le premier enfant, dégressive avec le revenu.",
+    "mesure": "philippe-pouvoir-achat-1",
+    "source": {
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "libelle": "Site de campagne « Avec Édouard 2027 », « Pour une France plus attentive à ses enfants »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "philippe-q-04",
+    "perso": "philippe",
+    "sujet": "immigration",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quel accord bilatéral de 1968 Philippe veut-il dénoncer ?",
+    "choix": [
+      "L'accord avec le Maroc",
+      "L'accord avec l'Algérie",
+      "L'accord avec la Tunisie",
+      "L'accord avec le Sénégal"
+    ],
+    "bonne": 1,
+    "explication": "Il propose de dénoncer l'accord franco-algérien de 1968 pour reprendre le contrôle des flux migratoires.",
+    "mesure": "philippe-immigration-1",
+    "source": {
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "libelle": "Site de campagne « Avec Édouard 2027 », « Pour une France plus sûre »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "philippe-q-05",
+    "perso": "philippe",
+    "sujet": "ecologie",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien d'EPR Philippe veut-il lancer en plus des 6 déjà prévus ?",
+    "choix": [
+      "2",
+      "4",
+      "14",
+      "8"
+    ],
+    "bonne": 3,
+    "explication": "Il propose de lancer 8 EPR supplémentaires en plus des 6 déjà prévus.",
+    "mesure": "philippe-ecologie-u",
+    "source": {
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "libelle": "Site de campagne « Avec Édouard 2027 », « Pour une France plus conquérante »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "philippe-q-06",
+    "perso": "philippe",
+    "sujet": "sante",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien de jours de carence Philippe veut-il pour tous les arrêts maladie ?",
+    "choix": [
+      "1 jour",
+      "3 jours",
+      "7 jours",
+      "Aucun"
+    ],
+    "bonne": 1,
+    "explication": "Il propose 3 jours de carence pour tout le monde, dans le privé comme dans le public.",
+    "mesure": "philippe-sante-u",
+    "source": {
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "libelle": "Site de campagne « Avec Édouard 2027 », « Pour une France plus prospère »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "philippe-q-07",
+    "perso": "philippe",
+    "sujet": "securite",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quel juge Philippe propose-t-il de supprimer ?",
+    "choix": [
+      "Le juge des enfants",
+      "Le juge d'instruction",
+      "Le juge d'application des peines",
+      "Le juge des libertés"
+    ],
+    "bonne": 2,
+    "explication": "Il veut supprimer le juge d'application des peines pour que ce qu'un juge a décidé ne soit pas défait par un autre.",
+    "mesure": "philippe-securite-u",
+    "source": {
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "libelle": "Site de campagne « Avec Édouard 2027 », « Pour une France plus sûre »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "philippe-q-08",
+    "perso": "philippe",
+    "sujet": "europe",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien de réservistes Philippe vise-t-il (contre 45 000 aujourd'hui) ?",
+    "choix": [
+      "60 000",
+      "100 000",
+      "250 000",
+      "1 million"
+    ],
+    "bonne": 2,
+    "explication": "Il propose de porter les réservistes de 45 000 à 250 000 et le service militaire volontaire de 3 000 à 50 000 places par an.",
+    "mesure": "philippe-europe-u",
+    "source": {
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "libelle": "Site de campagne « Avec Édouard 2027 », « Pour une France plus sûre »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "philippe-q-09",
+    "perso": "philippe",
+    "sujet": "retraites",
+    "categorie": "parcours",
+    "difficulte": 1,
+    "question": "De quand à quand Édouard Philippe a-t-il été Premier ministre ?",
+    "choix": [
+      "2012-2014",
+      "2017-2020",
+      "2020-2022",
+      "2014-2017"
+    ],
+    "bonne": 1,
+    "explication": "Il a été Premier ministre d'Emmanuel Macron du 15 mai 2017 au 3 juillet 2020.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Édouard_Philippe",
+      "libelle": "Wikipédia, Édouard Philippe",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "philippe-q-10",
+    "perso": "philippe",
+    "sujet": "ecologie",
+    "categorie": "parcours",
+    "difficulte": 1,
+    "question": "De quelle ville Édouard Philippe est-il maire ?",
+    "choix": [
+      "Rouen",
+      "Caen",
+      "Le Havre",
+      "Cherbourg"
+    ],
+    "bonne": 2,
+    "explication": "Il est maire du Havre (2010-2017, puis depuis 2020).",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Édouard_Philippe",
+      "libelle": "Wikipédia, Édouard Philippe",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "philippe-q-11",
+    "perso": "philippe",
+    "sujet": "europe",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Quand Édouard Philippe a-t-il fondé son parti Horizons ?",
+    "choix": [
+      "Octobre 2021",
+      "Mai 2017",
+      "Juillet 2020",
+      "Juin 2024"
+    ],
+    "bonne": 0,
+    "explication": "Horizons a été lancé le 9 octobre 2021 lors d'une réunion publique au Havre.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Édouard_Philippe",
+      "libelle": "Wikipédia, Édouard Philippe",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "philippe-q-12",
+    "perso": "philippe",
+    "sujet": "pouvoir-achat",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Avant de rejoindre Emmanuel Macron, à quel parti Philippe appartenait-il en 2015-2017 ?",
+    "choix": [
+      "Les Républicains",
+      "Le MoDem",
+      "Le Parti socialiste",
+      "L'UDI"
+    ],
+    "bonne": 0,
+    "explication": "Il a été membre de l'UMP (2002-2015) puis des Républicains (2015-2017).",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Édouard_Philippe",
+      "libelle": "Wikipédia, Édouard Philippe",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "philippe-q-13",
+    "perso": "philippe",
+    "sujet": "immigration",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "De 2012 à 2017, Édouard Philippe a été député de quel département ?",
+    "choix": [
+      "Calvados",
+      "Seine-Maritime",
+      "Eure",
+      "Paris"
+    ],
+    "bonne": 1,
+    "explication": "Il a été député de la 7e circonscription de la Seine-Maritime de 2012 à 2017.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Édouard_Philippe",
+      "libelle": "Wikipédia, Édouard Philippe",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "philippe-q-14",
+    "perso": "philippe",
+    "sujet": "securite",
+    "categorie": "culte",
+    "difficulte": 2,
+    "question": "Quelle limitation de vitesse sur les routes secondaires est associée à Philippe Premier ministre ?",
+    "choix": [
+      "70 km/h",
+      "90 km/h",
+      "80 km/h",
+      "110 km/h"
+    ],
+    "bonne": 2,
+    "explication": "Le passage de 90 à 80 km/h sur les routes secondaires, en 2018, est resté associé à son implication personnelle.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Édouard_Philippe",
+      "libelle": "Wikipédia, Édouard Philippe",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "philippe-q-15",
+    "perso": "philippe",
+    "sujet": "sante",
+    "categorie": "culte",
+    "difficulte": 2,
+    "question": "En février 2020, quel outil Philippe utilise-t-il pour faire adopter la réforme des retraites ?",
+    "choix": [
+      "Le référendum",
+      "Les ordonnances",
+      "Le vote bloqué",
+      "L'article 49.3"
+    ],
+    "bonne": 3,
+    "explication": "En février 2020, il engage la responsabilité de son gouvernement avec l'article 49.3 sur la réforme des retraites.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Édouard_Philippe",
+      "libelle": "Wikipédia, Édouard Philippe",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "philippe-q-16",
+    "perso": "philippe",
+    "sujet": "education",
+    "categorie": "culte",
+    "difficulte": 1,
+    "question": "Dans quel journal Philippe a-t-il annoncé sa candidature en septembre 2024 ?",
+    "choix": [
+      "Le Point",
+      "Le Figaro",
+      "Le Monde",
+      "Ouest-France"
+    ],
+    "bonne": 0,
+    "explication": "Il déclare dans Le Point, le 3 septembre 2024 : « Je serai candidat à la prochaine élection présidentielle ».",
+    "source": {
+      "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/je-serai-candidat-a-la-prochaine-election-presidentielle-edouard-philippe-l-ancien-premier-ministre-et-maire-du-havre-officialise-sa-candidature-3026366.html",
+      "libelle": "France 3 Normandie, annonce de candidature d'Édouard Philippe",
+      "date": "2024-09-03"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "philippe-q-17",
+    "perso": "philippe",
+    "sujet": "retraites",
+    "categorie": "culte",
+    "difficulte": 2,
+    "question": "Dans quelle émission de France 2 Philippe détaille-t-il son programme le 8 octobre 2026 ?",
+    "choix": [
+      "Quelle époque !",
+      "L'Heure de vérité",
+      "Envoyé spécial",
+      "Complément d'enquête"
+    ],
+    "bonne": 1,
+    "explication": "Invité de L'Heure de vérité sur France 2, il y défend la retraite à 65 ans et la baisse des dépenses publiques.",
+    "source": {
+      "url": "https://fr.euronews.com/2026/10/09/presidentielle-2027-edouard-philippe-mise-sur-le-travail-et-la-reduction-des-depenses-publ",
+      "libelle": "Euronews, « Présidentielle 2027 : Édouard Philippe mise sur le travail et la réduction des dépenses publiques »",
+      "date": "2026-10-09"
+    },
+    "statut": "ok"
+  }
+]

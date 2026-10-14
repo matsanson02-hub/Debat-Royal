@@ -1,0 +1,454 @@
+[
+  {
+    "id": "tondelier-education-1",
+    "perso": "tondelier",
+    "sujet": "education",
+    "intitule": "Augmenter de 15 % le salaire des enseignants sur le quinquennat",
+    "detail": "Hausse de 15 % sur cinq ans, en plus de l'inflation.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-que-proposent-les-candidats-pour-lecole",
+      "libelle": "Public Sénat, « Présidentielle 2027 : que proposent les candidats pour l'école ? »",
+      "date": "2026-08-31"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-education-2",
+    "perso": "tondelier",
+    "sujet": "education",
+    "intitule": "Créer un corps de catégorie B pour les AESH",
+    "detail": "Les accompagnants d'élèves en situation de handicap seraient intégrés dans un corps de catégorie B de la fonction publique.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-que-proposent-les-candidats-pour-lecole",
+      "libelle": "Public Sénat, « Présidentielle 2027 : que proposent les candidats pour l'école ? »",
+      "date": "2026-08-31"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-education-3",
+    "perso": "tondelier",
+    "sujet": "education",
+    "intitule": "Transformer les écoles en « refuges climatiques » avec 2 Md€ par an",
+    "detail": "2 milliards d'euros par an, principalement pour l'isolation des bâtiments scolaires.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-que-proposent-les-candidats-pour-lecole",
+      "libelle": "Public Sénat, « Présidentielle 2027 : que proposent les candidats pour l'école ? »",
+      "date": "2026-08-31"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-education-u",
+    "perso": "tondelier",
+    "sujet": "education",
+    "intitule": "Limiter les classes à 19 élèves d'ici 2032, et à 12 en REP et REP+",
+    "detail": "Objectif présenté à la rentrée 2026, avec la priorité absolue donnée à l'école primaire.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-que-proposent-les-candidats-pour-lecole",
+      "libelle": "Public Sénat, « Présidentielle 2027 : que proposent les candidats pour l'école ? »",
+      "date": "2026-08-31"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-retraites-1",
+    "perso": "tondelier",
+    "sujet": "retraites",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "tondelier-retraites-2",
+    "perso": "tondelier",
+    "sujet": "retraites",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "tondelier-retraites-3",
+    "perso": "tondelier",
+    "sujet": "retraites",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "tondelier-retraites-u",
+    "perso": "tondelier",
+    "sujet": "retraites",
+    "intitule": "Retraite à 62 ans, et à 60 ans pour carrières longues et métiers pénibles",
+    "detail": "Départ à 60 ans pour les salariés ayant commencé avant 20 ans ou exercé un métier pénible, à 62 ans pour les autres.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
+      "libelle": "LCP, « Présidentielle : que proposent les candidats à l'Élysée sur les retraites ? »",
+      "date": "2026-09-16"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-pouvoir-achat-1",
+    "perso": "tondelier",
+    "sujet": "pouvoir-achat",
+    "intitule": "Créer un « ISF climatique »",
+    "detail": "Mesure du programme 2027 des Écologistes présenté le 13 juillet 2026, dans une « fiscalité verte et juste ».",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.france24.com/fr/info-en-continu/20260713-2027-les-ecologistes-veulent-instaurer-la-premi%C3%A8re-r%C3%A9publique-%C3%A9cologique-et-citoyenne",
+      "libelle": "France 24 / AFP, « 2027 : les Écologistes veulent instaurer la “Première République écologique et citoyenne” »",
+      "date": "2026-07-13"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-pouvoir-achat-2",
+    "perso": "tondelier",
+    "sujet": "pouvoir-achat",
+    "intitule": "Baisser le prix du train et augmenter celui des billets d'avion",
+    "detail": "Le programme 2027 prévoit de rendre le train moins cher et l'avion plus cher via la réforme de la fiscalité des transports.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.france24.com/fr/info-en-continu/20260713-2027-les-ecologistes-veulent-instaurer-la-premi%C3%A8re-r%C3%A9publique-%C3%A9cologique-et-citoyenne",
+      "libelle": "France 24 / AFP, « 2027 : les Écologistes veulent instaurer la “Première République écologique et citoyenne” »",
+      "date": "2026-07-13"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-pouvoir-achat-3",
+    "perso": "tondelier",
+    "sujet": "pouvoir-achat",
+    "intitule": "Créer un congé climatique payé de cinq jours par an",
+    "detail": "Proposé début mai 2026 pour faire face aux vagues de chaleur.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.brut.media/fr/articles/france/politique/presidentielle-tondelier-devoile-ses-propositions-pour-la-sante-environnementale",
+      "libelle": "Brut, « Présidentielle : Tondelier dévoile ses propositions pour la santé environnementale »",
+      "date": "2026-06-02"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-pouvoir-achat-u",
+    "perso": "tondelier",
+    "sujet": "pouvoir-achat",
+    "intitule": "Augmenter le SMIC et indexer les bas salaires",
+    "detail": "Première des « 21 priorités » proposées aux partis de gauche le 17 avril 2026 (montant non précisé).",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.lagazettefrance.fr/article/presidentielle-tondelier-propose-un-socle-programmatique-aux-autres-partis-de-gauche",
+      "libelle": "La Gazette France / AFP, « Présidentielle : Tondelier propose un socle programmatique aux autres partis de gauche »",
+      "date": "2026-04-17"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-immigration-1",
+    "perso": "tondelier",
+    "sujet": "immigration",
+    "intitule": "Maintenir le droit du sol à Mayotte",
+    "detail": "En avril 2024, elle juge « infamante » la fin du droit du sol à Mayotte et appelle à la solidarité européenne.",
+    "millesime": 2024,
+    "source": {
+      "url": "https://marine-oceans.com/actualites/la-fin-du-droit-du-sol-a-mayotte-serait-infamante-juge-lecologiste-marine-tondelier/",
+      "libelle": "Marine & Océans / AFP, « La fin du droit du sol à Mayotte serait “infamante”, juge l'écologiste Marine Tondelier »",
+      "date": "2024-04-18"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-immigration-2",
+    "perso": "tondelier",
+    "sujet": "immigration",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "tondelier-immigration-3",
+    "perso": "tondelier",
+    "sujet": "immigration",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "tondelier-immigration-u",
+    "perso": "tondelier",
+    "sujet": "immigration",
+    "intitule": "Régulariser les travailleurs sans papiers",
+    "detail": "Mesure figurant parmi les « 21 priorités » communes proposées à la gauche le 17 avril 2026.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.lagazettefrance.fr/article/presidentielle-tondelier-propose-un-socle-programmatique-aux-autres-partis-de-gauche",
+      "libelle": "La Gazette France / AFP, « Présidentielle : Tondelier propose un socle programmatique aux autres partis de gauche »",
+      "date": "2026-04-17"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-ecologie-1",
+    "perso": "tondelier",
+    "sujet": "ecologie",
+    "intitule": "Prêt à taux zéro de la Caisse des dépôts pour 60 % des projets renouvelables",
+    "detail": "Prêt à taux zéro couvrant jusqu'à 60 % du coût des nouveaux projets d'énergies renouvelables.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.les-energies-renouvelables.eu/article/actualites/energies/tondelier-veut-atteindre-100-de-renouvelables-sans-nucleaire-1096/",
+      "libelle": "ECOinfos, « Tondelier : un mix 100 % renouvelable contre le nucléaire » (Entretiens de Terra Nova)",
+      "date": "2026-07-03"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-ecologie-2",
+    "perso": "tondelier",
+    "sujet": "ecologie",
+    "intitule": "Permettre 10 000 communautés citoyennes d'énergie renouvelable",
+    "detail": "Cadre juridique et financier pour développer 10 000 communautés énergétiques citoyennes.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.les-energies-renouvelables.eu/article/actualites/energies/tondelier-veut-atteindre-100-de-renouvelables-sans-nucleaire-1096/",
+      "libelle": "ECOinfos, « Tondelier : un mix 100 % renouvelable contre le nucléaire » (Entretiens de Terra Nova)",
+      "date": "2026-07-03"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-ecologie-3",
+    "perso": "tondelier",
+    "sujet": "ecologie",
+    "intitule": "Sortir progressivement des pesticides et engrais azotés de synthèse d'ici 2050",
+    "detail": "Via un nouveau pacte agricole et un fonds de transition vers l'agroécologie.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.brut.media/fr/articles/france/politique/presidentielle-tondelier-devoile-ses-propositions-pour-la-sante-environnementale",
+      "libelle": "Brut, « Présidentielle : Tondelier dévoile ses propositions pour la santé environnementale »",
+      "date": "2026-06-02"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-ecologie-u",
+    "perso": "tondelier",
+    "sujet": "ecologie",
+    "intitule": "Viser un mix électrique 100 % renouvelable à terme",
+    "detail": "Elle juge le nucléaire « trop lent et trop cher » et propose de déployer les renouvelables au plus vite.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.les-energies-renouvelables.eu/article/actualites/energies/tondelier-veut-atteindre-100-de-renouvelables-sans-nucleaire-1096/",
+      "libelle": "ECOinfos, « Tondelier : un mix 100 % renouvelable contre le nucléaire » (Entretiens de Terra Nova)",
+      "date": "2026-07-03"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-sante-1",
+    "perso": "tondelier",
+    "sujet": "sante",
+    "intitule": "Interdire la publicité TV pour les produits trop sucrés ou salés avant 21 h",
+    "detail": "Mesure du livret sur la santé environnementale présenté fin mai 2026.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.brut.media/fr/articles/france/politique/presidentielle-tondelier-devoile-ses-propositions-pour-la-sante-environnementale",
+      "libelle": "Brut, « Présidentielle : Tondelier dévoile ses propositions pour la santé environnementale »",
+      "date": "2026-06-02"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-sante-2",
+    "perso": "tondelier",
+    "sujet": "sante",
+    "intitule": "Interdire PFAS, perturbateurs endocriniens et CMR dans les produits courants",
+    "detail": "Interdiction visant l'alimentation, le textile, les produits sanitaires et les cosmétiques.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.brut.media/fr/articles/france/politique/presidentielle-tondelier-devoile-ses-propositions-pour-la-sante-environnementale",
+      "libelle": "Brut, « Présidentielle : Tondelier dévoile ses propositions pour la santé environnementale »",
+      "date": "2026-06-02"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-sante-3",
+    "perso": "tondelier",
+    "sujet": "sante",
+    "intitule": "Stratégie « 300/30/3 » d'accès à la nature",
+    "detail": "Un espace vert à moins de 300 m de chez soi, 30 % de couvert végétal, trois arbres visibles depuis son logement.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.brut.media/fr/articles/france/politique/presidentielle-tondelier-devoile-ses-propositions-pour-la-sante-environnementale",
+      "libelle": "Brut, « Présidentielle : Tondelier dévoile ses propositions pour la santé environnementale »",
+      "date": "2026-06-02"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-sante-u",
+    "perso": "tondelier",
+    "sujet": "sante",
+    "intitule": "Interdire les produits ultra-transformés dans les cantines scolaires",
+    "detail": "Mesure de son livret sur la santé environnementale, qu'elle présente comme « un droit fondamental du XXIe siècle ».",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.brut.media/fr/articles/france/politique/presidentielle-tondelier-devoile-ses-propositions-pour-la-sante-environnementale",
+      "libelle": "Brut, « Présidentielle : Tondelier dévoile ses propositions pour la santé environnementale »",
+      "date": "2026-06-02"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-securite-1",
+    "perso": "tondelier",
+    "sujet": "securite",
+    "intitule": "Instaurer un récépissé lors des contrôles d'identité",
+    "detail": "En juillet 2023, elle soutient cette demande des associations pour encadrer les contrôles.",
+    "millesime": 2023,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/societe/il-y-a-un-probleme-systemique-dans-la-police-declare-lecologiste-marine-tondelier",
+      "libelle": "Public Sénat, « “Il y a un problème systémique dans la police”, déclare l'écologiste Marine Tondelier »",
+      "date": "2023-07-03"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-securite-2",
+    "perso": "tondelier",
+    "sujet": "securite",
+    "intitule": "Modifier la loi de 2017 sur l'usage des armes par les policiers",
+    "detail": "En juillet 2023, elle estime que cette loi, notamment sur les refus d'obtempérer, « va devoir changer ».",
+    "millesime": 2023,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/societe/il-y-a-un-probleme-systemique-dans-la-police-declare-lecologiste-marine-tondelier",
+      "libelle": "Public Sénat, « “Il y a un problème systémique dans la police”, déclare l'écologiste Marine Tondelier »",
+      "date": "2023-07-03"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-securite-3",
+    "perso": "tondelier",
+    "sujet": "securite",
+    "intitule": "Inscrire l'indépendance de la justice dans la Constitution",
+    "detail": "Mesure de la « Première République écologique et citoyenne » du programme 2027 des Écologistes.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.france24.com/fr/info-en-continu/20260713-2027-les-ecologistes-veulent-instaurer-la-premi%C3%A8re-r%C3%A9publique-%C3%A9cologique-et-citoyenne",
+      "libelle": "France 24 / AFP, « 2027 : les Écologistes veulent instaurer la “Première République écologique et citoyenne” »",
+      "date": "2026-07-13"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-securite-u",
+    "perso": "tondelier",
+    "sujet": "securite",
+    "intitule": "Rétablir la police de proximité",
+    "detail": "Mesure figurant parmi les « 21 priorités » communes proposées à la gauche le 17 avril 2026.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.lagazettefrance.fr/article/presidentielle-tondelier-propose-un-socle-programmatique-aux-autres-partis-de-gauche",
+      "libelle": "La Gazette France / AFP, « Présidentielle : Tondelier propose un socle programmatique aux autres partis de gauche »",
+      "date": "2026-04-17"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-europe-1",
+    "perso": "tondelier",
+    "sujet": "europe",
+    "intitule": "Apporter des garanties de sécurité fortes à l'Ukraine",
+    "detail": "En mars 2025, elle demande que la France, l'Allemagne et l'Europe soient garantes d'une paix en Ukraine.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.franceinfo.fr/politique/guerre-en-ukraine-on-ne-peut-pas-faire-confiance-a-poutine-estime-marine-tondelier_7125150.html",
+      "libelle": "franceinfo, « Guerre en Ukraine : “On ne peut pas faire confiance à Poutine”, estime Marine Tondelier »",
+      "date": "2025-03-12"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "tondelier-europe-2",
+    "perso": "tondelier",
+    "sujet": "europe",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "tondelier-europe-3",
+    "perso": "tondelier",
+    "sujet": "europe",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "tondelier-europe-u",
+    "perso": "tondelier",
+    "sujet": "europe",
+    "intitule": "Créer un haut conseil militaire intégré rattaché au Conseil européen",
+    "detail": "Mesure du programme 2027 des Écologistes, dans la tradition fédéraliste européenne du parti.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.france24.com/fr/info-en-continu/20260713-2027-les-ecologistes-veulent-instaurer-la-premi%C3%A8re-r%C3%A9publique-%C3%A9cologique-et-citoyenne",
+      "libelle": "France 24 / AFP, « 2027 : les Écologistes veulent instaurer la “Première République écologique et citoyenne” »",
+      "date": "2026-07-13"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  }
+]

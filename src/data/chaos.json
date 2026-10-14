@@ -1,0 +1,193 @@
+[
+  { "id": "invasion", "nom": "Invasion du public", "type": "public", "rarete": "commune",
+    "description": "Les spectateurs descendent des gradins et traversent le plateau.",
+    "effets": [{ "type": "degats", "valeur": 30 }],
+    "scene": {
+      "acteurs": [
+        { "sprite": "svg:spectateur", "nombre": 18, "entree": "gradins", "trajet": "cible", "duree": 1.4, "delai": 0.5, "pancartes": ["Débat !", "Réponds !", "Encore !"] },
+        { "sprite": "svg:spectateur", "nombre": 16, "entree": "gradins", "trajet": "cible", "duree": 1.6, "delai": 0.7 }
+      ],
+      "effets": ["secousse@1.5"],
+      "moderateur": "Mesdames, messieurs, regagnez vos places !",
+      "public": "panique", "son": "foule" } },
+
+  { "id": "gilets-jaunes", "nom": "Révolution des gilets jaunes", "type": "public", "rarete": "legendaire",
+    "description": "Une foule en gilets jaunes occupe le plateau avec pancartes « RIC ! ».",
+    "effets": [{ "type": "degats", "valeur": 38 }, { "type": "tourPerdu" }],
+    "scene": {
+      "acteurs": [
+        { "sprite": "svg:gilet", "nombre": 24, "entree": "fond", "trajet": "ronde", "duree": 2.2, "pancartes": ["RIC !", "Plateau occupé", "RIC !"] },
+        { "sprite": "svg:gilet", "nombre": 10, "entree": "fond", "trajet": "cible", "duree": 1.4, "delai": 0.6, "pancartes": ["RIC !"] }
+      ],
+      "effets": ["secousse@1.2", "particules:fumee"],
+      "bandeau": "PLATEAU OCCUPÉ",
+      "moderateur": "Je… je crois qu'on va devoir faire une pause !",
+      "public": "scande", "son": "manif" } },
+
+  { "id": "feu", "nom": "Le plateau prend feu", "type": "public", "rarete": "rare",
+    "description": "Les décors s'enflamment, fumée, puis les extincteurs.",
+    "effets": [{ "type": "brulure", "valeur": 15, "tours": 2 }],
+    "scene": {
+      "acteurs": [{ "sprite": "svg:technicien", "nombre": 1, "entree": "gauche", "trajet": "centre", "duree": 1.2, "delai": 2.2 }],
+      "effets": ["particules:feu", "particules:fumee", "eclairage:orange", "alarme"],
+      "moderateur": "Restez calmes, les techniciens arrivent !",
+      "public": "panique", "son": "alarme" } },
+
+  { "id": "casserolade", "nom": "Casserolade", "type": "public", "rarete": "commune",
+    "description": "Le public tape sur des casseroles, vacarme, écran qui tremble.",
+    "effets": [{ "type": "chronoFixe", "secondes": 6, "questions": 2 }],
+    "scene": {
+      "acteurs": [{ "sprite": "svg:casserole", "nombre": 20, "entree": "gradins", "trajet": "lanceur", "duree": 0.6, "echelle": 0.6 }],
+      "effets": ["secousse@0.3", "secousse@1", "secousse@1.8", "particules:etincelles"],
+      "moderateur": "On ne s'entend plus !",
+      "public": "scande", "son": "casseroles" } },
+
+  { "id": "tracteurs", "nom": "Les tracteurs arrivent", "type": "public", "rarete": "rare",
+    "description": "Des agriculteurs entrent en tracteur et déchargent de la paille sur le plateau.",
+    "effets": [{ "type": "degats", "valeur": 25 }, { "type": "superMoins", "valeur": 1 }],
+    "scene": {
+      "acteurs": [
+        { "sprite": "svg:tracteur", "nombre": 2, "entree": "gauche", "trajet": "cible", "duree": 1.8, "echelle": 1.6 },
+        { "sprite": "svg:agriculteur", "nombre": 4, "entree": "gauche", "trajet": "cible", "duree": 1.6, "delai": 0.6 }
+      ],
+      "effets": ["particules:paille", "secousse@1.8"],
+      "moderateur": "Il y a… des tracteurs sur mon plateau.",
+      "public": "applaudit", "son": "tracteur" } },
+
+  { "id": "militants-climat", "nom": "Militants pour le climat", "type": "public", "rarete": "rare",
+    "description": "Des militants se collent au pupitre adverse avec une banderole.",
+    "effets": [{ "type": "argumentBloque", "tours": 2 }],
+    "scene": {
+      "acteurs": [{ "sprite": "svg:militant", "nombre": 5, "entree": "fond", "trajet": "cible", "duree": 1.4, "pancartes": ["Pas de planète B", "Climat !"] }],
+      "effets": ["bandeau-banderole"],
+      "bandeau": "PAS DE PLANÈTE B",
+      "moderateur": "Ils se sont collés au pupitre ! Quelqu'un a du dissolvant ?",
+      "public": "rit", "son": "slogan" } },
+
+  { "id": "greve", "nom": "Grève des techniciens", "type": "public", "rarete": "rare",
+    "description": "Lumières coupées, plateau dans le noir, lampes torches.",
+    "effets": [{ "type": "reponsesCachees", "ms": 3000, "questions": 2 }],
+    "scene": {
+      "acteurs": [{ "sprite": "svg:technicien", "nombre": 3, "entree": "fond", "trajet": "traverse", "duree": 2.4 }],
+      "effets": ["eclairage:noir", "lampes"],
+      "moderateur": "On a perdu la lumière… La régie ?",
+      "public": "panique", "son": "coupure" } },
+
+  { "id": "coupure-pub", "nom": "Coupure pub", "type": "public", "rarete": "commune",
+    "description": "La régie lance une fausse page de pub.",
+    "effets": [{ "type": "annuleUltime" }],
+    "scene": {
+      "acteurs": [],
+      "effets": ["ecran:pub", "flash"],
+      "bandeau": "PAGE DE PUBLICITÉ",
+      "moderateur": "On marque une courte pause… et on revient !",
+      "public": "rit", "son": "jingle" } },
+
+  { "id": "prompteur", "nom": "Panne de prompteur", "type": "public", "rarete": "commune",
+    "description": "Le prompteur grille, l'adversaire cherche ses notes.",
+    "effets": [{ "type": "chronoFixe", "secondes": 5, "questions": 1 }],
+    "scene": {
+      "acteurs": [{ "sprite": "svg:feuilles", "nombre": 12, "entree": "haut", "trajet": "tombe", "duree": 1.6, "echelle": 0.5 }],
+      "effets": ["particules:etincelles", "particules:papier"],
+      "moderateur": "Prenez votre temps… mais pas trop.",
+      "public": "rit", "son": "court-circuit" } },
+
+  { "id": "scande", "nom": "Le public scande ton nom", "type": "public", "rarete": "commune",
+    "description": "Tout le public se lève et applaudit ton camp.",
+    "effets": [{ "type": "soin", "valeur": 20 }, { "type": "superPlus", "valeur": 1 }],
+    "scene": {
+      "acteurs": [],
+      "effets": ["particules:confettis", "public-debout"],
+      "moderateur": "Le public est en feu ! Enfin… au sens figuré.",
+      "public": "scande", "son": "ovation" } },
+
+  { "id": "praud", "nom": "Pascal Praud débarque", "type": "intervenant", "rarete": "legendaire",
+    "description": "Pascal Praud entre en trombe, s'installe au milieu et coupe la parole à l'adversaire.",
+    "effets": [{ "type": "degats", "valeur": 25 }, { "type": "chronoReduit", "secondes": 4, "questions": 2 }],
+    "scene": {
+      "acteurs": [{ "sprite": "intervenants/praud.webp", "nom": "Pascal Praud", "nombre": 1, "entree": "droite", "trajet": "centre", "duree": 1.0, "echelle": 1.3 }],
+      "effets": ["secousse@1", "bulle-coupe"],
+      "bandeau": "PASCAL PRAUD — L'HEURE DES PROS",
+      "moderateur": "Pascal ? Mais… ce n'est pas votre émission !",
+      "public": "hue", "son": "entree-praud" } },
+
+  { "id": "mediapart", "nom": "Révélations de Mediapart", "type": "intervenant", "rarete": "legendaire",
+    "description": "Une une géante « Révélations » s'abat sur le pupitre adverse.",
+    "effets": [{ "type": "mediapart", "degats": 35 }],
+    "scene": {
+      "acteurs": [{ "sprite": "svg:une", "nom": "Mediapart", "nombre": 1, "entree": "haut", "trajet": "cible", "duree": 0.9, "echelle": 1.8 }],
+      "effets": ["ecran:gresille", "secousse@0.9", "particules:papier"],
+      "bandeau": "RÉVÉLATIONS",
+      "moderateur": "On m'apprend qu'il y a des révélations… Réponse sur votre propre programme !",
+      "public": "panique", "son": "impact" } },
+
+  { "id": "canard", "nom": "La fuite du Canard enchaîné", "type": "intervenant", "rarete": "rare",
+    "description": "Un canard traverse le plateau avec un document.",
+    "effets": [{ "type": "moitieDegats" }],
+    "scene": {
+      "acteurs": [{ "sprite": "svg:canard", "nom": "Le Canard enchaîné", "nombre": 1, "entree": "gauche", "trajet": "traverse", "duree": 2.4, "echelle": 1.1 }],
+      "effets": [],
+      "bandeau": "FUITE : LA PROCHAINE ATTAQUE ADVERSE EST CONNUE",
+      "moderateur": "Un canard… avec un document. Évidemment.",
+      "public": "rit", "son": "coin" } },
+
+  { "id": "bfmtv", "nom": "Alerte info BFMTV", "type": "intervenant", "rarete": "rare", "generalSeulement": true,
+    "description": "Bandeau rouge « Alerte info » qui défile, musique d'urgence.",
+    "effets": [{ "type": "changeSujet" }],
+    "scene": {
+      "acteurs": [],
+      "effets": ["eclairage:rouge", "ecran:alerte"],
+      "bandeau": "ALERTE INFO — BFMTV",
+      "moderateur": "On m'apprend qu'on change de sujet !",
+      "public": "panique", "son": "alerte" } },
+
+  { "id": "quotidien", "nom": "Le Quotidien de Yann Barthès", "type": "intervenant", "rarete": "rare",
+    "description": "L'écran du plateau diffuse un zapping de ton meilleur coup.",
+    "effets": [{ "type": "rejoueDouble" }],
+    "scene": {
+      "acteurs": [],
+      "effets": ["ecran:zapping", "flash"],
+      "bandeau": "QUOTIDIEN — LE ZAPPING",
+      "moderateur": "On revoit l'action au ralenti ?",
+      "public": "rit", "son": "zapping" } },
+
+  { "id": "hanouna", "nom": "Cyril Hanouna transforme le plateau", "type": "intervenant", "rarete": "legendaire",
+    "description": "Lumières disco, le plateau devient un plateau de divertissement.",
+    "effets": [{ "type": "tourEclair", "secondes": 5, "multiplicateur": 1.5 }],
+    "scene": {
+      "acteurs": [{ "sprite": "intervenants/hanouna.webp", "nom": "Cyril Hanouna", "nombre": 1, "entree": "droite", "trajet": "centre", "duree": 1.0, "echelle": 1.3 }],
+      "effets": ["eclairage:disco", "particules:confettis"],
+      "bandeau": "TOUR ÉCLAIR : 5 SECONDES, DÉGÂTS × 1,5",
+      "moderateur": "Ce n'est plus un débat, c'est un jeu télévisé !",
+      "public": "applaudit", "son": "disco" } },
+
+  { "id": "decodeurs", "nom": "Fact-check des Décodeurs", "type": "intervenant", "rarete": "rare",
+    "description": "Un tampon « Faux » s'abat sur la dernière réplique adverse.",
+    "effets": [{ "type": "siErreur", "degats": 25 }],
+    "scene": {
+      "acteurs": [{ "sprite": "svg:tampon", "nom": "Les Décodeurs", "nombre": 1, "entree": "haut", "trajet": "cible", "duree": 0.7, "echelle": 1.5 }],
+      "effets": ["secousse@0.7"],
+      "bandeau": "FACT-CHECK",
+      "moderateur": "Vérifions ça…",
+      "public": "hue", "son": "tampon" } },
+
+  { "id": "hugodecrypte", "nom": "HugoDécrypte explique", "type": "intervenant", "rarete": "commune",
+    "description": "Une incrustation vidéo verticale avec « On vous explique ».",
+    "effets": [{ "type": "deuxReponses" }],
+    "scene": {
+      "acteurs": [],
+      "effets": ["incrustation:verticale"],
+      "bandeau": "ON VOUS EXPLIQUE",
+      "moderateur": "Une petite explication ne fait jamais de mal.",
+      "public": "applaudit", "son": "notif" } },
+
+  { "id": "brut", "nom": "La vidéo Brut devient virale", "type": "intervenant", "rarete": "commune",
+    "description": "Compteur de vues qui explose, notifications partout.",
+    "effets": [{ "type": "ambianceRecharge", "tours": 2 }],
+    "scene": {
+      "acteurs": [{ "sprite": "svg:notif", "nombre": 14, "entree": "haut", "trajet": "tombe", "duree": 1.4, "echelle": 0.6 }],
+      "effets": ["compteur-vues"],
+      "bandeau": "1,2 M DE VUES",
+      "moderateur": "Ça buzze sur les réseaux !",
+      "public": "applaudit", "son": "notif" } }
+]

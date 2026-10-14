@@ -1,0 +1,384 @@
+[
+  {
+    "id": "retailleau-q-01",
+    "perso": "retailleau",
+    "sujet": "education",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien d'établissements publics « libres » Retailleau veut-il créer ?",
+    "choix": [
+      "100",
+      "500",
+      "1 000",
+      "10 000"
+    ],
+    "bonne": 2,
+    "explication": "Il propose 1 000 établissements publics « libres », fondés sur le volontariat, pouvant adapter programmes et rythmes.",
+    "mesure": "retailleau-education-1",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-refonder-lecole-autour-de-quatre-axes-principaux",
+      "libelle": "Public Sénat, « Présidentielle 2027 : Bruno Retailleau veut \"refonder l'école\" autour de quatre axes principaux »",
+      "date": "2026-08-31"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-q-02",
+    "perso": "retailleau",
+    "sujet": "retraites",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quelle décote par année Retailleau prévoit-il pour un départ avant 65 ans ?",
+    "choix": [
+      "7 %",
+      "2 %",
+      "10 %",
+      "15 %"
+    ],
+    "bonne": 0,
+    "explication": "Son projet prévoit un départ possible dès 63 ans avec une décote de 7 % par an avant 65 ans.",
+    "mesure": "retailleau-retraites-2",
+    "source": {
+      "url": "https://www.franceinfo.fr/politique/bruno-retailleau/s-il-est-elu-bruno-retailleau-veut-instaurer-un-age-minimal-de-depart-a-la-retraite-a-63-ans-le-taux-plein-a-65_8205254.html",
+      "libelle": "franceinfo, « S'il est élu, Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans, le taux plein à 65 » (interview LCI)",
+      "date": "2026-09-22"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-q-03",
+    "perso": "retailleau",
+    "sujet": "pouvoir-achat",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "À quel seuil d'heures annuelles Retailleau veut-il fixer le temps de travail ?",
+    "choix": [
+      "1 500 heures",
+      "1 607 heures",
+      "1 800 heures",
+      "1 623 heures"
+    ],
+    "bonne": 3,
+    "explication": "Il propose d'annualiser le temps de travail à 1 623 heures, contre 1 607 aujourd'hui.",
+    "mesure": "retailleau-pouvoir-achat-1",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+      "libelle": "Public Sénat, « Bruno Retailleau veut supprimer les 35 heures, inciter à la reprise d'activité et plafonner les aides sociales »",
+      "date": "2026-01-07"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-q-04",
+    "perso": "retailleau",
+    "sujet": "immigration",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien d'années de séjour et de travail exigerait-il pour les aides non contributives ?",
+    "choix": [
+      "1 an",
+      "5 ans",
+      "3 ans",
+      "10 ans"
+    ],
+    "bonne": 1,
+    "explication": "Son plan prévoit cinq ans de séjour et de travail avant d'accéder aux prestations non contributives.",
+    "mesure": "retailleau-immigration-2",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+      "libelle": "Public Sénat, « Présidentielle 2027 : Bruno Retailleau s'engage sur un plan d'économies de près de 200 milliards d'euros »",
+      "date": "2026-10-12"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-q-05",
+    "perso": "retailleau",
+    "sujet": "ecologie",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quelles zones Retailleau demande-t-il d'abroger dans sa tribune sur l'énergie de 2025 ?",
+    "choix": [
+      "Les zones franches",
+      "Les zones Natura 2000",
+      "Les ZFE",
+      "Les zones de revitalisation rurale"
+    ],
+    "bonne": 2,
+    "explication": "La tribune juge « nécessaire d'abroger enfin les ZFE », les zones à faibles émissions.",
+    "mesure": "retailleau-ecologie-2",
+    "source": {
+      "url": "https://republicains.fr/actualites/2025/07/02/rebatir-un-parc-nucleaire-et-stopper-le-financement-des-renouvelables-notre-plan-pour-lenergie/",
+      "libelle": "Les Républicains, tribune de B. Retailleau, F.-X. Bellamy et J. Aubert (Le Figaro) « Rebâtir un parc nucléaire et stopper le financement des renouvelables »",
+      "date": "2025-07-02"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-q-06",
+    "perso": "retailleau",
+    "sujet": "sante",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Que veut instaurer Retailleau « d'ordre public » dans le privé pour les arrêts maladie ?",
+    "choix": [
+      "Un jour de carence",
+      "Un contrôle médical mensuel",
+      "Une franchise de 50 €",
+      "Un arrêt limité à 3 jours"
+    ],
+    "bonne": 0,
+    "explication": "Il veut un jour de carence « d'ordre public » dans le privé, pour économiser 4 milliards d'euros.",
+    "mesure": "retailleau-sante-u",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+      "libelle": "Public Sénat, « Présidentielle 2027 : Bruno Retailleau s'engage sur un plan d'économies de près de 200 milliards d'euros »",
+      "date": "2026-10-12"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-q-07",
+    "perso": "retailleau",
+    "sujet": "securite",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien de quartiers de trafic Retailleau veut-il « boucler » 24h/24 ?",
+    "choix": [
+      "5 à 6",
+      "500 à 600",
+      "Tous les quartiers prioritaires",
+      "50 à 60"
+    ],
+    "bonne": 3,
+    "explication": "Son plan anti-trafics vise 50 à 60 quartiers, avec la possibilité d'en ajouter d'autres.",
+    "mesure": "retailleau-securite-u",
+    "source": {
+      "url": "https://www.france24.com/fr/info-en-continu/20260423-pr%C3%A9sidentielle-retailleau-lr-veut-boucler-les-quartiers-du-narcotrafic",
+      "libelle": "France 24 (AFP), « Présidentielle : Retailleau (LR) veut \"boucler\" les quartiers du narcotrafic »",
+      "date": "2026-04-23"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-q-08",
+    "perso": "retailleau",
+    "sujet": "europe",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Où Retailleau veut-il placer le droit européen dans la hiérarchie des normes ?",
+    "choix": [
+      "Au-dessus de la Constitution",
+      "Sous les lois",
+      "Au-dessus des lois, sous la Constitution",
+      "Hors du droit français"
+    ],
+    "bonne": 2,
+    "explication": "Dans un entretien au Monde, il place le droit de l'UE « au-dessus de nos lois mais en dessous de la Constitution ».",
+    "mesure": "retailleau-europe-u",
+    "source": {
+      "url": "https://www.cnews.fr/france/2026-09-30/presidentielle-2027-bruno-retailleau-veut-placer-le-droit-europeen-en-dessous-de",
+      "libelle": "CNews, « Présidentielle 2027 : Bruno Retailleau veut placer le droit européen \"en dessous\" de la Constitution française » (entretien au Monde)",
+      "date": "2026-09-30"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-q-09",
+    "perso": "retailleau",
+    "sujet": "securite",
+    "categorie": "parcours",
+    "difficulte": 1,
+    "question": "Quel ministère Retailleau a-t-il dirigé de septembre 2024 à octobre 2025 ?",
+    "choix": [
+      "La Justice",
+      "L'Intérieur",
+      "Les Armées",
+      "L'Agriculture"
+    ],
+    "bonne": 1,
+    "explication": "Il a été ministre de l'Intérieur du 21 septembre 2024 au 12 octobre 2025.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "libelle": "Wikipédia, « Bruno Retailleau »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-q-10",
+    "perso": "retailleau",
+    "sujet": "securite",
+    "categorie": "culte",
+    "difficulte": 3,
+    "question": "Selon Retailleau en 2024, qu'est-ce qui « n'est pas intangible ni sacré » ?",
+    "choix": [
+      "La Constitution",
+      "L'État de droit",
+      "Le droit de grève",
+      "La laïcité"
+    ],
+    "bonne": 1,
+    "explication": "Dans une interview au JDD publiée le 29 septembre 2024, il déclare que « l'État de droit, ça n'est pas intangible ni sacré ».",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "libelle": "Wikipédia, « Bruno Retailleau »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-q-11",
+    "perso": "retailleau",
+    "sujet": "retraites",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Qui Retailleau a-t-il battu pour la présidence des Républicains en mai 2025 ?",
+    "choix": [
+      "Laurent Wauquiez",
+      "Xavier Bertrand",
+      "David Lisnard",
+      "Éric Ciotti"
+    ],
+    "bonne": 0,
+    "explication": "Il a été élu président de LR le 18 mai 2025 face à Laurent Wauquiez.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "libelle": "Wikipédia, « Bruno Retailleau »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-q-12",
+    "perso": "retailleau",
+    "sujet": "ecologie",
+    "categorie": "parcours",
+    "difficulte": 1,
+    "question": "De quel département Retailleau est-il sénateur ?",
+    "choix": [
+      "La Vendée",
+      "La Loire-Atlantique",
+      "Le Maine-et-Loire",
+      "La Sarthe"
+    ],
+    "bonne": 0,
+    "explication": "Il est sénateur de la Vendée (2004-2024, puis à nouveau depuis novembre 2025).",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "libelle": "Wikipédia, « Bruno Retailleau »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-q-13",
+    "perso": "retailleau",
+    "sujet": "education",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Quelle région Retailleau a-t-il présidée de 2016 à 2017 ?",
+    "choix": [
+      "Bretagne",
+      "Nouvelle-Aquitaine",
+      "Centre-Val de Loire",
+      "Pays de la Loire"
+    ],
+    "bonne": 3,
+    "explication": "Élu en décembre 2015, il préside le conseil régional des Pays de la Loire jusqu'en septembre 2017.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "libelle": "Wikipédia, « Bruno Retailleau »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-q-14",
+    "perso": "retailleau",
+    "sujet": "pouvoir-achat",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Quel groupe Retailleau a-t-il présidé au Sénat de 2014 à 2024 ?",
+    "choix": [
+      "Le groupe centriste",
+      "Le groupe LR (ex-UMP)",
+      "Le groupe RDPI",
+      "Le groupe Les Indépendants"
+    ],
+    "bonne": 1,
+    "explication": "Il a présidé le groupe UMP puis Les Républicains au Sénat d'octobre 2014 à septembre 2024.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "libelle": "Wikipédia, « Bruno Retailleau »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-q-15",
+    "perso": "retailleau",
+    "sujet": "securite",
+    "categorie": "culte",
+    "difficulte": 2,
+    "question": "Retailleau s'est déclaré « Président de l'ordre, de la justice et de… » quoi ?",
+    "choix": [
+      "La liberté",
+      "La fierté française",
+      "La prospérité",
+      "L'unité nationale"
+    ],
+    "bonne": 1,
+    "explication": "Le 12 février 2026, il déclare : « Je serai le Président de l'ordre, de la justice, et de la fierté française ».",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/https-www-publicsenat-fr-actualites-politique-je-serai-le-president-de-lordre-de-la-justice-et-de-la-fierte-francaise-bruno-retailleau-se-declare-candidat-a-la-presidentielle-de-2027",
+      "libelle": "Public Sénat, « Je serai le Président de l'ordre, de la justice et de la fierté française » : Bruno Retailleau se déclare candidat",
+      "date": "2026-02-12"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-q-16",
+    "perso": "retailleau",
+    "sujet": "immigration",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Quel score Retailleau a-t-il obtenu lors de sa désignation par les adhérents LR en avril 2026 ?",
+    "choix": [
+      "51,2 %",
+      "62,5 %",
+      "73,8 %",
+      "88,9 %"
+    ],
+    "bonne": 2,
+    "explication": "Le 19 avril 2026, les adhérents LR l'ont désigné candidat avec 73,8 % des voix.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "libelle": "Wikipédia, « Bruno Retailleau »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-q-17",
+    "perso": "retailleau",
+    "sujet": "europe",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Dans combien de gouvernements successifs Retailleau a-t-il été ministre de l'Intérieur ?",
+    "choix": [
+      "Un",
+      "Deux",
+      "Trois",
+      "Quatre"
+    ],
+    "bonne": 2,
+    "explication": "Nommé dans le gouvernement Barnier, il a été reconduit dans les gouvernements Bayrou et Lecornu I.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "libelle": "Wikipédia, « Bruno Retailleau »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  }
+]

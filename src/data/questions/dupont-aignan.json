@@ -1,0 +1,362 @@
+[
+  {
+    "id": "dupont-aignan-q-01",
+    "perso": "dupont-aignan",
+    "sujet": "education",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "De combien Dupont-Aignan veut-il augmenter les heures de français et de maths en primaire ?",
+    "choix": [
+      "10 %",
+      "20 %",
+      "30 %",
+      "50 %"
+    ],
+    "bonne": 2,
+    "explication": "Le programme éducation de Debout la France prévoit 30 % d'heures en plus pour le français et les mathématiques.",
+    "mesure": "dupont-aignan-education-1",
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "libelle": "Debout la France, projet « Éducation » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-q-02",
+    "perso": "dupont-aignan",
+    "sujet": "retraites",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quel âge légal de départ à la retraite Dupont-Aignan a-t-il proposé en septembre 2026 ?",
+    "choix": [
+      "60 ans",
+      "62 ans et 9 mois",
+      "64 ans",
+      "65 ans"
+    ],
+    "bonne": 1,
+    "explication": "Lors de sa rentrée du 19 septembre 2026, il a proposé un âge légal de 62 ans et neuf mois, sans désindexation.",
+    "mesure": "dupont-aignan-retraites-u",
+    "source": {
+      "url": "https://www.epochtimes.fr/presidentielle-nicolas-dupont-aignan-annonce-sa-candidature-et-veut-decoloniser-la-france-par-le-frexit-3351411.html",
+      "libelle": "Epoch Times (avec AFP), « Présidentielle : Nicolas Dupont-Aignan annonce sa candidature et veut décoloniser la France par le Frexit »",
+      "date": "2026-09-20"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-q-03",
+    "perso": "dupont-aignan",
+    "sujet": "pouvoir-achat",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "D'ici quelle année Dupont-Aignan veut-il supprimer les péages autoroutiers ?",
+    "choix": [
+      "2027",
+      "2030",
+      "2035",
+      "2040"
+    ],
+    "bonne": 1,
+    "explication": "Son programme « automobilistes » prévoit de renationaliser les autoroutes et de supprimer les péages d'ici 2030.",
+    "mesure": "dupont-aignan-pouvoir-achat-u",
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+      "libelle": "Debout la France, projet « Automobilistes et motards » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-q-04",
+    "perso": "dupont-aignan",
+    "sujet": "immigration",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien d'agents spécialisés Dupont-Aignan veut-il recruter pour contrôler les frontières ?",
+    "choix": [
+      "1 000",
+      "5 000",
+      "50 000",
+      "10 000"
+    ],
+    "bonne": 3,
+    "explication": "Son programme prévoit de sortir de Schengen et de recruter 10 000 agents spécialisés aux frontières.",
+    "mesure": "dupont-aignan-immigration-1",
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "libelle": "Debout la France, projet « Immigration et assimilation » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-q-05",
+    "perso": "dupont-aignan",
+    "sujet": "ecologie",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quelle part minimale de nucléaire dans l'électricité Dupont-Aignan veut-il maintenir ?",
+    "choix": [
+      "70 %",
+      "50 %",
+      "30 %",
+      "90 %"
+    ],
+    "bonne": 0,
+    "explication": "Son programme abandonne l'objectif de 50 % et maintient au minimum 70 % de nucléaire dans la production électrique.",
+    "mesure": "dupont-aignan-ecologie-u",
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/environnement-energie/",
+      "libelle": "Debout la France, projet « Environnement et énergie » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-q-06",
+    "perso": "dupont-aignan",
+    "sujet": "sante",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien de médecins par an Dupont-Aignan voulait-il former en 2022 ?",
+    "choix": [
+      "5 000",
+      "8 000",
+      "12 000",
+      "20 000"
+    ],
+    "bonne": 2,
+    "explication": "En 2022, il proposait de relever le numerus clausus pour former environ 12 000 médecins par an.",
+    "mesure": "dupont-aignan-sante-u",
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-quelle-reforme-de-la-sante-pour-les-candidats-107247",
+      "libelle": "LCP, « Présidentielle : quelle réforme de la santé pour les candidats ? »",
+      "date": "2022-03-25"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-q-07",
+    "perso": "dupont-aignan",
+    "sujet": "securite",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Où Dupont-Aignan veut-il construire une prison ultra-sécurisée de 600 places ?",
+    "choix": [
+      "En Corse",
+      "À Mayotte",
+      "Aux Kerguelen",
+      "En Guyane"
+    ],
+    "bonne": 3,
+    "explication": "Son programme sécurité prévoit un établissement de 600 places en Guyane, accessible par voie aérienne.",
+    "mesure": "dupont-aignan-securite-3",
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/securite/",
+      "libelle": "Debout la France, projet « Sécurité » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-q-08",
+    "perso": "dupont-aignan",
+    "sujet": "europe",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Selon Debout la France, combien vaut par an la contribution nette de la France au budget de l'UE ?",
+    "choix": [
+      "1 milliard €",
+      "10 milliards €",
+      "25 milliards €",
+      "50 milliards €"
+    ],
+    "bonne": 1,
+    "explication": "Le parti chiffre à 25 milliards la contribution versée et à 15 milliards les retours, soit 10 milliards nets qu'il veut supprimer.",
+    "mesure": "dupont-aignan-europe-2",
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+      "libelle": "Debout la France, projet « Affaires européennes » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-q-09",
+    "perso": "dupont-aignan",
+    "sujet": "securite",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "De quelle ville Nicolas Dupont-Aignan a-t-il été maire de 1995 à 2017, puis de nouveau en 2026 ?",
+    "choix": [
+      "Yerres",
+      "Évry",
+      "Meaux",
+      "Versailles"
+    ],
+    "bonne": 0,
+    "explication": "Maire de Yerres (Essonne) de 1995 à 2017, il a été réélu maire en mars 2026.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+      "libelle": "Wikipédia, « Nicolas Dupont-Aignan »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-q-10",
+    "perso": "dupont-aignan",
+    "sujet": "pouvoir-achat",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Quel score Dupont-Aignan a-t-il obtenu au 1er tour de la présidentielle 2017 ?",
+    "choix": [
+      "1,79 %",
+      "2,06 %",
+      "4,70 %",
+      "7,1 %"
+    ],
+    "bonne": 2,
+    "explication": "Il a obtenu 4,70 % en 2017, juste sous la barre des 5 %, après 1,79 % en 2012 ; il fera 2,06 % en 2022.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+      "libelle": "Wikipédia, « Nicolas Dupont-Aignan »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-q-11",
+    "perso": "dupont-aignan",
+    "sujet": "europe",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Quel parti Dupont-Aignan a-t-il quitté en janvier 2007 ?",
+    "choix": [
+      "Le RPR",
+      "L'UMP",
+      "Le MoDem",
+      "Le RN"
+    ],
+    "bonne": 1,
+    "explication": "Il a quitté l'UMP le 13 janvier 2007, avant de fonder Debout la République, devenu Debout la France.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+      "libelle": "Wikipédia, « Nicolas Dupont-Aignan »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-q-12",
+    "perso": "dupont-aignan",
+    "sujet": "education",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Quelle grande école Nicolas Dupont-Aignan a-t-il fréquentée de 1987 à 1989 ?",
+    "choix": [
+      "Polytechnique",
+      "HEC",
+      "L'ENS",
+      "L'ENA"
+    ],
+    "bonne": 3,
+    "explication": "Diplômé de Sciences Po en 1982, il a été élève de l'ENA de 1987 à 1989.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+      "libelle": "Wikipédia, « Nicolas Dupont-Aignan »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-q-13",
+    "perso": "dupont-aignan",
+    "sujet": "securite",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "De quel département Dupont-Aignan a-t-il été député de 1997 à 2024 ?",
+    "choix": [
+      "Essonne",
+      "Yvelines",
+      "Val-de-Marne",
+      "Seine-et-Marne"
+    ],
+    "bonne": 0,
+    "explication": "Il a été député de la 8e circonscription de l'Essonne de 1997 à juin 2024.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+      "libelle": "Wikipédia, « Nicolas Dupont-Aignan »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-q-14",
+    "perso": "dupont-aignan",
+    "sujet": "europe",
+    "categorie": "culte",
+    "difficulte": 2,
+    "question": "Quel poste Marine Le Pen a-t-elle promis à Dupont-Aignan entre les deux tours de 2017 ?",
+    "choix": [
+      "Ministre de l'Intérieur",
+      "Président de l'Assemblée",
+      "Premier ministre",
+      "Ministre des Affaires étrangères"
+    ],
+    "bonne": 2,
+    "explication": "Après son ralliement annoncé le 28 avril 2017 sur France 2, Marine Le Pen a déclaré qu'elle le nommerait Premier ministre.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+      "libelle": "Wikipédia, « Nicolas Dupont-Aignan »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-q-15",
+    "perso": "dupont-aignan",
+    "sujet": "retraites",
+    "categorie": "culte",
+    "difficulte": 2,
+    "question": "Pour la présidentielle 2027, c'est la combientième candidature de Dupont-Aignan à l'Élysée ?",
+    "choix": [
+      "La 2e",
+      "La 3e",
+      "La 5e",
+      "La 4e"
+    ],
+    "bonne": 3,
+    "explication": "Après 2012, 2017 et 2022, il se présente pour la quatrième fois, candidature annoncée le 8 mars 2025 à Yerres.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+      "libelle": "Wikipédia, « Nicolas Dupont-Aignan »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-q-16",
+    "perso": "dupont-aignan",
+    "sujet": "europe",
+    "categorie": "culte",
+    "difficulte": 3,
+    "question": "Quelle formule Dupont-Aignan a-t-il utilisée à sa rentrée de septembre 2026 pour défendre le Frexit ?",
+    "choix": [
+      "« Rendre la France aux Français »",
+      "« Décoloniser la France »",
+      "« Reprendre le contrôle »",
+      "« Libérer Paris de Bruxelles »"
+    ],
+    "bonne": 1,
+    "explication": "Le 19 septembre 2026 à Yerres, il a appelé à « décoloniser la France », notamment en sortant de l'Union européenne.",
+    "source": {
+      "url": "https://www.epochtimes.fr/presidentielle-nicolas-dupont-aignan-annonce-sa-candidature-et-veut-decoloniser-la-france-par-le-frexit-3351411.html",
+      "libelle": "Epoch Times (avec AFP), « Nicolas Dupont-Aignan veut décoloniser la France par le Frexit »",
+      "date": "2026-09-20"
+    },
+    "statut": "ok"
+  }
+]

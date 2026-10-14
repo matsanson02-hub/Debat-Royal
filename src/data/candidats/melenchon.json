@@ -1,0 +1,68 @@
+{
+  "id": "melenchon",
+  "nom": "Jean-Luc Mélenchon",
+  "parti": "La France insoumise",
+  "statut": "declare",
+  "statut_note": "Candidat déclaré : il a annoncé sa candidature à la présidentielle 2027 le 3 mai 2026 sur TF1 (LCP, 3 mai 2026) ; nouvelle version du programme annoncée pour novembre 2026.",
+  "verifie_le": "2026-10-14",
+  "surnom": "L'Insoumis",
+  "couleur": "#cc2443",
+  "entree": {
+    "replique": "Oui, je suis candidat",
+    "contexte": "Réponse sur TF1 annonçant sa quatrième candidature à l'élection présidentielle.",
+    "date": "2026-05-03",
+    "source": { "url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851", "libelle": "LCP, « Présidentielle : Jean-Luc Mélenchon officialise sa candidature pour 2027 »" }
+  },
+  "arguments": {
+    "education": [
+      { "id": "melenchon-education-1", "nom": "Moins d'élèves par classe", "bulle": "Moins de 19 élèves par classe !", "puissance": 14, "mesure": "melenchon-education-1" },
+      { "id": "melenchon-education-2", "nom": "École obligatoire jusqu'à 18 ans", "bulle": "L'école obligatoire jusqu'à 18 ans !", "puissance": 16, "mesure": "melenchon-education-2" },
+      { "id": "melenchon-education-3", "nom": "Cantine 100 % bio", "bulle": "Du bio et du local à la cantine !", "puissance": 18, "mesure": "melenchon-education-3" }
+    ],
+    "retraites": [
+      { "id": "melenchon-retraites-1", "nom": "Pension minimum au SMIC", "bulle": "Pas de pension sous le SMIC !", "puissance": 14, "mesure": "melenchon-retraites-1" },
+      { "id": "melenchon-retraites-2", "nom": "Retraites indexées sur salaires", "bulle": "Les pensions suivent les salaires !", "puissance": 16, "mesure": "melenchon-retraites-2" },
+      { "id": "melenchon-retraites-3", "nom": "Cotisation vieillesse relevée", "bulle": "+0,25 point de cotisation par an !", "puissance": 18, "mesure": "melenchon-retraites-3" }
+    ],
+    "pouvoir-achat": [
+      { "id": "melenchon-pouvoir-achat-1", "nom": "Blocage des prix", "bulle": "On bloque les prix de première nécessité !", "puissance": 14, "mesure": "melenchon-pouvoir-achat-1" },
+      { "id": "melenchon-pouvoir-achat-2", "nom": "Impôt à 14 tranches", "bulle": "14 tranches d'impôt au lieu de 5 !", "puissance": 16, "mesure": "melenchon-pouvoir-achat-2" },
+      { "id": "melenchon-pouvoir-achat-3", "nom": "Garantie d'autonomie jeunes", "bulle": "Aucun jeune sous le seuil de pauvreté !", "puissance": 18, "mesure": "melenchon-pouvoir-achat-3" }
+    ],
+    "immigration": [
+      { "id": "melenchon-immigration-1", "nom": "Droit du sol intégral", "bulle": "Né en France, Français !", "puissance": 14, "mesure": "melenchon-immigration-1" },
+      { "id": "melenchon-immigration-2", "nom": "Statut de détresse environnementale", "bulle": "Protéger les réfugiés climatiques !", "puissance": 16, "mesure": "melenchon-immigration-2" },
+      { "id": "melenchon-immigration-3", "nom": "Suspendre Dublin", "bulle": "Stop au règlement de Dublin !", "puissance": 18, "mesure": "melenchon-immigration-3" }
+    ],
+    "ecologie": [
+      { "id": "melenchon-ecologie-1", "nom": "Sortie du nucléaire", "bulle": "Adieu les EPR !", "puissance": 14, "mesure": "melenchon-ecologie-1" },
+      { "id": "melenchon-ecologie-2", "nom": "700 000 rénovations par an", "bulle": "700 000 logements isolés par an !", "puissance": 16, "mesure": "melenchon-ecologie-2" },
+      { "id": "melenchon-ecologie-3", "nom": "100 % renouvelables", "bulle": "100 % renouvelable en 2050 !", "puissance": 18, "mesure": "melenchon-ecologie-3" }
+    ],
+    "sante": [
+      { "id": "melenchon-sante-1", "nom": "Santé à 30 minutes", "bulle": "Un hôpital public à moins de 30 min !", "puissance": 14, "mesure": "melenchon-sante-1" },
+      { "id": "melenchon-sante-2", "nom": "Fin de la tarification à l'acte", "bulle": "Fini la T2A à l'hôpital !", "puissance": 16, "mesure": "melenchon-sante-2" },
+      { "id": "melenchon-sante-3", "nom": "Centres de santé publics", "bulle": "Des centres de santé partout !", "puissance": 18, "mesure": "melenchon-sante-3" }
+    ],
+    "securite": [
+      { "id": "melenchon-securite-1", "nom": "Cannabis légalisé", "bulle": "Cannabis légal, sous monopole d'État !", "puissance": 14, "mesure": "melenchon-securite-1" },
+      { "id": "melenchon-securite-2", "nom": "Non à la reconnaissance faciale", "bulle": "Pas de reconnaissance faciale !", "puissance": 16, "mesure": "melenchon-securite-2" },
+      { "id": "melenchon-securite-3", "nom": "Contrôle indépendant de la police", "bulle": "Un contrôle indépendant de la police !", "puissance": 18, "mesure": "melenchon-securite-3" }
+    ],
+    "europe": [
+      { "id": "melenchon-europe-1", "nom": "Veto au libre-échange", "bulle": "Veto aux nouveaux traités de libre-échange !", "puissance": 14, "mesure": "melenchon-europe-1" },
+      { "id": "melenchon-europe-2", "nom": "Budget européen conditionné", "bulle": "Notre chèque à l'UE, sous conditions !", "puissance": 16, "mesure": "melenchon-europe-2" },
+      { "id": "melenchon-europe-3", "nom": "Désobéir aux traités", "bulle": "On désobéit aux règles bloquantes !", "puissance": 18, "mesure": "melenchon-europe-3" }
+    ]
+  },
+  "ultimes": {
+    "education": { "id": "melenchon-education-u", "nom": "École vraiment gratuite", "bulle": "Cantine, transport, manuels : gratuits !", "puissance": 32, "mesure": "melenchon-education-u" },
+    "retraites": { "id": "melenchon-retraites-u", "nom": "Retraite à 60 ans", "bulle": "La retraite à 60 ans, 40 annuités !", "puissance": 32, "mesure": "melenchon-retraites-u" },
+    "pouvoir-achat": { "id": "melenchon-pouvoir-achat-u", "nom": "SMIC à 1 400 € nets", "bulle": "Le SMIC à 1 400 € nets, tout de suite !", "puissance": 32, "mesure": "melenchon-pouvoir-achat-u" },
+    "immigration": { "id": "melenchon-immigration-u", "nom": "Régularisations et carte de 10 ans", "bulle": "Régularisation et carte de séjour de 10 ans !", "puissance": 32, "mesure": "melenchon-immigration-u" },
+    "ecologie": { "id": "melenchon-ecologie-u", "nom": "La règle verte", "bulle": "La règle verte dans la Constitution !", "puissance": 32, "mesure": "melenchon-ecologie-u" },
+    "sante": { "id": "melenchon-sante-u", "nom": "Le 100 % Sécu", "bulle": "100 % remboursé par la Sécu !", "puissance": 32, "mesure": "melenchon-sante-u" },
+    "securite": { "id": "melenchon-securite-u", "nom": "Police de proximité", "bulle": "Retour de la police de proximité !", "puissance": 32, "mesure": "melenchon-securite-u" },
+    "europe": { "id": "melenchon-europe-u", "nom": "Sortie de l'OTAN", "bulle": "On quitte le commandement de l'OTAN !", "puissance": 32, "mesure": "melenchon-europe-u" }
+  }
+}

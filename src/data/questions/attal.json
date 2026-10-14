@@ -1,0 +1,406 @@
+[
+  {
+    "id": "attal-q-01",
+    "perso": "attal",
+    "sujet": "education",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Jusqu'à combien Attal veut-il augmenter les profs en milieu de carrière ?",
+    "choix": [
+      "100 € net par mois",
+      "Jusqu'à 500 € net par mois",
+      "Jusqu'à 1 000 € net par mois",
+      "Une prime unique de 1 500 €"
+    ],
+    "bonne": 1,
+    "explication": "Il propose +200 € net par mois pour les enseignants, et jusqu'à 500 € pour les milieux de carrière.",
+    "mesure": "attal-education-3",
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-retour-du-certificat-d-etudes-revalorisation-des-salaires-ce-que-propose",
+      "libelle": "LCP, « Présidentielle : retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école » (d'après un entretien au Monde)",
+      "date": "2026-08-25"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-02",
+    "perso": "attal",
+    "sujet": "retraites",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quelle somme l'État verserait-il à chaque naissance sur un compte retraite bloqué ?",
+    "choix": [
+      "100 €",
+      "500 €",
+      "5 000 €",
+      "1 000 €"
+    ],
+    "bonne": 3,
+    "explication": "Attal propose 1 000 € versés par l'État à chaque naissance, débloqués à la retraite.",
+    "mesure": "attal-retraites-1",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/un-an-pour-convaincre-pour-son-premier-grand-meeting-gabriel-attal-mise-sur-lespoir-et-joue-sa-difference-avec-edouard-philippe",
+      "libelle": "Public Sénat, « Un an pour convaincre » : premier grand meeting de Gabriel Attal à Paris",
+      "date": "2026-05-30"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-03",
+    "perso": "attal",
+    "sujet": "pouvoir-achat",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quelle hausse nette mensuelle vise Attal pour un salarié au salaire médian ?",
+    "choix": [
+      "250 €",
+      "50 €",
+      "500 €",
+      "1 000 €"
+    ],
+    "bonne": 0,
+    "explication": "Son « choc de salaires » vise +250 € net par mois pour un salaire médian de 2 200 €, soit l'équivalent d'un 13e mois.",
+    "mesure": "attal-pouvoir-achat-u",
+    "source": {
+      "url": "https://attalpresident.fr/actualites/dans-le-telegramme-gabriel-attal-veut-un-choc-de-salaires-et-instaurer-le-droit-au-brut",
+      "libelle": "attalpresident.fr (site de campagne), « Dans Le Télégramme, Gabriel Attal veut un choc de salaires et instaurer le droit au brut »",
+      "date": "2026-07-22"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-04",
+    "perso": "attal",
+    "sujet": "immigration",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Tous les combien les partenaires sociaux définiraient-ils les besoins en immigration de travail ?",
+    "choix": [
+      "Tous les ans",
+      "Tous les cinq ans",
+      "Tous les deux ans",
+      "Une fois par mandat"
+    ],
+    "bonne": 2,
+    "explication": "Tous les deux ans, les partenaires sociaux identifient les besoins, puis le Parlement vote des quotas.",
+    "mesure": "attal-immigration-u",
+    "source": {
+      "url": "https://www.21news.be/immigration-gabriel-attal-veut-des-quotas-par-metier-et-par-origine-geographique/",
+      "libelle": "21 News, « Immigration : Gabriel Attal veut des quotas par métier et par origine géographique » (invité de CNews le 10 août 2026)",
+      "date": "2026-08-11"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-05",
+    "perso": "attal",
+    "sujet": "ecologie",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "À quel taux Attal veut-il ramener la TVA sur les voitures électriques ?",
+    "choix": [
+      "0 %",
+      "10 %",
+      "15 %",
+      "5,5 %"
+    ],
+    "bonne": 3,
+    "explication": "Le projet présenté en juillet 2025 prévoit une TVA à 5,5 % au lieu de 20 %, à la place de la prime à la conversion.",
+    "mesure": "attal-ecologie-1",
+    "source": {
+      "url": "https://www.france24.com/fr/info-en-continu/20250721-attal-propose-une-nouvelle-donne-%C3%A9cologique-en-m%C3%AAme-temps-qu-%C3%A9conomique",
+      "libelle": "France 24 (AFP), « Attal propose une \"nouvelle donne\" écologique en même temps qu'économique »",
+      "date": "2025-07-21"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-06",
+    "perso": "attal",
+    "sujet": "sante",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quels professionnels Attal a-t-il voulu rendre accessibles sans passer par un médecin en 2024 ?",
+    "choix": [
+      "Les psychologues",
+      "Les chirurgiens",
+      "Les radiologues",
+      "Les anesthésistes"
+    ],
+    "bonne": 0,
+    "explication": "Lors de sa déclaration de politique générale, il a annoncé l'accès direct aux psychologues.",
+    "mesure": "attal-sante-1",
+    "source": {
+      "url": "https://www.lequotidiendumedecin.fr/sante-societe/politique-de-sante/gardes-obligatoires-taxe-lapins-acces-direct-aux-psychologues-les-annonces-choc-de-gabriel-attal-sur",
+      "libelle": "Le Quotidien du médecin, « Gardes obligatoires, taxe lapins, accès direct aux psychologues : les annonces choc de Gabriel Attal » (déclaration de politique générale)",
+      "date": "2024-01-30"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-07",
+    "perso": "attal",
+    "sujet": "securite",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quel juge Attal propose-t-il de supprimer ?",
+    "choix": [
+      "Le juge des enfants",
+      "Le juge d'application des peines",
+      "Le juge d'instruction",
+      "Le juge des libertés"
+    ],
+    "bonne": 1,
+    "explication": "Il l'a proposé en novembre 2025 après la permission de sortie d'un détenu de Vendin-le-Vieil.",
+    "mesure": "attal-securite-u",
+    "source": {
+      "url": "https://www.europe1.fr/politique/je-propose-de-supprimer-le-juge-dapplication-des-peines-assure-gabriel-attal-872862",
+      "libelle": "Europe 1, « \"Je propose de supprimer le juge d'application des peines\", assure Gabriel Attal »",
+      "date": "2025-11-26"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-08",
+    "perso": "attal",
+    "sujet": "europe",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Dans ses « États-Unis d'Europe », comment serait désigné le président ?",
+    "choix": [
+      "Par les chefs d'État",
+      "Par tirage au sort",
+      "Au suffrage universel",
+      "Par la Commission"
+    ],
+    "bonne": 2,
+    "explication": "Son projet prévoit un président élu au suffrage universel et un parlement d'eurodéputés des pays participants.",
+    "mesure": "attal-europe-1",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-veut-construire-les-etats-unis-deurope-proposition-choc-pour-relancer-lideal-europeen",
+      "libelle": "Public Sénat, « Gabriel Attal veut construire \"les Etats-Unis d'Europe\" »",
+      "date": "2026-09-17"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-09",
+    "perso": "attal",
+    "sujet": "education",
+    "categorie": "parcours",
+    "difficulte": 1,
+    "question": "Quel ministère Attal a-t-il dirigé juste avant d'entrer à Matignon ?",
+    "choix": [
+      "L'Intérieur",
+      "L'Économie",
+      "L'Éducation nationale",
+      "La Santé"
+    ],
+    "bonne": 2,
+    "explication": "Il a été ministre de l'Éducation nationale de juillet 2023 à janvier 2024.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "libelle": "Wikipédia, « Gabriel Attal »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-10",
+    "perso": "attal",
+    "sujet": "education",
+    "categorie": "culte",
+    "difficulte": 2,
+    "question": "Quel vêtement Attal a-t-il interdit à l'école à la rentrée 2023 ?",
+    "choix": [
+      "La casquette",
+      "L'abaya",
+      "Le jogging",
+      "Le short"
+    ],
+    "bonne": 1,
+    "explication": "Tout juste nommé ministre de l'Éducation, il annonce fin août 2023 l'interdiction de l'abaya dans les établissements scolaires.",
+    "source": {
+      "url": "https://www.lejdd.fr/politique/gabriel-attal-annonce-linterdiction-de-labaya-dans-les-etablissements-scolaires-137954",
+      "libelle": "Le JDD, « Gabriel Attal annonce l'interdiction de l'abaya dans les établissements scolaires »",
+      "date": "2023-08-27"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-11",
+    "perso": "attal",
+    "sujet": "pouvoir-achat",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "En quelle année Attal est-il devenu Premier ministre ?",
+    "choix": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "bonne": 2,
+    "explication": "Il a été nommé Premier ministre le 9 janvier 2024 et l'est resté jusqu'en septembre 2024.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "libelle": "Wikipédia, « Gabriel Attal »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-12",
+    "perso": "attal",
+    "sujet": "europe",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Quel record Attal a-t-il battu en arrivant à Matignon à 34 ans ?",
+    "choix": [
+      "Plus jeune Premier ministre de la Ve",
+      "Plus long discours à l'Assemblée",
+      "Premier PM issu du Sénat",
+      "Plus court passage à Matignon"
+    ],
+    "bonne": 0,
+    "explication": "Né en 1989, il devient en janvier 2024 le plus jeune Premier ministre de la Ve République.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "libelle": "Wikipédia, « Gabriel Attal »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-13",
+    "perso": "attal",
+    "sujet": "sante",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Quelle fonction Attal occupait-il pendant la crise du Covid, de 2020 à 2022 ?",
+    "choix": [
+      "Ministre de la Santé",
+      "Porte-parole du gouvernement",
+      "Président de l'Assemblée",
+      "Ministre des Armées"
+    ],
+    "bonne": 1,
+    "explication": "Il a été porte-parole du gouvernement Castex de juillet 2020 à mai 2022.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "libelle": "Wikipédia, « Gabriel Attal »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-14",
+    "perso": "attal",
+    "sujet": "pouvoir-achat",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Quel portefeuille Attal a-t-il occupé entre 2022 et 2023 ?",
+    "choix": [
+      "Ministre délégué aux Comptes publics",
+      "Ministre du Travail",
+      "Ministre de l'Agriculture",
+      "Ministre de la Culture"
+    ],
+    "bonne": 0,
+    "explication": "Il a été ministre délégué chargé des Comptes publics de mai 2022 à juillet 2023.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "libelle": "Wikipédia, « Gabriel Attal »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-15",
+    "perso": "attal",
+    "sujet": "europe",
+    "categorie": "culte",
+    "difficulte": 2,
+    "question": "Qui Attal, alors Premier ministre, a-t-il affronté en débat télévisé en mai 2024 ?",
+    "choix": [
+      "Marine Le Pen",
+      "Jean-Luc Mélenchon",
+      "Jordan Bardella",
+      "Éric Zemmour"
+    ],
+    "bonne": 2,
+    "explication": "Le 23 mai 2024, avant les européennes, il débat face à Jordan Bardella, tête de liste du RN.",
+    "source": {
+      "url": "https://www.cnews.fr/france/2024-05-23/debat-gabriel-attal-jordan-bardella-vous-avez-pulverise-un-un-tous-les-records",
+      "libelle": "CNews, débat Gabriel Attal – Jordan Bardella",
+      "date": "2024-05-23"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-16",
+    "perso": "attal",
+    "sujet": "retraites",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Quelle fonction Attal occupe-t-il à Renaissance depuis décembre 2024 ?",
+    "choix": [
+      "Trésorier",
+      "Secrétaire général",
+      "Porte-parole",
+      "Président d'honneur"
+    ],
+    "bonne": 1,
+    "explication": "Il a été élu secrétaire général de Renaissance en décembre 2024, succédant à Stéphane Séjourné.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "libelle": "Wikipédia, « Gabriel Attal »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-17",
+    "perso": "attal",
+    "sujet": "ecologie",
+    "categorie": "culte",
+    "difficulte": 2,
+    "question": "Dans quel département Attal a-t-il annoncé sa candidature en mai 2026 ?",
+    "choix": [
+      "Hauts-de-Seine",
+      "Aveyron",
+      "Gironde",
+      "Pas-de-Calais"
+    ],
+    "bonne": 1,
+    "explication": "Il s'est déclaré le 22 mai 2026 à Mur-de-Barrez, village de l'Aveyron, plutôt que dans sa circonscription.",
+    "source": {
+      "url": "https://www.franceinfo.fr/elections/presidentielle/j-aime-passionnement-la-france-et-j-aime-profondement-les-francais-gabriel-attal-se-declare-candidat-a-l-election-presidentielle-de-2027_8020769.html",
+      "libelle": "franceinfo, « Gabriel Attal se déclare candidat à l'élection présidentielle de 2027 »",
+      "date": "2026-05-22"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "attal-q-18",
+    "perso": "attal",
+    "sujet": "securite",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Sur quel sujet porte la proposition de loi Attal examinée au Parlement en 2025 ?",
+    "choix": [
+      "La justice des mineurs",
+      "La fin de vie",
+      "Le logement social",
+      "La police municipale"
+    ],
+    "bonne": 0,
+    "explication": "Sa proposition de loi visait à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents.",
+    "source": {
+      "url": "https://lcp.fr/actualites/delinquance-des-mineurs-que-contient-la-proposition-de-loi-de-gabriel-attal-que-le",
+      "libelle": "LCP, « Délinquance des mineurs : que contient la proposition de loi de Gabriel Attal »",
+      "date": "2025-05-13"
+    },
+    "statut": "ok"
+  }
+]

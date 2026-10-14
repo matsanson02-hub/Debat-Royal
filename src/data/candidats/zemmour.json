@@ -1,0 +1,263 @@
+{
+  "id": "zemmour",
+  "nom": "Éric Zemmour",
+  "parti": "Reconquête",
+  "statut": "declare",
+  "statut_note": "Candidature confirmée le 17 septembre 2026 sur BFMTV (« Je serai candidat à l'élection présidentielle »), selon LCP et Public Sénat ; une déclaration formelle était annoncée pour octobre 2026.",
+  "verifie_le": "2026-10-14",
+  "surnom": "Le chroniqueur",
+  "couleur": "#1D2C5E",
+  "entree": {
+    "replique": "Je serai candidat à l'élection présidentielle.",
+    "contexte": "Confirmation de sa candidature pour 2027, en interview sur BFMTV.",
+    "date": "2026-09-17",
+    "source": {
+      "url": null,
+      "libelle": null
+    }
+  },
+  "arguments": {
+    "education": [
+      {
+        "id": "zemmour-education-1",
+        "nom": "Ministère de l'Instruction",
+        "bulle": "L'Instruction publique fait son retour",
+        "puissance": 14,
+        "mesure": "zemmour-education-1"
+      },
+      {
+        "id": "zemmour-education-2",
+        "nom": "Retour des filières",
+        "bulle": "L, S, ES : le retour !",
+        "puissance": 16,
+        "mesure": "zemmour-education-2"
+      },
+      {
+        "id": "zemmour-education-3",
+        "nom": "50 000 AESH",
+        "bulle": "50 000 AESH en renfort",
+        "puissance": 18,
+        "mesure": "zemmour-education-3"
+      }
+    ],
+    "retraites": [
+      {
+        "id": "zemmour-retraites-1",
+        "nom": "Index des seniors",
+        "bulle": "Les seniors ont leur index",
+        "puissance": 14,
+        "mesure": "zemmour-retraites-1"
+      },
+      {
+        "id": "zemmour-retraites-2",
+        "nom": "Petites pensions exonérées",
+        "bulle": "Zéro CSG sous 1 300 €",
+        "puissance": 16,
+        "mesure": "zemmour-retraites-2"
+      },
+      {
+        "id": "zemmour-retraites-3",
+        "nom": "Réversion à 75 %",
+        "bulle": "Réversion portée à 75 %",
+        "puissance": 18,
+        "mesure": "zemmour-retraites-3"
+      }
+    ],
+    "pouvoir-achat": [
+      {
+        "id": "zemmour-pouvoir-achat-1",
+        "nom": "Heures sup exonérées",
+        "bulle": "Heures sup sans impôt",
+        "puissance": 14,
+        "mesure": "zemmour-pouvoir-achat-1"
+      },
+      {
+        "id": "zemmour-pouvoir-achat-2",
+        "nom": "Impôts de production allégés",
+        "bulle": "30 milliards d'impôts en moins",
+        "puissance": 16,
+        "mesure": "zemmour-pouvoir-achat-2"
+      },
+      {
+        "id": "zemmour-pouvoir-achat-3",
+        "nom": "Allocations familiales universelles",
+        "bulle": "Allocs pour toutes les familles",
+        "puissance": 18,
+        "mesure": "zemmour-pouvoir-achat-3"
+      }
+    ],
+    "immigration": [
+      {
+        "id": "zemmour-immigration-1",
+        "nom": "Fin du droit du sol",
+        "bulle": "Fin du droit du sol",
+        "puissance": 14,
+        "mesure": "zemmour-immigration-1"
+      },
+      {
+        "id": "zemmour-immigration-2",
+        "nom": "Stop regroupement familial",
+        "bulle": "Regroupement familial supprimé",
+        "puissance": 16,
+        "mesure": "zemmour-immigration-2"
+      },
+      {
+        "id": "zemmour-immigration-3",
+        "nom": "Un an sans emploi",
+        "bulle": "Un an sans travail, retour au pays",
+        "puissance": 18,
+        "mesure": "zemmour-immigration-3"
+      }
+    ],
+    "ecologie": [
+      {
+        "id": "zemmour-ecologie-1",
+        "nom": "Sauver 12 réacteurs",
+        "bulle": "12 réacteurs sauvés",
+        "puissance": 14,
+        "mesure": "zemmour-ecologie-1"
+      },
+      {
+        "id": "zemmour-ecologie-2",
+        "nom": "Stop aux éoliennes",
+        "bulle": "Les éoliennes à l'arrêt",
+        "puissance": 16,
+        "mesure": "zemmour-ecologie-2"
+      },
+      {
+        "id": "zemmour-ecologie-3",
+        "nom": "Réacteurs jusqu'à 60 ans",
+        "bulle": "Des réacteurs bons pour 60 ans",
+        "puissance": 18,
+        "mesure": "zemmour-ecologie-3"
+      }
+    ],
+    "sante": [
+      {
+        "id": "zemmour-sante-1",
+        "nom": "Soignants + 12 %",
+        "bulle": "+12 % pour les soignants",
+        "puissance": 14,
+        "mesure": "zemmour-sante-1"
+      },
+      {
+        "id": "zemmour-sante-2",
+        "nom": "1 000 médecins salariés",
+        "bulle": "1 000 médecins pour les campagnes",
+        "puissance": 16,
+        "mesure": "zemmour-sante-2"
+      },
+      {
+        "id": "zemmour-sante-3",
+        "nom": "Fin des ARS",
+        "bulle": "Les ARS supprimées",
+        "puissance": 18,
+        "mesure": "zemmour-sante-3"
+      }
+    ],
+    "securite": [
+      {
+        "id": "zemmour-securite-1",
+        "nom": "Majorité pénale à 16 ans",
+        "bulle": "Majorité pénale à 16 ans",
+        "puissance": 14,
+        "mesure": "zemmour-securite-1"
+      },
+      {
+        "id": "zemmour-securite-2",
+        "nom": "10 000 places de prison",
+        "bulle": "10 000 cellules de plus",
+        "puissance": 16,
+        "mesure": "zemmour-securite-2"
+      },
+      {
+        "id": "zemmour-securite-3",
+        "nom": "Présomption de légitime défense",
+        "bulle": "Légitime défense présumée",
+        "puissance": 18,
+        "mesure": "zemmour-securite-3"
+      }
+    ],
+    "europe": [
+      {
+        "id": "zemmour-europe-1",
+        "nom": "Référendum pour l'Europe",
+        "bulle": "L'Europe ? On vote d'abord",
+        "puissance": 14,
+        "mesure": "zemmour-europe-1"
+      },
+      {
+        "id": "zemmour-europe-2",
+        "nom": "Défense à 70 milliards",
+        "bulle": "70 milliards pour les armées",
+        "puissance": 16,
+        "mesure": "zemmour-europe-2"
+      },
+      {
+        "id": "zemmour-europe-3",
+        "nom": "Quitter le commandement OTAN",
+        "bulle": "Hors du commandement de l'OTAN",
+        "puissance": 18,
+        "mesure": "zemmour-europe-3"
+      }
+    ]
+  },
+  "ultimes": {
+    "education": {
+      "id": "zemmour-education-u",
+      "nom": "Fin du collège unique",
+      "bulle": "Adieu le collège unique",
+      "puissance": 32,
+      "mesure": "zemmour-education-u"
+    },
+    "retraites": {
+      "id": "zemmour-retraites-u",
+      "nom": "Retraite à 64 ans",
+      "bulle": "Cap sur 64 ans",
+      "puissance": 32,
+      "mesure": "zemmour-retraites-u"
+    },
+    "pouvoir-achat": {
+      "id": "zemmour-pouvoir-achat-u",
+      "nom": "Le 13e mois",
+      "bulle": "Un 13e mois via la CSG",
+      "puissance": 32,
+      "mesure": "zemmour-pouvoir-achat-u"
+    },
+    "immigration": {
+      "id": "zemmour-immigration-u",
+      "nom": "Ministère de la Remigration",
+      "bulle": "Le ministère de la Remigration",
+      "puissance": 32,
+      "mesure": "zemmour-immigration-u"
+    },
+    "ecologie": {
+      "id": "zemmour-ecologie-u",
+      "nom": "14 EPR",
+      "bulle": "14 EPR d'ici 2050",
+      "puissance": 32,
+      "mesure": "zemmour-ecologie-u"
+    },
+    "sante": {
+      "id": "zemmour-sante-u",
+      "nom": "40 000 soignants",
+      "bulle": "40 000 bras pour l'hôpital",
+      "puissance": 32,
+      "mesure": "zemmour-sante-u"
+    },
+    "securite": {
+      "id": "zemmour-securite-u",
+      "nom": "Peines planchers généralisées",
+      "bulle": "Peines planchers partout",
+      "puissance": 32,
+      "mesure": "zemmour-securite-u"
+    },
+    "europe": {
+      "id": "zemmour-europe-u",
+      "nom": "Primauté du droit national",
+      "bulle": "La loi française d'abord",
+      "puissance": 32,
+      "mesure": "zemmour-europe-u"
+    }
+  }
+}

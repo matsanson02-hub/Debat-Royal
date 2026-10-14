@@ -1,0 +1,68 @@
+{
+  "id": "philippe",
+  "nom": "Édouard Philippe",
+  "parti": "Horizons",
+  "statut": "declare",
+  "statut_note": "Candidat déclaré depuis son entretien au Point du 3 septembre 2024 ; il détaille son programme en campagne (L'Heure de vérité, France 2, 8 octobre 2026, selon Euronews).",
+  "verifie_le": "2026-10-14",
+  "surnom": "Le Havrais",
+  "couleur": "#0b8fd1",
+  "entree": {
+    "replique": "Je serai candidat à la prochaine élection présidentielle",
+    "contexte": "Annonce de sa candidature dans un entretien accordé au Point.",
+    "date": "2024-09-03",
+    "source": { "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/je-serai-candidat-a-la-prochaine-election-presidentielle-edouard-philippe-l-ancien-premier-ministre-et-maire-du-havre-officialise-sa-candidature-3026366.html", "libelle": "France 3 Normandie, « Je serai candidat à la prochaine élection présidentielle »" }
+  },
+  "arguments": {
+    "education": [
+      { "id": "philippe-education-1", "nom": "Chefs d'établissement patrons", "bulle": "Le chef d'établissement fixe les règles !", "puissance": 14, "mesure": "philippe-education-1" },
+      { "id": "philippe-education-2", "nom": "Amende de responsabilisation", "bulle": "Parents responsables, ou amende !", "puissance": 16, "mesure": "philippe-education-2" },
+      { "id": "philippe-education-3", "nom": "Portable interdit", "bulle": "Zéro portable au primaire et au collège !", "puissance": 18, "mesure": "philippe-education-3" }
+    ],
+    "retraites": [
+      { "id": "philippe-retraites-1", "nom": "Départs anticipés maintenus", "bulle": "Un Français sur trois partira avant 65 ans !", "puissance": 14, "mesure": "philippe-retraites-1" },
+      { "id": "philippe-retraites-2", "nom": "Capitalisation pour tous", "bulle": "500 € d'épargne retraite au premier job !", "puissance": 16, "mesure": "philippe-retraites-2" },
+      { "id": "philippe-retraites-3", "nom": "Retraite progressive", "bulle": "Cumuler emploi et retraite, c'est permis !", "puissance": 18, "mesure": "philippe-retraites-3" }
+    ],
+    "pouvoir-achat": [
+      { "id": "philippe-pouvoir-achat-1", "nom": "Allocation unique 350 €", "bulle": "350 € d'allocs dès le premier enfant !", "puissance": 14, "mesure": "philippe-pouvoir-achat-1" },
+      { "id": "philippe-pouvoir-achat-2", "nom": "Zéro impôt pour bébé", "bulle": "Pas d'impôt les 3 premières années du bébé !", "puissance": 16, "mesure": "philippe-pouvoir-achat-2" },
+      { "id": "philippe-pouvoir-achat-3", "nom": "Temps partiel parental", "bulle": "80 % travaillé, 100 % payé !", "puissance": 18, "mesure": "philippe-pouvoir-achat-3" }
+    ],
+    "immigration": [
+      { "id": "philippe-immigration-1", "nom": "Fin de l'accord de 1968", "bulle": "On dénonce l'accord de 1968 !", "puissance": 14, "mesure": "philippe-immigration-1" },
+      { "id": "philippe-immigration-2", "nom": "Regroupement familial suspendu", "bulle": "Regroupement familial en pause !", "puissance": 16, "mesure": "philippe-immigration-2" },
+      { "id": "philippe-immigration-3", "nom": "Quotas migratoires", "bulle": "Des quotas pour l'immigration de travail !", "puissance": 18, "mesure": "philippe-immigration-3" }
+    ],
+    "ecologie": [
+      { "id": "philippe-ecologie-1", "nom": "Fonds adaptation 2 Md€", "bulle": "2 milliards par an pour s'adapter !", "puissance": 14, "mesure": "philippe-ecologie-1" },
+      { "id": "philippe-ecologie-2", "nom": "Taxe carbone aux frontières", "bulle": "Le carbone importé paiera aux frontières !", "puissance": 16, "mesure": "philippe-ecologie-2" },
+      { "id": "philippe-ecologie-3", "nom": "Bonus électrique occasion", "bulle": "Même bonus pour l'électrique d'occasion !", "puissance": 18, "mesure": "philippe-ecologie-3" }
+    ],
+    "sante": [
+      { "id": "philippe-sante-1", "nom": "Santé mentale à l'école", "bulle": "La santé mentale des élèves d'abord !", "puissance": 14, "mesure": "philippe-sante-1" },
+      { "id": "philippe-sante-2", "nom": "Prévention avant dépense", "bulle": "Dépenser mieux, prévenir plus !", "puissance": 16, "mesure": "philippe-sante-2" },
+      { "id": "philippe-sante-3", "nom": "Délai avant rupture", "bulle": "Pas de rupture juste après un arrêt maladie !", "puissance": 18, "mesure": "philippe-sante-3" }
+    ],
+    "securite": [
+      { "id": "philippe-securite-1", "nom": "Peines planchers ciblées", "bulle": "Peines planchers pour qui frappe un prof !", "puissance": 14, "mesure": "philippe-securite-1" },
+      { "id": "philippe-securite-2", "nom": "État d'urgence narco", "bulle": "État d'urgence contre le narcotrafic !", "puissance": 16, "mesure": "philippe-securite-2" },
+      { "id": "philippe-securite-3", "nom": "Maires qui sanctionnent", "bulle": "Le maire pourra sanctionner les incivilités !", "puissance": 18, "mesure": "philippe-securite-3" }
+    ],
+    "europe": [
+      { "id": "philippe-europe-1", "nom": "Buy European Tech Act", "bulle": "Achetons de la tech européenne !", "puissance": 14, "mesure": "philippe-europe-1" },
+      { "id": "philippe-europe-2", "nom": "Verrou Schengen", "bulle": "Pas de régularisation massive en solo !", "puissance": 16, "mesure": "philippe-europe-2" },
+      { "id": "philippe-europe-3", "nom": "Transferts de technologie", "bulle": "La Chine devra partager sa technologie !", "puissance": 18, "mesure": "philippe-europe-3" }
+    ]
+  },
+  "ultimes": {
+    "education": { "id": "philippe-education-u", "nom": "+20 % pour les profs", "bulle": "+20 % de salaire pour les profs !", "puissance": 32, "mesure": "philippe-education-u" },
+    "retraites": { "id": "philippe-retraites-u", "nom": "Retraite à 65 ans", "bulle": "65 ans et 45 ans de cotisation !", "puissance": 32, "mesure": "philippe-retraites-u" },
+    "pouvoir-achat": { "id": "philippe-pouvoir-achat-u", "nom": "Travailler plus paie", "bulle": "2 heures de plus, 1 000 € par an !", "puissance": 32, "mesure": "philippe-pouvoir-achat-u" },
+    "immigration": { "id": "philippe-immigration-u", "nom": "Immigration divisée par deux", "bulle": "Diviser l'immigration par deux !", "puissance": 32, "mesure": "philippe-immigration-u" },
+    "ecologie": { "id": "philippe-ecologie-u", "nom": "8 EPR de plus", "bulle": "8 EPR de plus, en plus des 6 !", "puissance": 32, "mesure": "philippe-ecologie-u" },
+    "sante": { "id": "philippe-sante-u", "nom": "3 jours de carence pour tous", "bulle": "3 jours de carence, public comme privé !", "puissance": 32, "mesure": "philippe-sante-u" },
+    "securite": { "id": "philippe-securite-u", "nom": "Fin du juge d'application des peines", "bulle": "Ce que le juge décide sera appliqué !", "puissance": 32, "mesure": "philippe-securite-u" },
+    "europe": { "id": "philippe-europe-u", "nom": "Armée massifiée", "bulle": "250 000 réservistes sous les drapeaux !", "puissance": 32, "mesure": "philippe-europe-u" }
+  }
+}

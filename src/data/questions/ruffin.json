@@ -1,0 +1,384 @@
+[
+  {
+    "id": "ruffin-q-01",
+    "perso": "ruffin",
+    "sujet": "education",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Que promet Ruffin à chaque enfant pendant sa scolarité obligatoire ?",
+    "choix": [
+      "Un ordinateur portable",
+      "Un séjour en colonie financé",
+      "Un voyage à l'étranger",
+      "Le permis de conduire"
+    ],
+    "bonne": 1,
+    "explication": "Son cahier « temps des loisirs » garantit au moins un séjour collectif en colos financé pendant la scolarité obligatoire.",
+    "mesure": "ruffin-education-u",
+    "source": {
+      "url": "https://nouspresident.fr/temps-loisirs/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour renouer avec le temps des loisirs » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-q-02",
+    "perso": "ruffin",
+    "sujet": "retraites",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien de trimestres en métier pénible donneraient droit à un trimestre de retraite en plus ?",
+    "choix": [
+      "2",
+      "3",
+      "4",
+      "8"
+    ],
+    "bonne": 2,
+    "explication": "Pour quatre trimestres cotisés dans un métier pénible, un trimestre supplémentaire serait accordé.",
+    "mesure": "ruffin-retraites-1",
+    "source": {
+      "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour les travailleurs essentiels » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-q-03",
+    "perso": "ruffin",
+    "sujet": "pouvoir-achat",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quelles heures Ruffin veut-il payer double ?",
+    "choix": [
+      "Avant 8 h et après 18 h",
+      "Le dimanche uniquement",
+      "Au-delà de 35 h",
+      "Les jours fériés"
+    ],
+    "bonne": 0,
+    "explication": "Son cahier « travailleurs essentiels » prévoit de rémunérer double les heures avant 8 h et après 18 h.",
+    "mesure": "ruffin-pouvoir-achat-2",
+    "source": {
+      "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour les travailleurs essentiels » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-q-04",
+    "perso": "ruffin",
+    "sujet": "immigration",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Sur France 2 en avril 2026, Ruffin s'est dit hostile à quoi ?",
+    "choix": [
+      "Au droit d'asile",
+      "Au regroupement familial",
+      "À l'immigration pour le travail",
+      "À la double nationalité"
+    ],
+    "bonne": 2,
+    "explication": "Le 28 avril 2026, il a déclaré : « Moi, je suis hostile à l'immigration pour le travail », visant notamment le recrutement de médecins étrangers.",
+    "mesure": "ruffin-immigration-u",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-limmigration-nouveau-clivage-a-gauche",
+      "libelle": "Public Sénat, « Présidentielle : l'immigration, nouveau clivage à gauche »",
+      "date": "2026-05-11"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-q-05",
+    "perso": "ruffin",
+    "sujet": "ecologie",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "En dessous de quelle durée en train Ruffin veut-il interdire les vols intérieurs ?",
+    "choix": [
+      "1 h 30",
+      "2 h 30",
+      "3 h",
+      "4 h"
+    ],
+    "bonne": 3,
+    "explication": "Il propose d'interdire les vols intérieurs quand le train fait le trajet en moins de 4 heures (contre 2 h 30 retenues sous Macron).",
+    "mesure": "ruffin-ecologie-u",
+    "source": {
+      "url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour un travaillisme écologique » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-q-06",
+    "perso": "ruffin",
+    "sujet": "sante",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Sur quel pesticide Ruffin réclame-t-il une enquête épidémiologique payée par l'État ?",
+    "choix": [
+      "Le glyphosate",
+      "Le chlordécone",
+      "Le DDT",
+      "Les néonicotinoïdes"
+    ],
+    "bonne": 1,
+    "explication": "Il demande une enquête sur les effets du chlordécone sur les ouvriers agricoles des bananeraies de Martinique.",
+    "mesure": "ruffin-sante-1",
+    "source": {
+      "url": "https://francoisruffin.fr/letat-doit-payer-une-enquete-epidemiologique/",
+      "libelle": "François Ruffin, « L'État doit payer une enquête épidémiologique ! »",
+      "date": "2025-05-05"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-q-07",
+    "perso": "ruffin",
+    "sujet": "securite",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Selon le programme de Ruffin, que doit faire un ministre mis en examen ?",
+    "choix": [
+      "Quitter immédiatement le gouvernement",
+      "Rester jusqu'au jugement",
+      "Passer devant le Parlement",
+      "Suspendre son salaire"
+    ],
+    "bonne": 0,
+    "explication": "Son cahier sur la probité prévoit qu'« un ministre mis en examen quittera immédiatement le Gouvernement ».",
+    "mesure": "ruffin-securite-u",
+    "source": {
+      "url": "https://nouspresident.fr/separation-argent-etat/",
+      "libelle": "Nous Président (campagne Ruffin), cahier « Pour séparer l'argent de l'État » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-q-08",
+    "perso": "ruffin",
+    "sujet": "europe",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien de produits stratégiques compte le « plan » protectionniste de Ruffin ?",
+    "choix": [
+      "10",
+      "50",
+      "100",
+      "500"
+    ],
+    "bonne": 2,
+    "explication": "Il propose un « plan des 100 » produits stratégiques protégés par des droits de douane et des quotas.",
+    "mesure": "ruffin-europe-u",
+    "source": {
+      "url": "https://legrandcontinent.eu/fr/2026/02/25/pour-une-declaration-dindependance-la-doctrine-ruffin-sur-leurope/",
+      "libelle": "Le Grand Continent, « Pour une déclaration d'indépendance : la doctrine Ruffin sur l'Europe » (texte de F. Ruffin)",
+      "date": "2026-02-25"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-q-09",
+    "perso": "ruffin",
+    "sujet": "pouvoir-achat",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Quel journal François Ruffin a-t-il fondé à Amiens en 1999 ?",
+    "choix": [
+      "Fakir",
+      "Le Canard enchaîné",
+      "Charlie Hebdo",
+      "Le Monde diplomatique"
+    ],
+    "bonne": 0,
+    "explication": "Il a fondé Fakir en 1999 à Amiens ; le journal est devenu national en 2009.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "libelle": "Wikipédia, « François Ruffin »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-q-10",
+    "perso": "ruffin",
+    "sujet": "pouvoir-achat",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Quelle récompense a reçue son film « Merci patron ! » en 2017 ?",
+    "choix": [
+      "La Palme d'or",
+      "Le César du meilleur documentaire",
+      "L'Ours d'or",
+      "Le prix Albert-Londres"
+    ],
+    "bonne": 1,
+    "explication": "« Merci patron ! » a obtenu le César du meilleur film documentaire le 24 février 2017.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "libelle": "Wikipédia, « François Ruffin »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-q-11",
+    "perso": "ruffin",
+    "sujet": "securite",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "De quel département François Ruffin est-il député depuis 2017 ?",
+    "choix": [
+      "Nord",
+      "Aisne",
+      "Somme",
+      "Oise"
+    ],
+    "bonne": 2,
+    "explication": "Il est député de la 1re circonscription de la Somme depuis juin 2017, réélu en 2022 et 2024.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "libelle": "Wikipédia, « François Ruffin »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-q-12",
+    "perso": "ruffin",
+    "sujet": "europe",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "En quelle année Ruffin a-t-il officialisé sa rupture avec La France insoumise ?",
+    "choix": [
+      "2020",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "bonne": 3,
+    "explication": "Sa rupture avec LFI a été officialisée le 4 juillet 2024.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "libelle": "Wikipédia, « François Ruffin »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-q-13",
+    "perso": "ruffin",
+    "sujet": "retraites",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Comment s'appelle le mouvement que préside François Ruffin depuis juin 2025 ?",
+    "choix": [
+      "Debout !",
+      "Picardie insoumise",
+      "Place publique",
+      "Génération.s"
+    ],
+    "bonne": 0,
+    "explication": "Il préside le mouvement Debout ! depuis le 28 juin 2025.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "libelle": "Wikipédia, « François Ruffin »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-q-14",
+    "perso": "ruffin",
+    "sujet": "education",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Pour quelle émission de France Inter Ruffin a-t-il été reporter de 2005 à 2012 ?",
+    "choix": [
+      "Le Masque et la Plume",
+      "Affaires sensibles",
+      "Les Pieds sur terre",
+      "Là-bas si j'y suis"
+    ],
+    "bonne": 3,
+    "explication": "Il a été reporter pour « Là-bas si j'y suis » de Daniel Mermet de 2005 à 2012.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "libelle": "Wikipédia, « François Ruffin »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-q-15",
+    "perso": "ruffin",
+    "sujet": "ecologie",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Avec quel réalisateur Ruffin a-t-il coréalisé « J'veux du soleil » (2019) ?",
+    "choix": [
+      "Gilles Perret",
+      "Michael Moore",
+      "Raymond Depardon",
+      "Jacques Audiard"
+    ],
+    "bonne": 0,
+    "explication": "« J'veux du soleil », sorti en avril 2019, est coréalisé avec Gilles Perret.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "libelle": "Wikipédia, « François Ruffin »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-q-16",
+    "perso": "ruffin",
+    "sujet": "sante",
+    "categorie": "culte",
+    "difficulte": 2,
+    "question": "Quel maillot Ruffin a-t-il porté à l'Assemblée en décembre 2017 ?",
+    "choix": [
+      "Celui de l'équipe de France",
+      "Celui de l'Olympique eaucourtois",
+      "Celui de l'Amiens SC",
+      "Celui du PSG"
+    ],
+    "bonne": 1,
+    "explication": "Le 7 décembre 2017, il a porté le maillot de l'Olympique eaucourtois, petit club de la Somme, et a été sanctionné.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "libelle": "Wikipédia, « François Ruffin »",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "ruffin-q-17",
+    "perso": "ruffin",
+    "sujet": "pouvoir-achat",
+    "categorie": "culte",
+    "difficulte": 2,
+    "question": "Sous quelle forme Ruffin a-t-il organisé son premier rendez-vous de campagne à Lyon en avril 2026 ?",
+    "choix": [
+      "Un meeting au stade",
+      "Un débat télévisé",
+      "Un « entretien d'embauche » avec les habitants",
+      "Un banquet républicain"
+    ],
+    "bonne": 2,
+    "explication": "Le 25 avril 2026, place Louis-Pradel, il a proposé un « entretien d'embauche » où les habitants posent les questions.",
+    "source": {
+      "url": "https://www.lyonmag.com/article/151368/presidentielle-2027-francois-ruffin-candidat-son-premier-meeting-entretien-d-embauche-programme-a-lyon",
+      "libelle": "Lyon Mag, « François Ruffin candidat, son premier meeting/entretien d'embauche programmé à Lyon »",
+      "date": "2026-04-10"
+    },
+    "statut": "ok"
+  }
+]

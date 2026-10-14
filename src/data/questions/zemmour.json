@@ -1,0 +1,384 @@
+[
+  {
+    "id": "zemmour-q-01",
+    "perso": "zemmour",
+    "sujet": "education",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quelles filières Zemmour voulait-il rétablir au lycée en 2022 ?",
+    "choix": [
+      "Pro, techno et générale",
+      "Littéraire, scientifique et économique",
+      "Arts, sport et langues",
+      "Aucune, il voulait un tronc commun"
+    ],
+    "bonne": 1,
+    "explication": "Son programme 2022 prévoyait le retour des filières littéraire, scientifique et économique.",
+    "mesure": "zemmour-education-2",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-q-02",
+    "perso": "zemmour",
+    "sujet": "retraites",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "À combien Zemmour voulait-il porter la pension de réversion (contre 54 %) ?",
+    "choix": [
+      "60 %",
+      "66 %",
+      "75 %",
+      "100 %"
+    ],
+    "bonne": 2,
+    "explication": "Le programme 2022 prévoyait de relever la réversion de 54 % à 75 %.",
+    "mesure": "zemmour-retraites-3",
+    "source": {
+      "url": "https://www.previssima.fr/actualite/presidentielle-2022-le-programme-deric-zemmour-europe-ecologie-les-verts-en-matiere-de-protection-sociale-infographie.html",
+      "libelle": "Previssima, « Présidentielle 2022 : le programme d'Éric Zemmour en matière de protection sociale »",
+      "date": "2022-03-28"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-q-03",
+    "perso": "zemmour",
+    "sujet": "pouvoir-achat",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "De combien Zemmour voulait-il baisser les impôts de production en 2022 ?",
+    "choix": [
+      "30 milliards d'euros",
+      "5 milliards d'euros",
+      "100 milliards d'euros",
+      "1 milliard d'euros"
+    ],
+    "bonne": 0,
+    "explication": "Le programme annonçait 30 Md€ de baisse (28 Md€ dans le chiffrage ultérieur).",
+    "mesure": "zemmour-pouvoir-achat-2",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-q-04",
+    "perso": "zemmour",
+    "sujet": "immigration",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Pour Zemmour (sept. 2026), au bout de combien de temps sans emploi un étranger serait-il expulsé ?",
+    "choix": [
+      "Un mois",
+      "Six mois",
+      "Cinq ans",
+      "Un an"
+    ],
+    "bonne": 3,
+    "explication": "Le 17 septembre 2026 sur BFMTV, il propose l'expulsion après un an sans travail, même en situation régulière.",
+    "mesure": "zemmour-immigration-3",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027",
+      "libelle": "Public Sénat, « Éric Zemmour officialise sa candidature à la présidentielle 2027 »",
+      "date": "2026-09-18"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-q-05",
+    "perso": "zemmour",
+    "sujet": "ecologie",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien de nouveaux EPR Zemmour voulait-il faire construire d'ici 2050 ?",
+    "choix": [
+      "6",
+      "14",
+      "25",
+      "50"
+    ],
+    "bonne": 1,
+    "explication": "Il demandait à EDF de construire 14 EPR à l'horizon 2050.",
+    "mesure": "zemmour-ecologie-u",
+    "source": {
+      "url": "https://www.franceinfo.fr/elections/presidentielle/eric-zemmour-j-arrete-toutes-les-eoliennes-on-va-faire-le-maximum-avec-le-nucleaire_4937419.html",
+      "libelle": "franceinfo, « J'arrête toutes les éoliennes (...) on va faire le maximum avec le nucléaire », émission 20h22 sur Twitch",
+      "date": "2022-02-01"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-q-06",
+    "perso": "zemmour",
+    "sujet": "sante",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien de personnels hospitaliers Zemmour voulait-il recruter en 2022 ?",
+    "choix": [
+      "4 000",
+      "400 000",
+      "1 million",
+      "40 000"
+    ],
+    "bonne": 3,
+    "explication": "Son programme 2022 prévoyait 40 000 recrutements à l'hôpital.",
+    "mesure": "zemmour-sante-u",
+    "source": {
+      "url": "https://www.previssima.fr/actualite/presidentielle-2022-le-programme-deric-zemmour-europe-ecologie-les-verts-en-matiere-de-protection-sociale-infographie.html",
+      "libelle": "Previssima, « Présidentielle 2022 : le programme d'Éric Zemmour en matière de protection sociale »",
+      "date": "2022-03-28"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-q-07",
+    "perso": "zemmour",
+    "sujet": "securite",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "À quel âge Zemmour voulait-il fixer la majorité pénale ?",
+    "choix": [
+      "16 ans",
+      "14 ans",
+      "13 ans",
+      "21 ans"
+    ],
+    "bonne": 0,
+    "explication": "Il proposait d'abaisser la majorité pénale de 18 à 16 ans.",
+    "mesure": "zemmour-securite-1",
+    "source": {
+      "url": "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html",
+      "libelle": "Le Monde du Droit, « Présidentielle 2022 : quelles sont les propositions d'Éric Zemmour en matière de justice ? »",
+      "date": "2022-02-15"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-q-08",
+    "perso": "zemmour",
+    "sujet": "europe",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quel budget de la défense Zemmour visait-il pour 2030 ?",
+    "choix": [
+      "30 milliards d'euros",
+      "50 milliards d'euros",
+      "70 milliards d'euros",
+      "150 milliards d'euros"
+    ],
+    "bonne": 2,
+    "explication": "Il proposait de porter le budget des armées à 70 Md€ en 2030.",
+    "mesure": "zemmour-europe-2",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "libelle": "Public Sénat, « Présidentielle 2022 : Éric Zemmour détaille son programme et assume le terme « remigration » »",
+      "date": "2022-03-23"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-q-09",
+    "perso": "zemmour",
+    "sujet": "immigration",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Quel score Zemmour a-t-il obtenu au 1er tour de la présidentielle 2022 ?",
+    "choix": [
+      "7,07 %",
+      "2,3 %",
+      "13,1 %",
+      "17,9 %"
+    ],
+    "bonne": 0,
+    "explication": "Le 10 avril 2022, il termine 4e avec 7,07 % des suffrages exprimés.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+      "libelle": "Wikipédia, « Éric Zemmour » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-q-10",
+    "perso": "zemmour",
+    "sujet": "immigration",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Où Zemmour a-t-il tenu son premier grand meeting le 5 décembre 2021 ?",
+    "choix": [
+      "Au Zénith de Lille",
+      "Au Trocadéro",
+      "À Villepinte",
+      "Au Palais des sports de Marseille"
+    ],
+    "bonne": 2,
+    "explication": "Il réunit entre 13 000 et 15 000 personnes au parc des expositions Paris-Nord Villepinte.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+      "libelle": "Wikipédia, « Éric Zemmour » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-q-11",
+    "perso": "zemmour",
+    "sujet": "education",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "En quelle année Zemmour a-t-il publié « Le Suicide français » ?",
+    "choix": [
+      "2006",
+      "2010",
+      "2018",
+      "2014"
+    ],
+    "bonne": 3,
+    "explication": "L'essai « Le Suicide français » paraît en 2014.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+      "libelle": "Wikipédia, « Éric Zemmour » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-q-12",
+    "perso": "zemmour",
+    "sujet": "education",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Dans quelle émission Zemmour a-t-il débattu aux côtés d'Éric Naulleau à partir de 2006 ?",
+    "choix": [
+      "On n'est pas couché",
+      "Quotidien",
+      "C dans l'air",
+      "Le Grand Journal"
+    ],
+    "bonne": 0,
+    "explication": "Il rejoint « On n'est pas couché » sur France 2 en septembre 2006 avec Éric Naulleau.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+      "libelle": "Wikipédia, « Éric Zemmour » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-q-13",
+    "perso": "zemmour",
+    "sujet": "securite",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Sur quelle chaîne Zemmour animait-il « Face à l'info » à partir d'octobre 2019 ?",
+    "choix": [
+      "BFMTV",
+      "CNews",
+      "LCI",
+      "France 5"
+    ],
+    "bonne": 1,
+    "explication": "« Face à l'info » démarre le 14 octobre 2019 sur CNews.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+      "libelle": "Wikipédia, « Éric Zemmour » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-q-14",
+    "perso": "zemmour",
+    "sujet": "securite",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Dans quel département Zemmour s'est-il présenté aux législatives de 2022 ?",
+    "choix": [
+      "Les Alpes-Maritimes",
+      "Paris",
+      "Le Var",
+      "La Seine-Saint-Denis"
+    ],
+    "bonne": 2,
+    "explication": "Candidat dans la 4e circonscription du Var, il est éliminé au 1er tour avec 23,19 %.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+      "libelle": "Wikipédia, « Éric Zemmour » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-q-15",
+    "perso": "zemmour",
+    "sujet": "ecologie",
+    "categorie": "culte",
+    "difficulte": 3,
+    "question": "Sur Twitch en 2022, Zemmour dit : « J'arrête toutes les… » quoi ?",
+    "choix": [
+      "centrales à charbon",
+      "éoliennes",
+      "voitures thermiques",
+      "autoroutes"
+    ],
+    "bonne": 1,
+    "explication": "Le 1er février 2022 : « J'arrête toutes les éoliennes parce que c'est une catastrophe… ».",
+    "source": {
+      "url": "https://www.franceinfo.fr/elections/presidentielle/eric-zemmour-j-arrete-toutes-les-eoliennes-on-va-faire-le-maximum-avec-le-nucleaire_4937419.html",
+      "libelle": "franceinfo, « J'arrête toutes les éoliennes (...) on va faire le maximum avec le nucléaire », émission 20h22 sur Twitch",
+      "date": "2022-02-01"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-q-16",
+    "perso": "zemmour",
+    "sujet": "europe",
+    "categorie": "culte",
+    "difficulte": 3,
+    "question": "À Villepinte, Zemmour lance : « Nous ne sommes pas les vassaux… » de qui ?",
+    "choix": [
+      "de Bruxelles",
+      "de l'Allemagne",
+      "de la Chine",
+      "des États-Unis"
+    ],
+    "bonne": 3,
+    "explication": "Au meeting du 5 décembre 2021, il justifie ainsi sa volonté de quitter le commandement intégré de l'OTAN.",
+    "source": {
+      "url": "https://www.vudailleurs.com/zemmour-je-veux-que-la-france-sorte-du-commandement-militaire-integre-de-lotan/",
+      "libelle": "Vudailleurs.com, « Zemmour : « Je veux que la France sorte du commandement militaire intégré de l'Otan » » (meeting de Villepinte)",
+      "date": "2021-12-07"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "zemmour-q-17",
+    "perso": "zemmour",
+    "sujet": "europe",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Sur quelle chaîne Zemmour a-t-il confirmé sa candidature pour 2027, le 17 septembre 2026 ?",
+    "choix": [
+      "BFMTV",
+      "TF1",
+      "France 2",
+      "CNews"
+    ],
+    "bonne": 0,
+    "explication": "Sur BFMTV, il déclare : « Je serai candidat à l'élection présidentielle. »",
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871",
+      "libelle": "LCP, « Présidentielle 2027 : Éric Zemmour officialise sa candidature »",
+      "date": "2026-09-17"
+    },
+    "statut": "ok"
+  }
+]

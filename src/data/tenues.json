@@ -1,0 +1,13 @@
+[
+  { "id": "echarpe-tricolore", "nom": "Écharpe tricolore", "rarete": "commune", "accessoire": "echarpe" },
+  { "id": "cocarde", "nom": "Cocarde de campagne", "rarete": "commune", "accessoire": "cocarde" },
+  { "id": "lunettes-soleil", "nom": "Lunettes de meeting", "rarete": "rare", "accessoire": "lunettes" },
+  { "id": "micro-or", "nom": "Micro doré", "rarete": "rare", "accessoire": "micro" },
+  { "id": "halo-dore", "nom": "Halo doré", "rarete": "epique", "filtre": "drop-shadow(0 0 12px #ffcc33)" },
+  { "id": "nuit-electorale", "nom": "Nuit électorale", "rarete": "epique", "filtre": "hue-rotate(200deg) saturate(1.4)" },
+  { "id": "couronne-phrygienne", "nom": "Bonnet phrygien doré", "rarete": "legendaire", "accessoire": "couronne" },
+  { "id": "niveau-2", "nom": "Badge bronze", "rarete": "commune", "niveauRequis": 2, "filtre": "drop-shadow(0 0 6px #cd7f32)" },
+  { "id": "niveau-3", "nom": "Badge argent", "rarete": "rare", "niveauRequis": 3, "filtre": "drop-shadow(0 0 8px #d9e1ea)" },
+  { "id": "niveau-4", "nom": "Badge or", "rarete": "epique", "niveauRequis": 4, "filtre": "drop-shadow(0 0 10px #ffcc33)" },
+  { "id": "niveau-5", "nom": "Aura présidentielle", "rarete": "legendaire", "niveauRequis": 5, "filtre": "drop-shadow(0 0 16px #ffe680) saturate(1.3)" }
+]

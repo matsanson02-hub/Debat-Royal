@@ -1,0 +1,482 @@
+[
+  {
+    "id": "dupont-aignan-education-1",
+    "perso": "dupont-aignan",
+    "sujet": "education",
+    "intitule": "Augmenter de 30 % les heures de français et de maths en primaire",
+    "detail": "Programme éducation de Debout la France : « Augmenter de 30 % les heures consacrées au français et aux mathématiques » et revenir à la méthode syllabique.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "libelle": "Debout la France, projet « Éducation » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-education-2",
+    "perso": "dupont-aignan",
+    "sujet": "education",
+    "intitule": "Un examen type certificat d'études pour entrer au collège",
+    "detail": "Programme éducation de Debout la France : un examen sur le modèle du certificat d'études à la sortie du primaire, dont les résultats conditionneraient l'entrée au collège.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "libelle": "Debout la France, projet « Éducation » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-education-3",
+    "perso": "dupont-aignan",
+    "sujet": "education",
+    "intitule": "Augmenter de 15 % en 4 ans le salaire net des professeurs",
+    "detail": "Programme éducation de Debout la France : « Augmenter de 15 % en 4 ans les salaires nets des professeurs ».",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "libelle": "Debout la France, projet « Éducation » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-education-u",
+    "perso": "dupont-aignan",
+    "sujet": "education",
+    "intitule": "Uniforme obligatoire et vouvoiement à l'école",
+    "detail": "Programme éducation de Debout la France : « Uniforme obligatoire, niveau de langage minimum et vouvoiement », première de ses 60 mesures sur l'autorité.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "libelle": "Debout la France, projet « Éducation » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-retraites-1",
+    "perso": "dupont-aignan",
+    "sujet": "retraites",
+    "intitule": "10 000 euros sur un livret retraite pour chaque nouveau-né",
+    "detail": "« Je propose 10 000 € sur un livret retraite pour chaque nouveau-né français, bloqués jusqu'à ses 60 ans. »",
+    "millesime": 2026,
+    "source": {
+      "url": "https://www.debout-la-france.fr/",
+      "libelle": "Debout la France, page d'accueil (proposition de N. Dupont-Aignan, consultée le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-retraites-2",
+    "perso": "dupont-aignan",
+    "sujet": "retraites",
+    "intitule": "Un minimum retraite par capitalisation et un fonds souverain",
+    "detail": "Rentrée politique de septembre 2026 : instaurer « un minimum retraite par capitalisation » et un fonds souverain « à la norvégienne » investi dans les entreprises françaises.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.epochtimes.fr/presidentielle-nicolas-dupont-aignan-annonce-sa-candidature-et-veut-decoloniser-la-france-par-le-frexit-3351411.html",
+      "libelle": "Epoch Times (avec AFP), « Présidentielle : Nicolas Dupont-Aignan annonce sa candidature et veut décoloniser la France par le Frexit »",
+      "date": "2026-09-20"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-retraites-3",
+    "perso": "dupont-aignan",
+    "sujet": "retraites",
+    "intitule": "Minimum vieillesse réservé aux étrangers ayant cotisé 10 ans",
+    "detail": "Programme 2022 : priver de l'ASPA (minimum vieillesse) les étrangers n'ayant pas cotisé au moins dix ans en France.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-le-grand-ecart-des-propositions-sur-les-retraites-107244",
+      "libelle": "LCP, « Présidentielle : le grand écart des propositions sur les retraites »",
+      "date": "2022-03-22"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-retraites-u",
+    "perso": "dupont-aignan",
+    "sujet": "retraites",
+    "intitule": "Âge légal de départ à 62 ans et 9 mois, pensions indexées",
+    "detail": "Rentrée politique du 19 septembre 2026 : ramener l'âge légal de départ à 62 ans et neuf mois, sans désindexation des pensions.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.epochtimes.fr/presidentielle-nicolas-dupont-aignan-annonce-sa-candidature-et-veut-decoloniser-la-france-par-le-frexit-3351411.html",
+      "libelle": "Epoch Times (avec AFP), « Présidentielle : Nicolas Dupont-Aignan annonce sa candidature et veut décoloniser la France par le Frexit »",
+      "date": "2026-09-20"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-pouvoir-achat-1",
+    "perso": "dupont-aignan",
+    "sujet": "pouvoir-achat",
+    "intitule": "Défiscaliser les heures supplémentaires",
+    "detail": "Rentrée politique de septembre 2026 : défiscalisation des heures supplémentaires, parmi des mesures fiscales destinées à « favoriser le travail ».",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.epochtimes.fr/presidentielle-nicolas-dupont-aignan-annonce-sa-candidature-et-veut-decoloniser-la-france-par-le-frexit-3351411.html",
+      "libelle": "Epoch Times (avec AFP), « Présidentielle : Nicolas Dupont-Aignan annonce sa candidature et veut décoloniser la France par le Frexit »",
+      "date": "2026-09-20"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-pouvoir-achat-2",
+    "perso": "dupont-aignan",
+    "sujet": "pouvoir-achat",
+    "intitule": "Supprimer la TVA appliquée à la taxe sur les carburants (TICPE)",
+    "detail": "Programme « automobilistes » (livret janvier 2026) : « Supprimer la TVA sur la TICPE » pour faire baisser le prix des carburants.",
+    "millesime": 2026,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+      "libelle": "Debout la France, projet « Automobilistes et motards » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-pouvoir-achat-3",
+    "perso": "dupont-aignan",
+    "sujet": "pouvoir-achat",
+    "intitule": "Supprimer les droits de succession sur la résidence principale",
+    "detail": "Rentrée politique de septembre 2026 : suppression des frais de succession sur la résidence principale.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.epochtimes.fr/presidentielle-nicolas-dupont-aignan-annonce-sa-candidature-et-veut-decoloniser-la-france-par-le-frexit-3351411.html",
+      "libelle": "Epoch Times (avec AFP), « Présidentielle : Nicolas Dupont-Aignan annonce sa candidature et veut décoloniser la France par le Frexit »",
+      "date": "2026-09-20"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-pouvoir-achat-u",
+    "perso": "dupont-aignan",
+    "sujet": "pouvoir-achat",
+    "intitule": "Renationaliser les autoroutes et supprimer les péages d'ici 2030",
+    "detail": "Programme « automobilistes » (livret janvier 2026) : renationaliser les autoroutes, geler les péages puis les supprimer d'ici 2030, l'entretien étant financé par une taxe sur les poids lourds étrangers.",
+    "millesime": 2026,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+      "libelle": "Debout la France, projet « Automobilistes et motards » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-immigration-1",
+    "perso": "dupont-aignan",
+    "sujet": "immigration",
+    "intitule": "Sortir de Schengen et recruter 10 000 agents aux frontières",
+    "detail": "Programme immigration (mars 2026) : « Rétablir le contrôle aux frontières en sortant de Schengen, en recrutant 10 000 agents spécialisés ».",
+    "millesime": 2026,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "libelle": "Debout la France, projet « Immigration et assimilation » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-immigration-2",
+    "perso": "dupont-aignan",
+    "sujet": "immigration",
+    "intitule": "Remplacer l'AME par des dispensaires d'urgence",
+    "detail": "Programme immigration (mars 2026) : suppression de l'aide médicale d'État et création dans chaque département d'un dispensaire d'urgence pour les étrangers en situation irrégulière.",
+    "millesime": 2026,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "libelle": "Debout la France, projet « Immigration et assimilation » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-immigration-3",
+    "perso": "dupont-aignan",
+    "sujet": "immigration",
+    "intitule": "Rétablir le délit de séjour irrégulier",
+    "detail": "Programme immigration (mars 2026) : « Rétablir le délit de séjour irrégulier puni d'emprisonnement ferme ».",
+    "millesime": 2026,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "libelle": "Debout la France, projet « Immigration et assimilation » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-immigration-u",
+    "perso": "dupont-aignan",
+    "sujet": "immigration",
+    "intitule": "Supprimer le droit du sol par référendum",
+    "detail": "Programme immigration (mars 2026) : « Supprimer le droit du sol via un référendum », la naturalisation restant possible sous conditions (10 ans de résidence notamment).",
+    "millesime": 2026,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "libelle": "Debout la France, projet « Immigration et assimilation » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-ecologie-1",
+    "perso": "dupont-aignan",
+    "sujet": "ecologie",
+    "intitule": "Doubler MaPrimeRénov' de 3 à 6 milliards d'euros",
+    "detail": "Programme environnement et énergie : doubler MaPrimeRénov', de 3 à 6 milliards d'euros, et financer le remplacement des chaudières.",
+    "millesime": 2026,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/environnement-energie/",
+      "libelle": "Debout la France, projet « Environnement et énergie » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-ecologie-2",
+    "perso": "dupont-aignan",
+    "sujet": "ecologie",
+    "intitule": "Supprimer définitivement les zones à faibles émissions (ZFE)",
+    "detail": "Programme « automobilistes » (livret janvier 2026) : « Acter la suppression définitive des Zones à Faibles Émissions ».",
+    "millesime": 2026,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+      "libelle": "Debout la France, projet « Automobilistes et motards » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-ecologie-3",
+    "perso": "dupont-aignan",
+    "sujet": "ecologie",
+    "intitule": "Abroger l'interdiction des voitures thermiques neuves en 2035",
+    "detail": "Programme « automobilistes » (livret janvier 2026) : abroger l'interdiction européenne de vente des véhicules thermiques à partir de 2035.",
+    "millesime": 2026,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+      "libelle": "Debout la France, projet « Automobilistes et motards » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-ecologie-u",
+    "perso": "dupont-aignan",
+    "sujet": "ecologie",
+    "intitule": "Garder au moins 70 % d'électricité d'origine nucléaire",
+    "detail": "Programme environnement et énergie : abandonner l'objectif de 50 % de nucléaire en 2035, maintenir au minimum 70 % de la production électrique et développer les réacteurs de génération IV.",
+    "millesime": 2026,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/environnement-energie/",
+      "libelle": "Debout la France, projet « Environnement et énergie » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-sante-1",
+    "perso": "dupont-aignan",
+    "sujet": "sante",
+    "intitule": "Une bourse aux étudiants en médecine contre 5 ans en zone sous-dotée",
+    "detail": "Programme 2022 : des bourses pour les étudiants en médecine qui acceptent d'exercer cinq ans dans les déserts médicaux.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-quelle-reforme-de-la-sante-pour-les-candidats-107247",
+      "libelle": "LCP, « Présidentielle : quelle réforme de la santé pour les candidats ? »",
+      "date": "2022-03-25"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-sante-2",
+    "perso": "dupont-aignan",
+    "sujet": "sante",
+    "intitule": "Arrêter immédiatement les fermetures de lits à l'hôpital",
+    "detail": "Programme 2022 : arrêter « immédiatement » les fermetures de lits hospitaliers.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-quelle-reforme-de-la-sante-pour-les-candidats-107247",
+      "libelle": "LCP, « Présidentielle : quelle réforme de la santé pour les candidats ? »",
+      "date": "2022-03-25"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-sante-3",
+    "perso": "dupont-aignan",
+    "sujet": "sante",
+    "intitule": "Des primes spécifiques pour la pénibilité à l'hôpital",
+    "detail": "Programme 2022 : créer des « primes spécifiques » pour tenir compte de la pénibilité du travail hospitalier.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-quelle-reforme-de-la-sante-pour-les-candidats-107247",
+      "libelle": "LCP, « Présidentielle : quelle réforme de la santé pour les candidats ? »",
+      "date": "2022-03-25"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-sante-u",
+    "perso": "dupont-aignan",
+    "sujet": "sante",
+    "intitule": "Former environ 12 000 médecins par an",
+    "detail": "Programme 2022 : relever le numerus clausus pour former environ 12 000 médecins supplémentaires par an.",
+    "millesime": 2022,
+    "source": {
+      "url": "https://lcp.fr/actualites/presidentielle-quelle-reforme-de-la-sante-pour-les-candidats-107247",
+      "libelle": "LCP, « Présidentielle : quelle réforme de la santé pour les candidats ? »",
+      "date": "2022-03-25"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-securite-1",
+    "perso": "dupont-aignan",
+    "sujet": "securite",
+    "intitule": "10 000 policiers et gendarmes de plus en 5 ans",
+    "detail": "Programme sécurité (livret octobre 2025) : 10 000 policiers et gendarmes supplémentaires nets en 5 ans, plus 10 000 douaniers et policiers aux frontières.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/securite/",
+      "libelle": "Debout la France, projet « Sécurité » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-securite-2",
+    "perso": "dupont-aignan",
+    "sujet": "securite",
+    "intitule": "Présomption de légitime défense pour les policiers",
+    "detail": "Programme sécurité (livret octobre 2025) : présomption de légitime défense pour un policier ayant fait usage de son arme, jusqu'à preuve du contraire.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/securite/",
+      "libelle": "Debout la France, projet « Sécurité » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-securite-3",
+    "perso": "dupont-aignan",
+    "sujet": "securite",
+    "intitule": "Une prison ultra-sécurisée de 600 places en Guyane",
+    "detail": "Programme sécurité (livret octobre 2025) : un établissement ultra-sécurisé de 600 places en Guyane, accessible par voie aérienne, cellules individuelles 22 h sur 24.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/securite/",
+      "libelle": "Debout la France, projet « Sécurité » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-securite-u",
+    "perso": "dupont-aignan",
+    "sujet": "securite",
+    "intitule": "Créer 40 000 places de prison",
+    "detail": "Programme sécurité (livret octobre 2025) : 40 000 places, dont 20 000 par réhabilitation de casernes désaffectées, et 20 000 surveillants supplémentaires.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/securite/",
+      "libelle": "Debout la France, projet « Sécurité » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-europe-1",
+    "perso": "dupont-aignan",
+    "sujet": "europe",
+    "intitule": "Sortir du marché européen de l'électricité",
+    "detail": "Programme Affaires européennes : « Sortir du marché européen de l'électricité » pour rétablir un prix national, sur le modèle de l'Espagne et du Portugal.",
+    "millesime": 2026,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+      "libelle": "Debout la France, projet « Affaires européennes » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-europe-2",
+    "perso": "dupont-aignan",
+    "sujet": "europe",
+    "intitule": "Supprimer la contribution nette de la France au budget de l'UE",
+    "detail": "Programme Affaires européennes : supprimer la contribution nette de la France, évaluée par le parti à 10 milliards d'euros par an.",
+    "millesime": 2026,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+      "libelle": "Debout la France, projet « Affaires européennes » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-europe-3",
+    "perso": "dupont-aignan",
+    "sujet": "europe",
+    "intitule": "Refuser définitivement l'accord UE-Mercosur",
+    "detail": "Programme Affaires européennes : refuser « définitivement l'accord de libre-échange entre l'Union européenne et le Mercosur » et rompre le CETA.",
+    "millesime": 2026,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+      "libelle": "Debout la France, projet « Affaires européennes » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "dupont-aignan-europe-u",
+    "perso": "dupont-aignan",
+    "sujet": "europe",
+    "intitule": "Un référendum sur la sortie de la France de l'Union européenne",
+    "detail": "Programme Affaires européennes : « Organiser un référendum sur l'appartenance de la France à l'Union européenne » ; la France la quitterait si le peuple l'accepte.",
+    "millesime": 2026,
+    "source": {
+      "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+      "libelle": "Debout la France, projet « Affaires européennes » (consulté le 14/10/2026)",
+      "date": "2026-10-14"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  }
+]

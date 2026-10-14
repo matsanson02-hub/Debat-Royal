@@ -1,0 +1,362 @@
+[
+  {
+    "id": "bertrand-q-01",
+    "perso": "bertrand",
+    "sujet": "education",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Dans combien de lycées pros la Région de Bertrand a-t-elle lancé la tenue unique en 2024 ?",
+    "choix": [
+      "2",
+      "20",
+      "200",
+      "Tous ceux de la région"
+    ],
+    "bonne": 0,
+    "explication": "L'expérimentation concerne deux lycées professionnels, à Crépy-en-Valois et Halluin.",
+    "mesure": "bertrand-education-2",
+    "source": {
+      "url": "https://generation.hautsdefrance.fr/crepy-en-valois-xavier-bertrand-remet-la-tenue-unique-aux-eleves/",
+      "libelle": "Région Hauts-de-France, « Crépy-en-Valois : Xavier Bertrand remet la tenue unique aux élèves »",
+      "date": "2024-09-02"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-q-02",
+    "perso": "bertrand",
+    "sujet": "retraites",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "En 2021, combien d'années de travail en plus Bertrand demandait-il d'ici la fin de la décennie ?",
+    "choix": [
+      "Six mois",
+      "Une",
+      "Deux",
+      "Cinq"
+    ],
+    "bonne": 2,
+    "explication": "Il proposait « deux années de travail en plus » pour atteindre 64 ans, sauf pour les métiers usants.",
+    "mesure": "bertrand-retraites-u",
+    "source": {
+      "url": "https://www.connaissancedesenergies.org/afp/election-presidentielle-xavier-bertrand-tacle-tout-va-ses-reflexions-sur-lenergie-211004",
+      "libelle": "Connaissance des Énergies / AFP, « Élection présidentielle : Xavier Bertrand tacle le tout-va… » (entretien franceinfo)",
+      "date": "2021-10-04"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-q-03",
+    "perso": "bertrand",
+    "sujet": "pouvoir-achat",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Avec la « prime au travail », quel revenu minimum Bertrand promettait-il à temps plein ?",
+    "choix": [
+      "1 200 € net",
+      "1 500 € net",
+      "2 000 € net",
+      "2 500 € net"
+    ],
+    "bonne": 1,
+    "explication": "Tous les salariés à temps complet devaient toucher au moins 1 500 € net par mois.",
+    "mesure": "bertrand-pouvoir-achat-u",
+    "source": {
+      "url": "https://www.nousfrance.fr/2021/10/pour-une-societe-du-travail/",
+      "libelle": "Nous France (site de Xavier Bertrand), « Pour une société du travail » (discours de Saint-Denis)",
+      "date": "2021-10-02"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-q-04",
+    "perso": "bertrand",
+    "sujet": "immigration",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Par combien Bertrand voulait-il diviser l'immigration familiale d'ici 2027 ?",
+    "choix": [
+      "Par deux",
+      "Par dix",
+      "Par cinq",
+      "Par trois"
+    ],
+    "bonne": 3,
+    "explication": "Son programme de 2021 prévoyait de diviser l'immigration familiale par trois d'ici 2027.",
+    "mesure": "bertrand-immigration-1",
+    "source": {
+      "url": "https://www.nousfrance.fr/2021/11/immigration-reprenons-le-controle/",
+      "libelle": "Nous France (site de Xavier Bertrand), « Immigration : reprenons le contrôle » (propositions présentées près de Calais)",
+      "date": "2021-11-04"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-q-05",
+    "perso": "bertrand",
+    "sujet": "ecologie",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quand Bertrand promettait-il de décider la construction de nouveaux réacteurs ?",
+    "choix": [
+      "Dès l'été 2022",
+      "En 2030",
+      "Après un référendum",
+      "Jamais, il voulait en fermer"
+    ],
+    "bonne": 0,
+    "explication": "« C'est dès l'été 2022 que je prendrai la décision de lancer de nouveaux réacteurs », disait-il en avril 2021.",
+    "mesure": "bertrand-ecologie-u",
+    "source": {
+      "url": "https://www.linfodurable.fr/2022-xavier-bertrand-defend-le-nucleaire-energie-davenir-25206",
+      "libelle": "L'Info Durable / AFP, « 2022 : Xavier Bertrand défend le nucléaire, “énergie d'avenir” »",
+      "date": "2021-04-18"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-q-06",
+    "perso": "bertrand",
+    "sujet": "sante",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quel dispositif de santé Bertrand proposait-il de supprimer fin 2021 ?",
+    "choix": [
+      "La carte Vitale",
+      "Les ARS",
+      "L'aide médicale d'État",
+      "Le numerus apertus"
+    ],
+    "bonne": 2,
+    "explication": "Le Quotidien du médecin titre le 3 décembre 2021 : « Supprimer l'aide médicale d'État ».",
+    "mesure": "bertrand-sante-u",
+    "source": {
+      "url": "https://www.lequotidiendumedecin.fr/actus-medicales/politique-de-sante/xavier-bertrand-supprimer-laide-medicale-detat",
+      "libelle": "Le Quotidien du médecin, « Xavier Bertrand : “Supprimer l'aide médicale d'État” »",
+      "date": "2021-12-03"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-q-07",
+    "perso": "bertrand",
+    "sujet": "securite",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien de places de prison supplémentaires Bertrand voulait-il construire ?",
+    "choix": [
+      "2 000",
+      "20 000",
+      "80 000",
+      "200 000"
+    ],
+    "bonne": 1,
+    "explication": "À Saint-Quentin en septembre 2021, il qualifie ces 20 000 places de « priorité nationale ».",
+    "mesure": "bertrand-securite-2",
+    "source": {
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/aisne/xavier-bertrand-a-saint-quentin-dans-l-aisne-pour-presenter-ses-propositions-sur-le-theme-de-la-securite-2251381.html",
+      "libelle": "France 3 Hauts-de-France, « Xavier Bertrand à Saint-Quentin pour présenter ses propositions sur le thème de la sécurité »",
+      "date": "2021-09-15"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-q-08",
+    "perso": "bertrand",
+    "sujet": "europe",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quels accords franco-britanniques Bertrand veut-il dénoncer ?",
+    "choix": [
+      "Les accords de Lancaster House",
+      "Les accords d'Évian",
+      "Les accords de Schengen",
+      "Les accords du Touquet"
+    ],
+    "bonne": 3,
+    "explication": "En mai 2026, il demande de dénoncer les accords du Touquet (2003) sur les contrôles à la frontière.",
+    "mesure": "bertrand-europe-1",
+    "source": {
+      "url": "https://lcp.fr/actualites/accords-du-touquet-la-manche-est-en-train-de-devenir-un-cimetiere-marin-a-ciel-ouvert",
+      "libelle": "LCP, « Accords du Touquet : “La Manche est en train de devenir un cimetière marin à ciel ouvert” »",
+      "date": "2026-05-07"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-q-09",
+    "perso": "bertrand",
+    "sujet": "sante",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Quel ministère Xavier Bertrand a-t-il dirigé de 2005 à 2007 ?",
+    "choix": [
+      "La Santé",
+      "L'Intérieur",
+      "L'Éducation nationale",
+      "Les Finances"
+    ],
+    "bonne": 0,
+    "explication": "Il est ministre de la Santé et des Solidarités du 2 juin 2005 au 26 mars 2007.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "libelle": "Wikipédia, « Xavier Bertrand » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-q-10",
+    "perso": "bertrand",
+    "sujet": "pouvoir-achat",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Quel métier Xavier Bertrand exerçait-il avant la politique ?",
+    "choix": [
+      "Professeur d'histoire",
+      "Avocat",
+      "Agent général d'assurances",
+      "Médecin"
+    ],
+    "bonne": 2,
+    "explication": "Il est agent général d'assurances de 1992 à 2004.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "libelle": "Wikipédia, « Xavier Bertrand » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-q-11",
+    "perso": "bertrand",
+    "sujet": "securite",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "De quelle ville Xavier Bertrand a-t-il été maire de 2010 à 2016 ?",
+    "choix": [
+      "Amiens",
+      "Saint-Quentin",
+      "Lille",
+      "Arras"
+    ],
+    "bonne": 1,
+    "explication": "Il est maire de Saint-Quentin (Aisne) d'octobre 2010 à janvier 2016.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "libelle": "Wikipédia, « Xavier Bertrand » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-q-12",
+    "perso": "bertrand",
+    "sujet": "ecologie",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Depuis quand Xavier Bertrand préside-t-il la région Hauts-de-France ?",
+    "choix": [
+      "2010",
+      "2021",
+      "2004",
+      "2016"
+    ],
+    "bonne": 3,
+    "explication": "Il préside le conseil régional depuis le 4 janvier 2016.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "libelle": "Wikipédia, « Xavier Bertrand » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-q-13",
+    "perso": "bertrand",
+    "sujet": "immigration",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "Qui Bertrand a-t-il battu au 2nd tour des régionales de 2015 dans le Nord ?",
+    "choix": [
+      "Marine Le Pen",
+      "Martine Aubry",
+      "Jean-Luc Mélenchon",
+      "Sébastien Chenu"
+    ],
+    "bonne": 0,
+    "explication": "Il l'emporte avec 57,77 % face à Marine Le Pen, arrivée en tête au 1er tour.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "libelle": "Wikipédia, « Xavier Bertrand » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-q-14",
+    "perso": "bertrand",
+    "sujet": "retraites",
+    "categorie": "parcours",
+    "difficulte": 3,
+    "question": "À quelle place Bertrand a-t-il fini au 1er tour du congrès LR de décembre 2021 ?",
+    "choix": [
+      "1re",
+      "2e",
+      "4e",
+      "6e"
+    ],
+    "bonne": 2,
+    "explication": "Le 2 décembre 2021, il termine 4e avec 22,36 % et appelle à voter Valérie Pécresse.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "libelle": "Wikipédia, « Xavier Bertrand » (consulté)",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-q-15",
+    "perso": "bertrand",
+    "sujet": "europe",
+    "categorie": "culte",
+    "difficulte": 3,
+    "question": "Sur une primaire de la droite, Bertrand lance : « on n'est pas obligés de refaire… » quoi ?",
+    "choix": [
+      "les mêmes erreurs",
+      "les conneries à chaque fois",
+      "le match",
+      "l'histoire"
+    ],
+    "bonne": 1,
+    "explication": "Le 27 août 2026 : « Non, on n'est pas obligés de refaire les conneries à chaque fois. »",
+    "source": {
+      "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
+      "libelle": "LCP, « 2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle »",
+      "date": "2026-08-27"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "bertrand-q-16",
+    "perso": "bertrand",
+    "sujet": "immigration",
+    "categorie": "culte",
+    "difficulte": 3,
+    "question": "Selon Bertrand (mai 2026), la Manche devient « un cimetière marin… » ?",
+    "choix": [
+      "sans fin",
+      "oublié de tous",
+      "à ciel ouvert",
+      "européen"
+    ],
+    "bonne": 2,
+    "explication": "« La Manche est en train de devenir un cimetière marin à ciel ouvert », dit-il sur les accords du Touquet.",
+    "source": {
+      "url": "https://lcp.fr/actualites/accords-du-touquet-la-manche-est-en-train-de-devenir-un-cimetiere-marin-a-ciel-ouvert",
+      "libelle": "LCP, « Accords du Touquet : “La Manche est en train de devenir un cimetière marin à ciel ouvert” »",
+      "date": "2026-05-07"
+    },
+    "statut": "ok"
+  }
+]

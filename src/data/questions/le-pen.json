@@ -1,0 +1,406 @@
+[
+  {
+    "id": "le-pen-q-01",
+    "perso": "le-pen",
+    "sujet": "education",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "À quels niveaux Marine Le Pen veut-elle instaurer l'uniforme scolaire ?",
+    "choix": [
+      "Au lycée uniquement",
+      "À l'université",
+      "De la maternelle à la terminale",
+      "Au primaire et au collège"
+    ],
+    "bonne": 3,
+    "explication": "Le programme 2022 prévoit un uniforme au primaire et au collège pour rétablir l'autorité de l'institution scolaire.",
+    "mesure": "le-pen-education-u",
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-02",
+    "perso": "le-pen",
+    "sujet": "retraites",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "À combien Marine Le Pen veut-elle porter le minimum vieillesse par mois ?",
+    "choix": [
+      "1 000 €",
+      "900 €",
+      "1 200 €",
+      "1 500 €"
+    ],
+    "bonne": 0,
+    "explication": "Le programme 2022 propose de revaloriser le minimum vieillesse à 1 000 € par mois.",
+    "mesure": "le-pen-retraites-2",
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-03",
+    "perso": "le-pen",
+    "sujet": "pouvoir-achat",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "À quel taux Marine Le Pen veut-elle ramener la TVA sur carburants, gaz et électricité ?",
+    "choix": [
+      "0 %",
+      "10 %",
+      "5,5 %",
+      "2,1 %"
+    ],
+    "bonne": 2,
+    "explication": "Elle propose de baisser la TVA de 20 % à 5,5 % sur les produits énergétiques, vus comme biens de première nécessité.",
+    "mesure": "le-pen-pouvoir-achat-u",
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-04",
+    "perso": "le-pen",
+    "sujet": "immigration",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Selon Marine Le Pen, où les demandes d'asile devraient-elles être traitées ?",
+    "choix": [
+      "Uniquement à l'étranger",
+      "En préfecture",
+      "Aux frontières de l'UE",
+      "Par les mairies"
+    ],
+    "bonne": 0,
+    "explication": "Le programme 2022 prévoit de traiter les demandes de droit d'asile uniquement à l'étranger.",
+    "mesure": "le-pen-immigration-2",
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-05",
+    "perso": "le-pen",
+    "sujet": "ecologie",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Comment s'appelle le prêt à taux zéro de rénovation proposé par Marine Le Pen pour 2027 ?",
+    "choix": [
+      "MaPrimeRénov'",
+      "Éco-PTZ Plus",
+      "100 % Rénov",
+      "Habiter Mieux"
+    ],
+    "bonne": 2,
+    "explication": "En septembre 2026, elle propose « 100 % Rénov », un prêt à taux zéro pour rénover, électrifier le chauffage ou climatiser.",
+    "mesure": "le-pen-ecologie-3",
+    "source": {
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/video-marine-le-pen-candidate-du-rn-a-la-presidentielle-2027-detaille-une-serie-de-propositions-sur-le-logement-qui-sera-un-des-grands-chantiers-de-son-quinquennat-si-elle-est-elue_8190839.html",
+      "libelle": "franceinfo, plan logement de Marine Le Pen",
+      "date": "2026-09-13"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-06",
+    "perso": "le-pen",
+    "sujet": "sante",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Quel montant Marine Le Pen prévoit-elle pour son plan d'urgence santé ?",
+    "choix": [
+      "5 milliards €",
+      "20 milliards €",
+      "50 milliards €",
+      "100 milliards €"
+    ],
+    "bonne": 1,
+    "explication": "Le programme 2022 prévoit un plan de soutien d'urgence pour la santé de 20 milliards d'euros.",
+    "mesure": "le-pen-sante-u",
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-07",
+    "perso": "le-pen",
+    "sujet": "securite",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "Combien de places de prison Marine Le Pen visait-elle pour 2027 ?",
+    "choix": [
+      "60 000",
+      "70 000",
+      "100 000",
+      "85 000"
+    ],
+    "bonne": 3,
+    "explication": "Le programme 2022 fixait l'objectif d'atteindre 85 000 places de prison en 2027.",
+    "mesure": "le-pen-securite-2",
+    "source": {
+      "url": "https://mlafrance.fr/programme",
+      "libelle": "Programme présidentiel 2022 « M la France », 22 mesures pour 2022",
+      "date": "2022-04-10"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-08",
+    "perso": "le-pen",
+    "sujet": "europe",
+    "categorie": "programme",
+    "difficulte": 3,
+    "question": "De combien Marine Le Pen voulait-elle baisser la contribution française au budget de l'UE ?",
+    "choix": [
+      "1 milliard €",
+      "5 milliards €",
+      "15 milliards €",
+      "30 milliards €"
+    ],
+    "bonne": 1,
+    "explication": "En 2022, elle proposait de réduire de 5 milliards d'euros la contribution de la France au budget européen.",
+    "mesure": "le-pen-europe-1",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/sur-l-europe-marine-le-pen-a-t-elle-vraiment-change-202482",
+      "libelle": "Public Sénat, « Sur l'Europe, Marine Le Pen a-t-elle vraiment changé ? »",
+      "date": "2022-04-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-09",
+    "perso": "le-pen",
+    "sujet": "securite",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "En quelle année Marine Le Pen a-t-elle été élue présidente du Front national ?",
+    "choix": [
+      "2007",
+      "2011",
+      "2014",
+      "2017"
+    ],
+    "bonne": 1,
+    "explication": "Elle a été élue présidente du FN le 16 janvier 2011, succédant à Jean-Marie Le Pen.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+      "libelle": "Wikipédia, Marine Le Pen",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-10",
+    "perso": "le-pen",
+    "sujet": "pouvoir-achat",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Qui lui a succédé à la présidence du Rassemblement national en 2021 ?",
+    "choix": [
+      "Louis Aliot",
+      "Sébastien Chenu",
+      "Jordan Bardella",
+      "Marion Maréchal"
+    ],
+    "bonne": 2,
+    "explication": "Jordan Bardella lui a succédé à la tête du RN en 2021.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+      "libelle": "Wikipédia, Marine Le Pen",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-11",
+    "perso": "le-pen",
+    "sujet": "ecologie",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Dans quel département Marine Le Pen est-elle députée depuis 2017 ?",
+    "choix": [
+      "Pas-de-Calais",
+      "Nord",
+      "Var",
+      "Bouches-du-Rhône"
+    ],
+    "bonne": 0,
+    "explication": "Elle est députée de la 11e circonscription du Pas-de-Calais depuis 2017, réélue en 2022 et 2024.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+      "libelle": "Wikipédia, Marine Le Pen",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-12",
+    "perso": "le-pen",
+    "sujet": "europe",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "De quand à quand Marine Le Pen a-t-elle été députée européenne ?",
+    "choix": [
+      "1999-2004",
+      "2009-2019",
+      "2004-2017",
+      "2014-2022"
+    ],
+    "bonne": 2,
+    "explication": "Elle a siégé au Parlement européen de 2004 à 2017.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+      "libelle": "Wikipédia, Marine Le Pen",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-13",
+    "perso": "le-pen",
+    "sujet": "retraites",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Quelle fonction Marine Le Pen occupe-t-elle à l'Assemblée depuis juin 2022 ?",
+    "choix": [
+      "Présidente de l'Assemblée",
+      "Présidente du groupe RN",
+      "Questeure",
+      "Vice-présidente de l'Assemblée"
+    ],
+    "bonne": 1,
+    "explication": "Elle a été élue présidente du groupe RN à l'Assemblée nationale en juin 2022, puis réélue en 2024.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+      "libelle": "Wikipédia, Marine Le Pen",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-14",
+    "perso": "le-pen",
+    "sujet": "immigration",
+    "categorie": "parcours",
+    "difficulte": 2,
+    "question": "Quel score Marine Le Pen a-t-elle obtenu au 1er tour de la présidentielle 2022 ?",
+    "choix": [
+      "17,9 %",
+      "21,3 %",
+      "28,1 %",
+      "23,15 %"
+    ],
+    "bonne": 3,
+    "explication": "Elle a recueilli 23,15 % des voix au premier tour avant d'être battue au second par Emmanuel Macron.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+      "libelle": "Wikipédia, Marine Le Pen",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-15",
+    "perso": "le-pen",
+    "sujet": "education",
+    "categorie": "parcours",
+    "difficulte": 1,
+    "question": "En quelle année le Front national est-il devenu le Rassemblement national ?",
+    "choix": [
+      "2018",
+      "2011",
+      "2015",
+      "2022"
+    ],
+    "bonne": 0,
+    "explication": "Le changement de nom en Rassemblement national a été adopté en 2018.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Rassemblement_national",
+      "libelle": "Wikipédia, Rassemblement national",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-16",
+    "perso": "le-pen",
+    "sujet": "sante",
+    "categorie": "culte",
+    "difficulte": 2,
+    "question": "En 2017, Marine Le Pen affronte Emmanuel Macron lors du débat d'entre-deux-tours. Quand ?",
+    "choix": [
+      "Le 3 mai 2017",
+      "Le 20 avril 2017",
+      "Le 7 mai 2017",
+      "Le 23 avril 2017"
+    ],
+    "bonne": 0,
+    "explication": "Le débat télévisé de l'entre-deux-tours s'est tenu le 3 mai 2017, quatre jours avant le second tour.",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/Débat_de_l'entre-deux-tours_de_l'élection_présidentielle_française_de_2017",
+      "libelle": "Wikipédia, Débat de l'entre-deux-tours de 2017",
+      "date": "2026-10-14"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-17",
+    "perso": "le-pen",
+    "sujet": "immigration",
+    "categorie": "culte",
+    "difficulte": 1,
+    "question": "Dans quelle ville Marine Le Pen a-t-elle fait sa rentrée politique en septembre 2026 ?",
+    "choix": [
+      "Nice",
+      "Perpignan",
+      "Hénin-Beaumont",
+      "Fréjus"
+    ],
+    "bonne": 2,
+    "explication": "Le 13 septembre 2026, elle a fait sa rentrée à Hénin-Beaumont en plaçant la priorité nationale au cœur de son programme.",
+    "source": {
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/lens/marine-le-pen-fait-sa-rentree-politique-a-henin-beaumont-et-met-la-priorite-nationale-au-c-ur-de-son-programme-pour-la-presidentielle-de-2027-3416348.html",
+      "libelle": "France 3 Hauts-de-France, rentrée politique de Marine Le Pen",
+      "date": "2026-09-13"
+    },
+    "statut": "ok"
+  },
+  {
+    "id": "le-pen-q-18",
+    "perso": "le-pen",
+    "sujet": "europe",
+    "categorie": "culte",
+    "difficulte": 1,
+    "question": "Sur quelle chaîne Marine Le Pen a-t-elle annoncé sa candidature le 7 juillet 2026 ?",
+    "choix": [
+      "France 2",
+      "BFMTV",
+      "CNews",
+      "TF1"
+    ],
+    "bonne": 3,
+    "explication": "Le soir de l'arrêt de la cour d'appel, elle déclare sur TF1 : « Ce soir, je suis candidate à l'élection présidentielle ».",
+    "source": {
+      "url": "https://www.rts.ch/info/monde/2026/article/marine-le-pen-sera-candidate-a-la-presidentielle-de-2027-29297057.html",
+      "libelle": "RTS, « Marine Le Pen sera candidate à la présidentielle de 2027 »",
+      "date": "2026-07-07"
+    },
+    "statut": "ok"
+  }
+]

@@ -1,0 +1,613 @@
+[
+  {
+    "id": "sarkozy-ensemble-tout-devient-possible",
+    "perso": "sarkozy",
+    "rarete": "petite_phrase",
+    "phrase": "Ensemble, tout devient possible",
+    "contexte": "Slogan de campagne, présidentielle 2007 (date indiquée : premier tour)",
+    "date": "2007-04-22",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+      "libelle": "Wikipédia, élection présidentielle de 2007 (tableau des candidats)"
+    }
+  },
+  {
+    "id": "royal-france-presidente",
+    "perso": "royal",
+    "rarete": "petite_phrase",
+    "phrase": "La France présidente",
+    "contexte": "Slogan de second tour, présidentielle 2007 (date indiquée : second tour)",
+    "date": "2007-05-06",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+      "libelle": "Wikipédia, élection présidentielle de 2007 (tableau des candidats)"
+    }
+  },
+  {
+    "id": "bayrou-toutes-nos-forces",
+    "perso": "bayrou",
+    "rarete": "petite_phrase",
+    "phrase": "La France de toutes nos forces",
+    "contexte": "Slogan de campagne, présidentielle 2007 (date indiquée : premier tour)",
+    "date": "2007-04-22",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+      "libelle": "Wikipédia, élection présidentielle de 2007 (tableau des candidats)"
+    }
+  },
+  {
+    "id": "hollande-changement-maintenant",
+    "perso": "hollande",
+    "rarete": "petite_phrase",
+    "phrase": "Le changement, c'est maintenant",
+    "contexte": "Slogan de campagne, présidentielle 2012 (date indiquée : premier tour)",
+    "date": "2012-04-22",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+      "libelle": "Wikipédia, élection présidentielle de 2012 (tableau des candidats)"
+    }
+  },
+  {
+    "id": "hamon-coeur-de-la-france",
+    "perso": "hamon",
+    "rarete": "petite_phrase",
+    "phrase": "Faire battre le cœur de la France",
+    "contexte": "Slogan de campagne, présidentielle 2017 (date indiquée : premier tour)",
+    "date": "2017-04-23",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+      "libelle": "Wikipédia, élection présidentielle de 2017 (tableau des candidats)"
+    }
+  },
+  {
+    "id": "poutou-nos-vies",
+    "perso": "poutou",
+    "rarete": "petite_phrase",
+    "phrase": "Nos vies, pas leurs profits !",
+    "contexte": "Slogan de campagne (NPA), présidentielle 2017 (date indiquée : premier tour)",
+    "date": "2017-04-23",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+      "libelle": "Wikipédia, élection présidentielle de 2017 (tableau des candidats)"
+    }
+  },
+  {
+    "id": "dupont-aignan-sauvons-la-france",
+    "perso": "dupont-aignan",
+    "rarete": "petite_phrase",
+    "phrase": "Sauvons la France !",
+    "contexte": "Slogan de campagne, présidentielle 2022 (date indiquée : premier tour)",
+    "date": "2022-04-10",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+      "libelle": "Wikipédia, élection présidentielle de 2022 (tableau des candidats)"
+    }
+  },
+  {
+    "id": "zemmour-impossible",
+    "perso": "zemmour",
+    "rarete": "petite_phrase",
+    "phrase": "Impossible n'est pas français",
+    "contexte": "Slogan de campagne, présidentielle 2022 (date indiquée : premier tour)",
+    "date": "2022-04-10",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+      "libelle": "Wikipédia, élection présidentielle de 2022 (tableau des candidats)"
+    }
+  },
+  {
+    "id": "roussel-jours-heureux",
+    "perso": "roussel",
+    "rarete": "petite_phrase",
+    "phrase": "La France des jours heureux",
+    "contexte": "Slogan de campagne (PCF), présidentielle 2022 (date indiquée : premier tour)",
+    "date": "2022-04-10",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+      "libelle": "Wikipédia, élection présidentielle de 2022 (tableau des candidats)"
+    }
+  },
+  {
+    "id": "lassalle-france-authentique",
+    "perso": "lassalle",
+    "rarete": "petite_phrase",
+    "phrase": "La France authentique",
+    "contexte": "Slogan de campagne, présidentielle 2022 (date indiquée : premier tour)",
+    "date": "2022-04-10",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+      "libelle": "Wikipédia, élection présidentielle de 2022 (tableau des candidats)"
+    }
+  },
+  {
+    "id": "hidalgo-changeons-avenir",
+    "perso": "hidalgo",
+    "rarete": "petite_phrase",
+    "phrase": "Ensemble changeons d'avenir",
+    "contexte": "Slogan de campagne, présidentielle 2022 (date indiquée : premier tour)",
+    "date": "2022-04-10",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+      "libelle": "Wikipédia, élection présidentielle de 2022 (tableau des candidats)"
+    }
+  },
+  {
+    "id": "pecresse-courage-de-faire",
+    "perso": "pecresse",
+    "rarete": "petite_phrase",
+    "phrase": "Le courage de faire",
+    "contexte": "Slogan de campagne, présidentielle 2022 (date indiquée : premier tour)",
+    "date": "2022-04-10",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+      "libelle": "Wikipédia, élection présidentielle de 2022 (tableau des candidats)"
+    }
+  },
+  {
+    "id": "hollande-moi-president",
+    "perso": "hollande",
+    "rarete": "replique_historique",
+    "phrase": "Moi président de la République, je ne serai pas le chef de la majorité…",
+    "contexte": "Débat d'entre-deux-tours face à Nicolas Sarkozy",
+    "date": "2012-05-02",
+    "sujet": null,
+    "source": {
+      "url": "https://www.lemonde.fr/election-presidentielle-2012/article/2012/05/03/compte-rendu-integral-du-debat-nucleaire-institutions-politique-etrangere-partie-5_1694483_1471069.html",
+      "libelle": "Le Monde, compte rendu intégral du débat du 2 mai 2012"
+    }
+  },
+  {
+    "id": "macron-perlimpinpin",
+    "perso": "macron",
+    "rarete": "replique_historique",
+    "phrase": "Ce que vous proposez, comme d'habitude, c'est de la poudre de perlimpinpin.",
+    "contexte": "Débat d'entre-deux-tours face à Marine Le Pen",
+    "date": "2017-05-03",
+    "sujet": "securite",
+    "source": {
+      "url": "https://fr.wikiquote.org/wiki/Emmanuel_Macron",
+      "libelle": "Wikiquote, Emmanuel Macron (débat du 3 mai 2017)"
+    }
+  },
+  {
+    "id": "sarkozy-il-faut-etre-calme",
+    "perso": "sarkozy",
+    "rarete": "replique_historique",
+    "phrase": "Pour être président de la République, il faut être calme.",
+    "contexte": "Débat d'entre-deux-tours face à Ségolène Royal, échange sur la scolarisation des enfants handicapés",
+    "date": "2007-05-02",
+    "sujet": "education",
+    "source": {
+      "url": "https://mediaclip.ina.fr/en/i21280360-segolene-royal-s-anger-at-nicolas-sarkozy-who-believes-that-she-loses-her-nerves.html",
+      "libelle": "INA, débat du 2 mai 2007 (texte : Wikiquote, Nicolas Sarkozy)"
+    }
+  },
+  {
+    "id": "royal-summum-immoralite",
+    "perso": "royal",
+    "rarete": "punchline",
+    "phrase": "…le summum de l'immoralité politique",
+    "contexte": "Débat d'entre-deux-tours face à Nicolas Sarkozy, échange sur la scolarisation des enfants handicapés",
+    "date": "2007-05-02",
+    "sujet": "education",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/non-classe/les-debats-tv-du-passe-du-monopole-du-coeur-de-giscard-a-l-anaphore-de-hollande",
+      "libelle": "Public Sénat, « Les débats TV du passé »"
+    }
+  },
+  {
+    "id": "macron-traverse-la-rue",
+    "perso": "macron",
+    "rarete": "moment_culte",
+    "phrase": "Je traverse la rue, je vous en trouve.",
+    "contexte": "Échange avec un jeune horticulteur au chômage dans les jardins de l'Élysée, Journées du patrimoine",
+    "date": "2018-09-15",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.wikiquote.org/wiki/Emmanuel_Macron",
+      "libelle": "Wikiquote, Emmanuel Macron (réf. Le Monde, 17 septembre 2018)"
+    }
+  },
+  {
+    "id": "macron-pognon-de-dingue",
+    "perso": "macron",
+    "rarete": "moment_culte",
+    "phrase": "On met un pognon de dingue…",
+    "contexte": "Vidéo de préparation d'un discours sur la politique sociale, publiée sur Twitter par la conseillère presse de l'Élysée",
+    "date": "2018-06-12",
+    "sujet": "pouvoir-achat",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/du-pognon-de-dingue-a-la-responsabilisation-des-personnes-le-double-langage-d",
+      "libelle": "Public Sénat"
+    }
+  },
+  {
+    "id": "royal-bravitude",
+    "perso": "royal",
+    "rarete": "moment_culte",
+    "phrase": "…conquiert la bravitude",
+    "contexte": "Visite de la Grande Muraille de Chine pendant la campagne présidentielle",
+    "date": "2007-01-06",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.wikiquote.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+      "libelle": "Wikiquote, Ségolène Royal (réf. TF1, 6 janvier 2007)"
+    }
+  },
+  {
+    "id": "attal-tu-casses-tu-repares",
+    "perso": "attal",
+    "rarete": "moment_culte",
+    "phrase": "…tu casses, tu répares, tu salis, tu nettoies…",
+    "contexte": "Déclaration de politique générale du Premier ministre devant l'Assemblée nationale",
+    "date": "2024-01-30",
+    "sujet": "securite",
+    "source": {
+      "url": "https://www.cafepedagogique.net/2024/01/31/gabriel-attal-rearme-lecole/",
+      "libelle": "Café pédagogique, 31 janvier 2024"
+    }
+  },
+  {
+    "id": "attal-banco",
+    "perso": "attal",
+    "rarete": "punchline",
+    "phrase": "Votre projet, c'est un banco, vous grattez et il n'y a rien en dessous !",
+    "contexte": "Débat des européennes face à Jordan Bardella sur France 2, à propos de la « double frontière »",
+    "date": "2024-05-23",
+    "sujet": "europe",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/debat-bardella-attal-le-mythe-de-linvincibilite-de-jordan-bardella-en-ressort-ecorne",
+      "libelle": "Public Sénat, 24 mai 2024"
+    }
+  },
+  {
+    "id": "le-pen-pouvoir-d-acheter",
+    "perso": "le-pen",
+    "rarete": "replique_historique",
+    "phrase": "Je suis la candidate du pouvoir d'achat, vous êtes le candidat du pouvoir d'acheter…",
+    "contexte": "Débat d'entre-deux-tours face à Emmanuel Macron",
+    "date": "2017-05-03",
+    "sujet": "pouvoir-achat",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/debat-presidentiel-les-10-phrases-marquantes-60057",
+      "libelle": "Public Sénat, « Débat présidentiel : les 10 phrases marquantes »"
+    }
+  },
+  {
+    "id": "le-pen-enfant-cheri",
+    "perso": "le-pen",
+    "rarete": "punchline",
+    "phrase": "Vous êtes l'enfant chéri du système et des élites",
+    "contexte": "Débat d'entre-deux-tours face à Emmanuel Macron",
+    "date": "2017-05-03",
+    "sujet": null,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/debat-presidentiel-les-10-phrases-marquantes-60057",
+      "libelle": "Public Sénat, « Débat présidentiel : les 10 phrases marquantes »"
+    }
+  },
+  {
+    "id": "macron-banquier-russie",
+    "perso": "macron",
+    "rarete": "replique_historique",
+    "phrase": "Vous parlez à votre banquier quand vous parlez de la Russie…",
+    "contexte": "Débat d'entre-deux-tours face à Marine Le Pen, échange sur la guerre en Ukraine",
+    "date": "2022-04-20",
+    "sujet": "europe",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/emmanuel-macron-vous-parlez-a-votre-banquier-quand-vous-parlez-de-la-russie-203285",
+      "libelle": "Public Sénat, débat du 20 avril 2022"
+    }
+  },
+  {
+    "id": "retailleau-etat-de-droit",
+    "perso": "retailleau",
+    "rarete": "moment_culte",
+    "phrase": "L'État de droit, ça n'est pas intangible, ni sacré",
+    "contexte": "Entretien au Journal du dimanche, une semaine après sa nomination au ministère de l'Intérieur",
+    "date": "2024-09-29",
+    "sujet": "immigration",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/etat-de-droit-les-propos-polemiques-de-bruno-retailleau-inquietent-mais-ne-surprennent-pas-au-senat",
+      "libelle": "Public Sénat, 30 septembre 2024"
+    }
+  },
+  {
+    "id": "retailleau-retablir-l-ordre",
+    "perso": "retailleau",
+    "rarete": "petite_phrase",
+    "phrase": "J'ai trois priorités : rétablir l'ordre…",
+    "contexte": "Passation de pouvoirs place Beauvau avec Gérald Darmanin",
+    "date": "2024-09-23",
+    "sujet": "securite",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/bruno-retailleau-nouveau-ministre-de-linterieur-promet-le-retablissement-de-lordre-et-la-fermete",
+      "libelle": "Public Sénat, 23 septembre 2024"
+    }
+  },
+  {
+    "id": "philippe-je-serai-candidat",
+    "perso": "philippe",
+    "rarete": "moment_culte",
+    "phrase": "Je serai candidat à la prochaine élection présidentielle",
+    "contexte": "Entretien au Point officialisant sa candidature",
+    "date": "2024-09-03",
+    "sujet": null,
+    "source": {
+      "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/je-serai-candidat-a-la-prochaine-election-presidentielle-edouard-philippe-l-ancien-premier-ministre-et-maire-du-havre-officialise-sa-candidature-3026366.html",
+      "libelle": "France 3 Normandie, 3 septembre 2024"
+    }
+  },
+  {
+    "id": "glucksmann-telegraphiste-kremlin",
+    "perso": "glucksmann",
+    "rarete": "punchline",
+    "phrase": "…le petit télégraphiste du Kremlin",
+    "contexte": "Débat des têtes de liste aux européennes sur Public Sénat, lancé à Thierry Mariani (RN)",
+    "date": "2024-03-14",
+    "sujet": "europe",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/direct-elections-europeennes-2024-suivez-le-grand-debat-entre-les-tetes-de-liste",
+      "libelle": "Public Sénat, débat du 14 mars 2024"
+    }
+  },
+  {
+    "id": "tondelier-aimer-son-pays",
+    "perso": "tondelier",
+    "rarete": "petite_phrase",
+    "phrase": "On ne peut pas aimer son pays et accepter qu'il s'abîme ainsi",
+    "contexte": "Entretien au Nouvel Obs annonçant sa candidature à la présidentielle",
+    "date": "2025-10-22",
+    "sujet": "ecologie",
+    "source": {
+      "url": "https://www.brut.media/fr/articles/marine-tondelier-la-patronne-des-ecologistes-officiellement-candidate-a-la-presidentielle-de-2027",
+      "libelle": "Brut"
+    }
+  },
+  {
+    "id": "ruffin-employe-patrons",
+    "perso": "ruffin",
+    "rarete": "petite_phrase",
+    "phrase": "…à l'Élysée, je serai l'employé, ils seront les patrons",
+    "contexte": "Communiqué annonçant son « entretien d'embauche pour l'Élysée » à Lyon",
+    "date": "2026-04-09",
+    "sujet": null,
+    "source": {
+      "url": "https://www.lyoncapitale.fr/actualite/a-lyon-francois-ruffin-passera-un-entretien-dembauche-pour-lelysee-le-25-avril",
+      "libelle": "Lyon Capitale, 9 avril 2026"
+    }
+  },
+  {
+    "id": "bertrand-candidat-a-la-place",
+    "perso": "bertrand",
+    "rarete": "petite_phrase",
+    "phrase": "Je serai un candidat à la place, pas un candidat de plus, et avec un projet.",
+    "contexte": "En marge de la rentrée du Medef, à propos de sa future candidature",
+    "date": "2026-08-27",
+    "sujet": null,
+    "source": {
+      "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
+      "libelle": "LCP, 27 août 2026"
+    }
+  },
+  {
+    "id": "melenchon-vous-n-avez-pas-honte",
+    "perso": "melenchon",
+    "rarete": "punchline",
+    "phrase": "Vous n'avez pas honte de parler comme ça !",
+    "contexte": "Débat face à Éric Zemmour sur BFMTV, après que celui-ci a qualifié la délinquance de « djihad »",
+    "date": "2021-09-23",
+    "sujet": "securite",
+    "source": {
+      "url": "https://www.ozap.com/actu/-vous-n-avez-pas-honte-de-parler-comme-ca-jean-luc-melenchon-s-emporte-contre-eric-zemmour-sur-les-musulmans/608769",
+      "libelle": "Ozap, débat BFMTV du 23 septembre 2021"
+    }
+  },
+  {
+    "id": "juppe-aucun-proces",
+    "perso": "juppe",
+    "rarete": "punchline",
+    "phrase": "Je n'ai fait aucun procès, j'ai juste posé une question",
+    "contexte": "Débat d'entre-deux-tours de la primaire de la droite face à François Fillon",
+    "date": "2016-11-24",
+    "sujet": null,
+    "source": {
+      "url": "https://www.lalibre.be/international/2016/11/24/au-duel-de-la-primaire-fillon-accuse-les-journalistes-de-tout-caricaturer-video-R2OBOKR7UVD2FE7VL5NXUKLOVE/",
+      "libelle": "La Libre Belgique (AFP), 24 novembre 2016"
+    }
+  },
+  {
+    "id": "valls-j-aime-l-entreprise",
+    "perso": "valls",
+    "rarete": "moment_culte",
+    "phrase": "J'aime l'entreprise.",
+    "contexte": "Discours du Premier ministre à l'université d'été du Medef, à Jouy-en-Josas, salué par une ovation",
+    "date": "2014-08-27",
+    "sujet": null,
+    "source": {
+      "url": "https://www.universalis.fr/evenement/22-31-aout-2014-constitution-d-un-deuxieme-gouvernement-valls/",
+      "libelle": "Encyclopædia Universalis, chronologie août 2014"
+    }
+  },
+  {
+    "id": "bardella-la-france-revient",
+    "perso": "bardella",
+    "rarete": "petite_phrase",
+    "phrase": "La France revient !",
+    "contexte": "Intitulé de la liste RN menée par Jordan Bardella aux élections européennes (date : jour du scrutin)",
+    "date": "2024-06-09",
+    "sujet": "europe",
+    "source": {
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lections_europ%C3%A9ennes_de_2024_en_France",
+      "libelle": "Wikipédia, élections européennes de 2024 en France"
+    }
+  },
+  {
+    "id": "hollande-monde-de-la-finance",
+    "perso": "hollande",
+    "rarete": "moment_culte",
+    "phrase": "Cet adversaire, c'est le monde de la finance.",
+    "contexte": "Discours du Bourget, premier grand meeting de campagne : « je vais vous dire qui est mon adversaire, mon véritable adversaire »",
+    "date": "2012-01-22",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.wikiquote.org/wiki/Fran%C3%A7ois_Hollande",
+      "libelle": "Wikiquote, François Hollande (réf. Le Nouvel Observateur, 22 janvier 2012)"
+    }
+  },
+  {
+    "id": "sarkozy-moins-de-pauvres",
+    "perso": "sarkozy",
+    "rarete": "punchline",
+    "phrase": "Vous voulez moins de riches, je veux moins de pauvres.",
+    "contexte": "Débat d'entre-deux-tours face à François Hollande",
+    "date": "2012-05-02",
+    "sujet": "pouvoir-achat",
+    "source": {
+      "url": "https://fr.wikiquote.org/wiki/Nicolas_Sarkozy",
+      "libelle": "Wikiquote, Nicolas Sarkozy (débat du 2 mai 2012)"
+    }
+  },
+  {
+    "id": "sarkozy-bande-de-racailles",
+    "perso": "sarkozy",
+    "rarete": "moment_culte",
+    "phrase": "Vous en avez assez de cette bande de racailles ? Eh bien on va vous en débarrasser.",
+    "contexte": "Ministre de l'Intérieur, interpellé par une habitante lors d'un déplacement nocturne à Argenteuil (reportage France 2)",
+    "date": "2005-10-25",
+    "sujet": "securite",
+    "source": {
+      "url": "https://fr.wikiquote.org/wiki/Nicolas_Sarkozy",
+      "libelle": "Wikiquote, Nicolas Sarkozy (réf. France 2, 25 octobre 2005)"
+    }
+  },
+  {
+    "id": "le-pen-dirigee-par-une-femme",
+    "perso": "le-pen",
+    "rarete": "replique_historique",
+    "phrase": "De toute façon la France sera dirigée par une femme : ce sera, ou moi, ou Madame Merkel.",
+    "contexte": "Débat d'entre-deux-tours face à Emmanuel Macron",
+    "date": "2017-05-03",
+    "sujet": "europe",
+    "source": {
+      "url": "https://fr.wikiquote.org/wiki/Marine_Le_Pen",
+      "libelle": "Wikiquote, Marine Le Pen (débat du 3 mai 2017) ; voir aussi Public Sénat, « les 10 phrases marquantes »"
+    }
+  },
+  {
+    "id": "melenchon-faites-mieux",
+    "perso": "melenchon",
+    "rarete": "moment_culte",
+    "phrase": "C'est pas loin, hein. Faites mieux.",
+    "contexte": "Discours du soir du premier tour, arrivé troisième juste derrière Marine Le Pen",
+    "date": "2022-04-10",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.wikiquote.org/wiki/Jean-Luc_M%C3%A9lenchon",
+      "libelle": "Wikiquote, Jean-Luc Mélenchon (discours du 10 avril 2022)"
+    }
+  },
+  {
+    "id": "zemmour-grain-de-sable",
+    "perso": "zemmour",
+    "rarete": "moment_culte",
+    "phrase": "Ce grain de sable, ce n'est pas moi. Ce grain de sable, c'est vous.",
+    "contexte": "Premier meeting de campagne à Villepinte, lancement du parti Reconquête",
+    "date": "2021-12-05",
+    "sujet": null,
+    "source": {
+      "url": "https://fr.le360.ma/monde/videos-la-france-est-de-retour-lance-zemmour-a-son-premier-meeting-marque-par-des-violences-250720/",
+      "libelle": "Le360 (AFP), meeting de Villepinte du 5 décembre 2021"
+    }
+  },
+  {
+    "id": "le-pen-vide-sideral",
+    "perso": "le-pen",
+    "rarete": "punchline",
+    "phrase": "C'est le vide sidéral",
+    "contexte": "Premier débat télévisé de la présidentielle sur TF1, à propos d'Emmanuel Macron",
+    "date": "2017-03-20",
+    "sujet": null,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/debat-presidentiel-les-affrontements-des-candidats-en-videos-57569",
+      "libelle": "Public Sénat, débat TF1 du 20 mars 2017"
+    }
+  },
+  {
+    "id": "hamon-pages-faits-divers",
+    "perso": "hamon",
+    "rarete": "punchline",
+    "phrase": "Que vous soyez une droguée aux pages Faits divers, c'est une chose, mais aujourd'hui vous êtes candidate à la présidence…",
+    "contexte": "Premier débat télévisé de la présidentielle sur TF1, lancé à Marine Le Pen",
+    "date": "2017-03-20",
+    "sujet": "securite",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/debat-presidentiel-les-affrontements-des-candidats-en-videos-57569",
+      "libelle": "Public Sénat, débat TF1 du 20 mars 2017"
+    }
+  },
+  {
+    "id": "macron-ventriloque",
+    "perso": "macron",
+    "rarete": "punchline",
+    "phrase": "…je vous remercie, je n'ai pas besoin d'un ventriloque.",
+    "contexte": "Premier débat télévisé de la présidentielle sur TF1, répondant à Marine Le Pen",
+    "date": "2017-03-20",
+    "sujet": null,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/debat-presidentiel-les-affrontements-des-candidats-en-videos-57569",
+      "libelle": "Public Sénat, débat TF1 du 20 mars 2017"
+    }
+  },
+  {
+    "id": "dati-koh-lanta",
+    "perso": "dati",
+    "rarete": "punchline",
+    "phrase": "On n'est pas à 'Koh-Lanta' là ! Ce n'est pas des alliances entre vous !",
+    "contexte": "Débat des municipales à Paris (France 3 Paris Île-de-France, France Bleu Paris, franceinfo), à propos des alliances de ses adversaires",
+    "date": "2020-03-10",
+    "sujet": null,
+    "source": {
+      "url": "https://www.ozap.com/actu/-on-n-est-pas-a-koh-lanta-la-sortie-inattendue-de-rachida-dati-lors-du-debat-pour-les-municipales-a-paris/590365",
+      "libelle": "Ozap, 11 mars 2020"
+    }
+  },
+  {
+    "id": "bardella-rate-on-a-vote-pour",
+    "perso": "bardella",
+    "rarete": "punchline",
+    "phrase": "Raté on a voté pour, Madame",
+    "contexte": "Débat des européennes face à Nathalie Loiseau sur BFMTV (Public Sénat relève que les eurodéputés RN s'étaient en fait abstenus)",
+    "date": "2019-05-15",
+    "sujet": "immigration",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/europeennes-dialogue-de-sourds-entre-loiseau-et-bardella-141140",
+      "libelle": "Public Sénat, 15 mai 2019"
+    }
+  },
+  {
+    "id": "loiseau-gerer-le-declin",
+    "perso": "loiseau",
+    "rarete": "punchline",
+    "phrase": "…Europe de progrès pour préparer l'avenir et pas simplement gérer le déclin",
+    "contexte": "Débat des européennes face à Jordan Bardella sur BFMTV",
+    "date": "2019-05-15",
+    "sujet": "europe",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/europeennes-dialogue-de-sourds-entre-loiseau-et-bardella-141140",
+      "libelle": "Public Sénat, 15 mai 2019"
+    }
+  }
+]

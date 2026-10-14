@@ -1,0 +1,466 @@
+[
+  {
+    "id": "retailleau-education-1",
+    "perso": "retailleau",
+    "sujet": "education",
+    "intitule": "Créer 1 000 établissements publics « libres »",
+    "detail": "Fondés sur le volontariat des enseignants, parents et élèves, ils pourraient adapter programmes, rythmes et calendrier des vacances.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-refonder-lecole-autour-de-quatre-axes-principaux",
+      "libelle": "Public Sénat, « Présidentielle 2027 : Bruno Retailleau veut \"refonder l'école\" autour de quatre axes principaux »",
+      "date": "2026-08-31"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-education-2",
+    "perso": "retailleau",
+    "sujet": "education",
+    "intitule": "Créer des établissements de réinsertion pour les élèves exclus à répétition",
+    "detail": "Destinés aux élèves de moins de 16 ans faisant l'objet d'exclusions répétées ; le candidat parle d'« internats disciplinaires ».",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-refonder-lecole-autour-de-quatre-axes-principaux",
+      "libelle": "Public Sénat, « Présidentielle 2027 : Bruno Retailleau veut \"refonder l'école\" autour de quatre axes principaux »",
+      "date": "2026-08-31"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-education-3",
+    "perso": "retailleau",
+    "sujet": "education",
+    "intitule": "Instaurer un « contrat d'engagement des parents »",
+    "detail": "Il rappellerait les règles de l'école ainsi que les droits et devoirs des familles.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-refonder-lecole-autour-de-quatre-axes-principaux",
+      "libelle": "Public Sénat, « Présidentielle 2027 : Bruno Retailleau veut \"refonder l'école\" autour de quatre axes principaux »",
+      "date": "2026-08-31"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-education-u",
+    "perso": "retailleau",
+    "sujet": "education",
+    "intitule": "Rétablir un examen d'entrée en sixième",
+    "detail": "Présenté avec le développement des groupes de niveau, des dispositifs de rattrapage et la remise en cause du collège unique.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-refonder-lecole-autour-de-quatre-axes-principaux",
+      "libelle": "Public Sénat, « Présidentielle 2027 : Bruno Retailleau veut \"refonder l'école\" autour de quatre axes principaux »",
+      "date": "2026-08-31"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-retraites-1",
+    "perso": "retailleau",
+    "sujet": "retraites",
+    "intitule": "Créer un pilier de capitalisation pour les jeunes actifs",
+    "detail": "Il représenterait d'abord environ un quart de la future pension des nouveaux entrants, sans toucher les retraités actuels.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.franceinfo.fr/politique/bruno-retailleau/s-il-est-elu-bruno-retailleau-veut-instaurer-un-age-minimal-de-depart-a-la-retraite-a-63-ans-le-taux-plein-a-65_8205254.html",
+      "libelle": "franceinfo, « S'il est élu, Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans, le taux plein à 65 » (interview LCI)",
+      "date": "2026-09-22"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-retraites-2",
+    "perso": "retailleau",
+    "sujet": "retraites",
+    "intitule": "Appliquer une décote de 7 % par an en cas de départ avant 65 ans",
+    "detail": "Des exceptions (pénibilité, carrières longues, maladie, handicap) seraient définies avec les partenaires sociaux.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.franceinfo.fr/politique/bruno-retailleau/s-il-est-elu-bruno-retailleau-veut-instaurer-un-age-minimal-de-depart-a-la-retraite-a-63-ans-le-taux-plein-a-65_8205254.html",
+      "libelle": "franceinfo, « S'il est élu, Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans, le taux plein à 65 » (interview LCI)",
+      "date": "2026-09-22"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-retraites-3",
+    "perso": "retailleau",
+    "sujet": "retraites",
+    "intitule": "Mettre en extinction les derniers régimes spéciaux de retraite",
+    "detail": "Mesure du plan d'économies du 12 octobre 2026, avec la convergence Agirc-Arrco et le placement des réserves.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+      "libelle": "Public Sénat, « Présidentielle 2027 : Bruno Retailleau s'engage sur un plan d'économies de près de 200 milliards d'euros »",
+      "date": "2026-10-12"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-retraites-u",
+    "perso": "retailleau",
+    "sujet": "retraites",
+    "intitule": "Âge minimal de départ à 63 ans et taux plein automatique à 65 ans",
+    "detail": "Le taux plein serait acquis à 65 ans même sans tous les trimestres, cet âge étant ensuite lié à l'espérance de vie.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.franceinfo.fr/politique/bruno-retailleau/s-il-est-elu-bruno-retailleau-veut-instaurer-un-age-minimal-de-depart-a-la-retraite-a-63-ans-le-taux-plein-a-65_8205254.html",
+      "libelle": "franceinfo, « S'il est élu, Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans, le taux plein à 65 » (interview LCI)",
+      "date": "2026-09-22"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-pouvoir-achat-1",
+    "perso": "retailleau",
+    "sujet": "pouvoir-achat",
+    "intitule": "Annualiser le temps de travail avec un seuil de 1 623 heures par an",
+    "detail": "Sortie des 35 heures : 16 heures payées de plus par an, soit « 4 min de plus par jour » selon le candidat.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+      "libelle": "Public Sénat, « Bruno Retailleau veut supprimer les 35 heures, inciter à la reprise d'activité et plafonner les aides sociales »",
+      "date": "2026-01-07"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-pouvoir-achat-2",
+    "perso": "retailleau",
+    "sujet": "pouvoir-achat",
+    "intitule": "Plafonner le total des aides sociales à 70 % du Smic via un compte social unique",
+    "detail": "Un compte unique recenserait toutes les aides versées, afin qu'elles restent inférieures aux revenus du travail.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+      "libelle": "Public Sénat, « Bruno Retailleau veut supprimer les 35 heures, inciter à la reprise d'activité et plafonner les aides sociales »",
+      "date": "2026-01-07"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-pouvoir-achat-3",
+    "perso": "retailleau",
+    "sujet": "pouvoir-achat",
+    "intitule": "Fusionner RSA, prime d'activité et ASS en un revenu d'incitation à l'activité",
+    "detail": "Le versement serait conditionné à 15 heures d'activité hebdomadaire.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+      "libelle": "Public Sénat, « Bruno Retailleau veut supprimer les 35 heures, inciter à la reprise d'activité et plafonner les aides sociales »",
+      "date": "2026-01-07"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-pouvoir-achat-u",
+    "perso": "retailleau",
+    "sujet": "pouvoir-achat",
+    "intitule": "Zéro cotisation et zéro impôt sur les heures travaillées au-delà de 1 607 h",
+    "detail": "Hors CSG et CRDS ; Public Sénat estime le gain à environ 230 € par mois pour un salaire de 2 115 € net.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+      "libelle": "Public Sénat, « Bruno Retailleau veut supprimer les 35 heures, inciter à la reprise d'activité et plafonner les aides sociales »",
+      "date": "2026-01-07"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-immigration-1",
+    "perso": "retailleau",
+    "sujet": "immigration",
+    "intitule": "Supprimer le droit du sol par référendum",
+    "detail": "Après révision constitutionnelle ; il cite Mayotte, où le droit du sol a déjà été restreint.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.epochtimes.fr/on-ne-peut-pas-devenir-francais-par-hasard-bruno-retailleau-propose-de-supprimer-le-droit-du-sol-par-referendum-3344040.html",
+      "libelle": "Epoch Times, « Bruno Retailleau propose de supprimer le droit du sol par référendum » (propos tenus sur CNews/Europe 1 le 8 septembre 2026)",
+      "date": "2026-09-09"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-immigration-2",
+    "perso": "retailleau",
+    "sujet": "immigration",
+    "intitule": "Exiger cinq ans de séjour et de travail pour les prestations non contributives",
+    "detail": "Mesure chiffrée avec l'examen de l'asile hors des frontières à 4,5 milliards d'euros d'économies.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+      "libelle": "Public Sénat, « Présidentielle 2027 : Bruno Retailleau s'engage sur un plan d'économies de près de 200 milliards d'euros »",
+      "date": "2026-10-12"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-immigration-3",
+    "perso": "retailleau",
+    "sujet": "immigration",
+    "intitule": "Examiner les demandes d'asile hors des frontières",
+    "detail": "Inscrite au volet immigration de son plan d'économies, qui vise 10 milliards d'euros au total.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+      "libelle": "Public Sénat, « Présidentielle 2027 : Bruno Retailleau s'engage sur un plan d'économies de près de 200 milliards d'euros »",
+      "date": "2026-10-12"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-immigration-u",
+    "perso": "retailleau",
+    "sujet": "immigration",
+    "intitule": "Organiser un référendum pour réduire drastiquement l'immigration",
+    "detail": "Annoncé dès sa déclaration de candidature ; il implique de réviser la Constitution pour élargir le champ du référendum.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://fr.euronews.com/2026/02/12/presidentielle-de-2027-bruno-retailleau-annonce-sa-candidature-et-promet-des-referendums",
+      "libelle": "Euronews, « Présidentielle de 2027 : Bruno Retailleau annonce sa candidature et promet des référendums »",
+      "date": "2026-02-12"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-ecologie-1",
+    "perso": "retailleau",
+    "sujet": "ecologie",
+    "intitule": "Mettre fin au soutien public aux nouvelles installations éoliennes et solaires",
+    "detail": "Mesure reprise dans son plan d'économies présidentiel après une tribune de juillet 2025.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+      "libelle": "Public Sénat, « Présidentielle 2027 : Bruno Retailleau s'engage sur un plan d'économies de près de 200 milliards d'euros »",
+      "date": "2026-10-12"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-ecologie-2",
+    "perso": "retailleau",
+    "sujet": "ecologie",
+    "intitule": "Abroger les zones à faibles émissions (ZFE)",
+    "detail": "La tribune de juillet 2025 juge « nécessaire d'abroger enfin les ZFE ».",
+    "millesime": 2025,
+    "source": {
+      "url": "https://republicains.fr/actualites/2025/07/02/rebatir-un-parc-nucleaire-et-stopper-le-financement-des-renouvelables-notre-plan-pour-lenergie/",
+      "libelle": "Les Républicains, tribune de B. Retailleau, F.-X. Bellamy et J. Aubert (Le Figaro) « Rebâtir un parc nucléaire et stopper le financement des renouvelables »",
+      "date": "2025-07-02"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-ecologie-3",
+    "perso": "retailleau",
+    "sujet": "ecologie",
+    "intitule": "Abroger l'objectif « zéro artificialisation nette » (ZAN)",
+    "detail": "Demandé dans la même tribune sur l'énergie, cosignée avec F.-X. Bellamy et J. Aubert.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://republicains.fr/actualites/2025/07/02/rebatir-un-parc-nucleaire-et-stopper-le-financement-des-renouvelables-notre-plan-pour-lenergie/",
+      "libelle": "Les Républicains, tribune de B. Retailleau, F.-X. Bellamy et J. Aubert (Le Figaro) « Rebâtir un parc nucléaire et stopper le financement des renouvelables »",
+      "date": "2025-07-02"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-ecologie-u",
+    "perso": "retailleau",
+    "sujet": "ecologie",
+    "intitule": "Rebâtir un parc nucléaire en reconstituant une compétence industrielle",
+    "detail": "La prolongation du parc actuel est présentée comme la meilleure première étape.",
+    "millesime": 2025,
+    "source": {
+      "url": "https://republicains.fr/actualites/2025/07/02/rebatir-un-parc-nucleaire-et-stopper-le-financement-des-renouvelables-notre-plan-pour-lenergie/",
+      "libelle": "Les Républicains, tribune de B. Retailleau, F.-X. Bellamy et J. Aubert (Le Figaro) « Rebâtir un parc nucléaire et stopper le financement des renouvelables »",
+      "date": "2025-07-02"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-sante-1",
+    "perso": "retailleau",
+    "sujet": "sante",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "retailleau-sante-2",
+    "perso": "retailleau",
+    "sujet": "sante",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "retailleau-sante-3",
+    "perso": "retailleau",
+    "sujet": "sante",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "retailleau-sante-u",
+    "perso": "retailleau",
+    "sujet": "sante",
+    "intitule": "Instaurer un jour de carence « d'ordre public » dans le privé",
+    "detail": "Mesure visant à économiser 4 milliards d'euros sur les arrêts maladie ; pas d'objectif chiffré sur les autres dépenses de santé.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+      "libelle": "Public Sénat, « Présidentielle 2027 : Bruno Retailleau s'engage sur un plan d'économies de près de 200 milliards d'euros »",
+      "date": "2026-10-12"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-securite-1",
+    "perso": "retailleau",
+    "sujet": "securite",
+    "intitule": "Soumettre une réforme de la justice pénale à référendum",
+    "detail": "Deuxième grand texte annoncé pour être soumis directement aux Français, après celui sur l'immigration.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://fr.euronews.com/2026/02/12/presidentielle-de-2027-bruno-retailleau-annonce-sa-candidature-et-promet-des-referendums",
+      "libelle": "Euronews, « Présidentielle de 2027 : Bruno Retailleau annonce sa candidature et promet des référendums »",
+      "date": "2026-02-12"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-securite-2",
+    "perso": "retailleau",
+    "sujet": "securite",
+    "intitule": "Allonger la détention provisoire dans les affaires de narcotrafic",
+    "detail": "Volet judiciaire de son plan anti-trafics présenté à Nanterre, pour « taper l'économie de la drogue ».",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.france24.com/fr/info-en-continu/20260423-pr%C3%A9sidentielle-retailleau-lr-veut-boucler-les-quartiers-du-narcotrafic",
+      "libelle": "France 24 (AFP), « Présidentielle : Retailleau (LR) veut \"boucler\" les quartiers du narcotrafic »",
+      "date": "2026-04-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-securite-3",
+    "perso": "retailleau",
+    "sujet": "securite",
+    "intitule": "Sanctionner les mineurs par de courtes peines dès les premiers délits",
+    "detail": "Mesure du volet judiciaire de son plan « d'urgence anti-trafics ».",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.france24.com/fr/info-en-continu/20260423-pr%C3%A9sidentielle-retailleau-lr-veut-boucler-les-quartiers-du-narcotrafic",
+      "libelle": "France 24 (AFP), « Présidentielle : Retailleau (LR) veut \"boucler\" les quartiers du narcotrafic »",
+      "date": "2026-04-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-securite-u",
+    "perso": "retailleau",
+    "sujet": "securite",
+    "intitule": "Un « état d'urgence anti-trafics » pour boucler les quartiers de trafic 24h/24",
+    "detail": "50 à 60 quartiers visés, avec contrôle des entrées et sorties et une réforme de la Constitution pour le rendre applicable.",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.france24.com/fr/info-en-continu/20260423-pr%C3%A9sidentielle-retailleau-lr-veut-boucler-les-quartiers-du-narcotrafic",
+      "libelle": "France 24 (AFP), « Présidentielle : Retailleau (LR) veut \"boucler\" les quartiers du narcotrafic »",
+      "date": "2026-04-23"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-europe-1",
+    "perso": "retailleau",
+    "sujet": "europe",
+    "intitule": "Que l'UE favorise les énergies décarbonées plutôt que les renouvelables",
+    "detail": "Tribune de 2025 : « L'UE ne doit pas favoriser les énergies renouvelables, mais les énergies décarbonées ».",
+    "millesime": 2025,
+    "source": {
+      "url": "https://republicains.fr/actualites/2025/07/02/rebatir-un-parc-nucleaire-et-stopper-le-financement-des-renouvelables-notre-plan-pour-lenergie/",
+      "libelle": "Les Républicains, tribune de B. Retailleau, F.-X. Bellamy et J. Aubert (Le Figaro) « Rebâtir un parc nucléaire et stopper le financement des renouvelables »",
+      "date": "2025-07-02"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-europe-2",
+    "perso": "retailleau",
+    "sujet": "europe",
+    "intitule": "Remettre entièrement à plat la fin des moteurs thermiques en 2035",
+    "detail": "La tribune de 2025 estime que la règle européenne doit « maintenant être entièrement remise à plat ».",
+    "millesime": 2025,
+    "source": {
+      "url": "https://republicains.fr/actualites/2025/07/02/rebatir-un-parc-nucleaire-et-stopper-le-financement-des-renouvelables-notre-plan-pour-lenergie/",
+      "libelle": "Les Républicains, tribune de B. Retailleau, F.-X. Bellamy et J. Aubert (Le Figaro) « Rebâtir un parc nucléaire et stopper le financement des renouvelables »",
+      "date": "2025-07-02"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  },
+  {
+    "id": "retailleau-europe-3",
+    "perso": "retailleau",
+    "sujet": "europe",
+    "intitule": "",
+    "detail": "",
+    "millesime": null,
+    "source": null,
+    "verifie_le": "2026-10-14",
+    "statut": "a_completer"
+  },
+  {
+    "id": "retailleau-europe-u",
+    "perso": "retailleau",
+    "sujet": "europe",
+    "intitule": "Placer le droit européen au-dessus des lois mais sous la Constitution",
+    "detail": "Le droit de l'UE ne s'appliquerait que s'il est conforme à la Constitution et respecte les traités (entretien au Monde).",
+    "millesime": 2027,
+    "source": {
+      "url": "https://www.cnews.fr/france/2026-09-30/presidentielle-2027-bruno-retailleau-veut-placer-le-droit-europeen-en-dessous-de",
+      "libelle": "CNews, « Présidentielle 2027 : Bruno Retailleau veut placer le droit européen \"en dessous\" de la Constitution française » (entretien au Monde)",
+      "date": "2026-09-30"
+    },
+    "verifie_le": "2026-10-14",
+    "statut": "ok"
+  }
+]
