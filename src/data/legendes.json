@@ -2169,5 +2169,251 @@
         "statut": "ok"
       }
     ]
+  },
+  {
+    "id": "le-maire",
+    "nom": "Bruno Le Maire",
+    "parti": "Renaissance (ex-UMP/LR)",
+    "role": "Ministre de l'Économie et des Finances (2017-2024)",
+    "couleur": "#1f4e9c",
+    "rarete": "rare",
+    "effet": "bouclier",
+    "surnom": "Le Gardien de Bercy",
+    "entree": null,
+    "questions": [
+      {
+        "id": "le-maire-q-01",
+        "perso": "le-maire",
+        "sujet": "pouvoir-achat",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "Combien d'années consécutives Bruno Le Maire est-il resté ministre de l'Économie ?",
+        "choix": [
+          "3 ans",
+          "5 ans",
+          "7 ans",
+          "10 ans"
+        ],
+        "bonne": 2,
+        "explication": "Nommé en mai 2017, il quitte Bercy en septembre 2024. C'est un record de longévité continue à ce poste sous la Ve République.",
+        "source": {
+          "url": "https://www.europe1.fr/politique/sur-le-depart-bruno-le-maire-dit-vouloir-respirer-un-air-different-de-la-politique-4267080",
+          "libelle": "Europe 1 – Sur le départ, Bruno Le Maire…",
+          "date": "2024-09-12"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "le-maire-q-02",
+        "perso": "le-maire",
+        "sujet": "ecologie",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "Quel ministère Bruno Le Maire a-t-il dirigé de 2009 à 2012 ?",
+        "choix": [
+          "L'Éducation nationale",
+          "L'Agriculture et la Pêche",
+          "La Défense",
+          "L'Intérieur"
+        ],
+        "bonne": 1,
+        "explication": "Dans le gouvernement Fillon, il est ministre de l'Alimentation, de l'Agriculture et de la Pêche de juin 2009 à mai 2012.",
+        "source": {
+          "url": "https://www.publicsenat.fr/actualites/politique/portrait-de-bruno-le-maire-le-nouveau-ministre-de-l-economie-60729",
+          "libelle": "Public Sénat – Portrait de Bruno Le Maire",
+          "date": "2017-05-17"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "le-maire-q-03",
+        "perso": "le-maire",
+        "sujet": "europe",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "Quel fut le premier poste gouvernemental de Bruno Le Maire, en décembre 2008 ?",
+        "choix": [
+          "Secrétaire d'État aux Affaires européennes",
+          "Porte-parole du gouvernement",
+          "Ministre du Budget",
+          "Secrétaire d'État au Numérique"
+        ],
+        "bonne": 0,
+        "explication": "Il entre au gouvernement Fillon en décembre 2008 comme secrétaire d'État aux Affaires européennes, avant de passer à l'Agriculture en 2009.",
+        "source": {
+          "url": "https://www.publicsenat.fr/actualites/politique/portrait-de-bruno-le-maire-le-nouveau-ministre-de-l-economie-60729",
+          "libelle": "Public Sénat – Portrait de Bruno Le Maire",
+          "date": "2017-05-17"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "le-maire-q-04",
+        "perso": "le-maire",
+        "sujet": "pouvoir-achat",
+        "categorie": "campagne",
+        "difficulte": 3,
+        "question": "Quel score Bruno Le Maire a-t-il obtenu au 1er tour de la primaire de la droite en 2016 ?",
+        "choix": [
+          "12,1 %",
+          "7,5 %",
+          "0,3 %",
+          "2,4 %"
+        ],
+        "bonne": 3,
+        "explication": "Il termine cinquième avec 2,4 %, loin derrière Fillon, Juppé et Sarkozy, puis il soutient François Fillon.",
+        "source": {
+          "url": "https://www.lavenir.net/actu/monde/2016/11/20/primaire-de-la-droite-en-france-fillon-et-juppe-au-second-tour-sarkozy-elimine-6SMGZ7NWU5HA5N2EL6XH4KF7R4/",
+          "libelle": "L'Avenir – Primaire de la droite : Fillon et Juppé au second tour",
+          "date": "2016-11-20"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "le-maire-q-05",
+        "perso": "le-maire",
+        "sujet": "europe",
+        "categorie": "mesure",
+        "difficulte": 2,
+        "question": "En mars 2022, que promet Bruno Le Maire à la Russie après l'invasion de l'Ukraine ?",
+        "choix": [
+          "Un sommet de paix à Paris",
+          "Une guerre économique et financière totale",
+          "Un embargo sur le blé français",
+          "La fin des sanctions sous 6 mois"
+        ],
+        "bonne": 1,
+        "explication": "Le 1er mars 2022 sur franceinfo, il annonce « une guerre économique et financière totale » et l'« effondrement de l'économie russe ».",
+        "source": {
+          "url": "https://www.lsa-conso.fr/guerre-en-ukraine-nous-allons-provoquer-l-effondrement-de-l-economie-russe-assure-bruno-le-maire,405186",
+          "libelle": "LSA – « Nous allons provoquer l'effondrement de l'économie russe »",
+          "date": "2022-03-01"
+        },
+        "statut": "ok"
+      }
+    ]
+  },
+  {
+    "id": "ciotti",
+    "nom": "Éric Ciotti",
+    "parti": "UDR (Union des droites pour la République), ex-LR",
+    "role": "Président des Républicains (2022-2024), maire de Nice (depuis 2026)",
+    "couleur": "#1b2f6b",
+    "rarete": "rare",
+    "effet": "attaque",
+    "surnom": "Le Niçois qui coupe à droite",
+    "entree": null,
+    "questions": [
+      {
+        "id": "ciotti-q-01",
+        "perso": "ciotti",
+        "sujet": "securite",
+        "categorie": "parcours",
+        "difficulte": 2,
+        "question": "Qui Éric Ciotti a-t-il battu pour prendre la présidence des Républicains en décembre 2022 ?",
+        "choix": [
+          "Aurélien Pradié",
+          "Laurent Wauquiez",
+          "Bruno Retailleau",
+          "Xavier Bertrand"
+        ],
+        "bonne": 2,
+        "explication": "Le 11 décembre 2022, il l'emporte au second tour avec 53,7 % des voix face à Bruno Retailleau (46,3 %).",
+        "source": {
+          "url": "https://www.publicsenat.fr/actualites/politique/eric-ciotti-devient-le-nouveau-president-de-lr-230511",
+          "libelle": "Public Sénat – Éric Ciotti, nouveau président de LR",
+          "date": "2022-12-11"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "ciotti-q-02",
+        "perso": "ciotti",
+        "sujet": "immigration",
+        "categorie": "campagne",
+        "difficulte": 2,
+        "question": "Au congrès LR de 2021 pour la présidentielle, où arrive Éric Ciotti au 1er tour ?",
+        "choix": [
+          "Premier",
+          "Deuxième",
+          "Troisième",
+          "Quatrième"
+        ],
+        "bonne": 0,
+        "explication": "Il arrive premier avec 25,59 % devant Valérie Pécresse (25 %), mais il perd le second tour du 4 décembre 2021 (environ 39 % contre 61 %).",
+        "source": {
+          "url": "https://www.publicsenat.fr/actualites/politique/congres-lr-eric-ciotti-arrive-en-tete-du-premier-tour-avec-2559-des-voix-suivi-par",
+          "libelle": "Public Sénat – Congrès LR : Ciotti en tête du premier tour",
+          "date": "2021-12-02"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "ciotti-q-03",
+        "perso": "ciotti",
+        "sujet": "education",
+        "categorie": "mesure",
+        "difficulte": 3,
+        "question": "Que prévoyait la « loi Ciotti » de 2010 contre l'absentéisme scolaire ?",
+        "choix": [
+          "Des amendes pour les élèves",
+          "La suspension des allocations familiales",
+          "Des cours le samedi",
+          "Un bracelet pour les parents"
+        ],
+        "bonne": 1,
+        "explication": "La loi du 28 septembre 2010 permettait de suspendre les allocations familiales en cas d'absentéisme répété. Elle a été abrogée en janvier 2013.",
+        "source": {
+          "url": "https://www.maire-info.com/la-loi-ciotti-sur-l'absenteisme-scolaire-abrogee-article2-15646",
+          "libelle": "Maire-info – La loi Ciotti sur l'absentéisme scolaire abrogée",
+          "date": "2013-01-18"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "ciotti-q-04",
+        "perso": "ciotti",
+        "sujet": "immigration",
+        "categorie": "parcours",
+        "difficulte": 1,
+        "question": "Avec quel parti Éric Ciotti annonce-t-il une alliance pour les législatives de juin 2024 ?",
+        "choix": [
+          "Renaissance",
+          "Reconquête",
+          "Le Rassemblement national",
+          "Horizons"
+        ],
+        "bonne": 2,
+        "explication": "Le 12 juin 2024, il annonce une alliance avec le RN sans consulter les autres dirigeants de LR. Il quitte le parti en septembre 2024 et fonde l'UDR.",
+        "source": {
+          "url": "https://legrandcontinent.eu/fr/2024/06/11/eric-ciotti-et-le-rassemblement-national-la-fin-du-front-republicain-ou-le-emcentrodestra-em-a-la-francaise/",
+          "libelle": "Le Grand Continent – Éric Ciotti et le Rassemblement national",
+          "date": "2024-06-11"
+        },
+        "statut": "ok"
+      },
+      {
+        "id": "ciotti-q-05",
+        "perso": "ciotti",
+        "sujet": "securite",
+        "categorie": "campagne",
+        "difficulte": 1,
+        "question": "Quel maire sortant Éric Ciotti bat-il pour devenir maire de Nice en mars 2026 ?",
+        "choix": [
+          "Jean-Claude Gaudin",
+          "Christian Estrosi",
+          "Renaud Muselier",
+          "Hubert Falco"
+        ],
+        "bonne": 1,
+        "explication": "Au second tour du 22 mars 2026, il bat son ancien mentor Christian Estrosi, qui briguait un quatrième mandat.",
+        "source": {
+          "url": "https://lcp.fr/actualites/municipales-a-nice-eric-ciotti-gagne-contre-son-rival-christian-estrosi-434017",
+          "libelle": "LCP – Municipales : à Nice, Éric Ciotti gagne contre Christian Estrosi",
+          "date": "2026-03-22"
+        },
+        "statut": "ok"
+      }
+    ]
   }
 ]

@@ -113,6 +113,7 @@ export function Rarete({ rarete }: { rarete: string }) {
 
 export function LienSource({ source }: { source: { url: string; libelle: string; date?: string } | null | undefined }) {
   if (!source) return null;
+  if (!source.url) return <span className="lien-source sans-lien">{source.libelle}</span>;
   return (
     <a className="lien-source" href={source.url} target="_blank" rel="noreferrer">
       Source : {source.libelle}

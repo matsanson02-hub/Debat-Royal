@@ -111,6 +111,12 @@ export interface Legende {
 
 export interface Ref {
   id: string;
+  /** réplique culte ou mème sans source officielle : affichée avec l'étiquette « Mème » */
+  meme?: boolean;
+  /** nom affiché quand la personne n'est ni candidate ni légende */
+  nom?: string;
+  /** « tous » : équipable sur n'importe quel candidat */
+  equipable?: 'tous';
   perso: string;
   rarete: RareteRef;
   phrase: string;

@@ -210,8 +210,8 @@
   {
     "id": "macron-traverse-la-rue",
     "perso": "macron",
-    "rarete": "moment_culte",
-    "phrase": "Je traverse la rue, je vous en trouve.",
+    "rarete": "punchline",
+    "phrase": "Hôtels, cafés, restaurants, je traverse la rue, je vous en trouve !",
     "contexte": "Échange avec un jeune horticulteur au chômage dans les jardins de l'Élysée, Journées du patrimoine",
     "date": "2018-09-15",
     "sujet": null,
@@ -608,6 +608,113 @@
     "source": {
       "url": "https://www.publicsenat.fr/actualites/politique/europeennes-dialogue-de-sourds-entre-loiseau-et-bardella-141140",
       "libelle": "Public Sénat, 15 mai 2019"
+    }
+  },
+  {
+    "id": "jm-le-pen-rouquin",
+    "perso": "jean-marie-le-pen",
+    "nom": "Jean-Marie Le Pen",
+    "equipable": "tous",
+    "meme": true,
+    "rarete": "petite_phrase",
+    "phrase": "Je vais t'attraper, rouquin !",
+    "contexte": "Version popularisée d'un échange à Mantes-la-Jolie en 1997. Les mots rapportés sont « Je vais te faire courir, moi, rouquin… ».",
+    "date": "1997-05-30",
+    "sujet": null,
+    "source": {
+      "url": "https://www.lalibre.be/international/europe/2025/01/07/je-vais-te-faire-courir-le-rouqin-jeanne-au-secours-monseigneur-ebola-les-derapages-les-plus-marquants-de-jean-marie-le-pen-WX37MPOBX5EP3ONJYCS5VXWOBI/",
+      "libelle": "Mème — formulation populaire (La Libre Belgique, 2025)"
+    }
+  },
+  {
+    "id": "sarkozy-double-ration-frites",
+    "perso": "sarkozy",
+    "rarete": "petite_phrase",
+    "phrase": "…il prendra une double ration de frites.",
+    "contexte": "Meeting à propos des menus de substitution dans les cantines",
+    "date": "2016-11-07",
+    "sujet": "education",
+    "source": {
+      "url": "https://www.europe1.fr/node/353216",
+      "libelle": "Europe 1, 7 novembre 2016"
+    }
+  },
+  {
+    "id": "melenchon-la-republique-c-est-moi",
+    "perso": "melenchon",
+    "rarete": "replique_historique",
+    "phrase": "La République, c'est moi !",
+    "contexte": "Lors de la perquisition au siège de La France insoumise",
+    "date": "2018-10-16",
+    "sujet": "securite",
+    "source": {
+      "url": "https://www.publicsenat.fr/actualites/politique/perquisition-a-lfi-jean-luc-melenchon-condamne-a-trois-mois-de-prison-avec-sursis",
+      "libelle": "Public Sénat"
+    }
+  },
+  {
+    "id": "macron-for-sure",
+    "perso": "macron",
+    "rarete": "punchline",
+    "phrase": "For sure.",
+    "contexte": "Discours au Forum de Davos, devenu un mème mondial",
+    "date": "2026-01-20",
+    "sujet": "europe",
+    "source": {
+      "url": "https://gulfnews.com/entertainment/social-media-turns-emmanuel-macrons-for-sure-into-hilarious-memes-1.500423328",
+      "libelle": "Gulf News, janvier 2026"
+    }
+  },
+  {
+    "id": "glucksmann-cap-clair",
+    "perso": "glucksmann",
+    "meme": true,
+    "rarete": "petite_phrase",
+    "phrase": "Il faut un cap clair.",
+    "contexte": "Réplique de jeu, jamais prononcée telle quelle à notre connaissance.",
+    "sujet": null,
+    "source": {
+      "url": "",
+      "libelle": "Réplique de jeu — non sourcée"
+    }
+  },
+  {
+    "id": "le-pen-dans-les-campagnes",
+    "perso": "le-pen",
+    "meme": true,
+    "rarete": "punchline",
+    "phrase": "Ils sont dans les campagnes…",
+    "contexte": "Réplique de jeu, jamais prononcée telle quelle à notre connaissance.",
+    "sujet": "immigration",
+    "source": {
+      "url": "",
+      "libelle": "Réplique de jeu — non sourcée"
+    }
+  },
+  {
+    "id": "le-pen-c-est-la-honte",
+    "perso": "le-pen",
+    "meme": true,
+    "rarete": "petite_phrase",
+    "phrase": "C'est la honte !",
+    "contexte": "Réplique de jeu, jamais prononcée telle quelle à notre connaissance.",
+    "sujet": null,
+    "source": {
+      "url": "",
+      "libelle": "Réplique de jeu — non sourcée"
+    }
+  },
+  {
+    "id": "macron-on-va-itou",
+    "perso": "macron",
+    "meme": true,
+    "rarete": "petite_phrase",
+    "phrase": "On va itou.",
+    "contexte": "Réplique de jeu, jamais prononcée telle quelle à notre connaissance.",
+    "sujet": null,
+    "source": {
+      "url": "",
+      "libelle": "Réplique de jeu — non sourcée"
     }
   }
 ]

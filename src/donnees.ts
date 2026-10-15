@@ -131,7 +131,7 @@ export function construireContenu(): Contenu {
   }));
 
   const refs = tableaux<Ref>(fichiersRefs).filter((r) => {
-    const ok = !!r.phrase && sourceValide(r.source) && r.rarete in RARETE_DE_REF;
+    const ok = !!r.phrase && (r.meme || sourceValide(r.source)) && r.rarete in RARETE_DE_REF;
     if (!ok) problemes.push(`Ref ${r.id} masquée : source manquante`);
     return ok;
   });
@@ -198,7 +198,7 @@ export function replique(cle: string, vars: Record<string, string> = {}): string
 
 export function nomDe(id: string): string {
   const c = contenu();
-  return c.catalogue.candidats.get(id)?.nom ?? c.catalogue.legendes.get(id)?.nom ?? id;
+  return c.catalogue.candidats.get(id)?.nom ?? c.catalogue.legendes.get(id)?.nom ?? [...c.catalogue.refs.values()].find((r) => r.perso === id && r.nom)?.nom ?? id;
 }
 
 export function couleurDe(id: string): string {

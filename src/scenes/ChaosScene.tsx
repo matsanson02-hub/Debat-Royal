@@ -7,6 +7,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { SpriteSvg } from '../composants/Sprites';
 import { Silhouette } from '../composants/Portrait';
 import { jouer } from '../lib/son';
+import { sourcesIntervenant } from '../lib/assets';
 import type { ActeurScene, Camp, CarteChaos } from '../moteur/types';
 import type { ApiParticules, TypeParticule } from './Particules';
 import type { Reaction } from './Public';

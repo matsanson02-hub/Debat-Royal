@@ -54,7 +54,7 @@ export function bonusRef(ref: Ref, niveau: number, sujet: SujetId): number {
 
 /** Une ref s'équipe sur le candidat qu'elle concerne ; celles des légendes sur tous. */
 export function refEquipable(ref: Ref, persoId: string, idsLegendes: Set<string>): boolean {
-  return ref.perso === persoId || idsLegendes.has(ref.perso);
+  return ref.equipable === 'tous' || ref.perso === persoId || idsLegendes.has(ref.perso);
 }
 
 /** Refs applicables d'un camp, dans l'ordre d'équipement. */

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { cheminLegende, cheminPied, cheminPortrait } from '../lib/assets';
+import { sourcesLegende, sourcesPied, sourcesPortrait } from '../lib/assets';
 import { contenu } from '../donnees';
 
 interface Props {
@@ -17,8 +17,12 @@ export function Portrait({ id, variante = 'portrait', taille = 96, tenue, classN
   const fiche = c.catalogue.candidats.get(id) ?? c.catalogue.legendes.get(id) ?? c.candidats.find((x) => x.id === id);
   const nom = fiche?.nom ?? id;
   const couleur = fiche?.couleur ?? '#7a86b8';
-  const src = variante === 'pied' ? cheminPied(id) : variante === 'legende' ? cheminLegende(id) : cheminPortrait(id);
-  const [manquante, setManquante] = useState(false);
+  // En pied : image en pied, sinon le portrait affiché en buste, sinon la silhouette.
+  const sources = variante === 'pied' ? [...sourcesPied(id), ...sourcesPortrait(id)] : variante === 'legende' ? sourcesLegende(id) : sourcesPortrait(id);
+  const [essai, setEssai] = useState(0);
+  const manquante = essai >= sources.length;
+  const src = sources[Math.min(essai, sources.length - 1)];
+  const buste = variante === 'pied' && !manquante && !src.includes('-pied');
   const t = tenue ? c.tenues.find((x) => x.id === tenue) : undefined;
   const ratio = variante === 'pied' ? 1.25 : variante === 'legende' ? 1.333 : 1;
   const style = {
@@ -28,11 +32,11 @@ export function Portrait({ id, variante = 'portrait', taille = 96, tenue, classN
     transform: miroir ? 'scaleX(-1)' : undefined,
   };
   return (
-    <div className={`portrait portrait-${variante} ${className}`} style={style} title={nom}>
+    <div className={`portrait portrait-${variante} ${buste ? 'portrait-buste' : ''} ${className}`} style={{ ...style, ['--couleur' as string]: couleur }} title={nom}>
       {manquante ? (
         <Silhouette nom={nom} couleur={couleur} pied={variante === 'pied'} miroir={miroir} />
       ) : (
-        <img src={src} alt={nom} draggable={false} onError={() => setManquante(true)} />
+        <img key={src} src={src} alt={nom} draggable={false} onError={() => setEssai((e) => e + 1)} />
       )}
       {t?.accessoire && <Accessoire type={t.accessoire} />}
     </div>

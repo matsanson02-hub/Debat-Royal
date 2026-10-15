@@ -1,16 +1,16 @@
 import { motion } from 'framer-motion';
 import { useCallback, useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
-import { BarreVie, Jauges } from '../composants/Jauges';
+import { BarreVie, JaugeAmbiance, JaugeSegments } from '../composants/Jauges';
 import { Chrono } from '../composants/Chrono';
 import { Bouton, LienSource } from '../composants/Interface';
 import { Portrait } from '../composants/Portrait';
 import { contenu, infoSujet, nomDe, replique } from '../donnees';
 import { useJeu } from '../etat';
-import { cheminLegende, cheminModerateur, cheminPied, cheminPortrait, precharger } from '../lib/assets';
+import { precharger, sourcesIntervenant, sourcesLegende, sourcesModerateur, toutesSources } from '../lib/assets';
 import { jouer } from '../lib/son';
 import { actionsPossibles, creerCombat, reduire, scoreCulture, sujetEnCours } from '../moteur/combat';
 import { appliquerCombat, plateauActuel } from '../moteur/economie';
-import type { Camp, CarteChaos, ConfigCombat, EffetLegende, EtatCombat, Evenement } from '../moteur/types';
+import type { Camp, CarteChaos, ConfigCombat, EffetLegende, EtatCombat, Evenement, SujetId } from '../moteur/types';
 import { ChaosScene } from '../scenes/ChaosScene';
 import { Plateau, type ApiPlateau, type Degat } from '../scenes/Plateau';
 import type { Reaction } from '../scenes/Public';
@@ -72,6 +72,17 @@ export function Combat({ config, tutoriel }: { config: ConfigCombat; tutoriel?: 
   const [mesuresNouvelles, setMesuresNouvelles] = useState<string[]>([]);
   const [ko, setKo] = useState(false);
   const plateauRef = useRef<ApiPlateau>(null);
+  const racine = useRef<HTMLElement>(null);
+  const consoleRef = useRef<HTMLElement>(null);
+
+  // Le bandeau du modérateur se cale juste au-dessus de la console, quelle que soit sa hauteur.
+  useEffect(() => {
+    const el = consoleRef.current;
+    if (!el) return;
+    const obs = new ResizeObserver(() => racine.current?.style.setProperty('--hauteur-console', `${el.offsetHeight}px`));
+    obs.observe(el);
+    return () => obs.disconnect();
+  }, []);
   const finChaos = useRef<(() => void) | null>(null);
   const vus = useRef(0);
   const idDegat = useRef(0);
@@ -115,8 +126,8 @@ export function Combat({ config, tutoriel }: { config: ConfigCombat; tutoriel?: 
     const intervenants = [...config.joueur.chaos, ...config.adversaire.chaos]
       .flatMap((id) => cat.chaos.get(id)?.scene.acteurs ?? [])
       .filter((a) => !a.sprite.startsWith('svg:'))
-      .map((a) => `/${a.sprite}`);
-    precharger([...ids.flatMap((id) => [cheminPortrait(id), cheminPied(id)]), ...legs.map(cheminLegende), cheminModerateur(), ...intervenants]).then(() => setPret(true));
+      .flatMap((a) => sourcesIntervenant(a.sprite));
+    precharger([...ids.flatMap(toutesSources), ...legs.flatMap(sourcesLegende), ...sourcesModerateur(), ...intervenants]).then(() => setPret(true));
     jouer('ovation');
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
@@ -158,12 +169,15 @@ export function Combat({ config, tutoriel }: { config: ConfigCombat; tutoriel?: 
         }
         setBulles((b) => ({
           ...b,
-          [ev.camp]: (
+          [ev.camp]: {
+            choc: true,
+            contenu: (
             <>
               <strong>{ev.bulle}</strong>
               {ev.ref && <RepliqueSourcee texte={ev.ref.phrase} source={ev.ref.source} petite />}
             </>
-          ),
+            ),
+          },
         }));
         setFrappe(ev.camp);
         jouer(ev.critique ? 'critique' : 'coup');
@@ -345,196 +359,286 @@ export function Combat({ config, tutoriel }: { config: ConfigCombat; tutoriel?: 
   const q = etat.questionEnCours;
   const ficheJ = cat.candidats.get(J.persoId)!;
   const ficheA = cat.candidats.get(A.persoId)!;
-  const argsAdverses = ficheA.arguments[sujet] ?? [];
+  const argsJ = ficheJ.arguments[sujet] ?? [];
+  const argsA = ficheA.arguments[sujet] ?? [];
   const bloques = new Set(J.effets.flatMap((x) => (x.type === 'argumentBloque' ? [x.argId] : [])));
-
+  const enQuestion = !!q && q.repondant === 'joueur' && !anime;
+  const enResultat = etat.phase === 'resultat' && !!etat.resolution && !anime;
   const tuto = tutoriel ? texteTutoriel(etat, anime) : null;
 
   return (
-    <main className={`ecran ecran-combat ${reduit ? 'reduit' : ''}`}>
-      {/* En-tête : portraits, PV, manche, VS */}
-      <header className="hud-haut">
-        <div className="hud-camp hud-joueur">
-          <Portrait id={J.persoId} taille={54} className="portrait-rond" />
-          <div className="hud-infos">
-            <strong>{ficheJ.nom}</strong>
-            <em>{ficheJ.surnom}</em>
-            <BarreVie pv={J.pv} camp="joueur" />
+    <main ref={racine} className={`ecran-combat ${reduit ? 'reduit' : ''}`}>
+      <div className="scene-combat">
+        <Plateau
+          ref={plateauRef}
+          decor={plateauInfo.decor}
+          nomPlateau={plateauInfo.nom}
+          sujet={sujet}
+          ecran={ecranSpecial}
+          joueur={J.persoId}
+          adversaire={A.persoId}
+          tenueJoueur={profil.tenuesPortees[J.persoId]}
+          reactions={reactions}
+          bulles={bulles}
+          degats={degats}
+          frappe={frappe}
+          legendeEntree={legendeEntree}
+          reduit={reduit}
+        >
+          {chaos && (
+            <ChaosScene
+              key={chaos.carte.id + chaos.lanceur}
+              carte={chaos.carte}
+              lanceur={chaos.lanceur}
+              reussi={chaos.reussi}
+              degats={chaos.degats}
+              reduit={reduit}
+              particules={() => plateauRef.current?.particules() ?? null}
+              onReaction={(r) => setReactions({ joueur: r, adversaire: r })}
+              onSecousse={() => plateauRef.current?.secouer(1.3)}
+              onModerateur={direModo}
+              onFin={() => finChaos.current?.()}
+            />
+          )}
+          {ko && <div className="ko-texte">K.O. !</div>}
+          {!pret && <div className="chargement-plateau">Installation du plateau…</div>}
+        </Plateau>
+
+        {/* HUD façon jeu de combat */}
+        <header className="hud">
+          <HudCamp camp="joueur" persoId={J.persoId} nom={ficheJ.nom} surnom={ficheJ.surnom} pv={J.pv} />
+          <div className="hud-centre">
+            <span className="ruban-manche">
+              MANCHE {Math.min(etat.manche + 1, etat.manches.length)}
+              <small>/{etat.manches.length}</small>
+            </span>
+            <span className="vs-bloc">
+              <span className="eclair">⚡</span>
+              <span className="vs">VS</span>
+              <span className="eclair eclair-d">⚡</span>
+            </span>
+            {J.combo >= 2 && <span className="combo">COMBO ×{J.combo}</span>}
           </div>
-        </div>
-        <div className="hud-centre">
-          <span className="manche">
-            Manche {Math.min(etat.manche + 1, etat.manches.length)}/{etat.manches.length}
+          <HudCamp camp="adversaire" persoId={A.persoId} nom={ficheA.nom} surnom={ficheA.surnom} pv={A.pv} />
+        </header>
+
+        <div className="tiers-bas">
+          <span className="tiers-bas-nom">GILLES BOULEAU</span>
+          <span className="tiers-bas-texte">{texteModo}</span>
+          <span className="tiers-bas-sujet" style={{ background: infoS.couleur }}>
+            {infoS.icone} {infoS.court}
           </span>
-          <span className="vs">VS</span>
-          {J.combo >= 2 && <span className="combo">Combo ×{J.combo}</span>}
         </div>
-        <div className="hud-camp hud-adversaire">
-          <div className="hud-infos">
-            <strong>{ficheA.nom}</strong>
-            <em>{ficheA.surnom}</em>
-            <BarreVie pv={A.pv} camp="adversaire" />
-          </div>
-          <Portrait id={A.persoId} taille={54} className="portrait-rond" />
-        </div>
-      </header>
 
-      <Plateau
-        ref={plateauRef}
-        decor={plateauInfo.decor}
-        nomPlateau={plateauInfo.nom}
-        sujet={sujet}
-        ecran={ecranSpecial}
-        joueur={J.persoId}
-        adversaire={A.persoId}
-        tenueJoueur={profil.tenuesPortees[J.persoId]}
-        reactions={reactions}
-        bulles={bulles}
-        degats={degats}
-        frappe={frappe}
-        legendeEntree={legendeEntree}
-        reduit={reduit}
-      >
-        {chaos && (
-          <ChaosScene
-            key={chaos.carte.id + chaos.lanceur}
-            carte={chaos.carte}
-            lanceur={chaos.lanceur}
-            reussi={chaos.reussi}
-            degats={chaos.degats}
-            reduit={reduit}
-            particules={() => plateauRef.current?.particules() ?? null}
-            onReaction={(r) => setReactions({ joueur: r, adversaire: r })}
-            onSecousse={() => plateauRef.current?.secouer(1.3)}
-            onModerateur={direModo}
-            onFin={() => finChaos.current?.()}
-          />
+        {peutAgir && !enQuestion && (
+          <motion.div className="sticker sticker-tap" initial={{ scale: 0 }} animate={{ scale: 1, rotate: [-4, 4, -4] }} transition={{ rotate: { duration: 1.2, repeat: Infinity } }}>
+            📱 <strong>TAP TAP</strong> <small>pour débattre !</small>
+          </motion.div>
         )}
-        {ko && <div className="ko-texte">K.O. !</div>}
-        {!pret && <div className="chargement-plateau">Installation du plateau…</div>}
-      </Plateau>
-
-      {/* Bandeau du modérateur */}
-      <div className="bandeau-moderateur">
-        <span className="bandeau-moderateur-nom">GILLES BOULEAU</span>
-        <span className="bandeau-moderateur-texte">{texteModo}</span>
-        <span className="bandeau-moderateur-sujet" style={{ background: infoS.couleur }}>
-          {infoS.icone} {infoS.court}
-        </span>
       </div>
 
-      {/* Zone d'action */}
-      <section className="zone-action">
-        <>
-          {q && q.repondant === 'joueur' && !anime ? (
-            <PanneauQuestion key={q.question.id} q={q} onRepondre={repondre} onFin={finChrono} onTick={tick} />
-          ) : etat.phase === 'resultat' && etat.resolution && !anime ? (
-            <PanneauResultat key={etat.resolution.questionId + etat.resolution.repondant} etat={etat} onSuite={() => envoyer({ type: 'suite' })} />
-          ) : (
-            <motion.div key="choix" className="panneau-choix" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-              <div className="ligne-jauges">
-                <Jauges superV={J.super} invocation={J.invocation} ambiance={J.ambiance} />
-                {etat.actif === 'adversaire' && etat.phase === 'choix' && <span className="ia-reflechit">{ficheA.nom} prépare sa réponse…</span>}
+      {/* Console du bas */}
+      <section className="console" ref={consoleRef}>
+        {enQuestion && q ? (
+          <PanneauQuestion key={q.question.id} q={q} onRepondre={repondre} onFin={finChrono} onTick={tick} />
+        ) : enResultat ? (
+          <PanneauResultat key={etat.resolution!.questionId + etat.resolution!.repondant} etat={etat} onSuite={() => envoyer({ type: 'suite' })} />
+        ) : (
+          <div className="console-grille">
+            <div className="console-camp console-joueur">
+              <div className="badges">
+                <BadgeSuper valeur={J.super} camp="joueur" />
+                <div className="mini-jauges">
+                  <JaugeSegments valeur={J.invocation} max={2} libelle="Invoc." classe="invocation" />
+                  <JaugeAmbiance valeur={J.ambiance} />
+                </div>
               </div>
-              <div className="arguments">
-                {(ficheJ.arguments[sujet] ?? []).map((a) => {
+              <div className="cartes-attaque">
+                {argsJ.map((a, i) => {
                   const mesure = cat.mesures.get(a.mesure);
                   const bloque = bloques.has(a.id);
                   return (
                     <motion.button
                       key={a.id}
                       type="button"
-                      className={`carte-argument ${bloque ? 'bloque' : ''}`}
+                      className={`carte-attaque ${bloque ? 'bloque' : ''}`}
                       disabled={!peutAgir || bloque}
-                      whileTap={{ scale: 0.95 }}
+                      whileHover={peutAgir ? { y: -6 } : undefined}
+                      whileTap={{ scale: 0.94 }}
                       onClick={() => envoyer({ type: 'choisirArgument', argId: a.id })}
                     >
-                      <span className="argument-nom">{a.nom}</span>
-                      <span className="argument-bulle">« {a.bulle} »</span>
-                      <span className="argument-puissance">⚡ {a.puissance}</span>
+                      <span className="carte-attaque-art">{iconeArgument(sujet, i)}</span>
+                      <span className="carte-attaque-nom">{a.nom}</span>
+                      <span className="carte-attaque-effet">« {a.bulle} »</span>
+                      <span className="carte-attaque-puissance">⚡ {a.puissance}</span>
                       {mesure && mesure.millesime < 2027 && <span className="millesime">Prog. {mesure.millesime}</span>}
-                      {bloque && <span className="argument-bloque">Bloqué par des militants</span>}
+                      {bloque && <span className="argument-bloque">Bloqué !</span>}
                     </motion.button>
                   );
                 })}
                 <motion.button
                   type="button"
-                  className={`carte-argument ultime ${possibles.ultime ? 'prete' : ''}`}
+                  className={`carte-attaque ultime ${possibles.ultime ? 'prete' : ''}`}
                   disabled={!peutAgir || !possibles.ultime}
-                  whileTap={{ scale: 0.95 }}
+                  whileHover={peutAgir && possibles.ultime ? { y: -6 } : undefined}
+                  whileTap={{ scale: 0.94 }}
                   onClick={() => envoyer({ type: 'lancerUltime' })}
                 >
-                  <span className="argument-nom">ULTIME</span>
-                  <span className="argument-bulle">{ficheJ.ultimes[sujet]?.nom ?? 'Pas d’ultime sur ce sujet'}</span>
-                  <span className="argument-puissance">⚡ {ficheJ.ultimes[sujet]?.puissance ?? '—'}</span>
+                  <span className="carte-attaque-art">👑</span>
+                  <span className="carte-attaque-nom">{ficheJ.ultimes[sujet]?.nom ?? 'Ultime'}</span>
+                  <span className="carte-attaque-effet">{possibles.ultime ? 'PRÊT !' : `Super ${J.super}/3`}</span>
+                  <span className="carte-attaque-puissance">⚡ {ficheJ.ultimes[sujet]?.puissance ?? '—'}</span>
                 </motion.button>
               </div>
-              <div className="deck-combat">
-                {J.legendes.map((l) => {
-                  const fiche = cat.legendes.get(l.id);
-                  const ok = possibles.legendes.includes(l.id);
-                  return (
-                    <button
-                      key={l.id}
-                      type="button"
-                      className={`vignette-deck legende ${l.utilisee ? 'utilisee' : ''} ${ok ? 'prete' : ''}`}
-                      disabled={!peutAgir || !ok}
-                      title={fiche ? `${fiche.nom} — ${EFFETS_LEGENDE[fiche.effet]}` : l.id}
-                      onClick={() => envoyer({ type: 'invoquerLegende', legendeId: l.id })}
-                    >
-                      <Portrait id={l.id} taille={44} />
-                      <span>{fiche?.nom.split(' ').slice(-1)[0]}</span>
-                    </button>
-                  );
-                })}
-                {J.chaos.map((x) => {
-                  const carte = cat.chaos.get(x.id);
-                  const ok = possibles.chaos.includes(x.id);
-                  return (
-                    <button
-                      key={x.id}
-                      type="button"
-                      className={`vignette-deck chaos rarete-bord-${carte?.rarete} ${x.utilisee ? 'utilisee' : ''} ${ok ? 'prete' : ''}`}
-                      disabled={!peutAgir || !ok}
-                      title={carte ? `${carte.nom} — ${carte.description}` : x.id}
-                      onClick={() => envoyer({ type: 'jouerChaos', carteId: x.id })}
-                    >
-                      <span className="vignette-chaos-icone">💥</span>
-                      <span>{carte?.nom}</span>
-                    </button>
-                  );
-                })}
+            </div>
+
+            <div className="console-centre">
+              {J.legendes.map((l) => {
+                const fiche = cat.legendes.get(l.id);
+                const ok = possibles.legendes.includes(l.id);
+                return (
+                  <button
+                    key={l.id}
+                    type="button"
+                    className={`vignette-roster ${l.utilisee ? 'utilisee' : ''} ${ok ? 'prete' : ''}`}
+                    disabled={!peutAgir || !ok}
+                    title={fiche ? `${fiche.nom} — ${EFFETS_LEGENDE[fiche.effet]} (jauge Invocation)` : l.id}
+                    onClick={() => envoyer({ type: 'invoquerLegende', legendeId: l.id })}
+                  >
+                    <Portrait id={l.id} taille={64} />
+                    <span>{fiche?.nom.split(' ').slice(-1)[0]}</span>
+                  </button>
+                );
+              })}
+              {J.chaos.map((x) => {
+                const carte = cat.chaos.get(x.id);
+                const ok = possibles.chaos.includes(x.id);
+                return (
+                  <button
+                    key={x.id}
+                    type="button"
+                    className={`vignette-roster chaos rarete-bord-${carte?.rarete} ${x.utilisee ? 'utilisee' : ''} ${ok ? 'prete' : ''}`}
+                    disabled={!peutAgir || !ok}
+                    title={carte ? `${carte.nom} — ${carte.description} (jauge Ambiance)` : x.id}
+                    onClick={() => envoyer({ type: 'jouerChaos', carteId: x.id })}
+                  >
+                    <span className="vignette-chaos-icone">{iconeChaos(x.id)}</span>
+                    <span>{carte?.nom}</span>
+                  </button>
+                );
+              })}
+            </div>
+
+            <div className="console-camp console-adversaire">
+              <div className="cartes-attaque">
+                {argsA.map((a, i) => (
+                  <div key={a.id} className="carte-attaque adverse" title="Argument de l’adversaire (visible pour apprendre)">
+                    <span className="carte-attaque-art">{iconeArgument(sujet, i + 3)}</span>
+                    <span className="carte-attaque-nom">{a.nom}</span>
+                    <span className="carte-attaque-effet">« {a.bulle} »</span>
+                  </div>
+                ))}
               </div>
-              <details className="arguments-adverses">
-                <summary>Arguments de {ficheA.nom} sur ce sujet</summary>
-                <div className="arguments grises">
-                  {argsAdverses.map((a) => (
-                    <div key={a.id} className="carte-argument grise">
-                      <span className="argument-nom">{a.nom}</span>
-                      <span className="argument-bulle">« {a.bulle} »</span>
-                    </div>
-                  ))}
-                </div>
-              </details>
-            </motion.div>
-          )}
-        </>
+              <div className="badges">
+                <BadgeSuper valeur={A.super} camp="adversaire" />
+                {etat.actif === 'adversaire' && etat.phase === 'choix' && <span className="ia-reflechit">{ficheA.nom.split(' ').slice(-1)[0]} prépare sa réponse…</span>}
+              </div>
+            </div>
+          </div>
+        )}
         {mesuresNouvelles.length > 0 && (
-          <div className="toast-mesures" onAnimationEnd={() => undefined}>
+          <div className="toast-mesures">
             📘 {mesuresNouvelles.length} mesure{mesuresNouvelles.length > 1 ? 's' : ''} débloquée{mesuresNouvelles.length > 1 ? 's' : ''}
           </div>
         )}
+        {tuto && <div className="astuce-tutoriel">💡 {tuto}</div>}
       </section>
 
-      {tuto && (
-        <motion.div className="astuce-tutoriel" key={tuto} initial={{ y: 20, opacity: 0 }} animate={{ y: 0, opacity: 1 }}>
-          💡 {tuto}
-        </motion.div>
-      )}
+      <div className="sticker sticker-club" aria-hidden>
+        <span>👑</span> POLITIQUE <br />
+        FIGHT CLUB
+      </div>
+      <div className="sticker sticker-memes" aria-hidden>
+        Mêmes politiques,
+        <br /> nouveaux combats ♥
+      </div>
       <button type="button" className="bouton-abandon" onClick={() => aller({ nom: 'accueil' })} title="Quitter le débat">
-        ✕
+        ✕ Quitter
       </button>
     </main>
+  );
+}
+
+const ICONES_SUJETS: Record<SujetId, string[]> = {
+  education: ['📚', '🎒', '🏫', '✏️', '🎓', '📝'],
+  retraites: ['👵', '⏳', '💶', '🧓', '📅', '🪑'],
+  'pouvoir-achat': ['🛒', '💶', '⛽', '🧾', '💳', '🏷️'],
+  immigration: ['🛂', '📜', '🌍', '🚧', '🗂️', '🛃'],
+  ecologie: ['🌱', '⚡', '🌍', '♻️', '🚆', '☀️'],
+  sante: ['🏥', '🩺', '💊', '🚑', '❤️', '🧪'],
+  securite: ['⚖️', '🚓', '🛡️', '🔒', '🏛️', '📹'],
+  europe: ['🇪🇺', '🌐', '🤝', '🛡️', '📈', '🗳️'],
+};
+
+function iconeArgument(sujet: SujetId, i: number): string {
+  const l = ICONES_SUJETS[sujet];
+  return l[i % l.length];
+}
+
+const ICONES_CHAOS: Record<string, string> = {
+  invasion: '🏃',
+  'gilets-jaunes': '🦺',
+  feu: '🔥',
+  casserolade: '🍳',
+  tracteurs: '🚜',
+  'militants-climat': '🪧',
+  greve: '🔦',
+  'coupure-pub': '📺',
+  prompteur: '📄',
+  scande: '📣',
+  praud: '🎙️',
+  mediapart: '📰',
+  canard: '🦆',
+  bfmtv: '🚨',
+  quotidien: '🎬',
+  hanouna: '🪩',
+  decodeurs: '❌',
+  hugodecrypte: '📱',
+  brut: '📈',
+};
+
+function iconeChaos(id: string): string {
+  return ICONES_CHAOS[id] ?? '💥';
+}
+
+function HudCamp({ camp, persoId, nom, surnom, pv }: { camp: Camp; persoId: string; nom: string; surnom: string; pv: number }) {
+  const nomCourt = nom.split(' ').slice(1).join(' ') || nom;
+  return (
+    <div className={`hud-camp hud-${camp}`}>
+      <div className="hud-avatar">
+        <Portrait id={persoId} taille={92} className="portrait-rond" />
+      </div>
+      <div className="hud-infos">
+        <strong className="hud-nom">{nomCourt.toUpperCase()}</strong>
+        <BarreVie pv={pv} camp={camp} />
+        <em className="hud-surnom">{surnom.toUpperCase()}</em>
+      </div>
+    </div>
+  );
+}
+
+function BadgeSuper({ valeur, camp }: { valeur: number; camp: Camp }) {
+  const plein = valeur >= 3;
+  return (
+    <div className={`badge-super badge-${camp} ${plein ? 'plein' : ''}`} aria-label={`Super ${valeur}/3`}>
+      <span className="badge-super-valeur">{valeur}</span>
+      <span className="badge-super-libelle">SUPER</span>
+      <span className="badge-super-eclair">⚡</span>
+      <svg viewBox="0 0 100 100" className="badge-super-anneau" aria-hidden>
+        <circle cx="50" cy="50" r="44" className="anneau-fond" />
+        <circle cx="50" cy="50" r="44" className="anneau-plein" strokeDasharray={276} strokeDashoffset={276 * (1 - Math.min(1, valeur / 3))} transform="rotate(-90 50 50)" />
+      </svg>
+    </div>
   );
 }
 

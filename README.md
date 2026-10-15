@@ -29,7 +29,7 @@ Chaque fois que tu modifies un fichier sur GitHub, Vercel republie le jeu automa
 
 ## Ajouter les images des personnages
 
-Tant qu'une image manque, le jeu affiche une silhouette colorée avec les initiales : rien ne bloque. Pour ajouter tes illustrations, dépose-les dans le dossier `public/` (sur GitHub : ouvre le dossier, puis **Add file → Upload files**) avec exactement ces noms :
+Tant qu'une image manque, le jeu affiche une silhouette colorée avec les initiales : rien ne bloque. Les fichiers peuvent être en `.webp` ou en `.png`. **Le guide complet, avec des prompts prêts à l'emploi, est dans `IMAGES_A_GENERER.md`.** Le décor peint du plateau se dépose dans `public/decor/plateau.png`. Pour ajouter tes illustrations, dépose-les dans le dossier `public/` (sur GitHub : ouvre le dossier, puis **Add file → Upload files**) avec exactement ces noms :
 
 | Quoi | Dossier | Nom du fichier | Taille |
 |---|---|---|---|

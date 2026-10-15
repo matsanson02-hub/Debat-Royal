@@ -31,6 +31,13 @@ En plus : 17 légendes (85 questions), 47 refs (vraies citations) et les questio
 - **Refs :** les dates des slogans sont celles du scrutin, pas du lancement du slogan. Aucune ref vérifiée mot pour mot pour Dominique Strauss-Kahn ni Jérôme Lavrilleux.
 - **Répliques d'entrée absentes** (la légende entre sans citation) : Dati, Bardella, Juppé, Strauss-Kahn, Poutou, Lassalle, Lavrilleux.
 
+## Répliques cultes ajoutées à la demande
+
+Certaines répliques de la maquette ont été ajoutées comme « classiques » même sans source officielle. Elles portent l'étiquette **MÈME** dans le jeu :
+- « Je vais t'attraper, rouquin ! » (Jean-Marie Le Pen) : formulation populaire. Les mots rapportés en 1997 sont « Je vais te faire courir, moi, rouquin… ».
+- « Il faut un cap clair » (Glucksmann), « Ils sont dans les campagnes… » et « C'est la honte ! » (Le Pen), « On va itou » (Macron) : aucune trace trouvée. Ce sont des répliques de jeu, signalées comme non sourcées.
+- Vérifiées et sourcées : « La République, c'est moi ! » (Mélenchon, 2018), « For sure » (Macron, Davos 2026), « …une double ration de frites » (Sarkozy, 2016), « je traverse la rue, je vous en trouve » (Macron, 2018).
+
 ## Candidats pas encore ajoutés
 
 Ajouts suivants prévus par le prompt : Nathalie Arthaud, David Lisnard, Delphine Batho, Florian Philippot, Bernard Cazeneuve. Statut à vérifier : François Asselineau, Laurent Wauquiez. Pour chacun, créer `candidats/<id>.json`, `programmes/<id>.json` et `questions/<id>.json` sur le modèle des autres (voir le README). La liste officielle du Conseil constitutionnel est attendue en mars 2027.

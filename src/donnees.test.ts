@@ -59,7 +59,7 @@ describe('contenu', () => {
 
   it('les refs portent sur un candidat ou une légende connus', () => {
     const connus = new Set([...c.candidats.map((x) => x.id), ...c.catalogue.legendes.keys()]);
-    for (const r of c.catalogue.refs.values()) expect(connus.has(r.perso), r.id).toBe(true);
+    for (const r of c.catalogue.refs.values()) expect(connus.has(r.perso) || (r.equipable === 'tous' && !!r.nom), r.id).toBe(true);
   });
 
   it('cartes chaos : 19 cartes, chacune avec au moins un effet', () => {
